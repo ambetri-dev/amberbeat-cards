@@ -1,25 +1,7 @@
 {
- "updated_at": "2026-10-13T18:00:39+09:00",
- "count": 9,
+ "updated_at": "2026-10-13T21:30:05+09:00",
+ "count": 8,
  "items": [
-  {
-   "name": "🇺🇸 HOSHI 'BOYFRIEND' · 10/12 21:30",
-   "key": "1012_HOSHI_OTHER_BOYFRIEND",
-   "job": "1012_HOSHI_OTHER_BOYFRIEND",
-   "lang": "",
-   "flag": "🌐",
-   "title": "HOSHI 'BOYFRIEND'",
-   "account": "AmberBeat",
-   "music": "HOSHI BOYFRIEND",
-   "audio_start": "0:29 (추정)",
-   "scheduled_at": "2026-10-12T21:30:00+09:00",
-   "caption": "SEVENTEEN's HOSHI released his new digital single 'BOYFRIEND' on Oct 10, with a performance film. He co-wrote the lyrics and put out the song while serving in the army.\n\n——————\nSource: HYBE LABELS, The Korea Times\n\n#HOSHI #SEVENTEEN #BOYFRIEND #KPOP #KpopNews",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/meta.json"
-  },
   {
    "name": "🇺🇸 NCT-WISH 'I SPY' · 10/13 09:30",
    "key": "1013_NCT-WISH_MV_I-SPY",
@@ -166,24 +148,6 @@
   }
  ],
  "by_name": {
-  "🇺🇸 HOSHI 'BOYFRIEND' · 10/12 21:30": {
-   "name": "🇺🇸 HOSHI 'BOYFRIEND' · 10/12 21:30",
-   "key": "1012_HOSHI_OTHER_BOYFRIEND",
-   "job": "1012_HOSHI_OTHER_BOYFRIEND",
-   "lang": "",
-   "flag": "🌐",
-   "title": "HOSHI 'BOYFRIEND'",
-   "account": "AmberBeat",
-   "music": "HOSHI BOYFRIEND",
-   "audio_start": "0:29 (추정)",
-   "scheduled_at": "2026-10-12T21:30:00+09:00",
-   "caption": "SEVENTEEN's HOSHI released his new digital single 'BOYFRIEND' on Oct 10, with a performance film. He co-wrote the lyrics and put out the song while serving in the army.\n\n——————\nSource: HYBE LABELS, The Korea Times\n\n#HOSHI #SEVENTEEN #BOYFRIEND #KPOP #KpopNews",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/meta.json"
-  },
   "🇺🇸 NCT-WISH 'I SPY' · 10/13 09:30": {
    "name": "🇺🇸 NCT-WISH 'I SPY' · 10/13 09:30",
    "key": "1013_NCT-WISH_MV_I-SPY",
