@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T18:00:06+09:00",
+ "updated_at": "2026-10-13T18:00:39+09:00",
  "count": 9,
  "items": [
   {
@@ -39,12 +39,12 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_NCT-WISH_MV_I-SPY-a909a80ec2a9b1df/meta.json"
   },
   {
-   "name": "🇺🇸 A2O LITE 'NEON' · 10/13 18:00",
+   "name": "🇺🇸 A2O-LITE 'NEON' · 10/13 18:00",
    "key": "1013_A2O-LITE_MV_NEON",
    "job": "1013_A2O-LITE_MV_NEON",
    "lang": "",
    "flag": "🇺🇸",
-   "title": "A2O LITE 'NEON'",
+   "title": "A2O-LITE 'NEON'",
    "account": "AmberBeat",
    "music": "A2O LITE NEON",
    "audio_start": "-",
@@ -202,13 +202,13 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_NCT-WISH_MV_I-SPY-a909a80ec2a9b1df/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_NCT-WISH_MV_I-SPY-a909a80ec2a9b1df/meta.json"
   },
-  "🇺🇸 A2O LITE 'NEON' · 10/13 18:00": {
-   "name": "🇺🇸 A2O LITE 'NEON' · 10/13 18:00",
+  "🇺🇸 A2O-LITE 'NEON' · 10/13 18:00": {
+   "name": "🇺🇸 A2O-LITE 'NEON' · 10/13 18:00",
    "key": "1013_A2O-LITE_MV_NEON",
    "job": "1013_A2O-LITE_MV_NEON",
    "lang": "",
    "flag": "🇺🇸",
-   "title": "A2O LITE 'NEON'",
+   "title": "A2O-LITE 'NEON'",
    "account": "AmberBeat",
    "music": "A2O LITE NEON",
    "audio_start": "-",
