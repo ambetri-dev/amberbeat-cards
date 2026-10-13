@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-13T17:10:31+09:00",
- "count": 2,
+ "updated_at": "2026-10-13T17:12:55+09:00",
+ "count": 3,
  "items": [
   {
    "name": "🇺🇸 HOSHI 'BOYFRIEND' · 10/12 21:30",
@@ -19,6 +19,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/meta.json"
+  },
+  {
+   "name": "🇺🇸 NCT-WISH 'I SPY' · 10/13 09:30",
+   "key": "1013_NCT-WISH_MV_I-SPY",
+   "job": "1013_NCT-WISH_MV_I-SPY",
+   "lang": "",
+   "flag": "🇺🇸",
+   "title": "NCT-WISH 'I SPY'",
+   "account": "AmberBeat",
+   "music": "NCT WISH I SPY",
+   "audio_start": "0:34 (추정)",
+   "scheduled_at": "2026-10-13T09:30:00+09:00",
+   "caption": "NCT WISH released the official M/V for 'I SPY' on Oct 12, 2026.\n\n——————\nSource: SMTOWN official YouTube\n\n#NCTWISH #ISPY #KPOP #KpopNews #NewMV",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_NCT-WISH_MV_I-SPY-a909a80ec2a9b1df/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_NCT-WISH_MV_I-SPY-a909a80ec2a9b1df/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_NCT-WISH_MV_I-SPY-a909a80ec2a9b1df/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_NCT-WISH_MV_I-SPY-a909a80ec2a9b1df/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_NCT-WISH_MV_I-SPY-a909a80ec2a9b1df/meta.json"
   },
   {
    "name": "🇺🇸 A2O-LITE 'NEON' · 10/13 21:30",
@@ -57,6 +75,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/meta.json"
+  },
+  "🇺🇸 NCT-WISH 'I SPY' · 10/13 09:30": {
+   "name": "🇺🇸 NCT-WISH 'I SPY' · 10/13 09:30",
+   "key": "1013_NCT-WISH_MV_I-SPY",
+   "job": "1013_NCT-WISH_MV_I-SPY",
+   "lang": "",
+   "flag": "🇺🇸",
+   "title": "NCT-WISH 'I SPY'",
+   "account": "AmberBeat",
+   "music": "NCT WISH I SPY",
+   "audio_start": "0:34 (추정)",
+   "scheduled_at": "2026-10-13T09:30:00+09:00",
+   "caption": "NCT WISH released the official M/V for 'I SPY' on Oct 12, 2026.\n\n——————\nSource: SMTOWN official YouTube\n\n#NCTWISH #ISPY #KPOP #KpopNews #NewMV",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_NCT-WISH_MV_I-SPY-a909a80ec2a9b1df/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_NCT-WISH_MV_I-SPY-a909a80ec2a9b1df/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_NCT-WISH_MV_I-SPY-a909a80ec2a9b1df/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_NCT-WISH_MV_I-SPY-a909a80ec2a9b1df/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_NCT-WISH_MV_I-SPY-a909a80ec2a9b1df/meta.json"
   },
   "🇺🇸 A2O-LITE 'NEON' · 10/13 21:30": {
    "name": "🇺🇸 A2O-LITE 'NEON' · 10/13 21:30",
