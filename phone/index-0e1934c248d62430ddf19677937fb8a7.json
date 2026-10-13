@@ -1,7 +1,25 @@
 {
- "updated_at": "2026-10-13T17:59:13+09:00",
- "count": 9,
+ "updated_at": "2026-10-13T17:59:33+09:00",
+ "count": 8,
  "items": [
+  {
+   "name": "🇺🇸 HOSHI 'BOYFRIEND' · 10/12 21:30",
+   "key": "1012_HOSHI_OTHER_BOYFRIEND",
+   "job": "1012_HOSHI_OTHER_BOYFRIEND",
+   "lang": "",
+   "flag": "🌐",
+   "title": "HOSHI 'BOYFRIEND'",
+   "account": "AmberBeat",
+   "music": "HOSHI BOYFRIEND",
+   "audio_start": "0:29 (추정)",
+   "scheduled_at": "2026-10-12T21:30:00+09:00",
+   "caption": "SEVENTEEN's HOSHI released his new digital single 'BOYFRIEND' on Oct 10, with a performance film. He co-wrote the lyrics and put out the song while serving in the army.\n\n——————\nSource: HYBE LABELS, The Korea Times\n\n#HOSHI #SEVENTEEN #BOYFRIEND #KPOP #KpopNews",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/meta.json"
+  },
   {
    "name": "🇺🇸 A2O-LITE 'NEON' · 10/13 18:00",
    "key": "1013_A2O-LITE_MV_NEON",
@@ -39,24 +57,6 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_NCT-WISH_MV_I-SPY-a909a80ec2a9b1df/meta.json"
   },
   {
-   "name": "🇺🇸 LISA 'SaWaDiKa' · 10/13 22:30",
-   "key": "1013_LISA_MV_SaWaDiKa",
-   "job": "1013_LISA_MV_SaWaDiKa",
-   "lang": "",
-   "flag": "🇺🇸",
-   "title": "LISA 'SaWaDiKa'",
-   "account": "AmberBeat",
-   "music": "LISA SaWaDiKa",
-   "audio_start": "-",
-   "scheduled_at": "2026-10-13T22:30:00+09:00",
-   "caption": "🇹🇭 LISA ทักทายแบบไทยๆ! MV ‘SaWaDiKa’ ถ่ายทำที่กรุงเทพฯ 🎬\n\nLISA ปล่อยเพลง ‘SaWaDiKa’ พร้อม MV เมื่อวันที่ 4 ก.ย. 2026 เวลา 09:00 น. (KST)\nชื่อเพลงมาจากคำทักทาย “สวัสดีค่ะ” และเป็นซิงเกิลก่อนปล่อย EP ‘PRESS PLAY’ วันที่ 23 ต.ค. นี้\n\nกดเซฟไว้ดูเลย! 📌\nใครดูแล้วชอบซีนไหนมาแชร์กัน 👇\n🔗 ดู MV เต็มได้ที่ช่อง YouTube ของ LISA\n\n——————\nSource: LISA official YouTube; Bandwagon; Soompi\n\n#LISA #SaWaDiKa #Kpop #อัปเดตเกาหลี #ติ่งเกาหลี",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_LISA_MV_SaWaDiKa-72b45c90fe26b4c5/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_LISA_MV_SaWaDiKa-72b45c90fe26b4c5/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_LISA_MV_SaWaDiKa-72b45c90fe26b4c5/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_LISA_MV_SaWaDiKa-72b45c90fe26b4c5/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_LISA_MV_SaWaDiKa-72b45c90fe26b4c5/meta.json"
-  },
-  {
    "name": "🇺🇸 A2O-SOUL 'SUPERSTAR' · 10/14 09:30",
    "key": "1013_A2O-SOUL_MV_SUPERSTAR",
    "job": "1013_A2O-SOUL_MV_SUPERSTAR",
@@ -73,24 +73,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-SOUL_MV_SUPERSTAR-df8cf41f590f0eb7/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-SOUL_MV_SUPERSTAR-df8cf41f590f0eb7/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-SOUL_MV_SUPERSTAR-df8cf41f590f0eb7/meta.json"
-  },
-  {
-   "name": "🇺🇸 HOSHI 'BOYFRIEND' · 10/14 21:00",
-   "key": "1012_HOSHI_OTHER_BOYFRIEND",
-   "job": "1012_HOSHI_OTHER_BOYFRIEND",
-   "lang": "",
-   "flag": "🌐",
-   "title": "HOSHI 'BOYFRIEND'",
-   "account": "AmberBeat",
-   "music": "HOSHI BOYFRIEND",
-   "audio_start": "0:44 (추정)",
-   "scheduled_at": "2026-10-14T21:00:00+09:00",
-   "caption": "【パフォーマンスフィルム】SEVENTEEN HOSHI『BOYFRIEND』🎬\n\nSEVENTEENのHOSHIが2026年10月10日18時（韓国時間）、新デジタルシングル『BOYFRIEND』をリリースし、パフォーマンスフィルムを公開しました。\nHOSHIは作詞にも参加。兵役中に届けられた新曲です。\n\nどのパートが好きですか？👇\nフル映像はHYBE LABELS公式YouTubeで🎬\n\n——————\nSource: HYBE LABELS official YouTube; The Korea Times\n\n#HOSHI #ホシ #SEVENTEEN #BOYFRIEND #KPOP",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/meta.json"
   },
   {
    "name": "🇯🇵 NCT-WISH 'I SPY' · 10/13 21:30",
@@ -166,6 +148,24 @@
   }
  ],
  "by_name": {
+  "🇺🇸 HOSHI 'BOYFRIEND' · 10/12 21:30": {
+   "name": "🇺🇸 HOSHI 'BOYFRIEND' · 10/12 21:30",
+   "key": "1012_HOSHI_OTHER_BOYFRIEND",
+   "job": "1012_HOSHI_OTHER_BOYFRIEND",
+   "lang": "",
+   "flag": "🌐",
+   "title": "HOSHI 'BOYFRIEND'",
+   "account": "AmberBeat",
+   "music": "HOSHI BOYFRIEND",
+   "audio_start": "0:29 (추정)",
+   "scheduled_at": "2026-10-12T21:30:00+09:00",
+   "caption": "SEVENTEEN's HOSHI released his new digital single 'BOYFRIEND' on Oct 10, with a performance film. He co-wrote the lyrics and put out the song while serving in the army.\n\n——————\nSource: HYBE LABELS, The Korea Times\n\n#HOSHI #SEVENTEEN #BOYFRIEND #KPOP #KpopNews",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/meta.json"
+  },
   "🇺🇸 A2O-LITE 'NEON' · 10/13 18:00": {
    "name": "🇺🇸 A2O-LITE 'NEON' · 10/13 18:00",
    "key": "1013_A2O-LITE_MV_NEON",
@@ -202,24 +202,6 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_NCT-WISH_MV_I-SPY-a909a80ec2a9b1df/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_NCT-WISH_MV_I-SPY-a909a80ec2a9b1df/meta.json"
   },
-  "🇺🇸 LISA 'SaWaDiKa' · 10/13 22:30": {
-   "name": "🇺🇸 LISA 'SaWaDiKa' · 10/13 22:30",
-   "key": "1013_LISA_MV_SaWaDiKa",
-   "job": "1013_LISA_MV_SaWaDiKa",
-   "lang": "",
-   "flag": "🇺🇸",
-   "title": "LISA 'SaWaDiKa'",
-   "account": "AmberBeat",
-   "music": "LISA SaWaDiKa",
-   "audio_start": "-",
-   "scheduled_at": "2026-10-13T22:30:00+09:00",
-   "caption": "🇹🇭 LISA ทักทายแบบไทยๆ! MV ‘SaWaDiKa’ ถ่ายทำที่กรุงเทพฯ 🎬\n\nLISA ปล่อยเพลง ‘SaWaDiKa’ พร้อม MV เมื่อวันที่ 4 ก.ย. 2026 เวลา 09:00 น. (KST)\nชื่อเพลงมาจากคำทักทาย “สวัสดีค่ะ” และเป็นซิงเกิลก่อนปล่อย EP ‘PRESS PLAY’ วันที่ 23 ต.ค. นี้\n\nกดเซฟไว้ดูเลย! 📌\nใครดูแล้วชอบซีนไหนมาแชร์กัน 👇\n🔗 ดู MV เต็มได้ที่ช่อง YouTube ของ LISA\n\n——————\nSource: LISA official YouTube; Bandwagon; Soompi\n\n#LISA #SaWaDiKa #Kpop #อัปเดตเกาหลี #ติ่งเกาหลี",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_LISA_MV_SaWaDiKa-72b45c90fe26b4c5/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_LISA_MV_SaWaDiKa-72b45c90fe26b4c5/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_LISA_MV_SaWaDiKa-72b45c90fe26b4c5/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_LISA_MV_SaWaDiKa-72b45c90fe26b4c5/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_LISA_MV_SaWaDiKa-72b45c90fe26b4c5/meta.json"
-  },
   "🇺🇸 A2O-SOUL 'SUPERSTAR' · 10/14 09:30": {
    "name": "🇺🇸 A2O-SOUL 'SUPERSTAR' · 10/14 09:30",
    "key": "1013_A2O-SOUL_MV_SUPERSTAR",
@@ -237,24 +219,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-SOUL_MV_SUPERSTAR-df8cf41f590f0eb7/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-SOUL_MV_SUPERSTAR-df8cf41f590f0eb7/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-SOUL_MV_SUPERSTAR-df8cf41f590f0eb7/meta.json"
-  },
-  "🇺🇸 HOSHI 'BOYFRIEND' · 10/14 21:00": {
-   "name": "🇺🇸 HOSHI 'BOYFRIEND' · 10/14 21:00",
-   "key": "1012_HOSHI_OTHER_BOYFRIEND",
-   "job": "1012_HOSHI_OTHER_BOYFRIEND",
-   "lang": "",
-   "flag": "🌐",
-   "title": "HOSHI 'BOYFRIEND'",
-   "account": "AmberBeat",
-   "music": "HOSHI BOYFRIEND",
-   "audio_start": "0:44 (추정)",
-   "scheduled_at": "2026-10-14T21:00:00+09:00",
-   "caption": "【パフォーマンスフィルム】SEVENTEEN HOSHI『BOYFRIEND』🎬\n\nSEVENTEENのHOSHIが2026年10月10日18時（韓国時間）、新デジタルシングル『BOYFRIEND』をリリースし、パフォーマンスフィルムを公開しました。\nHOSHIは作詞にも参加。兵役中に届けられた新曲です。\n\nどのパートが好きですか？👇\nフル映像はHYBE LABELS公式YouTubeで🎬\n\n——————\nSource: HYBE LABELS official YouTube; The Korea Times\n\n#HOSHI #ホシ #SEVENTEEN #BOYFRIEND #KPOP",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/meta.json"
   },
   "🇯🇵 NCT-WISH 'I SPY' · 10/13 21:30": {
    "name": "🇯🇵 NCT-WISH 'I SPY' · 10/13 21:30",
