@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-13T17:12:55+09:00",
- "count": 3,
+ "updated_at": "2026-10-13T17:13:13+09:00",
+ "count": 4,
  "items": [
   {
    "name": "🇺🇸 HOSHI 'BOYFRIEND' · 10/12 21:30",
@@ -55,6 +55,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-LITE_MV_NEON-c3be6b239df2110a/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-LITE_MV_NEON-c3be6b239df2110a/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-LITE_MV_NEON-c3be6b239df2110a/meta.json"
+  },
+  {
+   "name": "🇺🇸 A2O-SOUL 'SUPERSTAR' · 10/14 09:30",
+   "key": "1013_A2O-SOUL_MV_SUPERSTAR",
+   "job": "1013_A2O-SOUL_MV_SUPERSTAR",
+   "lang": "",
+   "flag": "🇺🇸",
+   "title": "A2O-SOUL 'SUPERSTAR'",
+   "account": "AmberBeat",
+   "music": "A2O SOUL SUPERSTAR",
+   "audio_start": "-",
+   "scheduled_at": "2026-10-14T09:30:00+09:00",
+   "caption": "A2O SOUL released the official M/V for 'SUPERSTAR' on Oct 12, 2026. The boy group is one of the two debut teams from A2O Entertainment, the label founded by Lee Soo-man. Their debut digital single drops on Oct 13 at 6PM KST.\n\n——————\nSource: A2O WORLD official YouTube; Sports Kyunghyang\n\n#A2OSOUL #SUPERSTAR #KPOP #KpopNews #NewMV",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-SOUL_MV_SUPERSTAR-df8cf41f590f0eb7/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-SOUL_MV_SUPERSTAR-df8cf41f590f0eb7/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-SOUL_MV_SUPERSTAR-df8cf41f590f0eb7/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-SOUL_MV_SUPERSTAR-df8cf41f590f0eb7/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-SOUL_MV_SUPERSTAR-df8cf41f590f0eb7/meta.json"
   }
  ],
  "by_name": {
@@ -111,6 +129,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-LITE_MV_NEON-c3be6b239df2110a/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-LITE_MV_NEON-c3be6b239df2110a/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-LITE_MV_NEON-c3be6b239df2110a/meta.json"
+  },
+  "🇺🇸 A2O-SOUL 'SUPERSTAR' · 10/14 09:30": {
+   "name": "🇺🇸 A2O-SOUL 'SUPERSTAR' · 10/14 09:30",
+   "key": "1013_A2O-SOUL_MV_SUPERSTAR",
+   "job": "1013_A2O-SOUL_MV_SUPERSTAR",
+   "lang": "",
+   "flag": "🇺🇸",
+   "title": "A2O-SOUL 'SUPERSTAR'",
+   "account": "AmberBeat",
+   "music": "A2O SOUL SUPERSTAR",
+   "audio_start": "-",
+   "scheduled_at": "2026-10-14T09:30:00+09:00",
+   "caption": "A2O SOUL released the official M/V for 'SUPERSTAR' on Oct 12, 2026. The boy group is one of the two debut teams from A2O Entertainment, the label founded by Lee Soo-man. Their debut digital single drops on Oct 13 at 6PM KST.\n\n——————\nSource: A2O WORLD official YouTube; Sports Kyunghyang\n\n#A2OSOUL #SUPERSTAR #KPOP #KpopNews #NewMV",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-SOUL_MV_SUPERSTAR-df8cf41f590f0eb7/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-SOUL_MV_SUPERSTAR-df8cf41f590f0eb7/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-SOUL_MV_SUPERSTAR-df8cf41f590f0eb7/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-SOUL_MV_SUPERSTAR-df8cf41f590f0eb7/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-SOUL_MV_SUPERSTAR-df8cf41f590f0eb7/meta.json"
   }
  }
 }
