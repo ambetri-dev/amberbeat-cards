@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-13T17:13:13+09:00",
+ "updated_at": "2026-10-13T17:44:23+09:00",
  "count": 4,
  "items": [
   {
@@ -39,7 +39,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_NCT-WISH_MV_I-SPY-a909a80ec2a9b1df/meta.json"
   },
   {
-   "name": "🇺🇸 A2O-LITE 'NEON' · 10/13 21:30",
+   "name": "🇺🇸 A2O-LITE 'NEON' · 10/13 18:00",
    "key": "1013_A2O-LITE_MV_NEON",
    "job": "1013_A2O-LITE_MV_NEON",
    "lang": "",
@@ -48,7 +48,7 @@
    "account": "AmberBeat",
    "music": "A2O LITE NEON",
    "audio_start": "-",
-   "scheduled_at": "2026-10-13T21:30:00+09:00",
+   "scheduled_at": "2026-10-13T18:00:00+09:00",
    "caption": "A2O LITE released the official M/V for 'NEON' on Oct 12, 2026. The girl group is one of the two debut teams from A2O Entertainment, the label founded by Lee Soo-man. Their debut digital single drops on Oct 13 at 6PM KST.\n\n——————\nSource: A2O WORLD official YouTube; Sports Kyunghyang\n\n#A2OLITE #NEON #KPOP #KpopNews #NewMV",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-LITE_MV_NEON-c3be6b239df2110a/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-LITE_MV_NEON-c3be6b239df2110a/cover.jpg",
@@ -112,8 +112,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_NCT-WISH_MV_I-SPY-a909a80ec2a9b1df/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_NCT-WISH_MV_I-SPY-a909a80ec2a9b1df/meta.json"
   },
-  "🇺🇸 A2O-LITE 'NEON' · 10/13 21:30": {
-   "name": "🇺🇸 A2O-LITE 'NEON' · 10/13 21:30",
+  "🇺🇸 A2O-LITE 'NEON' · 10/13 18:00": {
+   "name": "🇺🇸 A2O-LITE 'NEON' · 10/13 18:00",
    "key": "1013_A2O-LITE_MV_NEON",
    "job": "1013_A2O-LITE_MV_NEON",
    "lang": "",
@@ -122,7 +122,7 @@
    "account": "AmberBeat",
    "music": "A2O LITE NEON",
    "audio_start": "-",
-   "scheduled_at": "2026-10-13T21:30:00+09:00",
+   "scheduled_at": "2026-10-13T18:00:00+09:00",
    "caption": "A2O LITE released the official M/V for 'NEON' on Oct 12, 2026. The girl group is one of the two debut teams from A2O Entertainment, the label founded by Lee Soo-man. Their debut digital single drops on Oct 13 at 6PM KST.\n\n——————\nSource: A2O WORLD official YouTube; Sports Kyunghyang\n\n#A2OLITE #NEON #KPOP #KpopNews #NewMV",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-LITE_MV_NEON-c3be6b239df2110a/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-LITE_MV_NEON-c3be6b239df2110a/cover.jpg",
