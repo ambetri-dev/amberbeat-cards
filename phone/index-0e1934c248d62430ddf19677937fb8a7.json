@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-13T17:54:34+09:00",
- "count": 6,
+ "updated_at": "2026-10-13T17:54:51+09:00",
+ "count": 7,
  "items": [
   {
    "name": "🇺🇸 HOSHI 'BOYFRIEND' · 10/12 21:30",
@@ -91,6 +91,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1013_NCT-WISH_MV_I-SPY-df66ab28a69462ee/caption.txt",
    "comment_url": "",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1013_NCT-WISH_MV_I-SPY-df66ab28a69462ee/meta.json"
+  },
+  {
+   "name": "🇯🇵 HOSHI 'BOYFRIEND' · 10/14 21:00",
+   "key": "1012_HOSHI_OTHER_BOYFRIEND@ja",
+   "job": "1012_HOSHI_OTHER_BOYFRIEND",
+   "lang": "ja",
+   "flag": "🇯🇵",
+   "title": "HOSHI 'BOYFRIEND'",
+   "account": "amberbeat.japan",
+   "music": "HOSHI BOYFRIEND",
+   "audio_start": "0:44 (추정)",
+   "scheduled_at": "2026-10-14T21:00:00+09:00",
+   "caption": "【パフォーマンスフィルム】SEVENTEEN HOSHI『BOYFRIEND』🎬\n\nSEVENTEENのHOSHIが2026年10月10日18時（韓国時間）、新デジタルシングル『BOYFRIEND』をリリースし、パフォーマンスフィルムを公開しました。\nHOSHIは作詞にも参加。兵役中に届けられた新曲です。\n\nどのパートが好きですか？👇\nフル映像はHYBE LABELS公式YouTubeで🎬\n\n——————\nSource: HYBE LABELS official YouTube; The Korea Times\n\n#HOSHI #ホシ #SEVENTEEN #BOYFRIEND #KPOP",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1012_HOSHI_OTHER_BOYFRIEND-7396b4b75b7a21ac/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1012_HOSHI_OTHER_BOYFRIEND-7396b4b75b7a21ac/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1012_HOSHI_OTHER_BOYFRIEND-7396b4b75b7a21ac/caption.txt",
+   "comment_url": "",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1012_HOSHI_OTHER_BOYFRIEND-7396b4b75b7a21ac/meta.json"
   },
   {
    "name": "🇹🇭 LISA 'SaWaDiKa' · 10/13 22:30",
@@ -201,6 +219,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1013_NCT-WISH_MV_I-SPY-df66ab28a69462ee/caption.txt",
    "comment_url": "",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1013_NCT-WISH_MV_I-SPY-df66ab28a69462ee/meta.json"
+  },
+  "🇯🇵 HOSHI 'BOYFRIEND' · 10/14 21:00": {
+   "name": "🇯🇵 HOSHI 'BOYFRIEND' · 10/14 21:00",
+   "key": "1012_HOSHI_OTHER_BOYFRIEND@ja",
+   "job": "1012_HOSHI_OTHER_BOYFRIEND",
+   "lang": "ja",
+   "flag": "🇯🇵",
+   "title": "HOSHI 'BOYFRIEND'",
+   "account": "amberbeat.japan",
+   "music": "HOSHI BOYFRIEND",
+   "audio_start": "0:44 (추정)",
+   "scheduled_at": "2026-10-14T21:00:00+09:00",
+   "caption": "【パフォーマンスフィルム】SEVENTEEN HOSHI『BOYFRIEND』🎬\n\nSEVENTEENのHOSHIが2026年10月10日18時（韓国時間）、新デジタルシングル『BOYFRIEND』をリリースし、パフォーマンスフィルムを公開しました。\nHOSHIは作詞にも参加。兵役中に届けられた新曲です。\n\nどのパートが好きですか？👇\nフル映像はHYBE LABELS公式YouTubeで🎬\n\n——————\nSource: HYBE LABELS official YouTube; The Korea Times\n\n#HOSHI #ホシ #SEVENTEEN #BOYFRIEND #KPOP",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1012_HOSHI_OTHER_BOYFRIEND-7396b4b75b7a21ac/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1012_HOSHI_OTHER_BOYFRIEND-7396b4b75b7a21ac/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1012_HOSHI_OTHER_BOYFRIEND-7396b4b75b7a21ac/caption.txt",
+   "comment_url": "",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1012_HOSHI_OTHER_BOYFRIEND-7396b4b75b7a21ac/meta.json"
   },
   "🇹🇭 LISA 'SaWaDiKa' · 10/13 22:30": {
    "name": "🇹🇭 LISA 'SaWaDiKa' · 10/13 22:30",
