@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-10-13T17:06:04+09:00",
- "count": 1,
+ "updated_at": "2026-10-13T17:10:31+09:00",
+ "count": 2,
  "items": [
   {
-   "name": "🌐 HOSHI 'BOYFRIEND' · 10/12 21:30",
+   "name": "🇺🇸 HOSHI 'BOYFRIEND' · 10/12 21:30",
    "key": "1012_HOSHI_OTHER_BOYFRIEND",
    "job": "1012_HOSHI_OTHER_BOYFRIEND",
    "lang": "",
@@ -19,11 +19,29 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/meta.json"
+  },
+  {
+   "name": "🇺🇸 A2O-LITE 'NEON' · 10/13 21:30",
+   "key": "1013_A2O-LITE_MV_NEON",
+   "job": "1013_A2O-LITE_MV_NEON",
+   "lang": "",
+   "flag": "🇺🇸",
+   "title": "A2O-LITE 'NEON'",
+   "account": "AmberBeat",
+   "music": "A2O LITE NEON",
+   "audio_start": "-",
+   "scheduled_at": "2026-10-13T21:30:00+09:00",
+   "caption": "A2O LITE released the official M/V for 'NEON' on Oct 12, 2026. The girl group is one of the two debut teams from A2O Entertainment, the label founded by Lee Soo-man. Their debut digital single drops on Oct 13 at 6PM KST.\n\n——————\nSource: A2O WORLD official YouTube; Sports Kyunghyang\n\n#A2OLITE #NEON #KPOP #KpopNews #NewMV",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-LITE_MV_NEON-c3be6b239df2110a/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-LITE_MV_NEON-c3be6b239df2110a/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-LITE_MV_NEON-c3be6b239df2110a/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-LITE_MV_NEON-c3be6b239df2110a/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-LITE_MV_NEON-c3be6b239df2110a/meta.json"
   }
  ],
  "by_name": {
-  "🌐 HOSHI 'BOYFRIEND' · 10/12 21:30": {
-   "name": "🌐 HOSHI 'BOYFRIEND' · 10/12 21:30",
+  "🇺🇸 HOSHI 'BOYFRIEND' · 10/12 21:30": {
+   "name": "🇺🇸 HOSHI 'BOYFRIEND' · 10/12 21:30",
    "key": "1012_HOSHI_OTHER_BOYFRIEND",
    "job": "1012_HOSHI_OTHER_BOYFRIEND",
    "lang": "",
@@ -39,6 +57,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1012_HOSHI_OTHER_BOYFRIEND-0ff6c83153a91a5a/meta.json"
+  },
+  "🇺🇸 A2O-LITE 'NEON' · 10/13 21:30": {
+   "name": "🇺🇸 A2O-LITE 'NEON' · 10/13 21:30",
+   "key": "1013_A2O-LITE_MV_NEON",
+   "job": "1013_A2O-LITE_MV_NEON",
+   "lang": "",
+   "flag": "🇺🇸",
+   "title": "A2O-LITE 'NEON'",
+   "account": "AmberBeat",
+   "music": "A2O LITE NEON",
+   "audio_start": "-",
+   "scheduled_at": "2026-10-13T21:30:00+09:00",
+   "caption": "A2O LITE released the official M/V for 'NEON' on Oct 12, 2026. The girl group is one of the two debut teams from A2O Entertainment, the label founded by Lee Soo-man. Their debut digital single drops on Oct 13 at 6PM KST.\n\n——————\nSource: A2O WORLD official YouTube; Sports Kyunghyang\n\n#A2OLITE #NEON #KPOP #KpopNews #NewMV",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-LITE_MV_NEON-c3be6b239df2110a/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-LITE_MV_NEON-c3be6b239df2110a/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-LITE_MV_NEON-c3be6b239df2110a/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-LITE_MV_NEON-c3be6b239df2110a/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-LITE_MV_NEON-c3be6b239df2110a/meta.json"
   }
  }
 }
