@@ -1,0 +1,16 @@
+{
+ "name": "🇯🇵 NCT-WISH 'I SPY' · 10/13 21:30",
+ "job": "1013_NCT-WISH_MV_I-SPY",
+ "lang": "ja",
+ "flag": "🇯🇵",
+ "title": "NCT-WISH 'I SPY'",
+ "account": "amberbeat.japan",
+ "music": "NCT WISH I SPY",
+ "audio_start": "0:41 (추정)",
+ "scheduled_at": "2026-10-13T21:30:00+09:00",
+ "urls": {
+  "reel.mp4": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1013_NCT-WISH_MV_I-SPY-a8d205bca4c4557a/reel.mp4",
+  "cover.jpg": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1013_NCT-WISH_MV_I-SPY-a8d205bca4c4557a/cover.jpg",
+  "caption.txt": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1013_NCT-WISH_MV_I-SPY-a8d205bca4c4557a/caption.txt"
+ }
+}
