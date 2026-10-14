@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-14T16:48:02+09:00",
+ "updated_at": "2026-10-14T16:48:20+09:00",
  "count": 6,
  "items": [
   {
@@ -19,24 +19,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-SOUL_MV_SUPERSTAR-8287d880e30dfa83/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-SOUL_MV_SUPERSTAR-8287d880e30dfa83/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-SOUL_MV_SUPERSTAR-8287d880e30dfa83/meta.json"
-  },
-  {
-   "name": "🇺🇸 BABYMONSTER 'I LIKE IT' · 10/15 21:30",
-   "key": "1014_BABYMONSTER_MV_I-LIKE-IT",
-   "job": "1014_BABYMONSTER_MV_I-LIKE-IT",
-   "lang": "",
-   "flag": "🇺🇸",
-   "title": "BABYMONSTER 'I LIKE IT'",
-   "account": "amberbeat.official",
-   "music": "BABYMONSTER I LIKE IT",
-   "audio_start": "0:52 · '더 이상 망설이지 마' 줄 시작을 맨 앞에 맞추세요",
-   "scheduled_at": "2026-10-15T21:30:00+09:00",
-   "caption": "BABYMONSTER released the official M/V for 'I LIKE IT' on Jul 6, 2026.\n\n——————\nSource: BABYMONSTER official YouTube\n\n#BABYMONSTER #ILIKEIT #KPOP #KpopNews #NewMV",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/home/phone/base/1014_BABYMONSTER_MV_I-LIKE-IT-c3df14674ffa4cff/reel.mp4",
-   "cover_url": "",
-   "caption_url": "",
-   "comment_url": "",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/home/phone/base/1014_BABYMONSTER_MV_I-LIKE-IT-c3df14674ffa4cff/meta.json"
   },
   {
    "name": "🇯🇵 NCT-WISH 'I SPY' · 10/13 21:30",
@@ -109,6 +91,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1013_BABYMONSTER_MV_HOT-SAUCE-d7a6dbdaf5cdf136/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1013_BABYMONSTER_MV_HOT-SAUCE-d7a6dbdaf5cdf136/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1013_BABYMONSTER_MV_HOT-SAUCE-d7a6dbdaf5cdf136/meta.json"
+  },
+  {
+   "name": "🇹🇭 NCT-WISH 'I SPY' · 10/15 00:00",
+   "key": "1013_NCT-WISH_MV_I-SPY@th",
+   "job": "1013_NCT-WISH_MV_I-SPY",
+   "lang": "th",
+   "flag": "🇹🇭",
+   "title": "NCT-WISH 'I SPY'",
+   "account": "amberbeat.thailand",
+   "music": "NCT WISH I SPY",
+   "audio_start": "0:44 (추정)",
+   "scheduled_at": "2026-10-15T00:00:00+09:00",
+   "caption": "🎬 NCT WISH ‘I SPY’ MV\n\nNCT WISH ปล่อย MV ‘I SPY’ เมื่อวันที่ 12 ต.ค. 2026 เวลา 18:00 น. (KST)\n\nเพลงไหนที่ชอบที่สุด? 👇\nดู MV เต็มได้ที่ช่อง YouTube ของ SMTOWN\n\n——————\nSource: SMTOWN official YouTube\n\n#NCTWISH #ISPY #Kpop #อัปเดตเกาหลี #ติ่งเกาหลี",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1013_NCT-WISH_MV_I-SPY-92795f3f6c6ff76e/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1013_NCT-WISH_MV_I-SPY-92795f3f6c6ff76e/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1013_NCT-WISH_MV_I-SPY-92795f3f6c6ff76e/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1013_NCT-WISH_MV_I-SPY-92795f3f6c6ff76e/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1013_NCT-WISH_MV_I-SPY-92795f3f6c6ff76e/meta.json"
   }
  ],
  "by_name": {
@@ -129,24 +129,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-SOUL_MV_SUPERSTAR-8287d880e30dfa83/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-SOUL_MV_SUPERSTAR-8287d880e30dfa83/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1013_A2O-SOUL_MV_SUPERSTAR-8287d880e30dfa83/meta.json"
-  },
-  "🇺🇸 BABYMONSTER 'I LIKE IT' · 10/15 21:30": {
-   "name": "🇺🇸 BABYMONSTER 'I LIKE IT' · 10/15 21:30",
-   "key": "1014_BABYMONSTER_MV_I-LIKE-IT",
-   "job": "1014_BABYMONSTER_MV_I-LIKE-IT",
-   "lang": "",
-   "flag": "🇺🇸",
-   "title": "BABYMONSTER 'I LIKE IT'",
-   "account": "amberbeat.official",
-   "music": "BABYMONSTER I LIKE IT",
-   "audio_start": "0:52 · '더 이상 망설이지 마' 줄 시작을 맨 앞에 맞추세요",
-   "scheduled_at": "2026-10-15T21:30:00+09:00",
-   "caption": "BABYMONSTER released the official M/V for 'I LIKE IT' on Jul 6, 2026.\n\n——————\nSource: BABYMONSTER official YouTube\n\n#BABYMONSTER #ILIKEIT #KPOP #KpopNews #NewMV",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/home/phone/base/1014_BABYMONSTER_MV_I-LIKE-IT-c3df14674ffa4cff/reel.mp4",
-   "cover_url": "",
-   "caption_url": "",
-   "comment_url": "",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/home/phone/base/1014_BABYMONSTER_MV_I-LIKE-IT-c3df14674ffa4cff/meta.json"
   },
   "🇯🇵 NCT-WISH 'I SPY' · 10/13 21:30": {
    "name": "🇯🇵 NCT-WISH 'I SPY' · 10/13 21:30",
@@ -219,6 +201,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1013_BABYMONSTER_MV_HOT-SAUCE-d7a6dbdaf5cdf136/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1013_BABYMONSTER_MV_HOT-SAUCE-d7a6dbdaf5cdf136/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1013_BABYMONSTER_MV_HOT-SAUCE-d7a6dbdaf5cdf136/meta.json"
+  },
+  "🇹🇭 NCT-WISH 'I SPY' · 10/15 00:00": {
+   "name": "🇹🇭 NCT-WISH 'I SPY' · 10/15 00:00",
+   "key": "1013_NCT-WISH_MV_I-SPY@th",
+   "job": "1013_NCT-WISH_MV_I-SPY",
+   "lang": "th",
+   "flag": "🇹🇭",
+   "title": "NCT-WISH 'I SPY'",
+   "account": "amberbeat.thailand",
+   "music": "NCT WISH I SPY",
+   "audio_start": "0:44 (추정)",
+   "scheduled_at": "2026-10-15T00:00:00+09:00",
+   "caption": "🎬 NCT WISH ‘I SPY’ MV\n\nNCT WISH ปล่อย MV ‘I SPY’ เมื่อวันที่ 12 ต.ค. 2026 เวลา 18:00 น. (KST)\n\nเพลงไหนที่ชอบที่สุด? 👇\nดู MV เต็มได้ที่ช่อง YouTube ของ SMTOWN\n\n——————\nSource: SMTOWN official YouTube\n\n#NCTWISH #ISPY #Kpop #อัปเดตเกาหลี #ติ่งเกาหลี",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1013_NCT-WISH_MV_I-SPY-92795f3f6c6ff76e/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1013_NCT-WISH_MV_I-SPY-92795f3f6c6ff76e/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1013_NCT-WISH_MV_I-SPY-92795f3f6c6ff76e/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1013_NCT-WISH_MV_I-SPY-92795f3f6c6ff76e/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1013_NCT-WISH_MV_I-SPY-92795f3f6c6ff76e/meta.json"
   }
  }
 }
