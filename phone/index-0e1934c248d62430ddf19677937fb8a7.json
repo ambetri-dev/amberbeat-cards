@@ -1,25 +1,7 @@
 {
- "updated_at": "2026-10-15T17:53:05+09:00",
- "count": 4,
+ "updated_at": "2026-10-15T21:00:01+09:00",
+ "count": 3,
  "items": [
-  {
-   "name": "🇯🇵 HOSHI 'BOYFRIEND' · 10/14 21:00",
-   "key": "1012_HOSHI_OTHER_BOYFRIEND@ja",
-   "job": "1012_HOSHI_OTHER_BOYFRIEND",
-   "lang": "ja",
-   "flag": "🇯🇵",
-   "title": "HOSHI 'BOYFRIEND'",
-   "account": "amberbeat.japan",
-   "music": "HOSHI BOYFRIEND",
-   "audio_start": "0:44 (추정)",
-   "scheduled_at": "2026-10-14T21:00:00+09:00",
-   "caption": "【パフォーマンスフィルム】SEVENTEEN HOSHI『BOYFRIEND』🎬\n\nSEVENTEENのHOSHIが2026年10月10日18時（韓国時間）、新デジタルシングル『BOYFRIEND』をリリースし、パフォーマンスフィルムを公開しました。\nHOSHIは作詞にも参加。兵役中に届けられた新曲です。\n\nどのパートが好きですか？👇\nフル映像はHYBE LABELS公式YouTubeで🎬\n\n——————\nSource: HYBE LABELS official YouTube; The Korea Times\n\n#HOSHI #ホシ #SEVENTEEN #BOYFRIEND #KPOP",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1012_HOSHI_OTHER_BOYFRIEND-95fda194517fe291/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1012_HOSHI_OTHER_BOYFRIEND-95fda194517fe291/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1012_HOSHI_OTHER_BOYFRIEND-95fda194517fe291/caption.txt",
-   "comment_url": "",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1012_HOSHI_OTHER_BOYFRIEND-95fda194517fe291/meta.json"
-  },
   {
    "name": "🇯🇵 MEOVV 'GO HARD' · 10/16 12:00",
    "key": "1015_MEOVV_MV_GO-HARD@ja",
@@ -76,24 +58,6 @@
   }
  ],
  "by_name": {
-  "🇯🇵 HOSHI 'BOYFRIEND' · 10/14 21:00": {
-   "name": "🇯🇵 HOSHI 'BOYFRIEND' · 10/14 21:00",
-   "key": "1012_HOSHI_OTHER_BOYFRIEND@ja",
-   "job": "1012_HOSHI_OTHER_BOYFRIEND",
-   "lang": "ja",
-   "flag": "🇯🇵",
-   "title": "HOSHI 'BOYFRIEND'",
-   "account": "amberbeat.japan",
-   "music": "HOSHI BOYFRIEND",
-   "audio_start": "0:44 (추정)",
-   "scheduled_at": "2026-10-14T21:00:00+09:00",
-   "caption": "【パフォーマンスフィルム】SEVENTEEN HOSHI『BOYFRIEND』🎬\n\nSEVENTEENのHOSHIが2026年10月10日18時（韓国時間）、新デジタルシングル『BOYFRIEND』をリリースし、パフォーマンスフィルムを公開しました。\nHOSHIは作詞にも参加。兵役中に届けられた新曲です。\n\nどのパートが好きですか？👇\nフル映像はHYBE LABELS公式YouTubeで🎬\n\n——————\nSource: HYBE LABELS official YouTube; The Korea Times\n\n#HOSHI #ホシ #SEVENTEEN #BOYFRIEND #KPOP",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1012_HOSHI_OTHER_BOYFRIEND-95fda194517fe291/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1012_HOSHI_OTHER_BOYFRIEND-95fda194517fe291/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1012_HOSHI_OTHER_BOYFRIEND-95fda194517fe291/caption.txt",
-   "comment_url": "",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1012_HOSHI_OTHER_BOYFRIEND-95fda194517fe291/meta.json"
-  },
   "🇯🇵 MEOVV 'GO HARD' · 10/16 12:00": {
    "name": "🇯🇵 MEOVV 'GO HARD' · 10/16 12:00",
    "key": "1015_MEOVV_MV_GO-HARD@ja",
