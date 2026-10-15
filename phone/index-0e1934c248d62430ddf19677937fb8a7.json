@@ -1,25 +1,7 @@
 {
- "updated_at": "2026-10-15T16:42:23+09:00",
- "count": 4,
+ "updated_at": "2026-10-15T16:44:51+09:00",
+ "count": 3,
  "items": [
-  {
-   "name": "🇺🇸 ENHYPEN 'Checkmate' · 10/17 08:00",
-   "key": "1015_ENHYPEN_MV_Checkmate",
-   "job": "1015_ENHYPEN_MV_Checkmate",
-   "lang": "",
-   "flag": "🇺🇸",
-   "title": "ENHYPEN 'Checkmate'",
-   "account": "amberbeat.official",
-   "music": "ENHYPEN Checkmate",
-   "audio_start": "1:41 함께 벼랑 끝에 선 채 fight back",
-   "scheduled_at": "2026-10-17T08:00:00+09:00",
-   "caption": "ENHYPEN's 'Checkmate' MV has earned 3.5M views as of Oct 15, four weeks after release.\n\nWhat's your first impression of ENHYPEN's new song?\n\n——————\nSource: HYBE LABELS official YouTube\n\n#ENHYPEN #Checkmate #KPOP #KpopNews #NewMV",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_ENHYPEN_MV_Checkmate-f63dc74f4310c94b/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_ENHYPEN_MV_Checkmate-f63dc74f4310c94b/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_ENHYPEN_MV_Checkmate-f63dc74f4310c94b/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_ENHYPEN_MV_Checkmate-f63dc74f4310c94b/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_ENHYPEN_MV_Checkmate-f63dc74f4310c94b/meta.json"
-  },
   {
    "name": "🇺🇸 PLAVE 'Star Trace' · 10/18 08:00",
    "key": "1015_PLAVE_MV_Star-Trace",
@@ -76,24 +58,6 @@
   }
  ],
  "by_name": {
-  "🇺🇸 ENHYPEN 'Checkmate' · 10/17 08:00": {
-   "name": "🇺🇸 ENHYPEN 'Checkmate' · 10/17 08:00",
-   "key": "1015_ENHYPEN_MV_Checkmate",
-   "job": "1015_ENHYPEN_MV_Checkmate",
-   "lang": "",
-   "flag": "🇺🇸",
-   "title": "ENHYPEN 'Checkmate'",
-   "account": "amberbeat.official",
-   "music": "ENHYPEN Checkmate",
-   "audio_start": "1:41 함께 벼랑 끝에 선 채 fight back",
-   "scheduled_at": "2026-10-17T08:00:00+09:00",
-   "caption": "ENHYPEN's 'Checkmate' MV has earned 3.5M views as of Oct 15, four weeks after release.\n\nWhat's your first impression of ENHYPEN's new song?\n\n——————\nSource: HYBE LABELS official YouTube\n\n#ENHYPEN #Checkmate #KPOP #KpopNews #NewMV",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_ENHYPEN_MV_Checkmate-f63dc74f4310c94b/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_ENHYPEN_MV_Checkmate-f63dc74f4310c94b/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_ENHYPEN_MV_Checkmate-f63dc74f4310c94b/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_ENHYPEN_MV_Checkmate-f63dc74f4310c94b/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_ENHYPEN_MV_Checkmate-f63dc74f4310c94b/meta.json"
-  },
   "🇺🇸 PLAVE 'Star Trace' · 10/18 08:00": {
    "name": "🇺🇸 PLAVE 'Star Trace' · 10/18 08:00",
    "key": "1015_PLAVE_MV_Star-Trace",
