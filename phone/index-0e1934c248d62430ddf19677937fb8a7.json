@@ -1,7 +1,25 @@
 {
- "updated_at": "2026-10-15T09:30:10+09:00",
- "count": 2,
+ "updated_at": "2026-10-15T10:49:51+09:00",
+ "count": 3,
  "items": [
+  {
+   "name": "🇺🇸 ENHYPEN 'Checkmate'",
+   "key": "1015_ENHYPEN_MV_Checkmate",
+   "job": "1015_ENHYPEN_MV_Checkmate",
+   "lang": "",
+   "flag": "🇺🇸",
+   "title": "ENHYPEN 'Checkmate'",
+   "account": "amberbeat.official",
+   "music": "ENHYPEN Checkmate",
+   "audio_start": "1:41 함께 벼랑 끝에 선 채 fight back",
+   "scheduled_at": "",
+   "caption": "ENHYPEN's 'Checkmate' MV has earned 3.5M views as of Oct 15, four weeks after release.\n\nWhat's your first impression of ENHYPEN's new song?\n\n——————\nSource: HYBE LABELS official YouTube\n\n#ENHYPEN #Checkmate #KPOP #KpopNews #NewMV",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_ENHYPEN_MV_Checkmate-7cc59ec3940a58ec/reel.mp4",
+   "cover_url": "",
+   "caption_url": "",
+   "comment_url": "",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_ENHYPEN_MV_Checkmate-7cc59ec3940a58ec/meta.json"
+  },
   {
    "name": "🇯🇵 HOSHI 'BOYFRIEND' · 10/14 21:00",
    "key": "1012_HOSHI_OTHER_BOYFRIEND@ja",
@@ -40,6 +58,24 @@
   }
  ],
  "by_name": {
+  "🇺🇸 ENHYPEN 'Checkmate'": {
+   "name": "🇺🇸 ENHYPEN 'Checkmate'",
+   "key": "1015_ENHYPEN_MV_Checkmate",
+   "job": "1015_ENHYPEN_MV_Checkmate",
+   "lang": "",
+   "flag": "🇺🇸",
+   "title": "ENHYPEN 'Checkmate'",
+   "account": "amberbeat.official",
+   "music": "ENHYPEN Checkmate",
+   "audio_start": "1:41 함께 벼랑 끝에 선 채 fight back",
+   "scheduled_at": "",
+   "caption": "ENHYPEN's 'Checkmate' MV has earned 3.5M views as of Oct 15, four weeks after release.\n\nWhat's your first impression of ENHYPEN's new song?\n\n——————\nSource: HYBE LABELS official YouTube\n\n#ENHYPEN #Checkmate #KPOP #KpopNews #NewMV",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_ENHYPEN_MV_Checkmate-7cc59ec3940a58ec/reel.mp4",
+   "cover_url": "",
+   "caption_url": "",
+   "comment_url": "",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_ENHYPEN_MV_Checkmate-7cc59ec3940a58ec/meta.json"
+  },
   "🇯🇵 HOSHI 'BOYFRIEND' · 10/14 21:00": {
    "name": "🇯🇵 HOSHI 'BOYFRIEND' · 10/14 21:00",
    "key": "1012_HOSHI_OTHER_BOYFRIEND@ja",
