@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-19T10:35:04+09:00",
- "count": 1,
+ "updated_at": "2026-10-19T16:47:40+09:00",
+ "count": 2,
  "items": [
   {
    "name": "🇺🇸 MEOVV 'GO HARD' · 10/19 20:00",
@@ -19,6 +19,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_MEOVV_MV_GO-HARD-f1fcdcb6fd920b9b/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_MEOVV_MV_GO-HARD-f1fcdcb6fd920b9b/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_MEOVV_MV_GO-HARD-f1fcdcb6fd920b9b/meta.json"
+  },
+  {
+   "name": "🇮🇩 ENHYPEN · 10/19 21:00",
+   "key": "1019_ENHYPEN_tour@id",
+   "job": "1019_ENHYPEN_tour",
+   "lang": "id",
+   "flag": "🇮🇩",
+   "title": "ENHYPEN",
+   "account": "amberbeat.indonesia",
+   "music": "ENHYPEN Stuck",
+   "audio_start": "0:30 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "2026-10-19T21:00:00+09:00",
+   "caption": "ENHYPEN bikin heboh Macau! 🔥\nTiket konser mereka di Macau ludes terjual dalam waktu singkat.\nVenue-nya penuh sesak sama Engene yang hadir langsung.\nKalian udah nonton momen serunya belum? 👇\nJangan lupa SAVE postingan ini!\nCek selengkapnya di TenAsia.\n\n——————\nSource: TenAsia\nVideo: ENHYPEN ‘Stuck’ official MV\n\n#KPOP #BeritaKpop #KpopIndonesia #ENHYPEN #Macau",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1019_ENHYPEN_tour-8d27b7ee39971ab4/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1019_ENHYPEN_tour-8d27b7ee39971ab4/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1019_ENHYPEN_tour-8d27b7ee39971ab4/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1019_ENHYPEN_tour-8d27b7ee39971ab4/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1019_ENHYPEN_tour-8d27b7ee39971ab4/meta.json"
   }
  ],
  "by_name": {
@@ -39,6 +57,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_MEOVV_MV_GO-HARD-f1fcdcb6fd920b9b/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_MEOVV_MV_GO-HARD-f1fcdcb6fd920b9b/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_MEOVV_MV_GO-HARD-f1fcdcb6fd920b9b/meta.json"
+  },
+  "🇮🇩 ENHYPEN · 10/19 21:00": {
+   "name": "🇮🇩 ENHYPEN · 10/19 21:00",
+   "key": "1019_ENHYPEN_tour@id",
+   "job": "1019_ENHYPEN_tour",
+   "lang": "id",
+   "flag": "🇮🇩",
+   "title": "ENHYPEN",
+   "account": "amberbeat.indonesia",
+   "music": "ENHYPEN Stuck",
+   "audio_start": "0:30 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "2026-10-19T21:00:00+09:00",
+   "caption": "ENHYPEN bikin heboh Macau! 🔥\nTiket konser mereka di Macau ludes terjual dalam waktu singkat.\nVenue-nya penuh sesak sama Engene yang hadir langsung.\nKalian udah nonton momen serunya belum? 👇\nJangan lupa SAVE postingan ini!\nCek selengkapnya di TenAsia.\n\n——————\nSource: TenAsia\nVideo: ENHYPEN ‘Stuck’ official MV\n\n#KPOP #BeritaKpop #KpopIndonesia #ENHYPEN #Macau",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1019_ENHYPEN_tour-8d27b7ee39971ab4/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1019_ENHYPEN_tour-8d27b7ee39971ab4/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1019_ENHYPEN_tour-8d27b7ee39971ab4/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1019_ENHYPEN_tour-8d27b7ee39971ab4/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1019_ENHYPEN_tour-8d27b7ee39971ab4/meta.json"
   }
  }
 }
