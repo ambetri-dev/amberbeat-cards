@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-19T10:25:18+09:00",
- "count": 2,
+ "updated_at": "2026-10-19T10:35:04+09:00",
+ "count": 1,
  "items": [
   {
    "name": "🇺🇸 MEOVV 'GO HARD' · 10/19 20:00",
@@ -19,24 +19,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_MEOVV_MV_GO-HARD-f1fcdcb6fd920b9b/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_MEOVV_MV_GO-HARD-f1fcdcb6fd920b9b/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_MEOVV_MV_GO-HARD-f1fcdcb6fd920b9b/meta.json"
-  },
-  {
-   "name": "🇺🇸 XDINARY-HEROES 'Obsessed with Youth' · 10/20 08:00",
-   "key": "1015_XDINARY-HEROES_MV_Obsessed-with-Youth",
-   "job": "1015_XDINARY-HEROES_MV_Obsessed-with-Youth",
-   "lang": "",
-   "flag": "🇺🇸",
-   "title": "XDINARY-HEROES 'Obsessed with Youth'",
-   "account": "amberbeat.official",
-   "music": "XDINARY HEROES Obsessed with Youth",
-   "audio_start": "0:02 Yeah, I was a mess (추정)",
-   "scheduled_at": "2026-10-20T08:00:00+09:00",
-   "caption": "Xdinary Heroes dropped the MV for 'Obsessed with Youth' via JYP Entertainment on Oct 12, 2026. It has reached 4.4M views as of Oct 15, 17:20 KST, about 2 days after release.\n\n——————\nSource: JYP Entertainment official YouTube\n\n#XDINARYHEROES #ObsessedwithYouth #KPOP #KpopNews #NewMV",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_XDINARY-HEROES_MV_Obsessed-with-Youth-c183ac250ad4c961/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_XDINARY-HEROES_MV_Obsessed-with-Youth-c183ac250ad4c961/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_XDINARY-HEROES_MV_Obsessed-with-Youth-c183ac250ad4c961/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_XDINARY-HEROES_MV_Obsessed-with-Youth-c183ac250ad4c961/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_XDINARY-HEROES_MV_Obsessed-with-Youth-c183ac250ad4c961/meta.json"
   }
  ],
  "by_name": {
@@ -57,24 +39,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_MEOVV_MV_GO-HARD-f1fcdcb6fd920b9b/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_MEOVV_MV_GO-HARD-f1fcdcb6fd920b9b/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_MEOVV_MV_GO-HARD-f1fcdcb6fd920b9b/meta.json"
-  },
-  "🇺🇸 XDINARY-HEROES 'Obsessed with Youth' · 10/20 08:00": {
-   "name": "🇺🇸 XDINARY-HEROES 'Obsessed with Youth' · 10/20 08:00",
-   "key": "1015_XDINARY-HEROES_MV_Obsessed-with-Youth",
-   "job": "1015_XDINARY-HEROES_MV_Obsessed-with-Youth",
-   "lang": "",
-   "flag": "🇺🇸",
-   "title": "XDINARY-HEROES 'Obsessed with Youth'",
-   "account": "amberbeat.official",
-   "music": "XDINARY HEROES Obsessed with Youth",
-   "audio_start": "0:02 Yeah, I was a mess (추정)",
-   "scheduled_at": "2026-10-20T08:00:00+09:00",
-   "caption": "Xdinary Heroes dropped the MV for 'Obsessed with Youth' via JYP Entertainment on Oct 12, 2026. It has reached 4.4M views as of Oct 15, 17:20 KST, about 2 days after release.\n\n——————\nSource: JYP Entertainment official YouTube\n\n#XDINARYHEROES #ObsessedwithYouth #KPOP #KpopNews #NewMV",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_XDINARY-HEROES_MV_Obsessed-with-Youth-c183ac250ad4c961/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_XDINARY-HEROES_MV_Obsessed-with-Youth-c183ac250ad4c961/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_XDINARY-HEROES_MV_Obsessed-with-Youth-c183ac250ad4c961/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_XDINARY-HEROES_MV_Obsessed-with-Youth-c183ac250ad4c961/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_XDINARY-HEROES_MV_Obsessed-with-Youth-c183ac250ad4c961/meta.json"
   }
  }
 }
