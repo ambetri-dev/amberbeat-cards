@@ -1,8 +1,44 @@
 {
- "updated_at": "2026-10-17T12:00:19+09:00",
- "count": 0,
- "items": [],
+ "updated_at": "2026-10-19T09:42:01+09:00",
+ "count": 1,
+ "items": [
+  {
+   "name": "🇺🇸 MEOVV 'GO HARD'",
+   "key": "1015_MEOVV_MV_GO-HARD",
+   "job": "1015_MEOVV_MV_GO-HARD",
+   "lang": "",
+   "flag": "🇺🇸",
+   "title": "MEOVV 'GO HARD'",
+   "account": "amberbeat.official",
+   "music": "MEOVV GO HARD",
+   "audio_start": "0:35 · 'Geop eopsi fall hard' 줄 시작을 맨 앞에 맞추세요",
+   "scheduled_at": "",
+   "caption": "MEOVV released the M/V for 'GO HARD' on THEBLACKLABEL 2 days ago. It has reached 10.2M views as of Oct 15, 10:32 KST.\n\n——————\nSource: THEBLACKLABEL official YouTube\n\n#MEOVV #GOHARD #KPOP #KpopNews #NewMV",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_MEOVV_MV_GO-HARD-0dacd07f01ceefc9/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_MEOVV_MV_GO-HARD-0dacd07f01ceefc9/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_MEOVV_MV_GO-HARD-0dacd07f01ceefc9/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_MEOVV_MV_GO-HARD-0dacd07f01ceefc9/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_MEOVV_MV_GO-HARD-0dacd07f01ceefc9/meta.json"
+  }
+ ],
  "by_name": {
-  "📭 올릴 릴스 없음": {}
+  "🇺🇸 MEOVV 'GO HARD'": {
+   "name": "🇺🇸 MEOVV 'GO HARD'",
+   "key": "1015_MEOVV_MV_GO-HARD",
+   "job": "1015_MEOVV_MV_GO-HARD",
+   "lang": "",
+   "flag": "🇺🇸",
+   "title": "MEOVV 'GO HARD'",
+   "account": "amberbeat.official",
+   "music": "MEOVV GO HARD",
+   "audio_start": "0:35 · 'Geop eopsi fall hard' 줄 시작을 맨 앞에 맞추세요",
+   "scheduled_at": "",
+   "caption": "MEOVV released the M/V for 'GO HARD' on THEBLACKLABEL 2 days ago. It has reached 10.2M views as of Oct 15, 10:32 KST.\n\n——————\nSource: THEBLACKLABEL official YouTube\n\n#MEOVV #GOHARD #KPOP #KpopNews #NewMV",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_MEOVV_MV_GO-HARD-0dacd07f01ceefc9/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_MEOVV_MV_GO-HARD-0dacd07f01ceefc9/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_MEOVV_MV_GO-HARD-0dacd07f01ceefc9/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_MEOVV_MV_GO-HARD-0dacd07f01ceefc9/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_MEOVV_MV_GO-HARD-0dacd07f01ceefc9/meta.json"
+  }
  }
 }
