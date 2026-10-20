@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-20T13:27:03+09:00",
- "count": 11,
+ "updated_at": "2026-10-20T13:40:10+09:00",
+ "count": 12,
  "items": [
   {
    "name": "🇺🇸 MEOVV 'GO HARD' · 10/19 20:00",
@@ -199,6 +199,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_NMIXX_MV_----Birthday-Wish-c4ebca0017f6f009/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_NMIXX_MV_----Birthday-Wish-c4ebca0017f6f009/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_NMIXX_MV_----Birthday-Wish-c4ebca0017f6f009/meta.json"
+  },
+  {
+   "name": "🇹🇭 IVE 'Looks Can Kill' · 10/20 14:30",
+   "key": "1020_IVE_MV_Looks-Can-Kill@th",
+   "job": "1020_IVE_MV_Looks-Can-Kill",
+   "lang": "th",
+   "flag": "🇹🇭",
+   "title": "IVE 'Looks Can Kill'",
+   "account": "amberbeat.thailand",
+   "music": "IVE Looks Can Kill",
+   "audio_start": "1:21 (추정)",
+   "scheduled_at": "2026-10-20T14:30:00+09:00",
+   "caption": "IVE ปล่อยเอ็มวีเพลง 'Looks Can Kill' แล้ว\nปล่อยวันที่ 19 ต.ค. 2026\nผ่านไปแค่ 31 นาที ยอดวิวทะลุ 3.5 พันวิวแล้ว\nเร็วขนาดนี้ใครก็ต้องกดดู\nชอบเพลงนี้กันมั้ย? 👇\nไปดูกันได้เลยที่ยูทูป\nกดเซฟไว้ดูเลย!\n\n——————\nSource: STARSHIP official YouTube\n\n#KPOP #ข่าวเคป๊อป #ติ่งเกาหลี #IVE #LooksCanKill",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_IVE_MV_Looks-Can-Kill-e2ea908fda05b69e/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_IVE_MV_Looks-Can-Kill-e2ea908fda05b69e/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_IVE_MV_Looks-Can-Kill-e2ea908fda05b69e/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_IVE_MV_Looks-Can-Kill-e2ea908fda05b69e/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_IVE_MV_Looks-Can-Kill-e2ea908fda05b69e/meta.json"
   }
  ],
  "by_name": {
@@ -399,6 +417,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_NMIXX_MV_----Birthday-Wish-c4ebca0017f6f009/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_NMIXX_MV_----Birthday-Wish-c4ebca0017f6f009/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_NMIXX_MV_----Birthday-Wish-c4ebca0017f6f009/meta.json"
+  },
+  "🇹🇭 IVE 'Looks Can Kill' · 10/20 14:30": {
+   "name": "🇹🇭 IVE 'Looks Can Kill' · 10/20 14:30",
+   "key": "1020_IVE_MV_Looks-Can-Kill@th",
+   "job": "1020_IVE_MV_Looks-Can-Kill",
+   "lang": "th",
+   "flag": "🇹🇭",
+   "title": "IVE 'Looks Can Kill'",
+   "account": "amberbeat.thailand",
+   "music": "IVE Looks Can Kill",
+   "audio_start": "1:21 (추정)",
+   "scheduled_at": "2026-10-20T14:30:00+09:00",
+   "caption": "IVE ปล่อยเอ็มวีเพลง 'Looks Can Kill' แล้ว\nปล่อยวันที่ 19 ต.ค. 2026\nผ่านไปแค่ 31 นาที ยอดวิวทะลุ 3.5 พันวิวแล้ว\nเร็วขนาดนี้ใครก็ต้องกดดู\nชอบเพลงนี้กันมั้ย? 👇\nไปดูกันได้เลยที่ยูทูป\nกดเซฟไว้ดูเลย!\n\n——————\nSource: STARSHIP official YouTube\n\n#KPOP #ข่าวเคป๊อป #ติ่งเกาหลี #IVE #LooksCanKill",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_IVE_MV_Looks-Can-Kill-e2ea908fda05b69e/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_IVE_MV_Looks-Can-Kill-e2ea908fda05b69e/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_IVE_MV_Looks-Can-Kill-e2ea908fda05b69e/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_IVE_MV_Looks-Can-Kill-e2ea908fda05b69e/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_IVE_MV_Looks-Can-Kill-e2ea908fda05b69e/meta.json"
   }
  }
 }
