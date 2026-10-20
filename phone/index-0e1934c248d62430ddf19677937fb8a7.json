@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-21T00:07:38+09:00",
- "count": 13,
+ "updated_at": "2026-10-21T00:20:54+09:00",
+ "count": 14,
  "items": [
   {
    "name": "🇺🇸 SEVENTEEN '12 oclock' · 10/20 21:30",
@@ -181,6 +181,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1019_SEVENTEEN_MV_12-oclock-a39c55bfc2f7d247/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1019_SEVENTEEN_MV_12-oclock-a39c55bfc2f7d247/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1019_SEVENTEEN_MV_12-oclock-a39c55bfc2f7d247/meta.json"
+  },
+  {
+   "name": "🇮🇩 BLACKPINK · 10/21 11:00",
+   "key": "1019_BLACKPINK_milestone@id",
+   "job": "1019_BLACKPINK_milestone",
+   "lang": "id",
+   "flag": "🇮🇩",
+   "title": "BLACKPINK",
+   "account": "amberbeat.indonesia",
+   "music": "BLACKPINK 붐바야 (BOOMBAYAH)",
+   "audio_start": "0:17 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "2026-10-21T11:00:00+09:00",
+   "caption": "Pencapaian baru buat lagu klasik ini! 🎉\nMV ‘Boombayah’ dari Blackpink berhasil melewati 100 juta views di YouTube.\nKalian paling suka bagian mana dari MV ini?👇\nJangan lupa SAVE postingan ini!\n\n——————\nSource: OSEN\n\n#KPOP #BeritaKpop #KpopIndonesia #BLACKPINK #Boombayah",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1019_BLACKPINK_milestone-5ef5dc2d0df62077/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1019_BLACKPINK_milestone-5ef5dc2d0df62077/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1019_BLACKPINK_milestone-5ef5dc2d0df62077/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1019_BLACKPINK_milestone-5ef5dc2d0df62077/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1019_BLACKPINK_milestone-5ef5dc2d0df62077/meta.json"
   },
   {
    "name": "🇯🇵 IVE 'Looks Can Kill' · 10/20 12:30",
@@ -417,6 +435,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1019_SEVENTEEN_MV_12-oclock-a39c55bfc2f7d247/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1019_SEVENTEEN_MV_12-oclock-a39c55bfc2f7d247/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1019_SEVENTEEN_MV_12-oclock-a39c55bfc2f7d247/meta.json"
+  },
+  "🇮🇩 BLACKPINK · 10/21 11:00": {
+   "name": "🇮🇩 BLACKPINK · 10/21 11:00",
+   "key": "1019_BLACKPINK_milestone@id",
+   "job": "1019_BLACKPINK_milestone",
+   "lang": "id",
+   "flag": "🇮🇩",
+   "title": "BLACKPINK",
+   "account": "amberbeat.indonesia",
+   "music": "BLACKPINK 붐바야 (BOOMBAYAH)",
+   "audio_start": "0:17 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "2026-10-21T11:00:00+09:00",
+   "caption": "Pencapaian baru buat lagu klasik ini! 🎉\nMV ‘Boombayah’ dari Blackpink berhasil melewati 100 juta views di YouTube.\nKalian paling suka bagian mana dari MV ini?👇\nJangan lupa SAVE postingan ini!\n\n——————\nSource: OSEN\n\n#KPOP #BeritaKpop #KpopIndonesia #BLACKPINK #Boombayah",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1019_BLACKPINK_milestone-5ef5dc2d0df62077/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1019_BLACKPINK_milestone-5ef5dc2d0df62077/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1019_BLACKPINK_milestone-5ef5dc2d0df62077/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1019_BLACKPINK_milestone-5ef5dc2d0df62077/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1019_BLACKPINK_milestone-5ef5dc2d0df62077/meta.json"
   },
   "🇯🇵 IVE 'Looks Can Kill' · 10/20 12:30": {
    "name": "🇯🇵 IVE 'Looks Can Kill' · 10/20 12:30",
