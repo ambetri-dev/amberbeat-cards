@@ -1,0 +1,17 @@
+{
+ "name": "🇺🇸 NCT-DREAM 'The Sun' · 10/23 09:30",
+ "job": "1020_NCT-DREAM_MV_The-Sun",
+ "lang": "",
+ "flag": "🇺🇸",
+ "title": "NCT-DREAM 'The Sun'",
+ "account": "amberbeat.official",
+ "music": "NCT DREAM The Sun",
+ "audio_start": "0:07 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+ "scheduled_at": "2026-10-23T09:30:00+09:00",
+ "urls": {
+  "reel.mp4": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_NCT-DREAM_MV_The-Sun-b40f0d3567177c64/reel.mp4",
+  "cover.jpg": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_NCT-DREAM_MV_The-Sun-b40f0d3567177c64/cover.jpg",
+  "caption.txt": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_NCT-DREAM_MV_The-Sun-b40f0d3567177c64/caption.txt",
+  "comment.txt": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_NCT-DREAM_MV_The-Sun-b40f0d3567177c64/comment.txt"
+ }
+}
