@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-20T09:24:36+09:00",
- "count": 1,
+ "updated_at": "2026-10-20T09:38:19+09:00",
+ "count": 2,
  "items": [
   {
    "name": "🇺🇸 MEOVV 'GO HARD' · 10/19 20:00",
@@ -19,6 +19,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_MEOVV_MV_GO-HARD-f1fcdcb6fd920b9b/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_MEOVV_MV_GO-HARD-f1fcdcb6fd920b9b/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_MEOVV_MV_GO-HARD-f1fcdcb6fd920b9b/meta.json"
+  },
+  {
+   "name": "🇺🇸 SEVENTEEN '12 o'",
+   "key": "1019_SEVENTEEN_MV_12-oclock",
+   "job": "1019_SEVENTEEN_MV_12-oclock",
+   "lang": "",
+   "flag": "🇺🇸",
+   "title": "SEVENTEEN '12 o'",
+   "account": "amberbeat.official",
+   "music": "SEVENTEEN 12 o'clock",
+   "audio_start": "0:29 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "Jeonghan and Joshua of SEVENTEEN released the official MV for '12 o'clock' on Oct 19, 2026. It has 70.6K views as of Oct 19, 18:31 KST, 33 minutes after release.\n\n——————\nSource: HYBE LABELS official YouTube\n\n#SEVENTEEN #12oclock #KPOP #KpopNews #NewMV",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/meta.json"
   }
  ],
  "by_name": {
@@ -39,6 +57,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_MEOVV_MV_GO-HARD-f1fcdcb6fd920b9b/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_MEOVV_MV_GO-HARD-f1fcdcb6fd920b9b/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1015_MEOVV_MV_GO-HARD-f1fcdcb6fd920b9b/meta.json"
+  },
+  "🇺🇸 SEVENTEEN '12 o'": {
+   "name": "🇺🇸 SEVENTEEN '12 o'",
+   "key": "1019_SEVENTEEN_MV_12-oclock",
+   "job": "1019_SEVENTEEN_MV_12-oclock",
+   "lang": "",
+   "flag": "🇺🇸",
+   "title": "SEVENTEEN '12 o'",
+   "account": "amberbeat.official",
+   "music": "SEVENTEEN 12 o'clock",
+   "audio_start": "0:29 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "Jeonghan and Joshua of SEVENTEEN released the official MV for '12 o'clock' on Oct 19, 2026. It has 70.6K views as of Oct 19, 18:31 KST, 33 minutes after release.\n\n——————\nSource: HYBE LABELS official YouTube\n\n#SEVENTEEN #12oclock #KPOP #KpopNews #NewMV",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/meta.json"
   }
  }
 }
