@@ -1,0 +1,17 @@
+{
+ "name": "🇮🇩 SEVENTEEN '12 oclock' · 10/21 10:00",
+ "job": "1019_SEVENTEEN_MV_12-oclock",
+ "lang": "id",
+ "flag": "🇮🇩",
+ "title": "SEVENTEEN '12 oclock'",
+ "account": "amberbeat.indonesia",
+ "music": "SEVENTEEN 12 o'clock",
+ "audio_start": "0:46 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+ "scheduled_at": "2026-10-21T10:00:00+09:00",
+ "urls": {
+  "reel.mp4": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1019_SEVENTEEN_MV_12-oclock-a39c55bfc2f7d247/reel.mp4",
+  "cover.jpg": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1019_SEVENTEEN_MV_12-oclock-a39c55bfc2f7d247/cover.jpg",
+  "caption.txt": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1019_SEVENTEEN_MV_12-oclock-a39c55bfc2f7d247/caption.txt",
+  "comment.txt": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1019_SEVENTEEN_MV_12-oclock-a39c55bfc2f7d247/comment.txt"
+ }
+}
