@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-20T10:52:05+09:00",
+ "updated_at": "2026-10-20T10:52:06+09:00",
  "count": 3,
  "items": [
   {
@@ -39,7 +39,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/meta.json"
   },
   {
-   "name": "🇺🇸 IVE 'Looks Can Kill'",
+   "name": "🇺🇸 IVE 'Looks Can Kill' · 10/21 09:30",
    "key": "1020_IVE_MV_Looks-Can-Kill",
    "job": "1020_IVE_MV_Looks-Can-Kill",
    "lang": "",
@@ -48,13 +48,13 @@
    "account": "amberbeat.official",
    "music": "IVE Looks Can Kill",
    "audio_start": "0:52 (추정)",
-   "scheduled_at": "",
+   "scheduled_at": "2026-10-21T09:30:00+09:00",
    "caption": "IVE released the music video for 'Looks Can Kill' on Oct 19, 2026. It has reached 3.5K views within 31 minutes of release.\n\n——————\nSource: STARSHIP official YouTube\n\n#IVE #LooksCanKill #KPOP #KpopNews #NewMV",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_IVE_MV_Looks-Can-Kill-2be921966d9c9a6e/reel.mp4",
-   "cover_url": "",
-   "caption_url": "",
-   "comment_url": "",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_IVE_MV_Looks-Can-Kill-2be921966d9c9a6e/meta.json"
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_IVE_MV_Looks-Can-Kill-dea967f9d34aa41d/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_IVE_MV_Looks-Can-Kill-dea967f9d34aa41d/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_IVE_MV_Looks-Can-Kill-dea967f9d34aa41d/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_IVE_MV_Looks-Can-Kill-dea967f9d34aa41d/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_IVE_MV_Looks-Can-Kill-dea967f9d34aa41d/meta.json"
   }
  ],
  "by_name": {
@@ -94,8 +94,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/meta.json"
   },
-  "🇺🇸 IVE 'Looks Can Kill'": {
-   "name": "🇺🇸 IVE 'Looks Can Kill'",
+  "🇺🇸 IVE 'Looks Can Kill' · 10/21 09:30": {
+   "name": "🇺🇸 IVE 'Looks Can Kill' · 10/21 09:30",
    "key": "1020_IVE_MV_Looks-Can-Kill",
    "job": "1020_IVE_MV_Looks-Can-Kill",
    "lang": "",
@@ -104,13 +104,13 @@
    "account": "amberbeat.official",
    "music": "IVE Looks Can Kill",
    "audio_start": "0:52 (추정)",
-   "scheduled_at": "",
+   "scheduled_at": "2026-10-21T09:30:00+09:00",
    "caption": "IVE released the music video for 'Looks Can Kill' on Oct 19, 2026. It has reached 3.5K views within 31 minutes of release.\n\n——————\nSource: STARSHIP official YouTube\n\n#IVE #LooksCanKill #KPOP #KpopNews #NewMV",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_IVE_MV_Looks-Can-Kill-2be921966d9c9a6e/reel.mp4",
-   "cover_url": "",
-   "caption_url": "",
-   "comment_url": "",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_IVE_MV_Looks-Can-Kill-2be921966d9c9a6e/meta.json"
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_IVE_MV_Looks-Can-Kill-dea967f9d34aa41d/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_IVE_MV_Looks-Can-Kill-dea967f9d34aa41d/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_IVE_MV_Looks-Can-Kill-dea967f9d34aa41d/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_IVE_MV_Looks-Can-Kill-dea967f9d34aa41d/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_IVE_MV_Looks-Can-Kill-dea967f9d34aa41d/meta.json"
   }
  }
 }
