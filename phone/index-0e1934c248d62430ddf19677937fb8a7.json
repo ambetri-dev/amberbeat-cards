@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-20T13:40:10+09:00",
- "count": 12,
+ "updated_at": "2026-10-20T13:40:31+09:00",
+ "count": 11,
  "items": [
   {
    "name": "🇺🇸 MEOVV 'GO HARD' · 10/19 20:00",
@@ -73,24 +73,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_NMIXX_MV_----Birthday-Wish-7c88f63bae07f18a/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_NMIXX_MV_----Birthday-Wish-7c88f63bae07f18a/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_NMIXX_MV_----Birthday-Wish-7c88f63bae07f18a/meta.json"
-  },
-  {
-   "name": "🇺🇸 NewJeans · 10/22 09:30",
-   "key": "1019_NewJeans_comeback@en",
-   "job": "1019_NewJeans_comeback",
-   "lang": "en",
-   "flag": "🇺🇸",
-   "title": "NewJeans",
-   "account": "amberbeat.official",
-   "music": "NewJeans ETA",
-   "audio_start": "-",
-   "scheduled_at": "2026-10-22T09:30:00+09:00",
-   "caption": "NewJeans member Haerin shared news about a solo activity, drawing mixed reactions from fans. Fans responded with divided feelings online after hearing about Haerin's individual schedule. The update also reignited fan questions about when NewJeans will return together as a full group. Reported by Maeil Business Newspaper.\n\n——————\nSource: Maeil Business Newspaper",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1019_NewJeans_comeback-358c21fd95805497/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1019_NewJeans_comeback-358c21fd95805497/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1019_NewJeans_comeback-358c21fd95805497/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1019_NewJeans_comeback-358c21fd95805497/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1019_NewJeans_comeback-358c21fd95805497/meta.json"
   },
   {
    "name": "🇪🇸 IVE 'Looks Can Kill' · 10/20 15:00",
@@ -291,24 +273,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_NMIXX_MV_----Birthday-Wish-7c88f63bae07f18a/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_NMIXX_MV_----Birthday-Wish-7c88f63bae07f18a/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_NMIXX_MV_----Birthday-Wish-7c88f63bae07f18a/meta.json"
-  },
-  "🇺🇸 NewJeans · 10/22 09:30": {
-   "name": "🇺🇸 NewJeans · 10/22 09:30",
-   "key": "1019_NewJeans_comeback@en",
-   "job": "1019_NewJeans_comeback",
-   "lang": "en",
-   "flag": "🇺🇸",
-   "title": "NewJeans",
-   "account": "amberbeat.official",
-   "music": "NewJeans ETA",
-   "audio_start": "-",
-   "scheduled_at": "2026-10-22T09:30:00+09:00",
-   "caption": "NewJeans member Haerin shared news about a solo activity, drawing mixed reactions from fans. Fans responded with divided feelings online after hearing about Haerin's individual schedule. The update also reignited fan questions about when NewJeans will return together as a full group. Reported by Maeil Business Newspaper.\n\n——————\nSource: Maeil Business Newspaper",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1019_NewJeans_comeback-358c21fd95805497/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1019_NewJeans_comeback-358c21fd95805497/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1019_NewJeans_comeback-358c21fd95805497/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1019_NewJeans_comeback-358c21fd95805497/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1019_NewJeans_comeback-358c21fd95805497/meta.json"
   },
   "🇪🇸 IVE 'Looks Can Kill' · 10/20 15:00": {
    "name": "🇪🇸 IVE 'Looks Can Kill' · 10/20 15:00",
