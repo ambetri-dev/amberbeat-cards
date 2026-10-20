@@ -1,0 +1,17 @@
+{
+ "name": "🇺🇸 NewJeans · 10/22 09:30",
+ "job": "1019_NewJeans_comeback",
+ "lang": "en",
+ "flag": "🇺🇸",
+ "title": "NewJeans",
+ "account": "amberbeat.official",
+ "music": "NewJeans ETA",
+ "audio_start": "-",
+ "scheduled_at": "2026-10-22T09:30:00+09:00",
+ "urls": {
+  "reel.mp4": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1019_NewJeans_comeback-358c21fd95805497/reel.mp4",
+  "cover.jpg": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1019_NewJeans_comeback-358c21fd95805497/cover.jpg",
+  "caption.txt": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1019_NewJeans_comeback-358c21fd95805497/caption.txt",
+  "comment.txt": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1019_NewJeans_comeback-358c21fd95805497/comment.txt"
+ }
+}
