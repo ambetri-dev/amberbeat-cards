@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-10-21T16:18:47+09:00",
+ "updated_at": "2026-10-21T16:22:16+09:00",
  "count": 15,
  "items": [
   {
-   "name": "🇺🇸 SEVENTEEN '12 oclock' · 10/21 21:30",
+   "name": "🇺🇸 SEVENTEEN '12 oclock'",
    "key": "1019_SEVENTEEN_MV_12-oclock",
    "job": "1019_SEVENTEEN_MV_12-oclock",
    "lang": "",
@@ -12,7 +12,7 @@
    "account": "amberbeat.official",
    "music": "SEVENTEEN 12 o'clock",
    "audio_start": "0:29 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "2026-10-21T21:30:00+09:00",
+   "scheduled_at": "",
    "caption": "Jeonghan and Joshua of SEVENTEEN released the official MV for '12 o'clock' on Oct 19, 2026. It has 70.6K views as of Oct 19, 18:31 KST, 33 minutes after release.\n\n———\n\nSource: HYBE LABELS official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#SEVENTEEN #12oclock #KPOP #KpopNews #NewMV",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/cover.jpg",
@@ -21,25 +21,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/meta.json"
   },
   {
-   "name": "🇺🇸 NMIXX '긴 소원 Birthday Wish' · 10/21 23:00",
-   "key": "1019_NMIXX_MV_긴-소원-Birthday-Wish",
-   "job": "1019_NMIXX_MV_긴-소원-Birthday-Wish",
-   "lang": "",
-   "flag": "🇺🇸",
-   "title": "NMIXX '긴 소원 Birthday Wish'",
-   "account": "amberbeat.official",
-   "music": "NMIXX 긴 소원(Birthday Wish)",
-   "audio_start": "0:42 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "2026-10-21T23:00:00+09:00",
-   "caption": "NMIXX shared the official M/V for '긴 소원(Birthday Wish)' on YouTube on Oct 19, 2026.\n\n———\n\nSource: JYP Entertainment official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#NMIXX #긴소원 #KPOP #KpopNews #NewMV",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_NMIXX_MV_----Birthday-Wish-7c88f63bae07f18a/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_NMIXX_MV_----Birthday-Wish-7c88f63bae07f18a/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_NMIXX_MV_----Birthday-Wish-7c88f63bae07f18a/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_NMIXX_MV_----Birthday-Wish-7c88f63bae07f18a/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_NMIXX_MV_----Birthday-Wish-7c88f63bae07f18a/meta.json"
-  },
-  {
-   "name": "🇺🇸 IVE 'Looks Can Kill' · 10/22 09:30",
+   "name": "🇺🇸 IVE 'Looks Can Kill'",
    "key": "1020_IVE_MV_Looks-Can-Kill",
    "job": "1020_IVE_MV_Looks-Can-Kill",
    "lang": "",
@@ -48,7 +30,7 @@
    "account": "amberbeat.official",
    "music": "IVE Looks Can Kill",
    "audio_start": "0:52 (추정)",
-   "scheduled_at": "2026-10-22T09:30:00+09:00",
+   "scheduled_at": "",
    "caption": "IVE released the music video for 'Looks Can Kill' on Oct 19, 2026. It has reached 3.5K views within 31 minutes of release.\n\n———\n\nSource: STARSHIP official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#IVE #LooksCanKill #KPOP #KpopNews #NewMV",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_IVE_MV_Looks-Can-Kill-dea967f9d34aa41d/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_IVE_MV_Looks-Can-Kill-dea967f9d34aa41d/cover.jpg",
@@ -57,7 +39,25 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_IVE_MV_Looks-Can-Kill-dea967f9d34aa41d/meta.json"
   },
   {
-   "name": "🇺🇸 EVNNE 'LOOK AT MA' · 10/22 21:30",
+   "name": "🇺🇸 NMIXX '긴 소원 Birthday Wish'",
+   "key": "1019_NMIXX_MV_긴-소원-Birthday-Wish",
+   "job": "1019_NMIXX_MV_긴-소원-Birthday-Wish",
+   "lang": "",
+   "flag": "🇺🇸",
+   "title": "NMIXX '긴 소원 Birthday Wish'",
+   "account": "amberbeat.official",
+   "music": "NMIXX 긴 소원(Birthday Wish)",
+   "audio_start": "0:42 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "NMIXX shared the official M/V for '긴 소원(Birthday Wish)' on YouTube on Oct 19, 2026.\n\n———\n\nSource: JYP Entertainment official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#NMIXX #긴소원 #KPOP #KpopNews #NewMV",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_NMIXX_MV_----Birthday-Wish-7c88f63bae07f18a/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_NMIXX_MV_----Birthday-Wish-7c88f63bae07f18a/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_NMIXX_MV_----Birthday-Wish-7c88f63bae07f18a/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_NMIXX_MV_----Birthday-Wish-7c88f63bae07f18a/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_NMIXX_MV_----Birthday-Wish-7c88f63bae07f18a/meta.json"
+  },
+  {
+   "name": "🇺🇸 EVNNE 'LOOK AT MA'",
    "key": "1020_EVNNE_MV_LOOK-AT-MA",
    "job": "1020_EVNNE_MV_LOOK-AT-MA",
    "lang": "",
@@ -66,7 +66,7 @@
    "account": "amberbeat.official",
    "music": "EVNNE LOOK AT MA",
    "audio_start": "0:40 I'm looking so flawless (추정)",
-   "scheduled_at": "2026-10-22T21:30:00+09:00",
+   "scheduled_at": "",
    "caption": "EVNNE released the official MV for 'LOOK AT MA' on Oct 19, 2026. It has 2.4K views as of 31 minutes after release.\n\n———\n\nSource: EVNNE official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#EVNNE #LOOKATMA #KPOP #KpopNews #NewMV",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_EVNNE_MV_LOOK-AT-MA-154b8c498538e3e4/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_EVNNE_MV_LOOK-AT-MA-154b8c498538e3e4/cover.jpg",
@@ -75,7 +75,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_EVNNE_MV_LOOK-AT-MA-154b8c498538e3e4/meta.json"
   },
   {
-   "name": "🇺🇸 NCT-DREAM 'The Sun' · 10/23 09:30",
+   "name": "🇺🇸 NCT-DREAM 'The Sun'",
    "key": "1020_NCT-DREAM_MV_The-Sun",
    "job": "1020_NCT-DREAM_MV_The-Sun",
    "lang": "",
@@ -84,7 +84,7 @@
    "account": "amberbeat.official",
    "music": "NCT DREAM The Sun",
    "audio_start": "0:07 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "2026-10-23T09:30:00+09:00",
+   "scheduled_at": "",
    "caption": "NCT DREAM released the music video for 'The Sun' on Oct 20, 2026. The video has 55K views as of 31 minutes after release.\n\n———\n\nSource: SMTOWN official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#NCTDREAM #TheSun #KPOP #KpopNews #NewMV",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_NCT-DREAM_MV_The-Sun-b40f0d3567177c64/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_NCT-DREAM_MV_The-Sun-b40f0d3567177c64/cover.jpg",
@@ -93,7 +93,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_NCT-DREAM_MV_The-Sun-b40f0d3567177c64/meta.json"
   },
   {
-   "name": "🇪🇸 SEVENTEEN '12 oclock' · 10/21 16:00",
+   "name": "🇪🇸 SEVENTEEN '12 oclock'",
    "key": "1019_SEVENTEEN_MV_12-oclock@es",
    "job": "1019_SEVENTEEN_MV_12-oclock",
    "lang": "es",
@@ -102,7 +102,7 @@
    "account": "amberbeat.spain",
    "music": "SEVENTEEN 12 o'clock",
    "audio_start": "0:29 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "2026-10-21T16:00:00+09:00",
+   "scheduled_at": "",
    "caption": "Jeonghan y Joshua, de SEVENTEEN\nEl videoclip oficial de '12 o'clock' ya está disponible, estrenado el 19 de octubre de 2026.\nEn solo 33 minutos ya acumula 70.6K vistas.\n¿Qué os ha parecido este adelanto?\n¡Guarda este post para no perdértelo!\n\n———\n\nSource: HYBE LABELS official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Noticias de K-pop cada día, siempre con la fuente.\nSíguenos en @amberbeat.spain\n\n#KPOP #NoticiasKpop #KpopEnEspañol #SEVENTEEN #12oclock",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1019_SEVENTEEN_MV_12-oclock-e4c73a99b6c426c2/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1019_SEVENTEEN_MV_12-oclock-e4c73a99b6c426c2/cover.jpg",
@@ -111,7 +111,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1019_SEVENTEEN_MV_12-oclock-e4c73a99b6c426c2/meta.json"
   },
   {
-   "name": "🇮🇩 IVE 'Looks Can Kill' · 10/20 22:00",
+   "name": "🇮🇩 IVE 'Looks Can Kill'",
    "key": "1020_IVE_MV_Looks-Can-Kill@id",
    "job": "1020_IVE_MV_Looks-Can-Kill",
    "lang": "id",
@@ -120,7 +120,7 @@
    "account": "amberbeat.indonesia",
    "music": "IVE Looks Can Kill",
    "audio_start": "2:57 (추정)",
-   "scheduled_at": "2026-10-20T22:00:00+09:00",
+   "scheduled_at": "",
    "caption": "IVE balik lagi lewat 'Looks Can Kill'!\nMV-nya resmi rilis tanggal 19 Oktober 2026.\nBaru 31 menit aja udah tembus 3,5K views, gercep banget!\nKalian udah nonton belum?\nJangan lupa SAVE postingan ini biar nggak lupa mampir lagi!\n\n———\n\nSource: STARSHIP official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Berita K-pop setiap hari, selalu dengan sumbernya.\nIkuti @amberbeat.indonesia\n\n#KPOP #BeritaKpop #KpopIndonesia #IVE #LooksCanKill",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1020_IVE_MV_Looks-Can-Kill-1fbb83495e71bf87/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1020_IVE_MV_Looks-Can-Kill-1fbb83495e71bf87/cover.jpg",
@@ -129,7 +129,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1020_IVE_MV_Looks-Can-Kill-1fbb83495e71bf87/meta.json"
   },
   {
-   "name": "🇯🇵 IVE 'Looks Can Kill' · 10/20 12:30",
+   "name": "🇯🇵 IVE 'Looks Can Kill'",
    "key": "1020_IVE_MV_Looks-Can-Kill@ja",
    "job": "1020_IVE_MV_Looks-Can-Kill",
    "lang": "ja",
@@ -138,7 +138,7 @@
    "account": "amberbeat.japan",
    "music": "IVE Looks Can Kill",
    "audio_start": "1:21 (추정)",
-   "scheduled_at": "2026-10-20T12:30:00+09:00",
+   "scheduled_at": "",
    "caption": "【話題】IVEの新曲、公開直後から話題です\nIVEが2026年10月19日に『Looks Can Kill』のMVを公開しました。公開から31分の時点で再生回数は3.5千回でした。\nあなたの推しの一曲は？👇\n忘れないように保存してね\n\n——————\nSource: STARSHIP official YouTube\n\n#KPOP #KPOP好きな人と繋がりたい #Kポップ #IVE #LooksCanKill",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1020_IVE_MV_Looks-Can-Kill-2bf729d506c7cb8a/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1020_IVE_MV_Looks-Can-Kill-2bf729d506c7cb8a/cover.jpg",
@@ -147,7 +147,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1020_IVE_MV_Looks-Can-Kill-2bf729d506c7cb8a/meta.json"
   },
   {
-   "name": "🇯🇵 NMIXX '긴 소원 Birthday Wish' · 10/20 20:00",
+   "name": "🇯🇵 NMIXX '긴 소원 Birthday Wish'",
    "key": "1019_NMIXX_MV_긴-소원-Birthday-Wish@ja",
    "job": "1019_NMIXX_MV_긴-소원-Birthday-Wish",
    "lang": "ja",
@@ -156,7 +156,7 @@
    "account": "amberbeat.japan",
    "music": "NMIXX 긴 소원(Birthday Wish)",
    "audio_start": "1:31 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "2026-10-20T20:00:00+09:00",
+   "scheduled_at": "",
    "caption": "【MV】NMIXX『긴 소원(Birthday Wish)』\n\nNMIXXが2026年10月19日18時（韓国時間）、『긴 소원(Birthday Wish)』のMVを公開しました。\n\nあなたの推しの一曲は？\nフルバージョンはJYP Entertainment公式YouTubeで\n\n———\n\nSource: JYP Entertainment official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · 毎日のK-POPニュースを出典つきでお届けします。\nフォローはこちら @amberbeat.japan\n\n#NMIXX #긴소원BirthdayWish #KPOP #KPOP好きな人と繋がりたい #Kポップ",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_NMIXX_MV_----Birthday-Wish-c4ebca0017f6f009/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_NMIXX_MV_----Birthday-Wish-c4ebca0017f6f009/cover.jpg",
@@ -165,7 +165,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_NMIXX_MV_----Birthday-Wish-c4ebca0017f6f009/meta.json"
   },
   {
-   "name": "🇯🇵 SEVENTEEN '12 oclock' · 10/21 13:00",
+   "name": "🇯🇵 SEVENTEEN '12 oclock'",
    "key": "1019_SEVENTEEN_MV_12-oclock@ja",
    "job": "1019_SEVENTEEN_MV_12-oclock",
    "lang": "ja",
@@ -174,7 +174,7 @@
    "account": "amberbeat.japan",
    "music": "SEVENTEEN 12 o'clock",
    "audio_start": "0:46 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "2026-10-21T13:00:00+09:00",
+   "scheduled_at": "",
    "caption": "【話題】SEVENTEEN JEONGHANとJOSHUAが'12 o'clock'のMVを公開しました\nMVは2026年10月19日に公開されました\n公開から33分で再生回数は7.06万回でした\nあなたの推しの一曲は？\n忘れないように保存してね\n\n———\n\nSource: HYBE LABELS official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · 毎日のK-POPニュースを出典つきでお届けします。\nフォローはこちら @amberbeat.japan\n\n#KPOP #KPOP好きな人と繋がりたい #Kポップ #SEVENTEEN #セブチ",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_SEVENTEEN_MV_12-oclock-a064c6e73ec7a6d5/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_SEVENTEEN_MV_12-oclock-a064c6e73ec7a6d5/cover.jpg",
@@ -183,7 +183,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_SEVENTEEN_MV_12-oclock-a064c6e73ec7a6d5/meta.json"
   },
   {
-   "name": "🇵🇹 SEVENTEEN '12 oclock' · 10/21 17:00",
+   "name": "🇵🇹 SEVENTEEN '12 oclock'",
    "key": "1019_SEVENTEEN_MV_12-oclock@pt",
    "job": "1019_SEVENTEEN_MV_12-oclock",
    "lang": "pt",
@@ -192,7 +192,7 @@
    "account": "amberbeat.portugal",
    "music": "SEVENTEEN 12 o'clock",
    "audio_start": "0:29 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "2026-10-21T17:00:00+09:00",
+   "scheduled_at": "",
    "caption": "Jeonghan e Joshua, de SEVENTEEN\nO MV oficial de '12 o'clock' saiu a 19 de outubro de 2026.\nJá leva 70,6K visualizações, 33 minutos depois de ter saído.\nQual é a parte do MV que mais gostaste?\nGuarda este post para não perderes!\n\n———\n\nSource: HYBE LABELS official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Notícias de K-pop todos os dias, sempre com a fonte.\nSegue-nos em @amberbeat.portugal\n\n#KPOP #NoticiasKpop #KpopPortugal #SEVENTEEN #세븐틴",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_SEVENTEEN_MV_12-oclock-3fd422ada9223aa1/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_SEVENTEEN_MV_12-oclock-3fd422ada9223aa1/cover.jpg",
@@ -201,7 +201,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_SEVENTEEN_MV_12-oclock-3fd422ada9223aa1/meta.json"
   },
   {
-   "name": "🇵🇹 NMIXX '긴 소원 Birthday Wish' · 10/21 21:00",
+   "name": "🇵🇹 NMIXX '긴 소원 Birthday Wish'",
    "key": "1019_NMIXX_MV_긴-소원-Birthday-Wish@pt",
    "job": "1019_NMIXX_MV_긴-소원-Birthday-Wish",
    "lang": "pt",
@@ -210,7 +210,7 @@
    "account": "amberbeat.portugal",
    "music": "NMIXX 긴 소원(Birthday Wish)",
    "audio_start": "2:14 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "2026-10-21T21:00:00+09:00",
+   "scheduled_at": "",
    "caption": "A NMIXX partilhou o M/V oficial de '긴 소원(Birthday Wish)' no YouTube a 19 de outubro de 2026.\nJá viste o novo M/V?\n\n———\n\nSource: JYP Entertainment official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Notícias de K-pop todos os dias, sempre com a fonte.\nSegue-nos em @amberbeat.portugal\n\n#KPOP #NMIXX #NoticiasKpop #KpopPortugal",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_NMIXX_MV_-Birthday-Wish-1da67ea2a927de2c/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_NMIXX_MV_-Birthday-Wish-1da67ea2a927de2c/cover.jpg",
@@ -219,43 +219,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_NMIXX_MV_-Birthday-Wish-1da67ea2a927de2c/meta.json"
   },
   {
-   "name": "🇹🇭 EVNNE 'LOOK AT MA' · 10/21 10:00",
-   "key": "1020_EVNNE_MV_LOOK-AT-MA@th",
-   "job": "1020_EVNNE_MV_LOOK-AT-MA",
-   "lang": "th",
-   "flag": "🇹🇭",
-   "title": "EVNNE 'LOOK AT MA'",
-   "account": "amberbeat.thailand",
-   "music": "EVNNE LOOK AT MA",
-   "audio_start": "1:48 (추정)",
-   "scheduled_at": "2026-10-21T10:00:00+09:00",
-   "caption": "EVNNE ปล่อยเอ็มวี 'LOOK AT MA' แล้ว\nเอ็มวีอย่างเป็นทางการปล่อยวันที่ 19 ต.ค. 2026\nผ่านไป 31 นาที ยอดวิวอยู่ที่ 2.4พันวิว\nใครไปดูเอ็มวีมาแล้วบ้าง?\nกดเซฟไว้ดูเลย!\n\n———\n\nSource: EVNNE official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · ข่าว K-pop ทุกวัน พร้อมแหล่งที่มาทุกครั้ง\nติดตามได้ที่ @amberbeat.thailand\n\n#KPOP #ข่าวเคป๊อป #ติ่งเกาหลี #EVNNE",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_EVNNE_MV_LOOK-AT-MA-9f8730f42c786cec/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_EVNNE_MV_LOOK-AT-MA-9f8730f42c786cec/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_EVNNE_MV_LOOK-AT-MA-9f8730f42c786cec/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_EVNNE_MV_LOOK-AT-MA-9f8730f42c786cec/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_EVNNE_MV_LOOK-AT-MA-9f8730f42c786cec/meta.json"
-  },
-  {
-   "name": "🇹🇭 SEVENTEEN '12 oclock' · 10/21 11:00",
-   "key": "1019_SEVENTEEN_MV_12-oclock@th",
-   "job": "1019_SEVENTEEN_MV_12-oclock",
-   "lang": "th",
-   "flag": "🇹🇭",
-   "title": "SEVENTEEN '12 oclock'",
-   "account": "amberbeat.thailand",
-   "music": "SEVENTEEN 12 o'clock",
-   "audio_start": "0:46 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "2026-10-21T11:00:00+09:00",
-   "caption": "SEVENTEEN ‘12 o'clock’ MV\n\nSEVENTEEN ปล่อย MV ‘12 o'clock’ เมื่อวันที่ 19 ต.ค. 2026 เวลา 17:58 น. (KST)\n\nเพลงไหนที่ชอบที่สุด?\nดู MV เต็มได้ที่ช่อง YouTube ของ HYBE LABELS\n\n———\n\nSource: HYBE LABELS official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · ข่าว K-pop ทุกวัน พร้อมแหล่งที่มาทุกครั้ง\nติดตามได้ที่ @amberbeat.thailand\n\n#SEVENTEEN #12oclock #Kpop #อัปเดตเกาหลี #ติ่งเกาหลี",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1019_SEVENTEEN_MV_12-oclock-657b9c70dfda6d29/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1019_SEVENTEEN_MV_12-oclock-657b9c70dfda6d29/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1019_SEVENTEEN_MV_12-oclock-657b9c70dfda6d29/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1019_SEVENTEEN_MV_12-oclock-657b9c70dfda6d29/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1019_SEVENTEEN_MV_12-oclock-657b9c70dfda6d29/meta.json"
-  },
-  {
-   "name": "🇹🇭 IVE 'Looks Can Kill' · 10/22 11:00",
+   "name": "🇹🇭 IVE 'Looks Can Kill'",
    "key": "1020_IVE_MV_Looks-Can-Kill@th",
    "job": "1020_IVE_MV_Looks-Can-Kill",
    "lang": "th",
@@ -264,18 +228,54 @@
    "account": "amberbeat.thailand",
    "music": "IVE Looks Can Kill",
    "audio_start": "1:21 (추정)",
-   "scheduled_at": "2026-10-22T11:00:00+09:00",
+   "scheduled_at": "",
    "caption": "IVE ปล่อยเอ็มวีเพลง 'Looks Can Kill' แล้ว\nปล่อยวันที่ 19 ต.ค. 2026\nผ่านไปแค่ 31 นาที ยอดวิวทะลุ 3.5 พันวิวแล้ว\nเร็วขนาดนี้ใครก็ต้องกดดู\nชอบเพลงนี้กันมั้ย?\nไปดูกันได้เลยที่ยูทูป\nกดเซฟไว้ดูเลย!\n\n———\n\nSource: STARSHIP official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · ข่าว K-pop ทุกวัน พร้อมแหล่งที่มาทุกครั้ง\nติดตามได้ที่ @amberbeat.thailand\n\n#KPOP #ข่าวเคป๊อป #ติ่งเกาหลี #IVE #LooksCanKill",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_IVE_MV_Looks-Can-Kill-b27ea2cef7968925/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_IVE_MV_Looks-Can-Kill-b27ea2cef7968925/cover.jpg",
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_IVE_MV_Looks-Can-Kill-b27ea2cef7968925/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_IVE_MV_Looks-Can-Kill-b27ea2cef7968925/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_IVE_MV_Looks-Can-Kill-b27ea2cef7968925/meta.json"
+  },
+  {
+   "name": "🇹🇭 EVNNE 'LOOK AT MA'",
+   "key": "1020_EVNNE_MV_LOOK-AT-MA@th",
+   "job": "1020_EVNNE_MV_LOOK-AT-MA",
+   "lang": "th",
+   "flag": "🇹🇭",
+   "title": "EVNNE 'LOOK AT MA'",
+   "account": "amberbeat.thailand",
+   "music": "EVNNE LOOK AT MA",
+   "audio_start": "1:48 (추정)",
+   "scheduled_at": "",
+   "caption": "EVNNE ปล่อยเอ็มวี 'LOOK AT MA' แล้ว\nเอ็มวีอย่างเป็นทางการปล่อยวันที่ 19 ต.ค. 2026\nผ่านไป 31 นาที ยอดวิวอยู่ที่ 2.4พันวิว\nใครไปดูเอ็มวีมาแล้วบ้าง?\nกดเซฟไว้ดูเลย!\n\n———\n\nSource: EVNNE official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · ข่าว K-pop ทุกวัน พร้อมแหล่งที่มาทุกครั้ง\nติดตามได้ที่ @amberbeat.thailand\n\n#KPOP #ข่าวเคป๊อป #ติ่งเกาหลี #EVNNE",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_EVNNE_MV_LOOK-AT-MA-9f8730f42c786cec/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_EVNNE_MV_LOOK-AT-MA-9f8730f42c786cec/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_EVNNE_MV_LOOK-AT-MA-9f8730f42c786cec/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_EVNNE_MV_LOOK-AT-MA-9f8730f42c786cec/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_EVNNE_MV_LOOK-AT-MA-9f8730f42c786cec/meta.json"
+  },
+  {
+   "name": "🇹🇭 SEVENTEEN '12 oclock'",
+   "key": "1019_SEVENTEEN_MV_12-oclock@th",
+   "job": "1019_SEVENTEEN_MV_12-oclock",
+   "lang": "th",
+   "flag": "🇹🇭",
+   "title": "SEVENTEEN '12 oclock'",
+   "account": "amberbeat.thailand",
+   "music": "SEVENTEEN 12 o'clock",
+   "audio_start": "0:46 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "SEVENTEEN ‘12 o'clock’ MV\n\nSEVENTEEN ปล่อย MV ‘12 o'clock’ เมื่อวันที่ 19 ต.ค. 2026 เวลา 17:58 น. (KST)\n\nเพลงไหนที่ชอบที่สุด?\nดู MV เต็มได้ที่ช่อง YouTube ของ HYBE LABELS\n\n———\n\nSource: HYBE LABELS official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · ข่าว K-pop ทุกวัน พร้อมแหล่งที่มาทุกครั้ง\nติดตามได้ที่ @amberbeat.thailand\n\n#SEVENTEEN #12oclock #Kpop #อัปเดตเกาหลี #ติ่งเกาหลี",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1019_SEVENTEEN_MV_12-oclock-657b9c70dfda6d29/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1019_SEVENTEEN_MV_12-oclock-657b9c70dfda6d29/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1019_SEVENTEEN_MV_12-oclock-657b9c70dfda6d29/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1019_SEVENTEEN_MV_12-oclock-657b9c70dfda6d29/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1019_SEVENTEEN_MV_12-oclock-657b9c70dfda6d29/meta.json"
   }
  ],
  "by_name": {
-  "🇺🇸 SEVENTEEN '12 oclock' · 10/21 21:30": {
-   "name": "🇺🇸 SEVENTEEN '12 oclock' · 10/21 21:30",
+  "🇺🇸 SEVENTEEN '12 oclock'": {
+   "name": "🇺🇸 SEVENTEEN '12 oclock'",
    "key": "1019_SEVENTEEN_MV_12-oclock",
    "job": "1019_SEVENTEEN_MV_12-oclock",
    "lang": "",
@@ -284,7 +284,7 @@
    "account": "amberbeat.official",
    "music": "SEVENTEEN 12 o'clock",
    "audio_start": "0:29 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "2026-10-21T21:30:00+09:00",
+   "scheduled_at": "",
    "caption": "Jeonghan and Joshua of SEVENTEEN released the official MV for '12 o'clock' on Oct 19, 2026. It has 70.6K views as of Oct 19, 18:31 KST, 33 minutes after release.\n\n———\n\nSource: HYBE LABELS official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#SEVENTEEN #12oclock #KPOP #KpopNews #NewMV",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/cover.jpg",
@@ -292,26 +292,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/meta.json"
   },
-  "🇺🇸 NMIXX '긴 소원 Birthday Wish' · 10/21 23:00": {
-   "name": "🇺🇸 NMIXX '긴 소원 Birthday Wish' · 10/21 23:00",
-   "key": "1019_NMIXX_MV_긴-소원-Birthday-Wish",
-   "job": "1019_NMIXX_MV_긴-소원-Birthday-Wish",
-   "lang": "",
-   "flag": "🇺🇸",
-   "title": "NMIXX '긴 소원 Birthday Wish'",
-   "account": "amberbeat.official",
-   "music": "NMIXX 긴 소원(Birthday Wish)",
-   "audio_start": "0:42 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "2026-10-21T23:00:00+09:00",
-   "caption": "NMIXX shared the official M/V for '긴 소원(Birthday Wish)' on YouTube on Oct 19, 2026.\n\n———\n\nSource: JYP Entertainment official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#NMIXX #긴소원 #KPOP #KpopNews #NewMV",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_NMIXX_MV_----Birthday-Wish-7c88f63bae07f18a/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_NMIXX_MV_----Birthday-Wish-7c88f63bae07f18a/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_NMIXX_MV_----Birthday-Wish-7c88f63bae07f18a/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_NMIXX_MV_----Birthday-Wish-7c88f63bae07f18a/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_NMIXX_MV_----Birthday-Wish-7c88f63bae07f18a/meta.json"
-  },
-  "🇺🇸 IVE 'Looks Can Kill' · 10/22 09:30": {
-   "name": "🇺🇸 IVE 'Looks Can Kill' · 10/22 09:30",
+  "🇺🇸 IVE 'Looks Can Kill'": {
+   "name": "🇺🇸 IVE 'Looks Can Kill'",
    "key": "1020_IVE_MV_Looks-Can-Kill",
    "job": "1020_IVE_MV_Looks-Can-Kill",
    "lang": "",
@@ -320,7 +302,7 @@
    "account": "amberbeat.official",
    "music": "IVE Looks Can Kill",
    "audio_start": "0:52 (추정)",
-   "scheduled_at": "2026-10-22T09:30:00+09:00",
+   "scheduled_at": "",
    "caption": "IVE released the music video for 'Looks Can Kill' on Oct 19, 2026. It has reached 3.5K views within 31 minutes of release.\n\n———\n\nSource: STARSHIP official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#IVE #LooksCanKill #KPOP #KpopNews #NewMV",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_IVE_MV_Looks-Can-Kill-dea967f9d34aa41d/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_IVE_MV_Looks-Can-Kill-dea967f9d34aa41d/cover.jpg",
@@ -328,8 +310,26 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_IVE_MV_Looks-Can-Kill-dea967f9d34aa41d/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_IVE_MV_Looks-Can-Kill-dea967f9d34aa41d/meta.json"
   },
-  "🇺🇸 EVNNE 'LOOK AT MA' · 10/22 21:30": {
-   "name": "🇺🇸 EVNNE 'LOOK AT MA' · 10/22 21:30",
+  "🇺🇸 NMIXX '긴 소원 Birthday Wish'": {
+   "name": "🇺🇸 NMIXX '긴 소원 Birthday Wish'",
+   "key": "1019_NMIXX_MV_긴-소원-Birthday-Wish",
+   "job": "1019_NMIXX_MV_긴-소원-Birthday-Wish",
+   "lang": "",
+   "flag": "🇺🇸",
+   "title": "NMIXX '긴 소원 Birthday Wish'",
+   "account": "amberbeat.official",
+   "music": "NMIXX 긴 소원(Birthday Wish)",
+   "audio_start": "0:42 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "NMIXX shared the official M/V for '긴 소원(Birthday Wish)' on YouTube on Oct 19, 2026.\n\n———\n\nSource: JYP Entertainment official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#NMIXX #긴소원 #KPOP #KpopNews #NewMV",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_NMIXX_MV_----Birthday-Wish-7c88f63bae07f18a/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_NMIXX_MV_----Birthday-Wish-7c88f63bae07f18a/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_NMIXX_MV_----Birthday-Wish-7c88f63bae07f18a/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_NMIXX_MV_----Birthday-Wish-7c88f63bae07f18a/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_NMIXX_MV_----Birthday-Wish-7c88f63bae07f18a/meta.json"
+  },
+  "🇺🇸 EVNNE 'LOOK AT MA'": {
+   "name": "🇺🇸 EVNNE 'LOOK AT MA'",
    "key": "1020_EVNNE_MV_LOOK-AT-MA",
    "job": "1020_EVNNE_MV_LOOK-AT-MA",
    "lang": "",
@@ -338,7 +338,7 @@
    "account": "amberbeat.official",
    "music": "EVNNE LOOK AT MA",
    "audio_start": "0:40 I'm looking so flawless (추정)",
-   "scheduled_at": "2026-10-22T21:30:00+09:00",
+   "scheduled_at": "",
    "caption": "EVNNE released the official MV for 'LOOK AT MA' on Oct 19, 2026. It has 2.4K views as of 31 minutes after release.\n\n———\n\nSource: EVNNE official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#EVNNE #LOOKATMA #KPOP #KpopNews #NewMV",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_EVNNE_MV_LOOK-AT-MA-154b8c498538e3e4/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_EVNNE_MV_LOOK-AT-MA-154b8c498538e3e4/cover.jpg",
@@ -346,8 +346,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_EVNNE_MV_LOOK-AT-MA-154b8c498538e3e4/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_EVNNE_MV_LOOK-AT-MA-154b8c498538e3e4/meta.json"
   },
-  "🇺🇸 NCT-DREAM 'The Sun' · 10/23 09:30": {
-   "name": "🇺🇸 NCT-DREAM 'The Sun' · 10/23 09:30",
+  "🇺🇸 NCT-DREAM 'The Sun'": {
+   "name": "🇺🇸 NCT-DREAM 'The Sun'",
    "key": "1020_NCT-DREAM_MV_The-Sun",
    "job": "1020_NCT-DREAM_MV_The-Sun",
    "lang": "",
@@ -356,7 +356,7 @@
    "account": "amberbeat.official",
    "music": "NCT DREAM The Sun",
    "audio_start": "0:07 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "2026-10-23T09:30:00+09:00",
+   "scheduled_at": "",
    "caption": "NCT DREAM released the music video for 'The Sun' on Oct 20, 2026. The video has 55K views as of 31 minutes after release.\n\n———\n\nSource: SMTOWN official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#NCTDREAM #TheSun #KPOP #KpopNews #NewMV",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_NCT-DREAM_MV_The-Sun-b40f0d3567177c64/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_NCT-DREAM_MV_The-Sun-b40f0d3567177c64/cover.jpg",
@@ -364,8 +364,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_NCT-DREAM_MV_The-Sun-b40f0d3567177c64/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_NCT-DREAM_MV_The-Sun-b40f0d3567177c64/meta.json"
   },
-  "🇪🇸 SEVENTEEN '12 oclock' · 10/21 16:00": {
-   "name": "🇪🇸 SEVENTEEN '12 oclock' · 10/21 16:00",
+  "🇪🇸 SEVENTEEN '12 oclock'": {
+   "name": "🇪🇸 SEVENTEEN '12 oclock'",
    "key": "1019_SEVENTEEN_MV_12-oclock@es",
    "job": "1019_SEVENTEEN_MV_12-oclock",
    "lang": "es",
@@ -374,7 +374,7 @@
    "account": "amberbeat.spain",
    "music": "SEVENTEEN 12 o'clock",
    "audio_start": "0:29 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "2026-10-21T16:00:00+09:00",
+   "scheduled_at": "",
    "caption": "Jeonghan y Joshua, de SEVENTEEN\nEl videoclip oficial de '12 o'clock' ya está disponible, estrenado el 19 de octubre de 2026.\nEn solo 33 minutos ya acumula 70.6K vistas.\n¿Qué os ha parecido este adelanto?\n¡Guarda este post para no perdértelo!\n\n———\n\nSource: HYBE LABELS official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Noticias de K-pop cada día, siempre con la fuente.\nSíguenos en @amberbeat.spain\n\n#KPOP #NoticiasKpop #KpopEnEspañol #SEVENTEEN #12oclock",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1019_SEVENTEEN_MV_12-oclock-e4c73a99b6c426c2/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1019_SEVENTEEN_MV_12-oclock-e4c73a99b6c426c2/cover.jpg",
@@ -382,8 +382,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1019_SEVENTEEN_MV_12-oclock-e4c73a99b6c426c2/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1019_SEVENTEEN_MV_12-oclock-e4c73a99b6c426c2/meta.json"
   },
-  "🇮🇩 IVE 'Looks Can Kill' · 10/20 22:00": {
-   "name": "🇮🇩 IVE 'Looks Can Kill' · 10/20 22:00",
+  "🇮🇩 IVE 'Looks Can Kill'": {
+   "name": "🇮🇩 IVE 'Looks Can Kill'",
    "key": "1020_IVE_MV_Looks-Can-Kill@id",
    "job": "1020_IVE_MV_Looks-Can-Kill",
    "lang": "id",
@@ -392,7 +392,7 @@
    "account": "amberbeat.indonesia",
    "music": "IVE Looks Can Kill",
    "audio_start": "2:57 (추정)",
-   "scheduled_at": "2026-10-20T22:00:00+09:00",
+   "scheduled_at": "",
    "caption": "IVE balik lagi lewat 'Looks Can Kill'!\nMV-nya resmi rilis tanggal 19 Oktober 2026.\nBaru 31 menit aja udah tembus 3,5K views, gercep banget!\nKalian udah nonton belum?\nJangan lupa SAVE postingan ini biar nggak lupa mampir lagi!\n\n———\n\nSource: STARSHIP official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Berita K-pop setiap hari, selalu dengan sumbernya.\nIkuti @amberbeat.indonesia\n\n#KPOP #BeritaKpop #KpopIndonesia #IVE #LooksCanKill",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1020_IVE_MV_Looks-Can-Kill-1fbb83495e71bf87/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1020_IVE_MV_Looks-Can-Kill-1fbb83495e71bf87/cover.jpg",
@@ -400,8 +400,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1020_IVE_MV_Looks-Can-Kill-1fbb83495e71bf87/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1020_IVE_MV_Looks-Can-Kill-1fbb83495e71bf87/meta.json"
   },
-  "🇯🇵 IVE 'Looks Can Kill' · 10/20 12:30": {
-   "name": "🇯🇵 IVE 'Looks Can Kill' · 10/20 12:30",
+  "🇯🇵 IVE 'Looks Can Kill'": {
+   "name": "🇯🇵 IVE 'Looks Can Kill'",
    "key": "1020_IVE_MV_Looks-Can-Kill@ja",
    "job": "1020_IVE_MV_Looks-Can-Kill",
    "lang": "ja",
@@ -410,7 +410,7 @@
    "account": "amberbeat.japan",
    "music": "IVE Looks Can Kill",
    "audio_start": "1:21 (추정)",
-   "scheduled_at": "2026-10-20T12:30:00+09:00",
+   "scheduled_at": "",
    "caption": "【話題】IVEの新曲、公開直後から話題です\nIVEが2026年10月19日に『Looks Can Kill』のMVを公開しました。公開から31分の時点で再生回数は3.5千回でした。\nあなたの推しの一曲は？👇\n忘れないように保存してね\n\n——————\nSource: STARSHIP official YouTube\n\n#KPOP #KPOP好きな人と繋がりたい #Kポップ #IVE #LooksCanKill",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1020_IVE_MV_Looks-Can-Kill-2bf729d506c7cb8a/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1020_IVE_MV_Looks-Can-Kill-2bf729d506c7cb8a/cover.jpg",
@@ -418,8 +418,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1020_IVE_MV_Looks-Can-Kill-2bf729d506c7cb8a/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1020_IVE_MV_Looks-Can-Kill-2bf729d506c7cb8a/meta.json"
   },
-  "🇯🇵 NMIXX '긴 소원 Birthday Wish' · 10/20 20:00": {
-   "name": "🇯🇵 NMIXX '긴 소원 Birthday Wish' · 10/20 20:00",
+  "🇯🇵 NMIXX '긴 소원 Birthday Wish'": {
+   "name": "🇯🇵 NMIXX '긴 소원 Birthday Wish'",
    "key": "1019_NMIXX_MV_긴-소원-Birthday-Wish@ja",
    "job": "1019_NMIXX_MV_긴-소원-Birthday-Wish",
    "lang": "ja",
@@ -428,7 +428,7 @@
    "account": "amberbeat.japan",
    "music": "NMIXX 긴 소원(Birthday Wish)",
    "audio_start": "1:31 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "2026-10-20T20:00:00+09:00",
+   "scheduled_at": "",
    "caption": "【MV】NMIXX『긴 소원(Birthday Wish)』\n\nNMIXXが2026年10月19日18時（韓国時間）、『긴 소원(Birthday Wish)』のMVを公開しました。\n\nあなたの推しの一曲は？\nフルバージョンはJYP Entertainment公式YouTubeで\n\n———\n\nSource: JYP Entertainment official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · 毎日のK-POPニュースを出典つきでお届けします。\nフォローはこちら @amberbeat.japan\n\n#NMIXX #긴소원BirthdayWish #KPOP #KPOP好きな人と繋がりたい #Kポップ",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_NMIXX_MV_----Birthday-Wish-c4ebca0017f6f009/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_NMIXX_MV_----Birthday-Wish-c4ebca0017f6f009/cover.jpg",
@@ -436,8 +436,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_NMIXX_MV_----Birthday-Wish-c4ebca0017f6f009/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_NMIXX_MV_----Birthday-Wish-c4ebca0017f6f009/meta.json"
   },
-  "🇯🇵 SEVENTEEN '12 oclock' · 10/21 13:00": {
-   "name": "🇯🇵 SEVENTEEN '12 oclock' · 10/21 13:00",
+  "🇯🇵 SEVENTEEN '12 oclock'": {
+   "name": "🇯🇵 SEVENTEEN '12 oclock'",
    "key": "1019_SEVENTEEN_MV_12-oclock@ja",
    "job": "1019_SEVENTEEN_MV_12-oclock",
    "lang": "ja",
@@ -446,7 +446,7 @@
    "account": "amberbeat.japan",
    "music": "SEVENTEEN 12 o'clock",
    "audio_start": "0:46 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "2026-10-21T13:00:00+09:00",
+   "scheduled_at": "",
    "caption": "【話題】SEVENTEEN JEONGHANとJOSHUAが'12 o'clock'のMVを公開しました\nMVは2026年10月19日に公開されました\n公開から33分で再生回数は7.06万回でした\nあなたの推しの一曲は？\n忘れないように保存してね\n\n———\n\nSource: HYBE LABELS official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · 毎日のK-POPニュースを出典つきでお届けします。\nフォローはこちら @amberbeat.japan\n\n#KPOP #KPOP好きな人と繋がりたい #Kポップ #SEVENTEEN #セブチ",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_SEVENTEEN_MV_12-oclock-a064c6e73ec7a6d5/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_SEVENTEEN_MV_12-oclock-a064c6e73ec7a6d5/cover.jpg",
@@ -454,8 +454,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_SEVENTEEN_MV_12-oclock-a064c6e73ec7a6d5/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_SEVENTEEN_MV_12-oclock-a064c6e73ec7a6d5/meta.json"
   },
-  "🇵🇹 SEVENTEEN '12 oclock' · 10/21 17:00": {
-   "name": "🇵🇹 SEVENTEEN '12 oclock' · 10/21 17:00",
+  "🇵🇹 SEVENTEEN '12 oclock'": {
+   "name": "🇵🇹 SEVENTEEN '12 oclock'",
    "key": "1019_SEVENTEEN_MV_12-oclock@pt",
    "job": "1019_SEVENTEEN_MV_12-oclock",
    "lang": "pt",
@@ -464,7 +464,7 @@
    "account": "amberbeat.portugal",
    "music": "SEVENTEEN 12 o'clock",
    "audio_start": "0:29 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "2026-10-21T17:00:00+09:00",
+   "scheduled_at": "",
    "caption": "Jeonghan e Joshua, de SEVENTEEN\nO MV oficial de '12 o'clock' saiu a 19 de outubro de 2026.\nJá leva 70,6K visualizações, 33 minutos depois de ter saído.\nQual é a parte do MV que mais gostaste?\nGuarda este post para não perderes!\n\n———\n\nSource: HYBE LABELS official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Notícias de K-pop todos os dias, sempre com a fonte.\nSegue-nos em @amberbeat.portugal\n\n#KPOP #NoticiasKpop #KpopPortugal #SEVENTEEN #세븐틴",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_SEVENTEEN_MV_12-oclock-3fd422ada9223aa1/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_SEVENTEEN_MV_12-oclock-3fd422ada9223aa1/cover.jpg",
@@ -472,8 +472,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_SEVENTEEN_MV_12-oclock-3fd422ada9223aa1/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_SEVENTEEN_MV_12-oclock-3fd422ada9223aa1/meta.json"
   },
-  "🇵🇹 NMIXX '긴 소원 Birthday Wish' · 10/21 21:00": {
-   "name": "🇵🇹 NMIXX '긴 소원 Birthday Wish' · 10/21 21:00",
+  "🇵🇹 NMIXX '긴 소원 Birthday Wish'": {
+   "name": "🇵🇹 NMIXX '긴 소원 Birthday Wish'",
    "key": "1019_NMIXX_MV_긴-소원-Birthday-Wish@pt",
    "job": "1019_NMIXX_MV_긴-소원-Birthday-Wish",
    "lang": "pt",
@@ -482,7 +482,7 @@
    "account": "amberbeat.portugal",
    "music": "NMIXX 긴 소원(Birthday Wish)",
    "audio_start": "2:14 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "2026-10-21T21:00:00+09:00",
+   "scheduled_at": "",
    "caption": "A NMIXX partilhou o M/V oficial de '긴 소원(Birthday Wish)' no YouTube a 19 de outubro de 2026.\nJá viste o novo M/V?\n\n———\n\nSource: JYP Entertainment official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Notícias de K-pop todos os dias, sempre com a fonte.\nSegue-nos em @amberbeat.portugal\n\n#KPOP #NMIXX #NoticiasKpop #KpopPortugal",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_NMIXX_MV_-Birthday-Wish-1da67ea2a927de2c/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_NMIXX_MV_-Birthday-Wish-1da67ea2a927de2c/cover.jpg",
@@ -490,44 +490,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_NMIXX_MV_-Birthday-Wish-1da67ea2a927de2c/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_NMIXX_MV_-Birthday-Wish-1da67ea2a927de2c/meta.json"
   },
-  "🇹🇭 EVNNE 'LOOK AT MA' · 10/21 10:00": {
-   "name": "🇹🇭 EVNNE 'LOOK AT MA' · 10/21 10:00",
-   "key": "1020_EVNNE_MV_LOOK-AT-MA@th",
-   "job": "1020_EVNNE_MV_LOOK-AT-MA",
-   "lang": "th",
-   "flag": "🇹🇭",
-   "title": "EVNNE 'LOOK AT MA'",
-   "account": "amberbeat.thailand",
-   "music": "EVNNE LOOK AT MA",
-   "audio_start": "1:48 (추정)",
-   "scheduled_at": "2026-10-21T10:00:00+09:00",
-   "caption": "EVNNE ปล่อยเอ็มวี 'LOOK AT MA' แล้ว\nเอ็มวีอย่างเป็นทางการปล่อยวันที่ 19 ต.ค. 2026\nผ่านไป 31 นาที ยอดวิวอยู่ที่ 2.4พันวิว\nใครไปดูเอ็มวีมาแล้วบ้าง?\nกดเซฟไว้ดูเลย!\n\n———\n\nSource: EVNNE official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · ข่าว K-pop ทุกวัน พร้อมแหล่งที่มาทุกครั้ง\nติดตามได้ที่ @amberbeat.thailand\n\n#KPOP #ข่าวเคป๊อป #ติ่งเกาหลี #EVNNE",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_EVNNE_MV_LOOK-AT-MA-9f8730f42c786cec/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_EVNNE_MV_LOOK-AT-MA-9f8730f42c786cec/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_EVNNE_MV_LOOK-AT-MA-9f8730f42c786cec/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_EVNNE_MV_LOOK-AT-MA-9f8730f42c786cec/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_EVNNE_MV_LOOK-AT-MA-9f8730f42c786cec/meta.json"
-  },
-  "🇹🇭 SEVENTEEN '12 oclock' · 10/21 11:00": {
-   "name": "🇹🇭 SEVENTEEN '12 oclock' · 10/21 11:00",
-   "key": "1019_SEVENTEEN_MV_12-oclock@th",
-   "job": "1019_SEVENTEEN_MV_12-oclock",
-   "lang": "th",
-   "flag": "🇹🇭",
-   "title": "SEVENTEEN '12 oclock'",
-   "account": "amberbeat.thailand",
-   "music": "SEVENTEEN 12 o'clock",
-   "audio_start": "0:46 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "2026-10-21T11:00:00+09:00",
-   "caption": "SEVENTEEN ‘12 o'clock’ MV\n\nSEVENTEEN ปล่อย MV ‘12 o'clock’ เมื่อวันที่ 19 ต.ค. 2026 เวลา 17:58 น. (KST)\n\nเพลงไหนที่ชอบที่สุด?\nดู MV เต็มได้ที่ช่อง YouTube ของ HYBE LABELS\n\n———\n\nSource: HYBE LABELS official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · ข่าว K-pop ทุกวัน พร้อมแหล่งที่มาทุกครั้ง\nติดตามได้ที่ @amberbeat.thailand\n\n#SEVENTEEN #12oclock #Kpop #อัปเดตเกาหลี #ติ่งเกาหลี",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1019_SEVENTEEN_MV_12-oclock-657b9c70dfda6d29/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1019_SEVENTEEN_MV_12-oclock-657b9c70dfda6d29/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1019_SEVENTEEN_MV_12-oclock-657b9c70dfda6d29/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1019_SEVENTEEN_MV_12-oclock-657b9c70dfda6d29/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1019_SEVENTEEN_MV_12-oclock-657b9c70dfda6d29/meta.json"
-  },
-  "🇹🇭 IVE 'Looks Can Kill' · 10/22 11:00": {
-   "name": "🇹🇭 IVE 'Looks Can Kill' · 10/22 11:00",
+  "🇹🇭 IVE 'Looks Can Kill'": {
+   "name": "🇹🇭 IVE 'Looks Can Kill'",
    "key": "1020_IVE_MV_Looks-Can-Kill@th",
    "job": "1020_IVE_MV_Looks-Can-Kill",
    "lang": "th",
@@ -536,13 +500,49 @@
    "account": "amberbeat.thailand",
    "music": "IVE Looks Can Kill",
    "audio_start": "1:21 (추정)",
-   "scheduled_at": "2026-10-22T11:00:00+09:00",
+   "scheduled_at": "",
    "caption": "IVE ปล่อยเอ็มวีเพลง 'Looks Can Kill' แล้ว\nปล่อยวันที่ 19 ต.ค. 2026\nผ่านไปแค่ 31 นาที ยอดวิวทะลุ 3.5 พันวิวแล้ว\nเร็วขนาดนี้ใครก็ต้องกดดู\nชอบเพลงนี้กันมั้ย?\nไปดูกันได้เลยที่ยูทูป\nกดเซฟไว้ดูเลย!\n\n———\n\nSource: STARSHIP official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · ข่าว K-pop ทุกวัน พร้อมแหล่งที่มาทุกครั้ง\nติดตามได้ที่ @amberbeat.thailand\n\n#KPOP #ข่าวเคป๊อป #ติ่งเกาหลี #IVE #LooksCanKill",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_IVE_MV_Looks-Can-Kill-b27ea2cef7968925/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_IVE_MV_Looks-Can-Kill-b27ea2cef7968925/cover.jpg",
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_IVE_MV_Looks-Can-Kill-b27ea2cef7968925/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_IVE_MV_Looks-Can-Kill-b27ea2cef7968925/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_IVE_MV_Looks-Can-Kill-b27ea2cef7968925/meta.json"
+  },
+  "🇹🇭 EVNNE 'LOOK AT MA'": {
+   "name": "🇹🇭 EVNNE 'LOOK AT MA'",
+   "key": "1020_EVNNE_MV_LOOK-AT-MA@th",
+   "job": "1020_EVNNE_MV_LOOK-AT-MA",
+   "lang": "th",
+   "flag": "🇹🇭",
+   "title": "EVNNE 'LOOK AT MA'",
+   "account": "amberbeat.thailand",
+   "music": "EVNNE LOOK AT MA",
+   "audio_start": "1:48 (추정)",
+   "scheduled_at": "",
+   "caption": "EVNNE ปล่อยเอ็มวี 'LOOK AT MA' แล้ว\nเอ็มวีอย่างเป็นทางการปล่อยวันที่ 19 ต.ค. 2026\nผ่านไป 31 นาที ยอดวิวอยู่ที่ 2.4พันวิว\nใครไปดูเอ็มวีมาแล้วบ้าง?\nกดเซฟไว้ดูเลย!\n\n———\n\nSource: EVNNE official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · ข่าว K-pop ทุกวัน พร้อมแหล่งที่มาทุกครั้ง\nติดตามได้ที่ @amberbeat.thailand\n\n#KPOP #ข่าวเคป๊อป #ติ่งเกาหลี #EVNNE",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_EVNNE_MV_LOOK-AT-MA-9f8730f42c786cec/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_EVNNE_MV_LOOK-AT-MA-9f8730f42c786cec/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_EVNNE_MV_LOOK-AT-MA-9f8730f42c786cec/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_EVNNE_MV_LOOK-AT-MA-9f8730f42c786cec/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1020_EVNNE_MV_LOOK-AT-MA-9f8730f42c786cec/meta.json"
+  },
+  "🇹🇭 SEVENTEEN '12 oclock'": {
+   "name": "🇹🇭 SEVENTEEN '12 oclock'",
+   "key": "1019_SEVENTEEN_MV_12-oclock@th",
+   "job": "1019_SEVENTEEN_MV_12-oclock",
+   "lang": "th",
+   "flag": "🇹🇭",
+   "title": "SEVENTEEN '12 oclock'",
+   "account": "amberbeat.thailand",
+   "music": "SEVENTEEN 12 o'clock",
+   "audio_start": "0:46 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "SEVENTEEN ‘12 o'clock’ MV\n\nSEVENTEEN ปล่อย MV ‘12 o'clock’ เมื่อวันที่ 19 ต.ค. 2026 เวลา 17:58 น. (KST)\n\nเพลงไหนที่ชอบที่สุด?\nดู MV เต็มได้ที่ช่อง YouTube ของ HYBE LABELS\n\n———\n\nSource: HYBE LABELS official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · ข่าว K-pop ทุกวัน พร้อมแหล่งที่มาทุกครั้ง\nติดตามได้ที่ @amberbeat.thailand\n\n#SEVENTEEN #12oclock #Kpop #อัปเดตเกาหลี #ติ่งเกาหลี",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1019_SEVENTEEN_MV_12-oclock-657b9c70dfda6d29/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1019_SEVENTEEN_MV_12-oclock-657b9c70dfda6d29/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1019_SEVENTEEN_MV_12-oclock-657b9c70dfda6d29/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1019_SEVENTEEN_MV_12-oclock-657b9c70dfda6d29/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1019_SEVENTEEN_MV_12-oclock-657b9c70dfda6d29/meta.json"
   }
  }
 }
