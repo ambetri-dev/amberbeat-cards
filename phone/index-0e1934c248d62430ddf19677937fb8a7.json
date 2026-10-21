@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-21T09:37:17+09:00",
- "count": 14,
+ "updated_at": "2026-10-21T09:38:35+09:00",
+ "count": 15,
  "items": [
   {
    "name": "🇺🇸 SEVENTEEN '12 oclock' · 10/20 21:30",
@@ -217,6 +217,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_SEVENTEEN_MV_12-oclock-a064c6e73ec7a6d5/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_SEVENTEEN_MV_12-oclock-a064c6e73ec7a6d5/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_SEVENTEEN_MV_12-oclock-a064c6e73ec7a6d5/meta.json"
+  },
+  {
+   "name": "🇵🇹 SEVENTEEN '12 oclock' · 10/21 17:00",
+   "key": "1019_SEVENTEEN_MV_12-oclock@pt",
+   "job": "1019_SEVENTEEN_MV_12-oclock",
+   "lang": "pt",
+   "flag": "🇵🇹",
+   "title": "SEVENTEEN '12 oclock'",
+   "account": "amberbeat.portugal",
+   "music": "SEVENTEEN 12 o'clock",
+   "audio_start": "0:29 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "2026-10-21T17:00:00+09:00",
+   "caption": "Jeonghan e Joshua, de SEVENTEEN 🎬\nO MV oficial de '12 o'clock' saiu a 19 de outubro de 2026.\nJá leva 70,6K visualizações, 33 minutos depois de ter saído.\nQual é a parte do MV que mais gostaste?\nGuarda este post para não perderes!\n\n——————\nSource: HYBE LABELS official YouTube\n\n#KPOP #NoticiasKpop #KpopPortugal #SEVENTEEN #세븐틴",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_SEVENTEEN_MV_12-oclock-3fd422ada9223aa1/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_SEVENTEEN_MV_12-oclock-3fd422ada9223aa1/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_SEVENTEEN_MV_12-oclock-3fd422ada9223aa1/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_SEVENTEEN_MV_12-oclock-3fd422ada9223aa1/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_SEVENTEEN_MV_12-oclock-3fd422ada9223aa1/meta.json"
   },
   {
    "name": "🇹🇭 EVNNE 'LOOK AT MA' · 10/21 10:00",
@@ -471,6 +489,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_SEVENTEEN_MV_12-oclock-a064c6e73ec7a6d5/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_SEVENTEEN_MV_12-oclock-a064c6e73ec7a6d5/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_SEVENTEEN_MV_12-oclock-a064c6e73ec7a6d5/meta.json"
+  },
+  "🇵🇹 SEVENTEEN '12 oclock' · 10/21 17:00": {
+   "name": "🇵🇹 SEVENTEEN '12 oclock' · 10/21 17:00",
+   "key": "1019_SEVENTEEN_MV_12-oclock@pt",
+   "job": "1019_SEVENTEEN_MV_12-oclock",
+   "lang": "pt",
+   "flag": "🇵🇹",
+   "title": "SEVENTEEN '12 oclock'",
+   "account": "amberbeat.portugal",
+   "music": "SEVENTEEN 12 o'clock",
+   "audio_start": "0:29 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "2026-10-21T17:00:00+09:00",
+   "caption": "Jeonghan e Joshua, de SEVENTEEN 🎬\nO MV oficial de '12 o'clock' saiu a 19 de outubro de 2026.\nJá leva 70,6K visualizações, 33 minutos depois de ter saído.\nQual é a parte do MV que mais gostaste?\nGuarda este post para não perderes!\n\n——————\nSource: HYBE LABELS official YouTube\n\n#KPOP #NoticiasKpop #KpopPortugal #SEVENTEEN #세븐틴",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_SEVENTEEN_MV_12-oclock-3fd422ada9223aa1/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_SEVENTEEN_MV_12-oclock-3fd422ada9223aa1/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_SEVENTEEN_MV_12-oclock-3fd422ada9223aa1/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_SEVENTEEN_MV_12-oclock-3fd422ada9223aa1/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_SEVENTEEN_MV_12-oclock-3fd422ada9223aa1/meta.json"
   },
   "🇹🇭 EVNNE 'LOOK AT MA' · 10/21 10:00": {
    "name": "🇹🇭 EVNNE 'LOOK AT MA' · 10/21 10:00",
