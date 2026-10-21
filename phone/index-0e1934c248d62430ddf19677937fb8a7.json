@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-10-21T11:10:26+09:00",
+ "updated_at": "2026-10-21T11:10:31+09:00",
  "count": 15,
  "items": [
   {
-   "name": "🇺🇸 SEVENTEEN '12 oclock' · 10/21 23:00",
+   "name": "🇺🇸 SEVENTEEN '12 oclock' · 10/21 21:30",
    "key": "1019_SEVENTEEN_MV_12-oclock",
    "job": "1019_SEVENTEEN_MV_12-oclock",
    "lang": "",
@@ -12,7 +12,7 @@
    "account": "amberbeat.official",
    "music": "SEVENTEEN 12 o'clock",
    "audio_start": "0:29 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "2026-10-21T23:00:00+09:00",
+   "scheduled_at": "2026-10-21T21:30:00+09:00",
    "caption": "Jeonghan and Joshua of SEVENTEEN released the official MV for '12 o'clock' on Oct 19, 2026. It has 70.6K views as of Oct 19, 18:31 KST, 33 minutes after release.\n\n——————\nSource: HYBE LABELS official YouTube\n\n#SEVENTEEN #12oclock #KPOP #KpopNews #NewMV",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/cover.jpg",
@@ -274,8 +274,8 @@
   }
  ],
  "by_name": {
-  "🇺🇸 SEVENTEEN '12 oclock' · 10/21 23:00": {
-   "name": "🇺🇸 SEVENTEEN '12 oclock' · 10/21 23:00",
+  "🇺🇸 SEVENTEEN '12 oclock' · 10/21 21:30": {
+   "name": "🇺🇸 SEVENTEEN '12 oclock' · 10/21 21:30",
    "key": "1019_SEVENTEEN_MV_12-oclock",
    "job": "1019_SEVENTEEN_MV_12-oclock",
    "lang": "",
@@ -284,7 +284,7 @@
    "account": "amberbeat.official",
    "music": "SEVENTEEN 12 o'clock",
    "audio_start": "0:29 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "2026-10-21T23:00:00+09:00",
+   "scheduled_at": "2026-10-21T21:30:00+09:00",
    "caption": "Jeonghan and Joshua of SEVENTEEN released the official MV for '12 o'clock' on Oct 19, 2026. It has 70.6K views as of Oct 19, 18:31 KST, 33 minutes after release.\n\n——————\nSource: HYBE LABELS official YouTube\n\n#SEVENTEEN #12oclock #KPOP #KpopNews #NewMV",
    "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/reel.mp4",
    "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/cover.jpg",
