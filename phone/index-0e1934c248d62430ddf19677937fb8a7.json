@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-21T14:21:02+09:00",
- "count": 17,
+ "updated_at": "2026-10-21T14:27:49+09:00",
+ "count": 16,
  "items": [
   {
    "name": "🇺🇸 SEVENTEEN '12 oclock' · 10/21 21:30",
@@ -91,24 +91,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_NCT-DREAM_MV_The-Sun-b40f0d3567177c64/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_NCT-DREAM_MV_The-Sun-b40f0d3567177c64/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_NCT-DREAM_MV_The-Sun-b40f0d3567177c64/meta.json"
-  },
-  {
-   "name": "🇺🇸 TWICE 'add3' · 10/23 10:30",
-   "key": "1021_TWICE_agency_add3@en",
-   "job": "1021_TWICE_agency_add3",
-   "lang": "en",
-   "flag": "🇺🇸",
-   "title": "TWICE 'add3'",
-   "account": "amberbeat.official",
-   "music": "TWICE What is Love?",
-   "audio_start": "2:38 사탕처럼 달콤하다는데 (추정)",
-   "scheduled_at": "2026-10-23T10:30:00+09:00",
-   "caption": "TWICE's Jihyo is leaving JYP Entertainment after 21 years. She has founded her own company, EMITHAUS, and will continue TWICE activities with her members. She shared the news in a statement on Oct 21, 2026.\n\n-\n\nSource: Newsen\n\nPhoto: David Lee (CC BY 4.0)\n\n-\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#KPOP #TWICE #Jihyo #EMITHAUS #KpopNews",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1021_TWICE_agency_add3-d0219d5d6217d6e1/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1021_TWICE_agency_add3-d0219d5d6217d6e1/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1021_TWICE_agency_add3-d0219d5d6217d6e1/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1021_TWICE_agency_add3-d0219d5d6217d6e1/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1021_TWICE_agency_add3-d0219d5d6217d6e1/meta.json"
   },
   {
    "name": "🇪🇸 IVE 'Looks Can Kill' · 10/20 15:00",
@@ -399,24 +381,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_NCT-DREAM_MV_The-Sun-b40f0d3567177c64/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_NCT-DREAM_MV_The-Sun-b40f0d3567177c64/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_NCT-DREAM_MV_The-Sun-b40f0d3567177c64/meta.json"
-  },
-  "🇺🇸 TWICE 'add3' · 10/23 10:30": {
-   "name": "🇺🇸 TWICE 'add3' · 10/23 10:30",
-   "key": "1021_TWICE_agency_add3@en",
-   "job": "1021_TWICE_agency_add3",
-   "lang": "en",
-   "flag": "🇺🇸",
-   "title": "TWICE 'add3'",
-   "account": "amberbeat.official",
-   "music": "TWICE What is Love?",
-   "audio_start": "2:38 사탕처럼 달콤하다는데 (추정)",
-   "scheduled_at": "2026-10-23T10:30:00+09:00",
-   "caption": "TWICE's Jihyo is leaving JYP Entertainment after 21 years. She has founded her own company, EMITHAUS, and will continue TWICE activities with her members. She shared the news in a statement on Oct 21, 2026.\n\n-\n\nSource: Newsen\n\nPhoto: David Lee (CC BY 4.0)\n\n-\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#KPOP #TWICE #Jihyo #EMITHAUS #KpopNews",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1021_TWICE_agency_add3-d0219d5d6217d6e1/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1021_TWICE_agency_add3-d0219d5d6217d6e1/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1021_TWICE_agency_add3-d0219d5d6217d6e1/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1021_TWICE_agency_add3-d0219d5d6217d6e1/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1021_TWICE_agency_add3-d0219d5d6217d6e1/meta.json"
   },
   "🇪🇸 IVE 'Looks Can Kill' · 10/20 15:00": {
    "name": "🇪🇸 IVE 'Looks Can Kill' · 10/20 15:00",
