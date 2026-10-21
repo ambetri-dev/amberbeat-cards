@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-21T16:23:23+09:00",
- "count": 15,
+ "updated_at": "2026-10-21T16:23:41+09:00",
+ "count": 16,
  "items": [
   {
    "name": "🇺🇸 SEVENTEEN '12 oclock'",
@@ -217,6 +217,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_NMIXX_MV_-Birthday-Wish-9fc0b9ad4caa5103/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_NMIXX_MV_-Birthday-Wish-9fc0b9ad4caa5103/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_NMIXX_MV_-Birthday-Wish-9fc0b9ad4caa5103/meta.json"
+  },
+  {
+   "name": "🇵🇹 EVNNE 'LOOK AT MA'",
+   "key": "1020_EVNNE_MV_LOOK-AT-MA@pt",
+   "job": "1020_EVNNE_MV_LOOK-AT-MA",
+   "lang": "pt",
+   "flag": "🇵🇹",
+   "title": "EVNNE 'LOOK AT MA'",
+   "account": "amberbeat.portugal",
+   "music": "EVNNE LOOK AT MA",
+   "audio_start": "0:57 (추정)",
+   "scheduled_at": "",
+   "caption": "Os EVNNE lançaram o MV oficial de 'LOOK AT MA' a 19 de outubro de 2026.\nO vídeo já conta com 2,4 mil views, 31 minutos depois do lançamento.\nJá viste o novo MV?\n\n———\n\nSource: EVNNE official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Notícias de K-pop todos os dias, sempre com a fonte.\nSegue-nos em @amberbeat.portugal\n\n#KPOP #NoticiasKpop #KpopPortugal #EVNNE",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1020_EVNNE_MV_LOOK-AT-MA-dc4eb8576ace1911/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1020_EVNNE_MV_LOOK-AT-MA-dc4eb8576ace1911/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1020_EVNNE_MV_LOOK-AT-MA-dc4eb8576ace1911/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1020_EVNNE_MV_LOOK-AT-MA-dc4eb8576ace1911/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1020_EVNNE_MV_LOOK-AT-MA-dc4eb8576ace1911/meta.json"
   },
   {
    "name": "🇹🇭 IVE 'Looks Can Kill'",
@@ -489,6 +507,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_NMIXX_MV_-Birthday-Wish-9fc0b9ad4caa5103/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_NMIXX_MV_-Birthday-Wish-9fc0b9ad4caa5103/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_NMIXX_MV_-Birthday-Wish-9fc0b9ad4caa5103/meta.json"
+  },
+  "🇵🇹 EVNNE 'LOOK AT MA'": {
+   "name": "🇵🇹 EVNNE 'LOOK AT MA'",
+   "key": "1020_EVNNE_MV_LOOK-AT-MA@pt",
+   "job": "1020_EVNNE_MV_LOOK-AT-MA",
+   "lang": "pt",
+   "flag": "🇵🇹",
+   "title": "EVNNE 'LOOK AT MA'",
+   "account": "amberbeat.portugal",
+   "music": "EVNNE LOOK AT MA",
+   "audio_start": "0:57 (추정)",
+   "scheduled_at": "",
+   "caption": "Os EVNNE lançaram o MV oficial de 'LOOK AT MA' a 19 de outubro de 2026.\nO vídeo já conta com 2,4 mil views, 31 minutos depois do lançamento.\nJá viste o novo MV?\n\n———\n\nSource: EVNNE official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Notícias de K-pop todos os dias, sempre com a fonte.\nSegue-nos em @amberbeat.portugal\n\n#KPOP #NoticiasKpop #KpopPortugal #EVNNE",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1020_EVNNE_MV_LOOK-AT-MA-dc4eb8576ace1911/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1020_EVNNE_MV_LOOK-AT-MA-dc4eb8576ace1911/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1020_EVNNE_MV_LOOK-AT-MA-dc4eb8576ace1911/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1020_EVNNE_MV_LOOK-AT-MA-dc4eb8576ace1911/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1020_EVNNE_MV_LOOK-AT-MA-dc4eb8576ace1911/meta.json"
   },
   "🇹🇭 IVE 'Looks Can Kill'": {
    "name": "🇹🇭 IVE 'Looks Can Kill'",
