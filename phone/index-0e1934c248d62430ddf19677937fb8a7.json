@@ -1,25 +1,7 @@
 {
- "updated_at": "2026-10-21T09:50:17+09:00",
+ "updated_at": "2026-10-21T10:59:38+09:00",
  "count": 15,
  "items": [
-  {
-   "name": "🇺🇸 SEVENTEEN '12 oclock' · 10/20 21:30",
-   "key": "1019_SEVENTEEN_MV_12-oclock",
-   "job": "1019_SEVENTEEN_MV_12-oclock",
-   "lang": "",
-   "flag": "🇺🇸",
-   "title": "SEVENTEEN '12 oclock'",
-   "account": "amberbeat.official",
-   "music": "SEVENTEEN 12 o'clock",
-   "audio_start": "0:29 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "2026-10-20T21:30:00+09:00",
-   "caption": "Jeonghan and Joshua of SEVENTEEN released the official MV for '12 o'clock' on Oct 19, 2026. It has 70.6K views as of Oct 19, 18:31 KST, 33 minutes after release.\n\n——————\nSource: HYBE LABELS official YouTube\n\n#SEVENTEEN #12oclock #KPOP #KpopNews #NewMV",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/meta.json"
-  },
   {
    "name": "🇺🇸 NMIXX '긴 소원 Birthday Wish' · 10/21 21:30",
    "key": "1019_NMIXX_MV_긴-소원-Birthday-Wish",
@@ -91,6 +73,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_IVE_MV_Looks-Can-Kill-dea967f9d34aa41d/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_IVE_MV_Looks-Can-Kill-dea967f9d34aa41d/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_IVE_MV_Looks-Can-Kill-dea967f9d34aa41d/meta.json"
+  },
+  {
+   "name": "🇺🇸 SEVENTEEN '12 oclock' · 10/24 10:30",
+   "key": "1019_SEVENTEEN_MV_12-oclock",
+   "job": "1019_SEVENTEEN_MV_12-oclock",
+   "lang": "",
+   "flag": "🇺🇸",
+   "title": "SEVENTEEN '12 oclock'",
+   "account": "amberbeat.official",
+   "music": "SEVENTEEN 12 o'clock",
+   "audio_start": "0:29 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "2026-10-24T10:30:00+09:00",
+   "caption": "Jeonghan and Joshua of SEVENTEEN released the official MV for '12 o'clock' on Oct 19, 2026. It has 70.6K views as of Oct 19, 18:31 KST, 33 minutes after release.\n\n——————\nSource: HYBE LABELS official YouTube\n\n#SEVENTEEN #12oclock #KPOP #KpopNews #NewMV",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/meta.json"
   },
   {
    "name": "🇪🇸 IVE 'Looks Can Kill' · 10/20 15:00",
@@ -274,24 +274,6 @@
   }
  ],
  "by_name": {
-  "🇺🇸 SEVENTEEN '12 oclock' · 10/20 21:30": {
-   "name": "🇺🇸 SEVENTEEN '12 oclock' · 10/20 21:30",
-   "key": "1019_SEVENTEEN_MV_12-oclock",
-   "job": "1019_SEVENTEEN_MV_12-oclock",
-   "lang": "",
-   "flag": "🇺🇸",
-   "title": "SEVENTEEN '12 oclock'",
-   "account": "amberbeat.official",
-   "music": "SEVENTEEN 12 o'clock",
-   "audio_start": "0:29 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "2026-10-20T21:30:00+09:00",
-   "caption": "Jeonghan and Joshua of SEVENTEEN released the official MV for '12 o'clock' on Oct 19, 2026. It has 70.6K views as of Oct 19, 18:31 KST, 33 minutes after release.\n\n——————\nSource: HYBE LABELS official YouTube\n\n#SEVENTEEN #12oclock #KPOP #KpopNews #NewMV",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/meta.json"
-  },
   "🇺🇸 NMIXX '긴 소원 Birthday Wish' · 10/21 21:30": {
    "name": "🇺🇸 NMIXX '긴 소원 Birthday Wish' · 10/21 21:30",
    "key": "1019_NMIXX_MV_긴-소원-Birthday-Wish",
@@ -363,6 +345,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_IVE_MV_Looks-Can-Kill-dea967f9d34aa41d/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_IVE_MV_Looks-Can-Kill-dea967f9d34aa41d/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_IVE_MV_Looks-Can-Kill-dea967f9d34aa41d/meta.json"
+  },
+  "🇺🇸 SEVENTEEN '12 oclock' · 10/24 10:30": {
+   "name": "🇺🇸 SEVENTEEN '12 oclock' · 10/24 10:30",
+   "key": "1019_SEVENTEEN_MV_12-oclock",
+   "job": "1019_SEVENTEEN_MV_12-oclock",
+   "lang": "",
+   "flag": "🇺🇸",
+   "title": "SEVENTEEN '12 oclock'",
+   "account": "amberbeat.official",
+   "music": "SEVENTEEN 12 o'clock",
+   "audio_start": "0:29 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "2026-10-24T10:30:00+09:00",
+   "caption": "Jeonghan and Joshua of SEVENTEEN released the official MV for '12 o'clock' on Oct 19, 2026. It has 70.6K views as of Oct 19, 18:31 KST, 33 minutes after release.\n\n——————\nSource: HYBE LABELS official YouTube\n\n#SEVENTEEN #12oclock #KPOP #KpopNews #NewMV",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-dcd7dd89840b8fda/meta.json"
   },
   "🇪🇸 IVE 'Looks Can Kill' · 10/20 15:00": {
    "name": "🇪🇸 IVE 'Looks Can Kill' · 10/20 15:00",
