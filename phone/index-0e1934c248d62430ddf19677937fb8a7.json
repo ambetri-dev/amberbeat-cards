@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-21T15:29:08+09:00",
- "count": 15,
+ "updated_at": "2026-10-21T16:02:17+09:00",
+ "count": 16,
  "items": [
   {
    "name": "🇺🇸 SEVENTEEN '12 oclock' · 10/21 21:30",
@@ -217,6 +217,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_SEVENTEEN_MV_12-oclock-3fd422ada9223aa1/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_SEVENTEEN_MV_12-oclock-3fd422ada9223aa1/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_SEVENTEEN_MV_12-oclock-3fd422ada9223aa1/meta.json"
+  },
+  {
+   "name": "🇵🇹 NMIXX '긴 소원 Birthday Wish' · 10/21 21:00",
+   "key": "1019_NMIXX_MV_긴-소원-Birthday-Wish@pt",
+   "job": "1019_NMIXX_MV_긴-소원-Birthday-Wish",
+   "lang": "pt",
+   "flag": "🇵🇹",
+   "title": "NMIXX '긴 소원 Birthday Wish'",
+   "account": "amberbeat.portugal",
+   "music": "NMIXX 긴 소원(Birthday Wish)",
+   "audio_start": "2:14 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "2026-10-21T21:00:00+09:00",
+   "caption": "A NMIXX partilhou o M/V oficial de '긴 소원(Birthday Wish)' no YouTube a 19 de outubro de 2026.\nJá viste o novo M/V?\n\n———\n\nSource: JYP Entertainment official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Notícias de K-pop todos os dias, sempre com a fonte.\nSegue-nos em @amberbeat.portugal\n\n#KPOP #NMIXX #NoticiasKpop #KpopPortugal",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_NMIXX_MV_-Birthday-Wish-1da67ea2a927de2c/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_NMIXX_MV_-Birthday-Wish-1da67ea2a927de2c/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_NMIXX_MV_-Birthday-Wish-1da67ea2a927de2c/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_NMIXX_MV_-Birthday-Wish-1da67ea2a927de2c/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_NMIXX_MV_-Birthday-Wish-1da67ea2a927de2c/meta.json"
   },
   {
    "name": "🇹🇭 EVNNE 'LOOK AT MA' · 10/21 10:00",
@@ -489,6 +507,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_SEVENTEEN_MV_12-oclock-3fd422ada9223aa1/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_SEVENTEEN_MV_12-oclock-3fd422ada9223aa1/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_SEVENTEEN_MV_12-oclock-3fd422ada9223aa1/meta.json"
+  },
+  "🇵🇹 NMIXX '긴 소원 Birthday Wish' · 10/21 21:00": {
+   "name": "🇵🇹 NMIXX '긴 소원 Birthday Wish' · 10/21 21:00",
+   "key": "1019_NMIXX_MV_긴-소원-Birthday-Wish@pt",
+   "job": "1019_NMIXX_MV_긴-소원-Birthday-Wish",
+   "lang": "pt",
+   "flag": "🇵🇹",
+   "title": "NMIXX '긴 소원 Birthday Wish'",
+   "account": "amberbeat.portugal",
+   "music": "NMIXX 긴 소원(Birthday Wish)",
+   "audio_start": "2:14 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "2026-10-21T21:00:00+09:00",
+   "caption": "A NMIXX partilhou o M/V oficial de '긴 소원(Birthday Wish)' no YouTube a 19 de outubro de 2026.\nJá viste o novo M/V?\n\n———\n\nSource: JYP Entertainment official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Notícias de K-pop todos os dias, sempre com a fonte.\nSegue-nos em @amberbeat.portugal\n\n#KPOP #NMIXX #NoticiasKpop #KpopPortugal",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_NMIXX_MV_-Birthday-Wish-1da67ea2a927de2c/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_NMIXX_MV_-Birthday-Wish-1da67ea2a927de2c/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_NMIXX_MV_-Birthday-Wish-1da67ea2a927de2c/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_NMIXX_MV_-Birthday-Wish-1da67ea2a927de2c/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_NMIXX_MV_-Birthday-Wish-1da67ea2a927de2c/meta.json"
   },
   "🇹🇭 EVNNE 'LOOK AT MA' · 10/21 10:00": {
    "name": "🇹🇭 EVNNE 'LOOK AT MA' · 10/21 10:00",
