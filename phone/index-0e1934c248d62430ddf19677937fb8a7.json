@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T14:07:09+09:00",
+ "updated_at": "2026-10-22T14:09:10+09:00",
  "count": 16,
  "items": [
   {
@@ -111,12 +111,12 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1019_SEVENTEEN_MV_12-oclock-e4c73a99b6c426c2/meta.json"
   },
   {
-   "name": "🇪🇸 TWICE",
+   "name": "🇪🇸 TWICE — Jihyo deja JYP Tras 21 años",
    "key": "1021_TWICE_agency_add3@es",
    "job": "1021_TWICE_agency_add3",
    "lang": "es",
    "flag": "🇪🇸",
-   "title": "TWICE",
+   "title": "TWICE — Jihyo deja JYP Tras 21 años",
    "account": "amberbeat.spain",
    "music": "TWICE Killin' Me Good",
    "audio_start": "0:09 Something that I can't deny (추정)",
@@ -400,13 +400,13 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1019_SEVENTEEN_MV_12-oclock-e4c73a99b6c426c2/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1019_SEVENTEEN_MV_12-oclock-e4c73a99b6c426c2/meta.json"
   },
-  "🇪🇸 TWICE": {
-   "name": "🇪🇸 TWICE",
+  "🇪🇸 TWICE — Jihyo deja JYP Tras 21 años": {
+   "name": "🇪🇸 TWICE — Jihyo deja JYP Tras 21 años",
    "key": "1021_TWICE_agency_add3@es",
    "job": "1021_TWICE_agency_add3",
    "lang": "es",
    "flag": "🇪🇸",
-   "title": "TWICE",
+   "title": "TWICE — Jihyo deja JYP Tras 21 años",
    "account": "amberbeat.spain",
    "music": "TWICE Killin' Me Good",
    "audio_start": "0:09 Something that I can't deny (추정)",
