@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-23T20:53:53+09:00",
- "count": 16,
+ "updated_at": "2026-10-24T04:05:11+09:00",
+ "count": 17,
  "items": [
   {
    "name": "🇺🇸 SEVENTEEN '12 oclock'",
@@ -73,6 +73,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_NCT-DREAM_MV_The-Sun-b40f0d3567177c64/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_NCT-DREAM_MV_The-Sun-b40f0d3567177c64/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_NCT-DREAM_MV_The-Sun-b40f0d3567177c64/meta.json"
+  },
+  {
+   "name": "🇺🇸 I-DLE 'to the moon :)'",
+   "key": "1024_I-DLE_MV_to-the-moon",
+   "job": "1024_I-DLE_MV_to-the-moon",
+   "lang": "",
+   "flag": "🇺🇸",
+   "title": "I-DLE 'to the moon :)'",
+   "account": "amberbeat.official",
+   "music": "I-DLE to the moon :)",
+   "audio_start": "0:48 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "MINNIE released the music video for 'to the moon :)' on Oct 23, 2026. It has reached 687K views in 15 hours.\n\n———\n\nSource: i-dle (아이들) official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#IDLE #tothemoon #KPOP #KpopNews #NewMV",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_I-DLE_MV_to-the-moon-231f2c3396844174/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_I-DLE_MV_to-the-moon-231f2c3396844174/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_I-DLE_MV_to-the-moon-231f2c3396844174/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_I-DLE_MV_to-the-moon-231f2c3396844174/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_I-DLE_MV_to-the-moon-231f2c3396844174/meta.json"
   },
   {
    "name": "🇪🇸 SEVENTEEN '12 oclock'",
@@ -363,6 +381,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_NCT-DREAM_MV_The-Sun-b40f0d3567177c64/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_NCT-DREAM_MV_The-Sun-b40f0d3567177c64/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_NCT-DREAM_MV_The-Sun-b40f0d3567177c64/meta.json"
+  },
+  "🇺🇸 I-DLE 'to the moon :)'": {
+   "name": "🇺🇸 I-DLE 'to the moon :)'",
+   "key": "1024_I-DLE_MV_to-the-moon",
+   "job": "1024_I-DLE_MV_to-the-moon",
+   "lang": "",
+   "flag": "🇺🇸",
+   "title": "I-DLE 'to the moon :)'",
+   "account": "amberbeat.official",
+   "music": "I-DLE to the moon :)",
+   "audio_start": "0:48 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "MINNIE released the music video for 'to the moon :)' on Oct 23, 2026. It has reached 687K views in 15 hours.\n\n———\n\nSource: i-dle (아이들) official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#IDLE #tothemoon #KPOP #KpopNews #NewMV",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_I-DLE_MV_to-the-moon-231f2c3396844174/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_I-DLE_MV_to-the-moon-231f2c3396844174/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_I-DLE_MV_to-the-moon-231f2c3396844174/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_I-DLE_MV_to-the-moon-231f2c3396844174/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_I-DLE_MV_to-the-moon-231f2c3396844174/meta.json"
   },
   "🇪🇸 SEVENTEEN '12 oclock'": {
    "name": "🇪🇸 SEVENTEEN '12 oclock'",
