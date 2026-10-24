@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-24T07:11:55+09:00",
- "count": 20,
+ "updated_at": "2026-10-24T21:47:22+09:00",
+ "count": 19,
  "items": [
   {
    "name": "🇺🇸 SEVENTEEN '12 oclock'",
@@ -91,24 +91,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_I-DLE_MV_to-the-moon-6a6208990964269e/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_I-DLE_MV_to-the-moon-6a6208990964269e/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_I-DLE_MV_to-the-moon-6a6208990964269e/meta.json"
-  },
-  {
-   "name": "🇺🇸 ATEEZ 'Drip'",
-   "key": "1024_ATEEZ_MV_Drip",
-   "job": "1024_ATEEZ_MV_Drip",
-   "lang": "",
-   "flag": "🇺🇸",
-   "title": "ATEEZ 'Drip'",
-   "account": "amberbeat.official",
-   "music": "ATEEZ Drip",
-   "audio_start": "0:34 · '무대 위에 서면 우리를 이렇게 부른다고 하대' 줄 시작을 맨 앞에 맞추세요",
-   "scheduled_at": "",
-   "caption": "ATEEZ released the music video for 'Drip' on Oct 23, 2026. It has reached 3.8 million views within 14 hours.\n\n———\n\nSource: KQ ENTERTAINMENT official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#ATEEZ #Drip #KPOP #KpopNews #NewMV",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_ATEEZ_MV_Drip-9137c7c4f716347a/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_ATEEZ_MV_Drip-9137c7c4f716347a/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_ATEEZ_MV_Drip-9137c7c4f716347a/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_ATEEZ_MV_Drip-9137c7c4f716347a/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_ATEEZ_MV_Drip-9137c7c4f716347a/meta.json"
   },
   {
    "name": "🇪🇸 SEVENTEEN '12 oclock'",
@@ -453,24 +435,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_I-DLE_MV_to-the-moon-6a6208990964269e/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_I-DLE_MV_to-the-moon-6a6208990964269e/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_I-DLE_MV_to-the-moon-6a6208990964269e/meta.json"
-  },
-  "🇺🇸 ATEEZ 'Drip'": {
-   "name": "🇺🇸 ATEEZ 'Drip'",
-   "key": "1024_ATEEZ_MV_Drip",
-   "job": "1024_ATEEZ_MV_Drip",
-   "lang": "",
-   "flag": "🇺🇸",
-   "title": "ATEEZ 'Drip'",
-   "account": "amberbeat.official",
-   "music": "ATEEZ Drip",
-   "audio_start": "0:34 · '무대 위에 서면 우리를 이렇게 부른다고 하대' 줄 시작을 맨 앞에 맞추세요",
-   "scheduled_at": "",
-   "caption": "ATEEZ released the music video for 'Drip' on Oct 23, 2026. It has reached 3.8 million views within 14 hours.\n\n———\n\nSource: KQ ENTERTAINMENT official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#ATEEZ #Drip #KPOP #KpopNews #NewMV",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_ATEEZ_MV_Drip-9137c7c4f716347a/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_ATEEZ_MV_Drip-9137c7c4f716347a/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_ATEEZ_MV_Drip-9137c7c4f716347a/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_ATEEZ_MV_Drip-9137c7c4f716347a/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_ATEEZ_MV_Drip-9137c7c4f716347a/meta.json"
   },
   "🇪🇸 SEVENTEEN '12 oclock'": {
    "name": "🇪🇸 SEVENTEEN '12 oclock'",
