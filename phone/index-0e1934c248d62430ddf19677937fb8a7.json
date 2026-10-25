@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-26T01:05:58+09:00",
- "count": 21,
+ "updated_at": "2026-10-26T01:09:51+09:00",
+ "count": 22,
  "items": [
   {
    "name": "🇺🇸 SEVENTEEN '12 oclock'",
@@ -235,6 +235,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1024_ATEEZ_MV_Drip-fb858c8106394b2f/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1024_ATEEZ_MV_Drip-fb858c8106394b2f/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1024_ATEEZ_MV_Drip-fb858c8106394b2f/meta.json"
+  },
+  {
+   "name": "🇯🇵 RIIZE 'Insomnia'",
+   "key": "1026_RIIZE_MV_Insomnia@ja",
+   "job": "1026_RIIZE_MV_Insomnia",
+   "lang": "ja",
+   "flag": "🇯🇵",
+   "title": "RIIZE 'Insomnia'",
+   "account": "amberbeat.japan",
+   "music": "RIIZE Insomnia",
+   "audio_start": "0:57 (추정)",
+   "scheduled_at": "",
+   "caption": "RIIZEが2026年10月26日に'Insomnia'のMVを公開しました。\n公開から32分で87.7K回再生に達しました。\n\n———\n\nSource: SMTOWN official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · 毎日のK-POPニュースを出典つきでお届けします。\nフォローはこちら @amberbeat.japan\n\n#KPOP #RIIZE #Insomnia #Kポップ #KPOP好きな人と繋がりたい",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1026_RIIZE_MV_Insomnia-bfeed842a8b10fc2/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1026_RIIZE_MV_Insomnia-bfeed842a8b10fc2/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1026_RIIZE_MV_Insomnia-bfeed842a8b10fc2/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1026_RIIZE_MV_Insomnia-bfeed842a8b10fc2/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1026_RIIZE_MV_Insomnia-bfeed842a8b10fc2/meta.json"
   },
   {
    "name": "🇵🇹 SEVENTEEN '12 oclock'",
@@ -615,6 +633,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1024_ATEEZ_MV_Drip-fb858c8106394b2f/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1024_ATEEZ_MV_Drip-fb858c8106394b2f/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1024_ATEEZ_MV_Drip-fb858c8106394b2f/meta.json"
+  },
+  "🇯🇵 RIIZE 'Insomnia'": {
+   "name": "🇯🇵 RIIZE 'Insomnia'",
+   "key": "1026_RIIZE_MV_Insomnia@ja",
+   "job": "1026_RIIZE_MV_Insomnia",
+   "lang": "ja",
+   "flag": "🇯🇵",
+   "title": "RIIZE 'Insomnia'",
+   "account": "amberbeat.japan",
+   "music": "RIIZE Insomnia",
+   "audio_start": "0:57 (추정)",
+   "scheduled_at": "",
+   "caption": "RIIZEが2026年10月26日に'Insomnia'のMVを公開しました。\n公開から32分で87.7K回再生に達しました。\n\n———\n\nSource: SMTOWN official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · 毎日のK-POPニュースを出典つきでお届けします。\nフォローはこちら @amberbeat.japan\n\n#KPOP #RIIZE #Insomnia #Kポップ #KPOP好きな人と繋がりたい",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1026_RIIZE_MV_Insomnia-bfeed842a8b10fc2/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1026_RIIZE_MV_Insomnia-bfeed842a8b10fc2/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1026_RIIZE_MV_Insomnia-bfeed842a8b10fc2/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1026_RIIZE_MV_Insomnia-bfeed842a8b10fc2/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1026_RIIZE_MV_Insomnia-bfeed842a8b10fc2/meta.json"
   },
   "🇵🇹 SEVENTEEN '12 oclock'": {
    "name": "🇵🇹 SEVENTEEN '12 oclock'",
