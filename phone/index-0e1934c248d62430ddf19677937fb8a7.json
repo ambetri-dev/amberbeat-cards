@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T10:36:38+09:00",
+ "updated_at": "2026-10-26T10:36:56+09:00",
  "count": 23,
  "items": [
   {
@@ -111,12 +111,12 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1026_RIIZE_MV_Insomnia-866b9e5dacbd87a9/meta.json"
   },
   {
-   "name": "🇺🇸 XDINARY HEROES 'Xdinary Heroes Self Produced M V Reality'",
+   "name": "🇺🇸 XDINARY-HEROES 'Xdinary Heroes Self Produced M V Reality'",
    "key": "1025_XDINARY-HEROES_MV_Xdinary-Heroes-Self-Produced-M-V-Reality",
    "job": "1025_XDINARY-HEROES_MV_Xdinary-Heroes-Self-Produced-M-V-Reality",
    "lang": "",
    "flag": "🇺🇸",
-   "title": "XDINARY HEROES 'Xdinary Heroes Self Produced M V Reality'",
+   "title": "XDINARY-HEROES 'Xdinary Heroes Self Produced M V Reality'",
    "account": "amberbeat.official",
    "music": "Xdinary Heroes' Self-Produced M/V Reality Show 〈READY, XH〉 EP. 2",
    "audio_start": "25:14 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
@@ -526,13 +526,13 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1026_RIIZE_MV_Insomnia-866b9e5dacbd87a9/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1026_RIIZE_MV_Insomnia-866b9e5dacbd87a9/meta.json"
   },
-  "🇺🇸 XDINARY HEROES 'Xdinary Heroes Self Produced M V Reality'": {
-   "name": "🇺🇸 XDINARY HEROES 'Xdinary Heroes Self Produced M V Reality'",
+  "🇺🇸 XDINARY-HEROES 'Xdinary Heroes Self Produced M V Reality'": {
+   "name": "🇺🇸 XDINARY-HEROES 'Xdinary Heroes Self Produced M V Reality'",
    "key": "1025_XDINARY-HEROES_MV_Xdinary-Heroes-Self-Produced-M-V-Reality",
    "job": "1025_XDINARY-HEROES_MV_Xdinary-Heroes-Self-Produced-M-V-Reality",
    "lang": "",
    "flag": "🇺🇸",
-   "title": "XDINARY HEROES 'Xdinary Heroes Self Produced M V Reality'",
+   "title": "XDINARY-HEROES 'Xdinary Heroes Self Produced M V Reality'",
    "account": "amberbeat.official",
    "music": "Xdinary Heroes' Self-Produced M/V Reality Show 〈READY, XH〉 EP. 2",
    "audio_start": "25:14 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
