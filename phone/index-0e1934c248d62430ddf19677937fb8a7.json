@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-26T18:31:06+09:00",
- "count": 25,
+ "updated_at": "2026-10-26T18:34:27+09:00",
+ "count": 26,
  "items": [
   {
    "name": "🇺🇸 SEVENTEEN '12 oclock'",
@@ -361,6 +361,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1020_EVNNE_MV_LOOK-AT-MA-bda585850461fcc9/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1020_EVNNE_MV_LOOK-AT-MA-bda585850461fcc9/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1020_EVNNE_MV_LOOK-AT-MA-bda585850461fcc9/meta.json"
+  },
+  {
+   "name": "🇵🇹 ILLIT '체포하겠어 Youre Under Arrest'",
+   "key": "1026_ILLIT_MV_체포하겠어-Youre-Under-Arrest@pt",
+   "job": "1026_ILLIT_MV_체포하겠어-Youre-Under-Arrest",
+   "lang": "pt",
+   "flag": "🇵🇹",
+   "title": "ILLIT '체포하겠어 Youre Under Arrest'",
+   "account": "amberbeat.portugal",
+   "music": "ILLIT 체포하겠어 (You’re Under Arrest)",
+   "audio_start": "1:10 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "Os ILLIT lançaram o videoclipe de 'You're Under Arrest' a 26 de outubro de 2026.\nO MV alcançou 96,4K visualizações em 11 minutos após o lançamento.\n\n———\n\nSource: HYBE LABELS official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Notícias de K-pop todos os dias, sempre com a fonte.\nSegue-nos em @amberbeat.portugal\n\n#KPOP #NoticiasKpop #KpopPortugal #ILLIT",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1026_ILLIT_MV_-Youre-Under-Arrest-811fc6a7f659ffeb/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1026_ILLIT_MV_-Youre-Under-Arrest-811fc6a7f659ffeb/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1026_ILLIT_MV_-Youre-Under-Arrest-811fc6a7f659ffeb/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1026_ILLIT_MV_-Youre-Under-Arrest-811fc6a7f659ffeb/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1026_ILLIT_MV_-Youre-Under-Arrest-811fc6a7f659ffeb/meta.json"
   },
   {
    "name": "🇹🇭 IVE 'Looks Can Kill'",
@@ -813,6 +831,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1020_EVNNE_MV_LOOK-AT-MA-bda585850461fcc9/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1020_EVNNE_MV_LOOK-AT-MA-bda585850461fcc9/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1020_EVNNE_MV_LOOK-AT-MA-bda585850461fcc9/meta.json"
+  },
+  "🇵🇹 ILLIT '체포하겠어 Youre Under Arrest'": {
+   "name": "🇵🇹 ILLIT '체포하겠어 Youre Under Arrest'",
+   "key": "1026_ILLIT_MV_체포하겠어-Youre-Under-Arrest@pt",
+   "job": "1026_ILLIT_MV_체포하겠어-Youre-Under-Arrest",
+   "lang": "pt",
+   "flag": "🇵🇹",
+   "title": "ILLIT '체포하겠어 Youre Under Arrest'",
+   "account": "amberbeat.portugal",
+   "music": "ILLIT 체포하겠어 (You’re Under Arrest)",
+   "audio_start": "1:10 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "Os ILLIT lançaram o videoclipe de 'You're Under Arrest' a 26 de outubro de 2026.\nO MV alcançou 96,4K visualizações em 11 minutos após o lançamento.\n\n———\n\nSource: HYBE LABELS official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Notícias de K-pop todos os dias, sempre com a fonte.\nSegue-nos em @amberbeat.portugal\n\n#KPOP #NoticiasKpop #KpopPortugal #ILLIT",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1026_ILLIT_MV_-Youre-Under-Arrest-811fc6a7f659ffeb/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1026_ILLIT_MV_-Youre-Under-Arrest-811fc6a7f659ffeb/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1026_ILLIT_MV_-Youre-Under-Arrest-811fc6a7f659ffeb/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1026_ILLIT_MV_-Youre-Under-Arrest-811fc6a7f659ffeb/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1026_ILLIT_MV_-Youre-Under-Arrest-811fc6a7f659ffeb/meta.json"
   },
   "🇹🇭 IVE 'Looks Can Kill'": {
    "name": "🇹🇭 IVE 'Looks Can Kill'",
