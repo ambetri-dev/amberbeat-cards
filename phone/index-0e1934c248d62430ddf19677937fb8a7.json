@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-30T20:15:38+09:00",
- "count": 17,
+ "updated_at": "2026-10-30T20:15:47+09:00",
+ "count": 16,
  "items": [
   {
    "name": "🇺🇸 XDINARY-HEROES 'Xdinary Heroes Self Produced M V Reality'",
@@ -109,24 +109,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_SEVENTEEN_MV_12-oclock-7e0c77d399e445c9/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_SEVENTEEN_MV_12-oclock-7e0c77d399e445c9/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_SEVENTEEN_MV_12-oclock-7e0c77d399e445c9/meta.json"
-  },
-  {
-   "name": "🇯🇵 ATEEZ 'Drip'",
-   "key": "1024_ATEEZ_MV_Drip@ja",
-   "job": "1024_ATEEZ_MV_Drip",
-   "lang": "ja",
-   "flag": "🇯🇵",
-   "title": "ATEEZ 'Drip'",
-   "account": "amberbeat.japan",
-   "music": "ATEEZ Drip",
-   "audio_start": "1:21 (추정)",
-   "scheduled_at": "",
-   "caption": "ATEEZが2026年10月23日に『Drip』のMVを公開しました。\n公開から14時間で380万回再生に達しました。\n\n———\n\nSource: KQ ENTERTAINMENT official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · 毎日のK-POPニュースを出典つきでお届けします。\nフォローはこちら @amberbeat.japan\n\n#KPOP #ATEEZ #Drip #KPOP好きな人と繋がりたい #Kポップ",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1024_ATEEZ_MV_Drip-ea1ecb4624bf1a9f/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1024_ATEEZ_MV_Drip-ea1ecb4624bf1a9f/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1024_ATEEZ_MV_Drip-ea1ecb4624bf1a9f/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1024_ATEEZ_MV_Drip-ea1ecb4624bf1a9f/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1024_ATEEZ_MV_Drip-ea1ecb4624bf1a9f/meta.json"
   },
   {
    "name": "🇯🇵 RIIZE 'Insomnia'",
@@ -417,24 +399,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_SEVENTEEN_MV_12-oclock-7e0c77d399e445c9/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_SEVENTEEN_MV_12-oclock-7e0c77d399e445c9/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_SEVENTEEN_MV_12-oclock-7e0c77d399e445c9/meta.json"
-  },
-  "🇯🇵 ATEEZ 'Drip'": {
-   "name": "🇯🇵 ATEEZ 'Drip'",
-   "key": "1024_ATEEZ_MV_Drip@ja",
-   "job": "1024_ATEEZ_MV_Drip",
-   "lang": "ja",
-   "flag": "🇯🇵",
-   "title": "ATEEZ 'Drip'",
-   "account": "amberbeat.japan",
-   "music": "ATEEZ Drip",
-   "audio_start": "1:21 (추정)",
-   "scheduled_at": "",
-   "caption": "ATEEZが2026年10月23日に『Drip』のMVを公開しました。\n公開から14時間で380万回再生に達しました。\n\n———\n\nSource: KQ ENTERTAINMENT official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · 毎日のK-POPニュースを出典つきでお届けします。\nフォローはこちら @amberbeat.japan\n\n#KPOP #ATEEZ #Drip #KPOP好きな人と繋がりたい #Kポップ",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1024_ATEEZ_MV_Drip-ea1ecb4624bf1a9f/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1024_ATEEZ_MV_Drip-ea1ecb4624bf1a9f/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1024_ATEEZ_MV_Drip-ea1ecb4624bf1a9f/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1024_ATEEZ_MV_Drip-ea1ecb4624bf1a9f/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1024_ATEEZ_MV_Drip-ea1ecb4624bf1a9f/meta.json"
   },
   "🇯🇵 RIIZE 'Insomnia'": {
    "name": "🇯🇵 RIIZE 'Insomnia'",
