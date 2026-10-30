@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-30T20:16:06+09:00",
- "count": 13,
+ "updated_at": "2026-10-30T20:16:12+09:00",
+ "count": 12,
  "items": [
   {
    "name": "🇺🇸 XDINARY-HEROES 'Xdinary Heroes Self Produced M V Reality'",
@@ -55,24 +55,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1027_ALPHA-DRIVE-ONE_MV_Talk-to-me-b02573c0474b77a2/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1027_ALPHA-DRIVE-ONE_MV_Talk-to-me-b02573c0474b77a2/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1027_ALPHA-DRIVE-ONE_MV_Talk-to-me-b02573c0474b77a2/meta.json"
-  },
-  {
-   "name": "🇯🇵 SEVENTEEN '12 oclock'",
-   "key": "1019_SEVENTEEN_MV_12-oclock@ja",
-   "job": "1019_SEVENTEEN_MV_12-oclock",
-   "lang": "ja",
-   "flag": "🇯🇵",
-   "title": "SEVENTEEN '12 oclock'",
-   "account": "amberbeat.japan",
-   "music": "SEVENTEEN 12 o'clock",
-   "audio_start": "0:46 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "",
-   "caption": "SEVENTEEN JEONGHANとJOSHUAが'12 o'clock'のMVを公開しました\nMVは2026年10月19日に公開されました\n公開から33分で再生回数は7.06万回でした\n\n———\n\nSource: HYBE LABELS official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · 毎日のK-POPニュースを出典つきでお届けします。\nフォローはこちら @amberbeat.japan\n\n#KPOP #KPOP好きな人と繋がりたい #Kポップ #SEVENTEEN #セブチ",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_SEVENTEEN_MV_12-oclock-7e0c77d399e445c9/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_SEVENTEEN_MV_12-oclock-7e0c77d399e445c9/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_SEVENTEEN_MV_12-oclock-7e0c77d399e445c9/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_SEVENTEEN_MV_12-oclock-7e0c77d399e445c9/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_SEVENTEEN_MV_12-oclock-7e0c77d399e445c9/meta.json"
   },
   {
    "name": "🇯🇵 ALPHA-DRIVE-ONE 'Talk to me'",
@@ -291,24 +273,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1027_ALPHA-DRIVE-ONE_MV_Talk-to-me-b02573c0474b77a2/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1027_ALPHA-DRIVE-ONE_MV_Talk-to-me-b02573c0474b77a2/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1027_ALPHA-DRIVE-ONE_MV_Talk-to-me-b02573c0474b77a2/meta.json"
-  },
-  "🇯🇵 SEVENTEEN '12 oclock'": {
-   "name": "🇯🇵 SEVENTEEN '12 oclock'",
-   "key": "1019_SEVENTEEN_MV_12-oclock@ja",
-   "job": "1019_SEVENTEEN_MV_12-oclock",
-   "lang": "ja",
-   "flag": "🇯🇵",
-   "title": "SEVENTEEN '12 oclock'",
-   "account": "amberbeat.japan",
-   "music": "SEVENTEEN 12 o'clock",
-   "audio_start": "0:46 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "",
-   "caption": "SEVENTEEN JEONGHANとJOSHUAが'12 o'clock'のMVを公開しました\nMVは2026年10月19日に公開されました\n公開から33分で再生回数は7.06万回でした\n\n———\n\nSource: HYBE LABELS official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · 毎日のK-POPニュースを出典つきでお届けします。\nフォローはこちら @amberbeat.japan\n\n#KPOP #KPOP好きな人と繋がりたい #Kポップ #SEVENTEEN #セブチ",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_SEVENTEEN_MV_12-oclock-7e0c77d399e445c9/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_SEVENTEEN_MV_12-oclock-7e0c77d399e445c9/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_SEVENTEEN_MV_12-oclock-7e0c77d399e445c9/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_SEVENTEEN_MV_12-oclock-7e0c77d399e445c9/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1019_SEVENTEEN_MV_12-oclock-7e0c77d399e445c9/meta.json"
   },
   "🇯🇵 ALPHA-DRIVE-ONE 'Talk to me'": {
    "name": "🇯🇵 ALPHA-DRIVE-ONE 'Talk to me'",
