@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-30T22:59:20+09:00",
- "count": 2,
+ "updated_at": "2026-10-30T23:04:32+09:00",
+ "count": 3,
  "items": [
   {
    "name": "🇺🇸 aespa 'Love Riot'",
@@ -19,6 +19,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1030_aespa_MV_Love-Riot-e2a411609d217b37/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1030_aespa_MV_Love-Riot-e2a411609d217b37/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1030_aespa_MV_Love-Riot-e2a411609d217b37/meta.json"
+  },
+  {
+   "name": "🇯🇵 aespa 'Love Riot'",
+   "key": "1030_aespa_MV_Love-Riot@ja",
+   "job": "1030_aespa_MV_Love-Riot",
+   "lang": "ja",
+   "flag": "🇯🇵",
+   "title": "aespa 'Love Riot'",
+   "account": "amberbeat.japan",
+   "music": "aespa Love Riot",
+   "audio_start": "1:09 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "aespa GISELLEが2026年10月30日に'Love Riot' MVを公開しました。\n公開から30分で再生回数は1.9万回です。\n\n———\n\nSource: aespa official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · 毎日のK-POPニュースを出典つきでお届けします。\nフォローはこちら @amberbeat.japan\n\n#KPOP #aespa #GISELLE #LoveRiot #Kポップ",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1030_aespa_MV_Love-Riot-607e8068fc236d86/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1030_aespa_MV_Love-Riot-607e8068fc236d86/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1030_aespa_MV_Love-Riot-607e8068fc236d86/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1030_aespa_MV_Love-Riot-607e8068fc236d86/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1030_aespa_MV_Love-Riot-607e8068fc236d86/meta.json"
   },
   {
    "name": "🇵🇹 aespa 'Love Riot'",
@@ -57,6 +75,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1030_aespa_MV_Love-Riot-e2a411609d217b37/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1030_aespa_MV_Love-Riot-e2a411609d217b37/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1030_aespa_MV_Love-Riot-e2a411609d217b37/meta.json"
+  },
+  "🇯🇵 aespa 'Love Riot'": {
+   "name": "🇯🇵 aespa 'Love Riot'",
+   "key": "1030_aespa_MV_Love-Riot@ja",
+   "job": "1030_aespa_MV_Love-Riot",
+   "lang": "ja",
+   "flag": "🇯🇵",
+   "title": "aespa 'Love Riot'",
+   "account": "amberbeat.japan",
+   "music": "aespa Love Riot",
+   "audio_start": "1:09 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "aespa GISELLEが2026年10月30日に'Love Riot' MVを公開しました。\n公開から30分で再生回数は1.9万回です。\n\n———\n\nSource: aespa official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · 毎日のK-POPニュースを出典つきでお届けします。\nフォローはこちら @amberbeat.japan\n\n#KPOP #aespa #GISELLE #LoveRiot #Kポップ",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1030_aespa_MV_Love-Riot-607e8068fc236d86/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1030_aespa_MV_Love-Riot-607e8068fc236d86/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1030_aespa_MV_Love-Riot-607e8068fc236d86/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1030_aespa_MV_Love-Riot-607e8068fc236d86/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1030_aespa_MV_Love-Riot-607e8068fc236d86/meta.json"
   },
   "🇵🇹 aespa 'Love Riot'": {
    "name": "🇵🇹 aespa 'Love Riot'",
