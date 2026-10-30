@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-30T20:14:56+09:00",
- "count": 24,
+ "updated_at": "2026-10-30T20:15:01+09:00",
+ "count": 23,
  "items": [
   {
    "name": "🇺🇸 SEVENTEEN '12 oclock'",
@@ -91,24 +91,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_I-DLE_MV_to-the-moon-ad9677b1acd2171c/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_I-DLE_MV_to-the-moon-ad9677b1acd2171c/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_I-DLE_MV_to-the-moon-ad9677b1acd2171c/meta.json"
-  },
-  {
-   "name": "🇺🇸 RIIZE 'Insomnia'",
-   "key": "1026_RIIZE_MV_Insomnia",
-   "job": "1026_RIIZE_MV_Insomnia",
-   "lang": "",
-   "flag": "🇺🇸",
-   "title": "RIIZE 'Insomnia'",
-   "account": "amberbeat.official",
-   "music": "RIIZE Insomnia",
-   "audio_start": "0:42 · 'Wish I could leave it alone,' 줄 시작을 맨 앞에 맞추세요",
-   "scheduled_at": "",
-   "caption": "RIIZE dropped the music video for 'Insomnia' on Oct 26, 2026. It racked up 87.7K views within 32 minutes of release.\n\n———\n\nSource: SMTOWN official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#RIIZE #Insomnia #KPOP #KpopNews #NewMV",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1026_RIIZE_MV_Insomnia-5142224d6d4b704f/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1026_RIIZE_MV_Insomnia-5142224d6d4b704f/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1026_RIIZE_MV_Insomnia-5142224d6d4b704f/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1026_RIIZE_MV_Insomnia-5142224d6d4b704f/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1026_RIIZE_MV_Insomnia-5142224d6d4b704f/meta.json"
   },
   {
    "name": "🇺🇸 XDINARY-HEROES 'Xdinary Heroes Self Produced M V Reality'",
@@ -525,24 +507,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_I-DLE_MV_to-the-moon-ad9677b1acd2171c/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_I-DLE_MV_to-the-moon-ad9677b1acd2171c/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_I-DLE_MV_to-the-moon-ad9677b1acd2171c/meta.json"
-  },
-  "🇺🇸 RIIZE 'Insomnia'": {
-   "name": "🇺🇸 RIIZE 'Insomnia'",
-   "key": "1026_RIIZE_MV_Insomnia",
-   "job": "1026_RIIZE_MV_Insomnia",
-   "lang": "",
-   "flag": "🇺🇸",
-   "title": "RIIZE 'Insomnia'",
-   "account": "amberbeat.official",
-   "music": "RIIZE Insomnia",
-   "audio_start": "0:42 · 'Wish I could leave it alone,' 줄 시작을 맨 앞에 맞추세요",
-   "scheduled_at": "",
-   "caption": "RIIZE dropped the music video for 'Insomnia' on Oct 26, 2026. It racked up 87.7K views within 32 minutes of release.\n\n———\n\nSource: SMTOWN official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#RIIZE #Insomnia #KPOP #KpopNews #NewMV",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1026_RIIZE_MV_Insomnia-5142224d6d4b704f/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1026_RIIZE_MV_Insomnia-5142224d6d4b704f/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1026_RIIZE_MV_Insomnia-5142224d6d4b704f/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1026_RIIZE_MV_Insomnia-5142224d6d4b704f/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1026_RIIZE_MV_Insomnia-5142224d6d4b704f/meta.json"
   },
   "🇺🇸 XDINARY-HEROES 'Xdinary Heroes Self Produced M V Reality'": {
    "name": "🇺🇸 XDINARY-HEROES 'Xdinary Heroes Self Produced M V Reality'",
