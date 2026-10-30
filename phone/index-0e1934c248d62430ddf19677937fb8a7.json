@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-30T20:16:23+09:00",
- "count": 10,
+ "updated_at": "2026-10-30T20:16:29+09:00",
+ "count": 9,
  "items": [
   {
    "name": "🇺🇸 XDINARY-HEROES 'Xdinary Heroes Self Produced M V Reality'",
@@ -73,24 +73,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1027_ALPHA-DRIVE-ONE_MV_Talk-to-me-b3f3fb277a51693e/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1027_ALPHA-DRIVE-ONE_MV_Talk-to-me-b3f3fb277a51693e/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1027_ALPHA-DRIVE-ONE_MV_Talk-to-me-b3f3fb277a51693e/meta.json"
-  },
-  {
-   "name": "🇵🇹 SEVENTEEN '12 oclock'",
-   "key": "1019_SEVENTEEN_MV_12-oclock@pt",
-   "job": "1019_SEVENTEEN_MV_12-oclock",
-   "lang": "pt",
-   "flag": "🇵🇹",
-   "title": "SEVENTEEN '12 oclock'",
-   "account": "amberbeat.portugal",
-   "music": "SEVENTEEN 12 o'clock",
-   "audio_start": "0:29 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "",
-   "caption": "Jeonghan e Joshua, de SEVENTEEN\nO MV oficial de '12 o'clock' saiu a 19 de outubro de 2026.\nJá leva 70,6K visualizações, 33 minutos depois de ter saído.\n\n———\n\nSource: HYBE LABELS official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Notícias de K-pop todos os dias, sempre com a fonte.\nSegue-nos em @amberbeat.portugal\n\n#KPOP #NoticiasKpop #KpopPortugal #SEVENTEEN #세븐틴",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_SEVENTEEN_MV_12-oclock-93aa57a18015dd2d/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_SEVENTEEN_MV_12-oclock-93aa57a18015dd2d/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_SEVENTEEN_MV_12-oclock-93aa57a18015dd2d/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_SEVENTEEN_MV_12-oclock-93aa57a18015dd2d/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_SEVENTEEN_MV_12-oclock-93aa57a18015dd2d/meta.json"
   },
   {
    "name": "🇹🇭 IVE 'Looks Can Kill'",
@@ -255,24 +237,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1027_ALPHA-DRIVE-ONE_MV_Talk-to-me-b3f3fb277a51693e/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1027_ALPHA-DRIVE-ONE_MV_Talk-to-me-b3f3fb277a51693e/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1027_ALPHA-DRIVE-ONE_MV_Talk-to-me-b3f3fb277a51693e/meta.json"
-  },
-  "🇵🇹 SEVENTEEN '12 oclock'": {
-   "name": "🇵🇹 SEVENTEEN '12 oclock'",
-   "key": "1019_SEVENTEEN_MV_12-oclock@pt",
-   "job": "1019_SEVENTEEN_MV_12-oclock",
-   "lang": "pt",
-   "flag": "🇵🇹",
-   "title": "SEVENTEEN '12 oclock'",
-   "account": "amberbeat.portugal",
-   "music": "SEVENTEEN 12 o'clock",
-   "audio_start": "0:29 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "",
-   "caption": "Jeonghan e Joshua, de SEVENTEEN\nO MV oficial de '12 o'clock' saiu a 19 de outubro de 2026.\nJá leva 70,6K visualizações, 33 minutos depois de ter saído.\n\n———\n\nSource: HYBE LABELS official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Notícias de K-pop todos os dias, sempre com a fonte.\nSegue-nos em @amberbeat.portugal\n\n#KPOP #NoticiasKpop #KpopPortugal #SEVENTEEN #세븐틴",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_SEVENTEEN_MV_12-oclock-93aa57a18015dd2d/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_SEVENTEEN_MV_12-oclock-93aa57a18015dd2d/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_SEVENTEEN_MV_12-oclock-93aa57a18015dd2d/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_SEVENTEEN_MV_12-oclock-93aa57a18015dd2d/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1019_SEVENTEEN_MV_12-oclock-93aa57a18015dd2d/meta.json"
   },
   "🇹🇭 IVE 'Looks Can Kill'": {
    "name": "🇹🇭 IVE 'Looks Can Kill'",
