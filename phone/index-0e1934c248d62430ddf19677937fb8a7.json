@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-30T22:47:48+09:00",
- "count": 1,
+ "updated_at": "2026-10-30T22:59:20+09:00",
+ "count": 2,
  "items": [
   {
    "name": "🇺🇸 aespa 'Love Riot'",
@@ -19,6 +19,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1030_aespa_MV_Love-Riot-e2a411609d217b37/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1030_aespa_MV_Love-Riot-e2a411609d217b37/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1030_aespa_MV_Love-Riot-e2a411609d217b37/meta.json"
+  },
+  {
+   "name": "🇵🇹 aespa 'Love Riot'",
+   "key": "1030_aespa_MV_Love-Riot@pt",
+   "job": "1030_aespa_MV_Love-Riot",
+   "lang": "pt",
+   "flag": "🇵🇹",
+   "title": "aespa 'Love Riot'",
+   "account": "amberbeat.portugal",
+   "music": "aespa Love Riot",
+   "audio_start": "1:20 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "GISELLE, da aespa, lançou o videoclipe de 'Love Riot' a 30 de outubro de 2026.\nTem 19K visualizações 30 minutos depois do lançamento.\n\n———\n\nSource: aespa official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Notícias de K-pop todos os dias, sempre com a fonte.\nSegue-nos em @amberbeat.portugal\n\n#KPOP #NoticiasKpop #KpopPortugal #aespa #LoveRiot",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1030_aespa_MV_Love-Riot-909478b948e84489/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1030_aespa_MV_Love-Riot-909478b948e84489/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1030_aespa_MV_Love-Riot-909478b948e84489/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1030_aespa_MV_Love-Riot-909478b948e84489/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1030_aespa_MV_Love-Riot-909478b948e84489/meta.json"
   }
  ],
  "by_name": {
@@ -39,6 +57,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1030_aespa_MV_Love-Riot-e2a411609d217b37/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1030_aespa_MV_Love-Riot-e2a411609d217b37/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1030_aespa_MV_Love-Riot-e2a411609d217b37/meta.json"
+  },
+  "🇵🇹 aespa 'Love Riot'": {
+   "name": "🇵🇹 aespa 'Love Riot'",
+   "key": "1030_aespa_MV_Love-Riot@pt",
+   "job": "1030_aespa_MV_Love-Riot",
+   "lang": "pt",
+   "flag": "🇵🇹",
+   "title": "aespa 'Love Riot'",
+   "account": "amberbeat.portugal",
+   "music": "aespa Love Riot",
+   "audio_start": "1:20 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "GISELLE, da aespa, lançou o videoclipe de 'Love Riot' a 30 de outubro de 2026.\nTem 19K visualizações 30 minutos depois do lançamento.\n\n———\n\nSource: aespa official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Notícias de K-pop todos os dias, sempre com a fonte.\nSegue-nos em @amberbeat.portugal\n\n#KPOP #NoticiasKpop #KpopPortugal #aespa #LoveRiot",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1030_aespa_MV_Love-Riot-909478b948e84489/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1030_aespa_MV_Love-Riot-909478b948e84489/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1030_aespa_MV_Love-Riot-909478b948e84489/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1030_aespa_MV_Love-Riot-909478b948e84489/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1030_aespa_MV_Love-Riot-909478b948e84489/meta.json"
   }
  }
 }
