@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-30T20:15:07+09:00",
- "count": 22,
+ "updated_at": "2026-10-30T20:15:13+09:00",
+ "count": 21,
  "items": [
   {
    "name": "🇺🇸 SEVENTEEN '12 oclock'",
@@ -55,24 +55,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_NCT-DREAM_MV_The-Sun-43bf59bb1e84b37c/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_NCT-DREAM_MV_The-Sun-43bf59bb1e84b37c/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_NCT-DREAM_MV_The-Sun-43bf59bb1e84b37c/meta.json"
-  },
-  {
-   "name": "🇺🇸 I-DLE 'to the moon'",
-   "key": "1024_I-DLE_MV_to-the-moon",
-   "job": "1024_I-DLE_MV_to-the-moon",
-   "lang": "",
-   "flag": "🇺🇸",
-   "title": "I-DLE 'to the moon'",
-   "account": "amberbeat.official",
-   "music": "I-DLE to the moon :)",
-   "audio_start": "0:48 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "",
-   "caption": "MINNIE released the music video for 'to the moon :)' on Oct 23, 2026. It has reached 687K views in 15 hours.\n\n———\n\nSource: I-DLE official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#IDLE #tothemoon #KPOP #KpopNews #NewMV",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_I-DLE_MV_to-the-moon-ad9677b1acd2171c/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_I-DLE_MV_to-the-moon-ad9677b1acd2171c/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_I-DLE_MV_to-the-moon-ad9677b1acd2171c/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_I-DLE_MV_to-the-moon-ad9677b1acd2171c/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_I-DLE_MV_to-the-moon-ad9677b1acd2171c/meta.json"
   },
   {
    "name": "🇺🇸 XDINARY-HEROES 'Xdinary Heroes Self Produced M V Reality'",
@@ -453,24 +435,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_NCT-DREAM_MV_The-Sun-43bf59bb1e84b37c/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_NCT-DREAM_MV_The-Sun-43bf59bb1e84b37c/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1020_NCT-DREAM_MV_The-Sun-43bf59bb1e84b37c/meta.json"
-  },
-  "🇺🇸 I-DLE 'to the moon'": {
-   "name": "🇺🇸 I-DLE 'to the moon'",
-   "key": "1024_I-DLE_MV_to-the-moon",
-   "job": "1024_I-DLE_MV_to-the-moon",
-   "lang": "",
-   "flag": "🇺🇸",
-   "title": "I-DLE 'to the moon'",
-   "account": "amberbeat.official",
-   "music": "I-DLE to the moon :)",
-   "audio_start": "0:48 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "",
-   "caption": "MINNIE released the music video for 'to the moon :)' on Oct 23, 2026. It has reached 687K views in 15 hours.\n\n———\n\nSource: I-DLE official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#IDLE #tothemoon #KPOP #KpopNews #NewMV",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_I-DLE_MV_to-the-moon-ad9677b1acd2171c/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_I-DLE_MV_to-the-moon-ad9677b1acd2171c/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_I-DLE_MV_to-the-moon-ad9677b1acd2171c/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_I-DLE_MV_to-the-moon-ad9677b1acd2171c/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1024_I-DLE_MV_to-the-moon-ad9677b1acd2171c/meta.json"
   },
   "🇺🇸 XDINARY-HEROES 'Xdinary Heroes Self Produced M V Reality'": {
    "name": "🇺🇸 XDINARY-HEROES 'Xdinary Heroes Self Produced M V Reality'",
