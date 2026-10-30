@@ -1,25 +1,7 @@
 {
- "updated_at": "2026-10-30T20:15:25+09:00",
- "count": 19,
+ "updated_at": "2026-10-30T20:15:31+09:00",
+ "count": 18,
  "items": [
-  {
-   "name": "🇺🇸 SEVENTEEN '12 oclock'",
-   "key": "1019_SEVENTEEN_MV_12-oclock",
-   "job": "1019_SEVENTEEN_MV_12-oclock",
-   "lang": "",
-   "flag": "🇺🇸",
-   "title": "SEVENTEEN '12 oclock'",
-   "account": "amberbeat.official",
-   "music": "SEVENTEEN 12 o'clock",
-   "audio_start": "0:29 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "",
-   "caption": "Jeonghan and Joshua of SEVENTEEN released the official MV for '12 o'clock' on Oct 19, 2026. It has 70.6K views as of Oct 19, 18:31 KST, 33 minutes after release.\n\n———\n\nSource: HYBE LABELS official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#SEVENTEEN #12oclock #KPOP #KpopNews #NewMV",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-ccfd7b7ca0f3b2e4/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-ccfd7b7ca0f3b2e4/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-ccfd7b7ca0f3b2e4/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-ccfd7b7ca0f3b2e4/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-ccfd7b7ca0f3b2e4/meta.json"
-  },
   {
    "name": "🇺🇸 XDINARY-HEROES 'Xdinary Heroes Self Produced M V Reality'",
    "key": "1025_XDINARY-HEROES_MV_Xdinary-Heroes-Self-Produced-M-V-Reality",
@@ -346,24 +328,6 @@
   }
  ],
  "by_name": {
-  "🇺🇸 SEVENTEEN '12 oclock'": {
-   "name": "🇺🇸 SEVENTEEN '12 oclock'",
-   "key": "1019_SEVENTEEN_MV_12-oclock",
-   "job": "1019_SEVENTEEN_MV_12-oclock",
-   "lang": "",
-   "flag": "🇺🇸",
-   "title": "SEVENTEEN '12 oclock'",
-   "account": "amberbeat.official",
-   "music": "SEVENTEEN 12 o'clock",
-   "audio_start": "0:29 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "",
-   "caption": "Jeonghan and Joshua of SEVENTEEN released the official MV for '12 o'clock' on Oct 19, 2026. It has 70.6K views as of Oct 19, 18:31 KST, 33 minutes after release.\n\n———\n\nSource: HYBE LABELS official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#SEVENTEEN #12oclock #KPOP #KpopNews #NewMV",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-ccfd7b7ca0f3b2e4/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-ccfd7b7ca0f3b2e4/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-ccfd7b7ca0f3b2e4/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-ccfd7b7ca0f3b2e4/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1019_SEVENTEEN_MV_12-oclock-ccfd7b7ca0f3b2e4/meta.json"
-  },
   "🇺🇸 XDINARY-HEROES 'Xdinary Heroes Self Produced M V Reality'": {
    "name": "🇺🇸 XDINARY-HEROES 'Xdinary Heroes Self Produced M V Reality'",
    "key": "1025_XDINARY-HEROES_MV_Xdinary-Heroes-Self-Produced-M-V-Reality",
