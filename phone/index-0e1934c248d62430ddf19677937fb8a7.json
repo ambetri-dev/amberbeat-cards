@@ -1,6 +1,6 @@
 {
  "updated_at": "2026-11-02T23:07:11+09:00",
- "count": 4,
+ "count": 3,
  "items": [
   {
    "name": "🇺🇸 GIRLS' GENERATION — Yuri Is Now A Free Agent",
@@ -19,24 +19,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1031_GIRLS-GENERATION-YURI_agency-9f5647cc299b45cd/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1031_GIRLS-GENERATION-YURI_agency-9f5647cc299b45cd/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1031_GIRLS-GENERATION-YURI_agency-9f5647cc299b45cd/meta.json"
-  },
-  {
-   "name": "🇮🇩 TREASURE 'SHOCK'",
-   "key": "1102_TREASURE_MV_SHOCK@id",
-   "job": "1102_TREASURE_MV_SHOCK",
-   "lang": "id",
-   "flag": "🇮🇩",
-   "title": "TREASURE 'SHOCK'",
-   "account": "amberbeat.indonesia",
-   "music": "TREASURE SHOCK",
-   "audio_start": "0:32 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "",
-   "caption": "TREASURE merilis MV untuk 'SHOCK'.\nMV ini ditonton 3,7 rb kali dalam 1 menit sejak rilis.\n\n———\n\nSource: TREASURE official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Berita K-pop setiap hari, selalu dengan sumbernya.\nIkuti @amberbeat.indonesia\n\n#KPOP #BeritaKpop #KpopIndonesia",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1102_TREASURE_MV_SHOCK-91e61880a20ec37a/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1102_TREASURE_MV_SHOCK-91e61880a20ec37a/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1102_TREASURE_MV_SHOCK-91e61880a20ec37a/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1102_TREASURE_MV_SHOCK-91e61880a20ec37a/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1102_TREASURE_MV_SHOCK-91e61880a20ec37a/meta.json"
   },
   {
    "name": "🇵🇹 A2O-LITE 'NEON'",
@@ -93,24 +75,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1031_GIRLS-GENERATION-YURI_agency-9f5647cc299b45cd/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1031_GIRLS-GENERATION-YURI_agency-9f5647cc299b45cd/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1031_GIRLS-GENERATION-YURI_agency-9f5647cc299b45cd/meta.json"
-  },
-  "🇮🇩 TREASURE 'SHOCK'": {
-   "name": "🇮🇩 TREASURE 'SHOCK'",
-   "key": "1102_TREASURE_MV_SHOCK@id",
-   "job": "1102_TREASURE_MV_SHOCK",
-   "lang": "id",
-   "flag": "🇮🇩",
-   "title": "TREASURE 'SHOCK'",
-   "account": "amberbeat.indonesia",
-   "music": "TREASURE SHOCK",
-   "audio_start": "0:32 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "",
-   "caption": "TREASURE merilis MV untuk 'SHOCK'.\nMV ini ditonton 3,7 rb kali dalam 1 menit sejak rilis.\n\n———\n\nSource: TREASURE official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Berita K-pop setiap hari, selalu dengan sumbernya.\nIkuti @amberbeat.indonesia\n\n#KPOP #BeritaKpop #KpopIndonesia",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1102_TREASURE_MV_SHOCK-91e61880a20ec37a/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1102_TREASURE_MV_SHOCK-91e61880a20ec37a/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1102_TREASURE_MV_SHOCK-91e61880a20ec37a/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1102_TREASURE_MV_SHOCK-91e61880a20ec37a/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1102_TREASURE_MV_SHOCK-91e61880a20ec37a/meta.json"
   },
   "🇵🇹 A2O-LITE 'NEON'": {
    "name": "🇵🇹 A2O-LITE 'NEON'",
