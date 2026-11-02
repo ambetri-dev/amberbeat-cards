@@ -1,0 +1,17 @@
+{
+ "name": "🇺🇸 TWS '내 이름을 불러줘'",
+ "job": "1102_TWS_MV_내-이름을-불러줘",
+ "lang": "",
+ "flag": "🇺🇸",
+ "title": "TWS '내 이름을 불러줘'",
+ "account": "amberbeat.official",
+ "music": "TWS 내 이름을 불러줘",
+ "audio_start": "🔊 원곡 소리가 들어 있어 음원 위치를 찾지 않았어요",
+ "scheduled_at": "",
+ "urls": {
+  "reel.mp4": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1102_TWS_MV_-787a8326a1bd444f/reel.mp4",
+  "cover.jpg": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1102_TWS_MV_-787a8326a1bd444f/cover.jpg",
+  "caption.txt": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1102_TWS_MV_-787a8326a1bd444f/caption.txt",
+  "comment.txt": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1102_TWS_MV_-787a8326a1bd444f/comment.txt"
+ }
+}
