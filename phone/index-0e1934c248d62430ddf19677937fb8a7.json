@@ -1,8 +1,44 @@
 {
- "updated_at": "2026-11-01T23:04:42+09:00",
- "count": 0,
- "items": [],
+ "updated_at": "2026-11-02T09:43:36+09:00",
+ "count": 1,
+ "items": [
+  {
+   "name": "🇺🇸 밈",
+   "key": "1102_밈_concert-fan-types@en",
+   "job": "1102_밈_concert-fan-types",
+   "lang": "en",
+   "flag": "🇺🇸",
+   "title": "밈",
+   "account": "amberbeat.official",
+   "music": "SEVENTEEN Super",
+   "audio_start": "- (음악 고르지 않기 · 영상 소리 그대로 올리기)",
+   "scheduled_at": "",
+   "caption": "Which concert fan are you? 🎤\n\n1. Fanchant Commander\n2. Lightstick Engineer\n3. \"I'm Fine\" Crier\n4. Camera Director\n5. Merch Line Veteran\n\nDrop your number in the comments 👇\n\n———\n\nClips: official concert & broadcast videos · Music: SEVENTEEN 'Super'\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#KPOP #KpopFans #KpopConcert #KpopMemes #Lightstick",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1102_-_concert-fan-types-d9280edc070e40af/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1102_-_concert-fan-types-d9280edc070e40af/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1102_-_concert-fan-types-d9280edc070e40af/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1102_-_concert-fan-types-d9280edc070e40af/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1102_-_concert-fan-types-d9280edc070e40af/meta.json"
+  }
+ ],
  "by_name": {
-  "📭 올릴 릴스 없음": {}
+  "🇺🇸 밈": {
+   "name": "🇺🇸 밈",
+   "key": "1102_밈_concert-fan-types@en",
+   "job": "1102_밈_concert-fan-types",
+   "lang": "en",
+   "flag": "🇺🇸",
+   "title": "밈",
+   "account": "amberbeat.official",
+   "music": "SEVENTEEN Super",
+   "audio_start": "- (음악 고르지 않기 · 영상 소리 그대로 올리기)",
+   "scheduled_at": "",
+   "caption": "Which concert fan are you? 🎤\n\n1. Fanchant Commander\n2. Lightstick Engineer\n3. \"I'm Fine\" Crier\n4. Camera Director\n5. Merch Line Veteran\n\nDrop your number in the comments 👇\n\n———\n\nClips: official concert & broadcast videos · Music: SEVENTEEN 'Super'\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#KPOP #KpopFans #KpopConcert #KpopMemes #Lightstick",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1102_-_concert-fan-types-d9280edc070e40af/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1102_-_concert-fan-types-d9280edc070e40af/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1102_-_concert-fan-types-d9280edc070e40af/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1102_-_concert-fan-types-d9280edc070e40af/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1102_-_concert-fan-types-d9280edc070e40af/meta.json"
+  }
  }
 }
