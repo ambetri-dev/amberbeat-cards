@@ -1,0 +1,17 @@
+{
+ "name": "🇮🇩 TREASURE 'SHOCK'",
+ "job": "1102_TREASURE_MV_SHOCK",
+ "lang": "id",
+ "flag": "🇮🇩",
+ "title": "TREASURE 'SHOCK'",
+ "account": "amberbeat.indonesia",
+ "music": "TREASURE SHOCK",
+ "audio_start": "0:32 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+ "scheduled_at": "",
+ "urls": {
+  "reel.mp4": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1102_TREASURE_MV_SHOCK-91e61880a20ec37a/reel.mp4",
+  "cover.jpg": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1102_TREASURE_MV_SHOCK-91e61880a20ec37a/cover.jpg",
+  "caption.txt": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1102_TREASURE_MV_SHOCK-91e61880a20ec37a/caption.txt",
+  "comment.txt": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1102_TREASURE_MV_SHOCK-91e61880a20ec37a/comment.txt"
+ }
+}
