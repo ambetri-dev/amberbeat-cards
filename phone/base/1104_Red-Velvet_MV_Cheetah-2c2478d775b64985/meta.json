@@ -1,0 +1,17 @@
+{
+ "name": "🇺🇸 Red Velvet 'Cheetah'",
+ "job": "1104_Red-Velvet_MV_Cheetah",
+ "lang": "",
+ "flag": "🇺🇸",
+ "title": "Red Velvet 'Cheetah'",
+ "account": "amberbeat.official",
+ "music": "Red Velvet Cheetah",
+ "audio_start": "0:32 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+ "scheduled_at": "",
+ "urls": {
+  "reel.mp4": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1104_Red-Velvet_MV_Cheetah-2c2478d775b64985/reel.mp4",
+  "cover.jpg": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1104_Red-Velvet_MV_Cheetah-2c2478d775b64985/cover.jpg",
+  "caption.txt": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1104_Red-Velvet_MV_Cheetah-2c2478d775b64985/caption.txt",
+  "comment.txt": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1104_Red-Velvet_MV_Cheetah-2c2478d775b64985/comment.txt"
+ }
+}
