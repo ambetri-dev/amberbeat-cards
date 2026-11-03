@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-03T21:34:47+09:00",
- "count": 5,
+ "updated_at": "2026-11-03T21:37:14+09:00",
+ "count": 6,
  "items": [
   {
    "name": "🇺🇸 STRAY-KIDS 'GUILTY PLEASURE'",
@@ -55,6 +55,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1031_GIRLS-GENERATION-YURI_agency-9f5647cc299b45cd/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1031_GIRLS-GENERATION-YURI_agency-9f5647cc299b45cd/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1031_GIRLS-GENERATION-YURI_agency-9f5647cc299b45cd/meta.json"
+  },
+  {
+   "name": "🇯🇵 RESCENE 'With'",
+   "key": "1103_RESCENE_MV_With@ja",
+   "job": "1103_RESCENE_MV_With",
+   "lang": "ja",
+   "flag": "🇯🇵",
+   "title": "RESCENE 'With'",
+   "account": "amberbeat.japan",
+   "music": "RESCENE With",
+   "audio_start": "0:11 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "RESCENEが「With」のMVを公開しました。\n公開から13分で78.6K回再生を記録しました。\n\n———\n\nSource: RESCENE official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · 毎日のK-POPニュースを出典つきでお届けします。\nフォローはこちら @amberbeat.japan\n\n#KPOP #RESCENE #With #KPOP好きな人と繋がりたい #Kポップ",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1103_RESCENE_MV_With-594eb6239594c4ff/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1103_RESCENE_MV_With-594eb6239594c4ff/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1103_RESCENE_MV_With-594eb6239594c4ff/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1103_RESCENE_MV_With-594eb6239594c4ff/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1103_RESCENE_MV_With-594eb6239594c4ff/meta.json"
   },
   {
    "name": "🇵🇹 XIKERS 'DIENAMITE'",
@@ -147,6 +165,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1031_GIRLS-GENERATION-YURI_agency-9f5647cc299b45cd/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1031_GIRLS-GENERATION-YURI_agency-9f5647cc299b45cd/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1031_GIRLS-GENERATION-YURI_agency-9f5647cc299b45cd/meta.json"
+  },
+  "🇯🇵 RESCENE 'With'": {
+   "name": "🇯🇵 RESCENE 'With'",
+   "key": "1103_RESCENE_MV_With@ja",
+   "job": "1103_RESCENE_MV_With",
+   "lang": "ja",
+   "flag": "🇯🇵",
+   "title": "RESCENE 'With'",
+   "account": "amberbeat.japan",
+   "music": "RESCENE With",
+   "audio_start": "0:11 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "RESCENEが「With」のMVを公開しました。\n公開から13分で78.6K回再生を記録しました。\n\n———\n\nSource: RESCENE official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · 毎日のK-POPニュースを出典つきでお届けします。\nフォローはこちら @amberbeat.japan\n\n#KPOP #RESCENE #With #KPOP好きな人と繋がりたい #Kポップ",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1103_RESCENE_MV_With-594eb6239594c4ff/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1103_RESCENE_MV_With-594eb6239594c4ff/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1103_RESCENE_MV_With-594eb6239594c4ff/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1103_RESCENE_MV_With-594eb6239594c4ff/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1103_RESCENE_MV_With-594eb6239594c4ff/meta.json"
   },
   "🇵🇹 XIKERS 'DIENAMITE'": {
    "name": "🇵🇹 XIKERS 'DIENAMITE'",
