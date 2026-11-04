@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T20:56:54+09:00",
+ "updated_at": "2026-11-04T20:56:59+09:00",
  "count": 9,
  "items": [
   {
@@ -129,12 +129,12 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1104_BABY-DONT-CRY_MV_Replay-15d08a73d7a64b0e/meta.json"
   },
   {
-   "name": "🇵🇹 ZEROBASEONE 'RUN with 다이나믹 듀오'",
+   "name": "🇵🇹 ZEROBASEONE 'RUN (with Dynamic Duo)'",
    "key": "1104_ZEROBASEONE_MV_RUN-with-다이나믹-듀오@pt",
    "job": "1104_ZEROBASEONE_MV_RUN-with-다이나믹-듀오",
    "lang": "pt",
    "flag": "🇵🇹",
-   "title": "ZEROBASEONE 'RUN with 다이나믹 듀오'",
+   "title": "ZEROBASEONE 'RUN (with Dynamic Duo)'",
    "account": "amberbeat.portugal",
    "music": "ZEROBASEONE RUN (with Dynamic Duo)",
    "audio_start": "1:19 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
@@ -292,13 +292,13 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1104_BABY-DONT-CRY_MV_Replay-15d08a73d7a64b0e/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1104_BABY-DONT-CRY_MV_Replay-15d08a73d7a64b0e/meta.json"
   },
-  "🇵🇹 ZEROBASEONE 'RUN with 다이나믹 듀오'": {
-   "name": "🇵🇹 ZEROBASEONE 'RUN with 다이나믹 듀오'",
+  "🇵🇹 ZEROBASEONE 'RUN (with Dynamic Duo)'": {
+   "name": "🇵🇹 ZEROBASEONE 'RUN (with Dynamic Duo)'",
    "key": "1104_ZEROBASEONE_MV_RUN-with-다이나믹-듀오@pt",
    "job": "1104_ZEROBASEONE_MV_RUN-with-다이나믹-듀오",
    "lang": "pt",
    "flag": "🇵🇹",
-   "title": "ZEROBASEONE 'RUN with 다이나믹 듀오'",
+   "title": "ZEROBASEONE 'RUN (with Dynamic Duo)'",
    "account": "amberbeat.portugal",
    "music": "ZEROBASEONE RUN (with Dynamic Duo)",
    "audio_start": "1:19 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
