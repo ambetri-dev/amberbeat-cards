@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T20:35:36+09:00",
+ "updated_at": "2026-11-04T20:56:40+09:00",
  "count": 9,
  "items": [
   {
@@ -21,12 +21,12 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1102_STRAY-KIDS_MV_GUILTY-PLEASURE-a8fb9125ce5be00d/meta.json"
   },
   {
-   "name": "🇺🇸 Red-Velvet 'Cheetah'",
+   "name": "🇺🇸 Red Velvet 'Cheetah'",
    "key": "1104_Red-Velvet_MV_Cheetah",
    "job": "1104_Red-Velvet_MV_Cheetah",
    "lang": "",
    "flag": "🇺🇸",
-   "title": "Red-Velvet 'Cheetah'",
+   "title": "Red Velvet 'Cheetah'",
    "account": "amberbeat.official",
    "music": "Red Velvet Cheetah",
    "audio_start": "0:32 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
@@ -184,13 +184,13 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1102_STRAY-KIDS_MV_GUILTY-PLEASURE-a8fb9125ce5be00d/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1102_STRAY-KIDS_MV_GUILTY-PLEASURE-a8fb9125ce5be00d/meta.json"
   },
-  "🇺🇸 Red-Velvet 'Cheetah'": {
-   "name": "🇺🇸 Red-Velvet 'Cheetah'",
+  "🇺🇸 Red Velvet 'Cheetah'": {
+   "name": "🇺🇸 Red Velvet 'Cheetah'",
    "key": "1104_Red-Velvet_MV_Cheetah",
    "job": "1104_Red-Velvet_MV_Cheetah",
    "lang": "",
    "flag": "🇺🇸",
-   "title": "Red-Velvet 'Cheetah'",
+   "title": "Red Velvet 'Cheetah'",
    "account": "amberbeat.official",
    "music": "Red Velvet Cheetah",
    "audio_start": "0:32 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
