@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-04T18:27:51+09:00",
- "count": 7,
+ "updated_at": "2026-11-04T18:30:59+09:00",
+ "count": 8,
  "items": [
   {
    "name": "🇺🇸 STRAY-KIDS 'GUILTY PLEASURE'",
@@ -55,6 +55,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1031_GIRLS-GENERATION-YURI_agency-9f5647cc299b45cd/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1031_GIRLS-GENERATION-YURI_agency-9f5647cc299b45cd/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1031_GIRLS-GENERATION-YURI_agency-9f5647cc299b45cd/meta.json"
+  },
+  {
+   "name": "🇪🇸 BABY-DONT-CRY 'Replay'",
+   "key": "1104_BABY-DONT-CRY_MV_Replay@es",
+   "job": "1104_BABY-DONT-CRY_MV_Replay",
+   "lang": "es",
+   "flag": "🇪🇸",
+   "title": "BABY-DONT-CRY 'Replay'",
+   "account": "amberbeat.spain",
+   "music": "BABY DONT CRY Replay",
+   "audio_start": "2:08 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "BABY DONT CRY lanzó el videoclip oficial de 'Replay' el 4 de noviembre de 2026.\n\n———\n\nSource: Baby DONT Cry official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Noticias de K-pop cada día, siempre con la fuente.\nSíguenos en @amberbeat.spain\n\n#KPOP #NoticiasKpop #KpopEnEspañol",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1104_BABY-DONT-CRY_MV_Replay-9c82ab6c5c77cabf/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1104_BABY-DONT-CRY_MV_Replay-9c82ab6c5c77cabf/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1104_BABY-DONT-CRY_MV_Replay-9c82ab6c5c77cabf/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1104_BABY-DONT-CRY_MV_Replay-9c82ab6c5c77cabf/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1104_BABY-DONT-CRY_MV_Replay-9c82ab6c5c77cabf/meta.json"
   },
   {
    "name": "🇯🇵 RESCENE 'With'",
@@ -183,6 +201,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1031_GIRLS-GENERATION-YURI_agency-9f5647cc299b45cd/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1031_GIRLS-GENERATION-YURI_agency-9f5647cc299b45cd/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1031_GIRLS-GENERATION-YURI_agency-9f5647cc299b45cd/meta.json"
+  },
+  "🇪🇸 BABY-DONT-CRY 'Replay'": {
+   "name": "🇪🇸 BABY-DONT-CRY 'Replay'",
+   "key": "1104_BABY-DONT-CRY_MV_Replay@es",
+   "job": "1104_BABY-DONT-CRY_MV_Replay",
+   "lang": "es",
+   "flag": "🇪🇸",
+   "title": "BABY-DONT-CRY 'Replay'",
+   "account": "amberbeat.spain",
+   "music": "BABY DONT CRY Replay",
+   "audio_start": "2:08 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "BABY DONT CRY lanzó el videoclip oficial de 'Replay' el 4 de noviembre de 2026.\n\n———\n\nSource: Baby DONT Cry official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Noticias de K-pop cada día, siempre con la fuente.\nSíguenos en @amberbeat.spain\n\n#KPOP #NoticiasKpop #KpopEnEspañol",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1104_BABY-DONT-CRY_MV_Replay-9c82ab6c5c77cabf/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1104_BABY-DONT-CRY_MV_Replay-9c82ab6c5c77cabf/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1104_BABY-DONT-CRY_MV_Replay-9c82ab6c5c77cabf/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1104_BABY-DONT-CRY_MV_Replay-9c82ab6c5c77cabf/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1104_BABY-DONT-CRY_MV_Replay-9c82ab6c5c77cabf/meta.json"
   },
   "🇯🇵 RESCENE 'With'": {
    "name": "🇯🇵 RESCENE 'With'",
