@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T20:56:40+09:00",
+ "updated_at": "2026-11-04T20:56:45+09:00",
  "count": 9,
  "items": [
   {
@@ -111,12 +111,12 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1103_RESCENE_MV_With-594eb6239594c4ff/meta.json"
   },
   {
-   "name": "🇯🇵 BABY-DONT-CRY 'Replay'",
+   "name": "🇯🇵 BABY DONT CRY 'Replay'",
    "key": "1104_BABY-DONT-CRY_MV_Replay@ja",
    "job": "1104_BABY-DONT-CRY_MV_Replay",
    "lang": "ja",
    "flag": "🇯🇵",
-   "title": "BABY-DONT-CRY 'Replay'",
+   "title": "BABY DONT CRY 'Replay'",
    "account": "amberbeat.japan",
    "music": "BABY DONT CRY Replay",
    "audio_start": "1:35 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
@@ -274,13 +274,13 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1103_RESCENE_MV_With-594eb6239594c4ff/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1103_RESCENE_MV_With-594eb6239594c4ff/meta.json"
   },
-  "🇯🇵 BABY-DONT-CRY 'Replay'": {
-   "name": "🇯🇵 BABY-DONT-CRY 'Replay'",
+  "🇯🇵 BABY DONT CRY 'Replay'": {
+   "name": "🇯🇵 BABY DONT CRY 'Replay'",
    "key": "1104_BABY-DONT-CRY_MV_Replay@ja",
    "job": "1104_BABY-DONT-CRY_MV_Replay",
    "lang": "ja",
    "flag": "🇯🇵",
-   "title": "BABY-DONT-CRY 'Replay'",
+   "title": "BABY DONT CRY 'Replay'",
    "account": "amberbeat.japan",
    "music": "BABY DONT CRY Replay",
    "audio_start": "1:35 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
