@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-04T00:42:42+09:00",
- "count": 7,
+ "updated_at": "2026-11-04T10:10:03+09:00",
+ "count": 6,
  "items": [
   {
    "name": "🇺🇸 STRAY-KIDS 'GUILTY PLEASURE'",
@@ -19,24 +19,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1102_STRAY-KIDS_MV_GUILTY-PLEASURE-a8fb9125ce5be00d/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1102_STRAY-KIDS_MV_GUILTY-PLEASURE-a8fb9125ce5be00d/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1102_STRAY-KIDS_MV_GUILTY-PLEASURE-a8fb9125ce5be00d/meta.json"
-  },
-  {
-   "name": "🇺🇸 RESCENE 'With'",
-   "key": "1103_RESCENE_MV_With",
-   "job": "1103_RESCENE_MV_With",
-   "lang": "",
-   "flag": "🇺🇸",
-   "title": "RESCENE 'With'",
-   "account": "amberbeat.official",
-   "music": "RESCENE With",
-   "audio_start": "0:11 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "",
-   "caption": "RESCENE released the official MV for 'With'. It has reached 78.6K views within 13 minutes of release.\n\n———\n\nSource: RESCENE official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#RESCENE #With #KPOP #KpopNews #NewMV",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1103_RESCENE_MV_With-a942a444c2864e96/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1103_RESCENE_MV_With-a942a444c2864e96/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1103_RESCENE_MV_With-a942a444c2864e96/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1103_RESCENE_MV_With-a942a444c2864e96/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1103_RESCENE_MV_With-a942a444c2864e96/meta.json"
   },
   {
    "name": "🇺🇸 Red-Velvet 'Cheetah'",
@@ -147,24 +129,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1102_STRAY-KIDS_MV_GUILTY-PLEASURE-a8fb9125ce5be00d/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1102_STRAY-KIDS_MV_GUILTY-PLEASURE-a8fb9125ce5be00d/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1102_STRAY-KIDS_MV_GUILTY-PLEASURE-a8fb9125ce5be00d/meta.json"
-  },
-  "🇺🇸 RESCENE 'With'": {
-   "name": "🇺🇸 RESCENE 'With'",
-   "key": "1103_RESCENE_MV_With",
-   "job": "1103_RESCENE_MV_With",
-   "lang": "",
-   "flag": "🇺🇸",
-   "title": "RESCENE 'With'",
-   "account": "amberbeat.official",
-   "music": "RESCENE With",
-   "audio_start": "0:11 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "",
-   "caption": "RESCENE released the official MV for 'With'. It has reached 78.6K views within 13 minutes of release.\n\n———\n\nSource: RESCENE official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#RESCENE #With #KPOP #KpopNews #NewMV",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1103_RESCENE_MV_With-a942a444c2864e96/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1103_RESCENE_MV_With-a942a444c2864e96/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1103_RESCENE_MV_With-a942a444c2864e96/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1103_RESCENE_MV_With-a942a444c2864e96/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1103_RESCENE_MV_With-a942a444c2864e96/meta.json"
   },
   "🇺🇸 Red-Velvet 'Cheetah'": {
    "name": "🇺🇸 Red-Velvet 'Cheetah'",
