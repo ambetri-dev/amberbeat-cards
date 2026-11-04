@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T20:56:45+09:00",
+ "updated_at": "2026-11-04T20:56:50+09:00",
  "count": 9,
  "items": [
   {
@@ -57,12 +57,12 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1031_GIRLS-GENERATION-YURI_agency-9f5647cc299b45cd/meta.json"
   },
   {
-   "name": "🇪🇸 BABY-DONT-CRY 'Replay'",
+   "name": "🇪🇸 BABY DONT CRY 'Replay'",
    "key": "1104_BABY-DONT-CRY_MV_Replay@es",
    "job": "1104_BABY-DONT-CRY_MV_Replay",
    "lang": "es",
    "flag": "🇪🇸",
-   "title": "BABY-DONT-CRY 'Replay'",
+   "title": "BABY DONT CRY 'Replay'",
    "account": "amberbeat.spain",
    "music": "BABY DONT CRY Replay",
    "audio_start": "2:08 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
@@ -220,13 +220,13 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1031_GIRLS-GENERATION-YURI_agency-9f5647cc299b45cd/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1031_GIRLS-GENERATION-YURI_agency-9f5647cc299b45cd/meta.json"
   },
-  "🇪🇸 BABY-DONT-CRY 'Replay'": {
-   "name": "🇪🇸 BABY-DONT-CRY 'Replay'",
+  "🇪🇸 BABY DONT CRY 'Replay'": {
+   "name": "🇪🇸 BABY DONT CRY 'Replay'",
    "key": "1104_BABY-DONT-CRY_MV_Replay@es",
    "job": "1104_BABY-DONT-CRY_MV_Replay",
    "lang": "es",
    "flag": "🇪🇸",
-   "title": "BABY-DONT-CRY 'Replay'",
+   "title": "BABY DONT CRY 'Replay'",
    "account": "amberbeat.spain",
    "music": "BABY DONT CRY Replay",
    "audio_start": "2:08 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
