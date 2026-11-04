@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-04T18:33:07+09:00",
- "count": 7,
+ "updated_at": "2026-11-04T20:28:56+09:00",
+ "count": 8,
  "items": [
   {
    "name": "🇺🇸 STRAY-KIDS 'GUILTY PLEASURE'",
@@ -73,6 +73,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1104_BABY-DONT-CRY_MV_Replay-9c82ab6c5c77cabf/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1104_BABY-DONT-CRY_MV_Replay-9c82ab6c5c77cabf/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1104_BABY-DONT-CRY_MV_Replay-9c82ab6c5c77cabf/meta.json"
+  },
+  {
+   "name": "🇮🇩 ZEROBASEONE 'RUN with 다이나믹 듀오'",
+   "key": "1104_ZEROBASEONE_MV_RUN-with-다이나믹-듀오@id",
+   "job": "1104_ZEROBASEONE_MV_RUN-with-다이나믹-듀오",
+   "lang": "id",
+   "flag": "🇮🇩",
+   "title": "ZEROBASEONE 'RUN with 다이나믹 듀오'",
+   "account": "amberbeat.indonesia",
+   "music": "ZEROBASEONE RUN (with 다이나믹 듀오)",
+   "audio_start": "1:52 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "ZEROBASEONE resmi merilis MV baru untuk 'RUN (with 다이나믹 듀오)' pada 4 November 2026.\n\n———\n\nSource: ZEROBASEONE official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Berita K-pop setiap hari, selalu dengan sumbernya.\nIkuti @amberbeat.indonesia\n\n#KPOP #BeritaKpop #KpopIndonesia #ZEROBASEONE",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1104_ZEROBASEONE_MV_RUN-with-aad6b3c0b8abd445/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1104_ZEROBASEONE_MV_RUN-with-aad6b3c0b8abd445/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1104_ZEROBASEONE_MV_RUN-with-aad6b3c0b8abd445/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1104_ZEROBASEONE_MV_RUN-with-aad6b3c0b8abd445/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1104_ZEROBASEONE_MV_RUN-with-aad6b3c0b8abd445/meta.json"
   },
   {
    "name": "🇯🇵 RESCENE 'With'",
@@ -201,6 +219,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1104_BABY-DONT-CRY_MV_Replay-9c82ab6c5c77cabf/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1104_BABY-DONT-CRY_MV_Replay-9c82ab6c5c77cabf/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1104_BABY-DONT-CRY_MV_Replay-9c82ab6c5c77cabf/meta.json"
+  },
+  "🇮🇩 ZEROBASEONE 'RUN with 다이나믹 듀오'": {
+   "name": "🇮🇩 ZEROBASEONE 'RUN with 다이나믹 듀오'",
+   "key": "1104_ZEROBASEONE_MV_RUN-with-다이나믹-듀오@id",
+   "job": "1104_ZEROBASEONE_MV_RUN-with-다이나믹-듀오",
+   "lang": "id",
+   "flag": "🇮🇩",
+   "title": "ZEROBASEONE 'RUN with 다이나믹 듀오'",
+   "account": "amberbeat.indonesia",
+   "music": "ZEROBASEONE RUN (with 다이나믹 듀오)",
+   "audio_start": "1:52 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "ZEROBASEONE resmi merilis MV baru untuk 'RUN (with 다이나믹 듀오)' pada 4 November 2026.\n\n———\n\nSource: ZEROBASEONE official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Berita K-pop setiap hari, selalu dengan sumbernya.\nIkuti @amberbeat.indonesia\n\n#KPOP #BeritaKpop #KpopIndonesia #ZEROBASEONE",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1104_ZEROBASEONE_MV_RUN-with-aad6b3c0b8abd445/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1104_ZEROBASEONE_MV_RUN-with-aad6b3c0b8abd445/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1104_ZEROBASEONE_MV_RUN-with-aad6b3c0b8abd445/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1104_ZEROBASEONE_MV_RUN-with-aad6b3c0b8abd445/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1104_ZEROBASEONE_MV_RUN-with-aad6b3c0b8abd445/meta.json"
   },
   "🇯🇵 RESCENE 'With'": {
    "name": "🇯🇵 RESCENE 'With'",
