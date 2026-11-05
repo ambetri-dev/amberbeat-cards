@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-05T16:05:50+09:00",
- "count": 6,
+ "updated_at": "2026-11-05T19:10:57+09:00",
+ "count": 7,
  "items": [
   {
    "name": "🇺🇸 STRAY-KIDS 'GUILTY PLEASURE'",
@@ -37,6 +37,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1104_Red-Velvet_MV_Cheetah-b50e6900b2f392af/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1104_Red-Velvet_MV_Cheetah-b50e6900b2f392af/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1104_Red-Velvet_MV_Cheetah-b50e6900b2f392af/meta.json"
+  },
+  {
+   "name": "🇺🇸 DRAGON PONY 'Calling back'",
+   "key": "1105_DRAGON-PONY_MV_Calling-back",
+   "job": "1105_DRAGON-PONY_MV_Calling-back",
+   "lang": "",
+   "flag": "🇺🇸",
+   "title": "DRAGON PONY 'Calling back'",
+   "account": "amberbeat.official",
+   "music": "DRAGON PONY Calling back",
+   "audio_start": "2:50 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "Dragon Pony released the music video for 'Calling back' on the Antenna YouTube channel on Nov 5, 2026. The video reached 1.1K views within 48 minutes of being posted.\n\n———\n\nSource: Antenna official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#DRAGONPONY #Callingback #KPOP #KpopNews #NewMV",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1105_DRAGON-PONY_MV_Calling-back-da45ca1301056887/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1105_DRAGON-PONY_MV_Calling-back-da45ca1301056887/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1105_DRAGON-PONY_MV_Calling-back-da45ca1301056887/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1105_DRAGON-PONY_MV_Calling-back-da45ca1301056887/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1105_DRAGON-PONY_MV_Calling-back-da45ca1301056887/meta.json"
   },
   {
    "name": "🇺🇸 밈",
@@ -147,6 +165,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1104_Red-Velvet_MV_Cheetah-b50e6900b2f392af/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1104_Red-Velvet_MV_Cheetah-b50e6900b2f392af/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1104_Red-Velvet_MV_Cheetah-b50e6900b2f392af/meta.json"
+  },
+  "🇺🇸 DRAGON PONY 'Calling back'": {
+   "name": "🇺🇸 DRAGON PONY 'Calling back'",
+   "key": "1105_DRAGON-PONY_MV_Calling-back",
+   "job": "1105_DRAGON-PONY_MV_Calling-back",
+   "lang": "",
+   "flag": "🇺🇸",
+   "title": "DRAGON PONY 'Calling back'",
+   "account": "amberbeat.official",
+   "music": "DRAGON PONY Calling back",
+   "audio_start": "2:50 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "Dragon Pony released the music video for 'Calling back' on the Antenna YouTube channel on Nov 5, 2026. The video reached 1.1K views within 48 minutes of being posted.\n\n———\n\nSource: Antenna official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#DRAGONPONY #Callingback #KPOP #KpopNews #NewMV",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1105_DRAGON-PONY_MV_Calling-back-da45ca1301056887/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1105_DRAGON-PONY_MV_Calling-back-da45ca1301056887/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1105_DRAGON-PONY_MV_Calling-back-da45ca1301056887/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1105_DRAGON-PONY_MV_Calling-back-da45ca1301056887/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1105_DRAGON-PONY_MV_Calling-back-da45ca1301056887/meta.json"
   },
   "🇺🇸 밈": {
    "name": "🇺🇸 밈",
