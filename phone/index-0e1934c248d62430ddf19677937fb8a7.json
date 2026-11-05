@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-05T10:01:01+09:00",
- "count": 9,
+ "updated_at": "2026-11-05T10:01:26+09:00",
+ "count": 10,
  "items": [
   {
    "name": "🇺🇸 STRAY-KIDS 'GUILTY PLEASURE'",
@@ -37,6 +37,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1104_Red-Velvet_MV_Cheetah-b50e6900b2f392af/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1104_Red-Velvet_MV_Cheetah-b50e6900b2f392af/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1104_Red-Velvet_MV_Cheetah-b50e6900b2f392af/meta.json"
+  },
+  {
+   "name": "🇺🇸 밈",
+   "key": "1105_밈_cat-like-idols-en@en",
+   "job": "1105_밈_cat-like-idols-en",
+   "lang": "en",
+   "flag": "🇺🇸",
+   "title": "밈",
+   "account": "amberbeat.official",
+   "music": "밈 5 Cat-Like Idols",
+   "audio_start": "- (음악 고르지 않기 · 영상 소리 그대로 올리기)",
+   "scheduled_at": "",
+   "caption": "Which cat-like idol is your pick? 🐱\n\n1. KARINA (aespa)\n2. JENNIE (BLACKPINK)\n3. YEJI (ITZY)\n4. CHAEWON (LE SSERAFIM)\n5. HAERIN (NewJeans)\n\nTag a friend who loves cat-like idols 👇\n\n———\n\nClips: official music show stages and MVs\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1105_-_cat-like-idols-en-d708261e503210e5/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1105_-_cat-like-idols-en-d708261e503210e5/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1105_-_cat-like-idols-en-d708261e503210e5/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1105_-_cat-like-idols-en-d708261e503210e5/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1105_-_cat-like-idols-en-d708261e503210e5/meta.json"
   },
   {
    "name": "🇪🇸 BABY DONT CRY 'Replay'",
@@ -201,6 +219,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1104_Red-Velvet_MV_Cheetah-b50e6900b2f392af/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1104_Red-Velvet_MV_Cheetah-b50e6900b2f392af/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1104_Red-Velvet_MV_Cheetah-b50e6900b2f392af/meta.json"
+  },
+  "🇺🇸 밈": {
+   "name": "🇺🇸 밈",
+   "key": "1105_밈_cat-like-idols-en@en",
+   "job": "1105_밈_cat-like-idols-en",
+   "lang": "en",
+   "flag": "🇺🇸",
+   "title": "밈",
+   "account": "amberbeat.official",
+   "music": "밈 5 Cat-Like Idols",
+   "audio_start": "- (음악 고르지 않기 · 영상 소리 그대로 올리기)",
+   "scheduled_at": "",
+   "caption": "Which cat-like idol is your pick? 🐱\n\n1. KARINA (aespa)\n2. JENNIE (BLACKPINK)\n3. YEJI (ITZY)\n4. CHAEWON (LE SSERAFIM)\n5. HAERIN (NewJeans)\n\nTag a friend who loves cat-like idols 👇\n\n———\n\nClips: official music show stages and MVs\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1105_-_cat-like-idols-en-d708261e503210e5/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1105_-_cat-like-idols-en-d708261e503210e5/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1105_-_cat-like-idols-en-d708261e503210e5/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1105_-_cat-like-idols-en-d708261e503210e5/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1105_-_cat-like-idols-en-d708261e503210e5/meta.json"
   },
   "🇪🇸 BABY DONT CRY 'Replay'": {
    "name": "🇪🇸 BABY DONT CRY 'Replay'",
