@@ -1,0 +1,17 @@
+{
+ "name": "🇯🇵 BABY DONT CRY 'Replay'",
+ "job": "1104_BABY-DONT-CRY_MV_Replay",
+ "lang": "ja",
+ "flag": "🇯🇵",
+ "title": "BABY DONT CRY 'Replay'",
+ "account": "amberbeat.japan",
+ "music": "BABY DONT CRY Replay",
+ "audio_start": "1:02 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+ "scheduled_at": "",
+ "urls": {
+  "reel.mp4": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1104_BABY-DONT-CRY_MV_Replay-3321bb53e62c19e9/reel.mp4",
+  "cover.jpg": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1104_BABY-DONT-CRY_MV_Replay-3321bb53e62c19e9/cover.jpg",
+  "caption.txt": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1104_BABY-DONT-CRY_MV_Replay-3321bb53e62c19e9/caption.txt",
+  "comment.txt": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1104_BABY-DONT-CRY_MV_Replay-3321bb53e62c19e9/comment.txt"
+ }
+}
