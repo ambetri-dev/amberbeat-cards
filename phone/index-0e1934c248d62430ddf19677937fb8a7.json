@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-05T19:10:56+09:00",
- "count": 7,
+ "updated_at": "2026-11-05T19:17:06+09:00",
+ "count": 8,
  "items": [
   {
    "name": "🇺🇸 STRAY-KIDS 'GUILTY PLEASURE'",
@@ -73,6 +73,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1105_-_cat-like-idols-en-d708261e503210e5/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1105_-_cat-like-idols-en-d708261e503210e5/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1105_-_cat-like-idols-en-d708261e503210e5/meta.json"
+  },
+  {
+   "name": "🇮🇩 DRAGON PONY 'Calling back'",
+   "key": "1105_DRAGON-PONY_MV_Calling-back@id",
+   "job": "1105_DRAGON-PONY_MV_Calling-back",
+   "lang": "id",
+   "flag": "🇮🇩",
+   "title": "DRAGON PONY 'Calling back'",
+   "account": "amberbeat.indonesia",
+   "music": "DRAGON PONY Calling back",
+   "audio_start": "3:40 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "DRAGON PONY merilis MV 'Calling back' di kanal YouTube Antenna pada 5 November 2026. MV ini mencapai 1,1 rb kali ditonton dalam 48 menit setelah tayang.\n\n———\n\nSource: Antenna official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Berita K-pop setiap hari, selalu dengan sumbernya.\nIkuti @amberbeat.indonesia\n\n#KPOP #BeritaKpop #KpopIndonesia #DragonPony",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1105_DRAGON-PONY_MV_Calling-back-0fbc58e39436c50e/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1105_DRAGON-PONY_MV_Calling-back-0fbc58e39436c50e/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1105_DRAGON-PONY_MV_Calling-back-0fbc58e39436c50e/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1105_DRAGON-PONY_MV_Calling-back-0fbc58e39436c50e/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1105_DRAGON-PONY_MV_Calling-back-0fbc58e39436c50e/meta.json"
   },
   {
    "name": "🇯🇵 RESCENE 'With'",
@@ -201,6 +219,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1105_-_cat-like-idols-en-d708261e503210e5/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1105_-_cat-like-idols-en-d708261e503210e5/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1105_-_cat-like-idols-en-d708261e503210e5/meta.json"
+  },
+  "🇮🇩 DRAGON PONY 'Calling back'": {
+   "name": "🇮🇩 DRAGON PONY 'Calling back'",
+   "key": "1105_DRAGON-PONY_MV_Calling-back@id",
+   "job": "1105_DRAGON-PONY_MV_Calling-back",
+   "lang": "id",
+   "flag": "🇮🇩",
+   "title": "DRAGON PONY 'Calling back'",
+   "account": "amberbeat.indonesia",
+   "music": "DRAGON PONY Calling back",
+   "audio_start": "3:40 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "DRAGON PONY merilis MV 'Calling back' di kanal YouTube Antenna pada 5 November 2026. MV ini mencapai 1,1 rb kali ditonton dalam 48 menit setelah tayang.\n\n———\n\nSource: Antenna official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Berita K-pop setiap hari, selalu dengan sumbernya.\nIkuti @amberbeat.indonesia\n\n#KPOP #BeritaKpop #KpopIndonesia #DragonPony",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1105_DRAGON-PONY_MV_Calling-back-0fbc58e39436c50e/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1105_DRAGON-PONY_MV_Calling-back-0fbc58e39436c50e/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1105_DRAGON-PONY_MV_Calling-back-0fbc58e39436c50e/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1105_DRAGON-PONY_MV_Calling-back-0fbc58e39436c50e/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1105_DRAGON-PONY_MV_Calling-back-0fbc58e39436c50e/meta.json"
   },
   "🇯🇵 RESCENE 'With'": {
    "name": "🇯🇵 RESCENE 'With'",
