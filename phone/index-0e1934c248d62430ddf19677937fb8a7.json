@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-06T00:44:10+09:00",
- "count": 9,
+ "updated_at": "2026-11-06T00:49:04+09:00",
+ "count": 10,
  "items": [
   {
    "name": "🇺🇸 STRAY-KIDS 'GUILTY PLEASURE'",
@@ -109,6 +109,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1105_DRAGON-PONY_MV_Calling-back-0fbc58e39436c50e/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1105_DRAGON-PONY_MV_Calling-back-0fbc58e39436c50e/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1105_DRAGON-PONY_MV_Calling-back-0fbc58e39436c50e/meta.json"
+  },
+  {
+   "name": "🇯🇵 A2O SOUL 'SUPERSTAR'",
+   "key": "1106_A2O-SOUL_MV_SUPERSTAR@ja",
+   "job": "1106_A2O-SOUL_MV_SUPERSTAR",
+   "lang": "ja",
+   "flag": "🇯🇵",
+   "title": "A2O SOUL 'SUPERSTAR'",
+   "account": "amberbeat.japan",
+   "music": "A2O SOUL SUPERSTAR",
+   "audio_start": "4:03 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "A2O SOULが「A2O WORLD」チャンネルで「SUPERSTAR」のMVを公開しました。公開から31分で9.4K回再生を記録しました。\n\n———\n\nSource: A2O WORLD official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · 毎日のK-POPニュースを出典つきでお届けします。\nフォローはこちら @amberbeat.japan\n\n#KPOP #KPOP好きな人と繋がりたい #Kポップ",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1106_A2O-SOUL_MV_SUPERSTAR-688ee8c989065a69/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1106_A2O-SOUL_MV_SUPERSTAR-688ee8c989065a69/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1106_A2O-SOUL_MV_SUPERSTAR-688ee8c989065a69/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1106_A2O-SOUL_MV_SUPERSTAR-688ee8c989065a69/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1106_A2O-SOUL_MV_SUPERSTAR-688ee8c989065a69/meta.json"
   },
   {
    "name": "🇵🇹 ZEROBASEONE 'RUN (with Dynamic Duo)'",
@@ -273,6 +291,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1105_DRAGON-PONY_MV_Calling-back-0fbc58e39436c50e/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1105_DRAGON-PONY_MV_Calling-back-0fbc58e39436c50e/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1105_DRAGON-PONY_MV_Calling-back-0fbc58e39436c50e/meta.json"
+  },
+  "🇯🇵 A2O SOUL 'SUPERSTAR'": {
+   "name": "🇯🇵 A2O SOUL 'SUPERSTAR'",
+   "key": "1106_A2O-SOUL_MV_SUPERSTAR@ja",
+   "job": "1106_A2O-SOUL_MV_SUPERSTAR",
+   "lang": "ja",
+   "flag": "🇯🇵",
+   "title": "A2O SOUL 'SUPERSTAR'",
+   "account": "amberbeat.japan",
+   "music": "A2O SOUL SUPERSTAR",
+   "audio_start": "4:03 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "A2O SOULが「A2O WORLD」チャンネルで「SUPERSTAR」のMVを公開しました。公開から31分で9.4K回再生を記録しました。\n\n———\n\nSource: A2O WORLD official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · 毎日のK-POPニュースを出典つきでお届けします。\nフォローはこちら @amberbeat.japan\n\n#KPOP #KPOP好きな人と繋がりたい #Kポップ",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1106_A2O-SOUL_MV_SUPERSTAR-688ee8c989065a69/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1106_A2O-SOUL_MV_SUPERSTAR-688ee8c989065a69/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1106_A2O-SOUL_MV_SUPERSTAR-688ee8c989065a69/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1106_A2O-SOUL_MV_SUPERSTAR-688ee8c989065a69/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1106_A2O-SOUL_MV_SUPERSTAR-688ee8c989065a69/meta.json"
   },
   "🇵🇹 ZEROBASEONE 'RUN (with Dynamic Duo)'": {
    "name": "🇵🇹 ZEROBASEONE 'RUN (with Dynamic Duo)'",
