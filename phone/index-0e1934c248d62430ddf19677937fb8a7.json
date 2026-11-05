@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-05T09:52:40+09:00",
- "count": 6,
+ "updated_at": "2026-11-05T09:57:43+09:00",
+ "count": 7,
  "items": [
   {
    "name": "🇺🇸 STRAY-KIDS 'GUILTY PLEASURE'",
@@ -91,6 +91,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1103_RESCENE_MV_With-594eb6239594c4ff/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1103_RESCENE_MV_With-594eb6239594c4ff/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1103_RESCENE_MV_With-594eb6239594c4ff/meta.json"
+  },
+  {
+   "name": "🇯🇵 BABY DONT CRY 'Replay'",
+   "key": "1104_BABY-DONT-CRY_MV_Replay@ja",
+   "job": "1104_BABY-DONT-CRY_MV_Replay",
+   "lang": "ja",
+   "flag": "🇯🇵",
+   "title": "BABY DONT CRY 'Replay'",
+   "account": "amberbeat.japan",
+   "music": "BABY DONT CRY Replay",
+   "audio_start": "1:02 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "BABY DONT CRYが2026年11月4日に'Replay'のミュージックビデオを公開しました。\n\n———\n\nSource: Baby DONT Cry official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · 毎日のK-POPニュースを出典つきでお届けします。\nフォローはこちら @amberbeat.japan\n\n#KPOP #KPOP好きな人と繋がりたい #Kポップ",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1104_BABY-DONT-CRY_MV_Replay-3321bb53e62c19e9/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1104_BABY-DONT-CRY_MV_Replay-3321bb53e62c19e9/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1104_BABY-DONT-CRY_MV_Replay-3321bb53e62c19e9/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1104_BABY-DONT-CRY_MV_Replay-3321bb53e62c19e9/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1104_BABY-DONT-CRY_MV_Replay-3321bb53e62c19e9/meta.json"
   },
   {
    "name": "🇹🇭 IU — MV ‘seesaw’ ทะลุ 10 ล้าน วิว",
@@ -201,6 +219,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1103_RESCENE_MV_With-594eb6239594c4ff/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1103_RESCENE_MV_With-594eb6239594c4ff/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1103_RESCENE_MV_With-594eb6239594c4ff/meta.json"
+  },
+  "🇯🇵 BABY DONT CRY 'Replay'": {
+   "name": "🇯🇵 BABY DONT CRY 'Replay'",
+   "key": "1104_BABY-DONT-CRY_MV_Replay@ja",
+   "job": "1104_BABY-DONT-CRY_MV_Replay",
+   "lang": "ja",
+   "flag": "🇯🇵",
+   "title": "BABY DONT CRY 'Replay'",
+   "account": "amberbeat.japan",
+   "music": "BABY DONT CRY Replay",
+   "audio_start": "1:02 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "BABY DONT CRYが2026年11月4日に'Replay'のミュージックビデオを公開しました。\n\n———\n\nSource: Baby DONT Cry official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · 毎日のK-POPニュースを出典つきでお届けします。\nフォローはこちら @amberbeat.japan\n\n#KPOP #KPOP好きな人と繋がりたい #Kポップ",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1104_BABY-DONT-CRY_MV_Replay-3321bb53e62c19e9/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1104_BABY-DONT-CRY_MV_Replay-3321bb53e62c19e9/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1104_BABY-DONT-CRY_MV_Replay-3321bb53e62c19e9/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1104_BABY-DONT-CRY_MV_Replay-3321bb53e62c19e9/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1104_BABY-DONT-CRY_MV_Replay-3321bb53e62c19e9/meta.json"
   },
   "🇹🇭 IU — MV ‘seesaw’ ทะลุ 10 ล้าน วิว": {
    "name": "🇹🇭 IU — MV ‘seesaw’ ทะลุ 10 ล้าน วิว",
