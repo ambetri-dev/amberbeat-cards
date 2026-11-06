@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-06T16:09:36+09:00",
- "count": 14,
+ "updated_at": "2026-11-06T20:13:35+09:00",
+ "count": 15,
  "items": [
   {
    "name": "🇺🇸 STRAY-KIDS 'GUILTY PLEASURE'",
@@ -73,6 +73,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1106_XG_MV_DEPENDS-78300f0d8e04428b/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1106_XG_MV_DEPENDS-78300f0d8e04428b/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1106_XG_MV_DEPENDS-78300f0d8e04428b/meta.json"
+  },
+  {
+   "name": "🇺🇸 ME:I '𝑹𝒐𝒄𝒌 & 𝑹𝒐𝒍𝒍 𝑷𝒓𝒆𝒕𝒕𝒚'",
+   "key": "1106_ME-I_MV_Rock-Roll-Pretty",
+   "job": "1106_ME-I_MV_Rock-Roll-Pretty",
+   "lang": "",
+   "flag": "🇺🇸",
+   "title": "ME:I '𝑹𝒐𝒄𝒌 & 𝑹𝒐𝒍𝒍 𝑷𝒓𝒆𝒕𝒕𝒚'",
+   "account": "amberbeat.official",
+   "music": "ME:I 𝑹𝒐𝒄𝒌 & 𝑹𝒐𝒍𝒍 𝑷𝒓𝒆𝒕𝒕𝒚",
+   "audio_start": "0:38 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "ME:I released the music video for '𝑹𝒐𝒄𝒌 & 𝑹𝒐𝒍𝒍 𝑷𝒓𝒆𝒕𝒕𝒚' on the ME:I channel on Nov 6, 2026. The video reached 1.2K views within 4 minutes of being published.\n\n———\n\nSource: ME:I official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#MEI #𝑹𝒐𝒄𝒌𝑹𝒐𝒍𝒍𝑷𝒓𝒆𝒕𝒕𝒚 #KPOP #KpopNews #NewMV",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1106_ME-I_MV_Rock-Roll-Pretty-16670fa40b76373f/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1106_ME-I_MV_Rock-Roll-Pretty-16670fa40b76373f/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1106_ME-I_MV_Rock-Roll-Pretty-16670fa40b76373f/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1106_ME-I_MV_Rock-Roll-Pretty-16670fa40b76373f/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1106_ME-I_MV_Rock-Roll-Pretty-16670fa40b76373f/meta.json"
   },
   {
    "name": "🇺🇸 밈",
@@ -327,6 +345,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1106_XG_MV_DEPENDS-78300f0d8e04428b/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1106_XG_MV_DEPENDS-78300f0d8e04428b/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1106_XG_MV_DEPENDS-78300f0d8e04428b/meta.json"
+  },
+  "🇺🇸 ME:I '𝑹𝒐𝒄𝒌 & 𝑹𝒐𝒍𝒍 𝑷𝒓𝒆𝒕𝒕𝒚'": {
+   "name": "🇺🇸 ME:I '𝑹𝒐𝒄𝒌 & 𝑹𝒐𝒍𝒍 𝑷𝒓𝒆𝒕𝒕𝒚'",
+   "key": "1106_ME-I_MV_Rock-Roll-Pretty",
+   "job": "1106_ME-I_MV_Rock-Roll-Pretty",
+   "lang": "",
+   "flag": "🇺🇸",
+   "title": "ME:I '𝑹𝒐𝒄𝒌 & 𝑹𝒐𝒍𝒍 𝑷𝒓𝒆𝒕𝒕𝒚'",
+   "account": "amberbeat.official",
+   "music": "ME:I 𝑹𝒐𝒄𝒌 & 𝑹𝒐𝒍𝒍 𝑷𝒓𝒆𝒕𝒕𝒚",
+   "audio_start": "0:38 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "ME:I released the music video for '𝑹𝒐𝒄𝒌 & 𝑹𝒐𝒍𝒍 𝑷𝒓𝒆𝒕𝒕𝒚' on the ME:I channel on Nov 6, 2026. The video reached 1.2K views within 4 minutes of being published.\n\n———\n\nSource: ME:I official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#MEI #𝑹𝒐𝒄𝒌𝑹𝒐𝒍𝒍𝑷𝒓𝒆𝒕𝒕𝒚 #KPOP #KpopNews #NewMV",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1106_ME-I_MV_Rock-Roll-Pretty-16670fa40b76373f/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1106_ME-I_MV_Rock-Roll-Pretty-16670fa40b76373f/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1106_ME-I_MV_Rock-Roll-Pretty-16670fa40b76373f/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1106_ME-I_MV_Rock-Roll-Pretty-16670fa40b76373f/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1106_ME-I_MV_Rock-Roll-Pretty-16670fa40b76373f/meta.json"
   },
   "🇺🇸 밈": {
    "name": "🇺🇸 밈",
