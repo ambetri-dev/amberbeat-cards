@@ -1,0 +1,17 @@
+{
+ "name": "🇺🇸 ITZY 'Lovesick'",
+ "job": "1109_ITZY_MV_Lovesick",
+ "lang": "",
+ "flag": "🇺🇸",
+ "title": "ITZY 'Lovesick'",
+ "account": "amberbeat.official",
+ "music": "ITZY Lovesick",
+ "audio_start": "0:47 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+ "scheduled_at": "",
+ "urls": {
+  "reel.mp4": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1109_ITZY_MV_Lovesick-4192ee79397229bd/reel.mp4",
+  "cover.jpg": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1109_ITZY_MV_Lovesick-4192ee79397229bd/cover.jpg",
+  "caption.txt": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1109_ITZY_MV_Lovesick-4192ee79397229bd/caption.txt",
+  "comment.txt": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1109_ITZY_MV_Lovesick-4192ee79397229bd/comment.txt"
+ }
+}
