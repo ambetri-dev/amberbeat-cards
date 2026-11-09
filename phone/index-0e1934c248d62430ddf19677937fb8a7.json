@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-09T14:27:57+09:00",
- "count": 8,
+ "updated_at": "2026-11-09T14:29:17+09:00",
+ "count": 9,
  "items": [
   {
    "name": "🇺🇸 STRAY-KIDS 'GUILTY PLEASURE'",
@@ -109,6 +109,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1105_-_puppy-like-idols-ja-f4dade9ad97ef23a/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1105_-_puppy-like-idols-ja-f4dade9ad97ef23a/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1105_-_puppy-like-idols-ja-f4dade9ad97ef23a/meta.json"
+  },
+  {
+   "name": "🇯🇵 밈",
+   "key": "1109_밈_cat-like-idols-m-ja@ja",
+   "job": "1109_밈_cat-like-idols-m-ja",
+   "lang": "ja",
+   "flag": "🇯🇵",
+   "title": "밈",
+   "account": "amberbeat.japan",
+   "music": "밈 5 Cat-Like Idols M (JA)",
+   "audio_start": "- (음악 고르지 않기 · 영상 소리 그대로 올리기)",
+   "scheduled_at": "",
+   "caption": "猫顔アイドル、あなたの推しは誰？🐱\n\n1. YUTA (NCT 127)\n\n2. YU (NEXZ)\n3. JUN (SEVENTEEN)\n\n4. HAN (Stray Kids)\n5. YOSHI (TREASURE)\n\n猫顔アイドル好きの友だちをタグ付けしてください👇\n\n———\n\nクリップ：音楽番組の公式ステージ・公式MV\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · 毎日のK-POPニュースを出典つきでお届けします。\nフォローはこちら @amberbeat.japan\n\n#KPOP #猫顔アイドル #YUTA #YU #JUN #HAN #YOSHI",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1109_-_cat-like-idols-m-ja-59c67bdf07dd9fcb/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1109_-_cat-like-idols-m-ja-59c67bdf07dd9fcb/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1109_-_cat-like-idols-m-ja-59c67bdf07dd9fcb/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1109_-_cat-like-idols-m-ja-59c67bdf07dd9fcb/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1109_-_cat-like-idols-m-ja-59c67bdf07dd9fcb/meta.json"
   },
   {
    "name": "🇵🇹 P1HARMONY 'BLOW UP'",
@@ -222,21 +240,21 @@
   },
   "🇯🇵 밈": {
    "name": "🇯🇵 밈",
-   "key": "1105_밈_puppy-like-idols-ja@ja",
-   "job": "1105_밈_puppy-like-idols-ja",
+   "key": "1109_밈_cat-like-idols-m-ja@ja",
+   "job": "1109_밈_cat-like-idols-m-ja",
    "lang": "ja",
    "flag": "🇯🇵",
    "title": "밈",
    "account": "amberbeat.japan",
-   "music": "밈 5 Puppy-Like Idols (JA)",
+   "music": "밈 5 Cat-Like Idols M (JA)",
    "audio_start": "- (음악 고르지 않기 · 영상 소리 그대로 올리기)",
    "scheduled_at": "",
-   "caption": "犬顔アイドル、あなたの推しは誰？🐶\n\n1. JAKE (ENHYPEN)\n\n2. TAEHYUN (TXT)\n3. DOHOON (TWS)\n\n4. JAEMIN (NCT DREAM)\n5. RIWOO (BOYNEXTDOOR)\n\n犬顔アイドル好きの友だちをタグ付けしてください👇\n\n———\n\nクリップ：音楽番組の公式ステージ・公式MV\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · 毎日のK-POPニュースを出典つきでお届けします。\nフォローはこちら @amberbeat.japan",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1105_-_puppy-like-idols-ja-f4dade9ad97ef23a/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1105_-_puppy-like-idols-ja-f4dade9ad97ef23a/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1105_-_puppy-like-idols-ja-f4dade9ad97ef23a/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1105_-_puppy-like-idols-ja-f4dade9ad97ef23a/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1105_-_puppy-like-idols-ja-f4dade9ad97ef23a/meta.json"
+   "caption": "猫顔アイドル、あなたの推しは誰？🐱\n\n1. YUTA (NCT 127)\n\n2. YU (NEXZ)\n3. JUN (SEVENTEEN)\n\n4. HAN (Stray Kids)\n5. YOSHI (TREASURE)\n\n猫顔アイドル好きの友だちをタグ付けしてください👇\n\n———\n\nクリップ：音楽番組の公式ステージ・公式MV\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · 毎日のK-POPニュースを出典つきでお届けします。\nフォローはこちら @amberbeat.japan\n\n#KPOP #猫顔アイドル #YUTA #YU #JUN #HAN #YOSHI",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1109_-_cat-like-idols-m-ja-59c67bdf07dd9fcb/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1109_-_cat-like-idols-m-ja-59c67bdf07dd9fcb/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1109_-_cat-like-idols-m-ja-59c67bdf07dd9fcb/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1109_-_cat-like-idols-m-ja-59c67bdf07dd9fcb/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1109_-_cat-like-idols-m-ja-59c67bdf07dd9fcb/meta.json"
   },
   "🇵🇹 P1HARMONY 'BLOW UP'": {
    "name": "🇵🇹 P1HARMONY 'BLOW UP'",
