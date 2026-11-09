@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-09T14:46:59+09:00",
- "count": 5,
+ "updated_at": "2026-11-09T19:22:42+09:00",
+ "count": 6,
  "items": [
   {
    "name": "🇺🇸 STRAY-KIDS 'GUILTY PLEASURE'",
@@ -19,6 +19,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1102_STRAY-KIDS_MV_GUILTY-PLEASURE-a8fb9125ce5be00d/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1102_STRAY-KIDS_MV_GUILTY-PLEASURE-a8fb9125ce5be00d/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1102_STRAY-KIDS_MV_GUILTY-PLEASURE-a8fb9125ce5be00d/meta.json"
+  },
+  {
+   "name": "🇺🇸 ITZY 'Lovesick'",
+   "key": "1109_ITZY_MV_Lovesick",
+   "job": "1109_ITZY_MV_Lovesick",
+   "lang": "",
+   "flag": "🇺🇸",
+   "title": "ITZY 'Lovesick'",
+   "account": "amberbeat.official",
+   "music": "ITZY Lovesick",
+   "audio_start": "0:47 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "ITZY's Chaeryeong released the music video for \"Lovesick\" via JYP Entertainment on Nov 9, 2026. The video reached 11.1K views within 6 minutes of its posting.\n\n———\n\nSource: JYP Entertainment official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#ITZY #CHAERYEONG #Lovesick #KPOP #KpopNews",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1109_ITZY_MV_Lovesick-4192ee79397229bd/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1109_ITZY_MV_Lovesick-4192ee79397229bd/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1109_ITZY_MV_Lovesick-4192ee79397229bd/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1109_ITZY_MV_Lovesick-4192ee79397229bd/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1109_ITZY_MV_Lovesick-4192ee79397229bd/meta.json"
   },
   {
    "name": "🇺🇸 밈",
@@ -111,6 +129,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1102_STRAY-KIDS_MV_GUILTY-PLEASURE-a8fb9125ce5be00d/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1102_STRAY-KIDS_MV_GUILTY-PLEASURE-a8fb9125ce5be00d/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1102_STRAY-KIDS_MV_GUILTY-PLEASURE-a8fb9125ce5be00d/meta.json"
+  },
+  "🇺🇸 ITZY 'Lovesick'": {
+   "name": "🇺🇸 ITZY 'Lovesick'",
+   "key": "1109_ITZY_MV_Lovesick",
+   "job": "1109_ITZY_MV_Lovesick",
+   "lang": "",
+   "flag": "🇺🇸",
+   "title": "ITZY 'Lovesick'",
+   "account": "amberbeat.official",
+   "music": "ITZY Lovesick",
+   "audio_start": "0:47 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "ITZY's Chaeryeong released the music video for \"Lovesick\" via JYP Entertainment on Nov 9, 2026. The video reached 11.1K views within 6 minutes of its posting.\n\n———\n\nSource: JYP Entertainment official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#ITZY #CHAERYEONG #Lovesick #KPOP #KpopNews",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1109_ITZY_MV_Lovesick-4192ee79397229bd/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1109_ITZY_MV_Lovesick-4192ee79397229bd/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1109_ITZY_MV_Lovesick-4192ee79397229bd/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1109_ITZY_MV_Lovesick-4192ee79397229bd/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1109_ITZY_MV_Lovesick-4192ee79397229bd/meta.json"
   },
   "🇺🇸 밈": {
    "name": "🇺🇸 밈",
