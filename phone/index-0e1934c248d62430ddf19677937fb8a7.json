@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-10T10:30:34+09:00",
- "count": 2,
+ "updated_at": "2026-11-11T09:41:20+09:00",
+ "count": 1,
  "items": [
   {
    "name": "🇺🇸 STRAY-KIDS 'GUILTY PLEASURE'",
@@ -19,24 +19,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1102_STRAY-KIDS_MV_GUILTY-PLEASURE-a8fb9125ce5be00d/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1102_STRAY-KIDS_MV_GUILTY-PLEASURE-a8fb9125ce5be00d/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1102_STRAY-KIDS_MV_GUILTY-PLEASURE-a8fb9125ce5be00d/meta.json"
-  },
-  {
-   "name": "🇵🇹 P1HARMONY 'BLOW UP'",
-   "key": "1106_P1HARMONY_MV_BLOW-UP@pt",
-   "job": "1106_P1HARMONY_MV_BLOW-UP",
-   "lang": "pt",
-   "flag": "🇵🇹",
-   "title": "P1HARMONY 'BLOW UP'",
-   "account": "amberbeat.portugal",
-   "music": "P1HARMONY BLOW UP",
-   "audio_start": "1:04 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "",
-   "caption": "Os P1HARMONY partilharam o videoclipe oficial de 'BLOW UP' no YouTube a 6 de novembro de 2026.\n\n———\n\nSource: P1Harmony official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Notícias de K-pop todos os dias, sempre com a fonte.\nSegue-nos em @amberbeat.portugal\n\n#KPOP #NoticiasKpop #KpopPortugal #P1HARMONY #BLOWUP",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1106_P1HARMONY_MV_BLOW-UP-7f42e39f95173872/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1106_P1HARMONY_MV_BLOW-UP-7f42e39f95173872/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1106_P1HARMONY_MV_BLOW-UP-7f42e39f95173872/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1106_P1HARMONY_MV_BLOW-UP-7f42e39f95173872/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1106_P1HARMONY_MV_BLOW-UP-7f42e39f95173872/meta.json"
   }
  ],
  "by_name": {
@@ -57,24 +39,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1102_STRAY-KIDS_MV_GUILTY-PLEASURE-a8fb9125ce5be00d/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1102_STRAY-KIDS_MV_GUILTY-PLEASURE-a8fb9125ce5be00d/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1102_STRAY-KIDS_MV_GUILTY-PLEASURE-a8fb9125ce5be00d/meta.json"
-  },
-  "🇵🇹 P1HARMONY 'BLOW UP'": {
-   "name": "🇵🇹 P1HARMONY 'BLOW UP'",
-   "key": "1106_P1HARMONY_MV_BLOW-UP@pt",
-   "job": "1106_P1HARMONY_MV_BLOW-UP",
-   "lang": "pt",
-   "flag": "🇵🇹",
-   "title": "P1HARMONY 'BLOW UP'",
-   "account": "amberbeat.portugal",
-   "music": "P1HARMONY BLOW UP",
-   "audio_start": "1:04 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "",
-   "caption": "Os P1HARMONY partilharam o videoclipe oficial de 'BLOW UP' no YouTube a 6 de novembro de 2026.\n\n———\n\nSource: P1Harmony official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Notícias de K-pop todos os dias, sempre com a fonte.\nSegue-nos em @amberbeat.portugal\n\n#KPOP #NoticiasKpop #KpopPortugal #P1HARMONY #BLOWUP",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1106_P1HARMONY_MV_BLOW-UP-7f42e39f95173872/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1106_P1HARMONY_MV_BLOW-UP-7f42e39f95173872/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1106_P1HARMONY_MV_BLOW-UP-7f42e39f95173872/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1106_P1HARMONY_MV_BLOW-UP-7f42e39f95173872/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1106_P1HARMONY_MV_BLOW-UP-7f42e39f95173872/meta.json"
   }
  }
 }
