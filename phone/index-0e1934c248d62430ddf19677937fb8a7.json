@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-11T11:01:20+09:00",
- "count": 2,
+ "updated_at": "2026-11-12T10:00:45+09:00",
+ "count": 3,
  "items": [
   {
    "name": "🇺🇸 밈",
@@ -19,6 +19,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_idol-lip-picks-en-e0e10ac0bb16ff31/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_idol-lip-picks-en-e0e10ac0bb16ff31/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_idol-lip-picks-en-e0e10ac0bb16ff31/meta.json"
+  },
+  {
+   "name": "🇯🇵 밈",
+   "key": "1109_밈_puppy-like-idols-f-ja@ja",
+   "job": "1109_밈_puppy-like-idols-f-ja",
+   "lang": "ja",
+   "flag": "🇯🇵",
+   "title": "밈",
+   "account": "amberbeat.japan",
+   "music": "밈 5 Puppy-Like Idols (F) (JA)",
+   "audio_start": "- (음악 고르지 않기 · 영상 소리 그대로 올리기)",
+   "scheduled_at": "",
+   "caption": "犬顔アイドル、あなたの推しは誰？🐶\n\n1. JIWON (fromis_9)\n2. UMJI (VIVIZ)\n3. SULLYOON (NMIXX)\n4. YE-ON (Hearts2Hearts)\n5. DANIELLE (NewJeans)\n\n犬顔アイドル好きの友だちをタグ付けしてください👇\n\n———\n\nクリップ：音楽番組の公式ステージ・公式MV\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · 毎日のK-POPニュースを出典つきでお届けします。\nフォローはこちら @amberbeat.japan\n\n#KPOP #犬顔アイドル #JIWON #UMJI #SULLYOON #YEON #DANIELLE",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1109_-_puppy-like-idols-f-ja-520c8409f717623a/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1109_-_puppy-like-idols-f-ja-520c8409f717623a/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1109_-_puppy-like-idols-f-ja-520c8409f717623a/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1109_-_puppy-like-idols-f-ja-520c8409f717623a/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1109_-_puppy-like-idols-f-ja-520c8409f717623a/meta.json"
   },
   {
    "name": "🇵🇹 밈",
@@ -57,6 +75,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_idol-lip-picks-en-e0e10ac0bb16ff31/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_idol-lip-picks-en-e0e10ac0bb16ff31/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_idol-lip-picks-en-e0e10ac0bb16ff31/meta.json"
+  },
+  "🇯🇵 밈": {
+   "name": "🇯🇵 밈",
+   "key": "1109_밈_puppy-like-idols-f-ja@ja",
+   "job": "1109_밈_puppy-like-idols-f-ja",
+   "lang": "ja",
+   "flag": "🇯🇵",
+   "title": "밈",
+   "account": "amberbeat.japan",
+   "music": "밈 5 Puppy-Like Idols (F) (JA)",
+   "audio_start": "- (음악 고르지 않기 · 영상 소리 그대로 올리기)",
+   "scheduled_at": "",
+   "caption": "犬顔アイドル、あなたの推しは誰？🐶\n\n1. JIWON (fromis_9)\n2. UMJI (VIVIZ)\n3. SULLYOON (NMIXX)\n4. YE-ON (Hearts2Hearts)\n5. DANIELLE (NewJeans)\n\n犬顔アイドル好きの友だちをタグ付けしてください👇\n\n———\n\nクリップ：音楽番組の公式ステージ・公式MV\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · 毎日のK-POPニュースを出典つきでお届けします。\nフォローはこちら @amberbeat.japan\n\n#KPOP #犬顔アイドル #JIWON #UMJI #SULLYOON #YEON #DANIELLE",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1109_-_puppy-like-idols-f-ja-520c8409f717623a/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1109_-_puppy-like-idols-f-ja-520c8409f717623a/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1109_-_puppy-like-idols-f-ja-520c8409f717623a/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1109_-_puppy-like-idols-f-ja-520c8409f717623a/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1109_-_puppy-like-idols-f-ja-520c8409f717623a/meta.json"
   },
   "🇵🇹 밈": {
    "name": "🇵🇹 밈",
