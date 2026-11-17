@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-17T17:58:34+09:00",
- "count": 7,
+ "updated_at": "2026-11-17T17:59:33+09:00",
+ "count": 8,
  "items": [
   {
    "name": "🇺🇸 BTS — BTS Sweeps 6 Trophies At MMA 2026",
@@ -55,6 +55,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BTS_award-65ac19ef9e87caa8/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BTS_award-65ac19ef9e87caa8/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BTS_award-65ac19ef9e87caa8/meta.json"
+  },
+  {
+   "name": "🇯🇵 BABYMONSTER — 「CHOOM」パフォーマンス映像 再生回数1億回突破",
+   "key": "1116_BABYMONSTER_milestone_춤-CHOOM@ja",
+   "job": "1116_BABYMONSTER_milestone_춤-CHOOM",
+   "lang": "ja",
+   "flag": "🇯🇵",
+   "title": "BABYMONSTER — 「CHOOM」パフォーマンス映像 再生回数1億回突破",
+   "account": "amberbeat.japan",
+   "music": "BABYMONSTER 춤 (CHOOM)",
+   "audio_start": "2:31 No time to waste (na-na-na), let's celebrate (na-na-na) (추정)",
+   "scheduled_at": "",
+   "caption": "BABYMONSTERの「CHOOM」パフォーマンス映像の再生回数が1億回を突破しました。\n\nYG LIFEがこの記録を伝えました。\n\nBABYMONSTERは2024年にグループとしてデビューしました。\n\n———\n\nSource: YG LIFE\n\n#KPOP #BABYMONSTER #CHOOM #Kポップ",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BABYMONSTER_milestone_-CHOOM-d17e87edd02a5c19/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BABYMONSTER_milestone_-CHOOM-d17e87edd02a5c19/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BABYMONSTER_milestone_-CHOOM-d17e87edd02a5c19/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BABYMONSTER_milestone_-CHOOM-d17e87edd02a5c19/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BABYMONSTER_milestone_-CHOOM-d17e87edd02a5c19/meta.json"
   },
   {
    "name": "🇵🇹 밈",
@@ -183,6 +201,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BTS_award-65ac19ef9e87caa8/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BTS_award-65ac19ef9e87caa8/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BTS_award-65ac19ef9e87caa8/meta.json"
+  },
+  "🇯🇵 BABYMONSTER — 「CHOOM」パフォーマンス映像 再生回数1億回突破": {
+   "name": "🇯🇵 BABYMONSTER — 「CHOOM」パフォーマンス映像 再生回数1億回突破",
+   "key": "1116_BABYMONSTER_milestone_춤-CHOOM@ja",
+   "job": "1116_BABYMONSTER_milestone_춤-CHOOM",
+   "lang": "ja",
+   "flag": "🇯🇵",
+   "title": "BABYMONSTER — 「CHOOM」パフォーマンス映像 再生回数1億回突破",
+   "account": "amberbeat.japan",
+   "music": "BABYMONSTER 춤 (CHOOM)",
+   "audio_start": "2:31 No time to waste (na-na-na), let's celebrate (na-na-na) (추정)",
+   "scheduled_at": "",
+   "caption": "BABYMONSTERの「CHOOM」パフォーマンス映像の再生回数が1億回を突破しました。\n\nYG LIFEがこの記録を伝えました。\n\nBABYMONSTERは2024年にグループとしてデビューしました。\n\n———\n\nSource: YG LIFE\n\n#KPOP #BABYMONSTER #CHOOM #Kポップ",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BABYMONSTER_milestone_-CHOOM-d17e87edd02a5c19/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BABYMONSTER_milestone_-CHOOM-d17e87edd02a5c19/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BABYMONSTER_milestone_-CHOOM-d17e87edd02a5c19/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BABYMONSTER_milestone_-CHOOM-d17e87edd02a5c19/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BABYMONSTER_milestone_-CHOOM-d17e87edd02a5c19/meta.json"
   },
   "🇵🇹 밈": {
    "name": "🇵🇹 밈",
