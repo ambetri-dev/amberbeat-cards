@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-17T18:08:43+09:00",
- "count": 8,
+ "updated_at": "2026-11-17T20:32:14+09:00",
+ "count": 9,
  "items": [
   {
    "name": "🇺🇸 BTS — BTS Sweeps 6 Trophies At MMA 2026",
@@ -19,6 +19,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_BTS_award-d430966ed87e5447/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_BTS_award-d430966ed87e5447/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_BTS_award-d430966ed87e5447/meta.json"
+  },
+  {
+   "name": "🇺🇸 ILLIT — ILLIT Tops World Albums",
+   "key": "1116_ILLIT_chart@en",
+   "job": "1116_ILLIT_chart",
+   "lang": "en",
+   "flag": "🇺🇸",
+   "title": "ILLIT — ILLIT Tops World Albums",
+   "account": "amberbeat.official",
+   "music": "ILLIT 체포하겠어 (You’re Under Arrest)",
+   "audio_start": "1:07 Matjana crime signs (추정)",
+   "scheduled_at": "",
+   "caption": "The ranking was confirmed on Billboard. ILLIT ranked at No. 1 on the Billboard World Albums chart. ILLIT debuted in Mar 2024. One of ILLIT's recent music videos, ‘ (You're Under Arrest)’, has reached 32,850,411 views as of 2026-11-17.\n\n———\n\nSource: laodong.vn\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#KPOP #ILLIT #BillboardChart #KpopNews",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_ILLIT_chart-bdafb2fed8db4c51/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_ILLIT_chart-bdafb2fed8db4c51/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_ILLIT_chart-bdafb2fed8db4c51/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_ILLIT_chart-bdafb2fed8db4c51/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_ILLIT_chart-bdafb2fed8db4c51/meta.json"
   },
   {
    "name": "🇮🇩 BTS — BTS Raih 6 Trofi di MMA 2026",
@@ -165,6 +183,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_BTS_award-d430966ed87e5447/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_BTS_award-d430966ed87e5447/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_BTS_award-d430966ed87e5447/meta.json"
+  },
+  "🇺🇸 ILLIT — ILLIT Tops World Albums": {
+   "name": "🇺🇸 ILLIT — ILLIT Tops World Albums",
+   "key": "1116_ILLIT_chart@en",
+   "job": "1116_ILLIT_chart",
+   "lang": "en",
+   "flag": "🇺🇸",
+   "title": "ILLIT — ILLIT Tops World Albums",
+   "account": "amberbeat.official",
+   "music": "ILLIT 체포하겠어 (You’re Under Arrest)",
+   "audio_start": "1:07 Matjana crime signs (추정)",
+   "scheduled_at": "",
+   "caption": "The ranking was confirmed on Billboard. ILLIT ranked at No. 1 on the Billboard World Albums chart. ILLIT debuted in Mar 2024. One of ILLIT's recent music videos, ‘ (You're Under Arrest)’, has reached 32,850,411 views as of 2026-11-17.\n\n———\n\nSource: laodong.vn\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#KPOP #ILLIT #BillboardChart #KpopNews",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_ILLIT_chart-bdafb2fed8db4c51/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_ILLIT_chart-bdafb2fed8db4c51/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_ILLIT_chart-bdafb2fed8db4c51/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_ILLIT_chart-bdafb2fed8db4c51/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_ILLIT_chart-bdafb2fed8db4c51/meta.json"
   },
   "🇮🇩 BTS — BTS Raih 6 Trofi di MMA 2026": {
    "name": "🇮🇩 BTS — BTS Raih 6 Trofi di MMA 2026",
