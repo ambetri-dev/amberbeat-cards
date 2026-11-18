@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T17:43:25+09:00",
+ "updated_at": "2026-11-18T17:43:34+09:00",
  "count": 10,
  "items": [
   {
@@ -129,12 +129,12 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1116_BTS_award-32939f7b5f9c03d5/meta.json"
   },
   {
-   "name": "🇺🇸 BTS",
+   "name": "🇺🇸 BTS — BTS Sweeps 6 Trophies At MMA 2026",
    "key": "1116_BTS_award@en",
    "job": "1116_BTS_award",
    "lang": "en",
    "flag": "🇺🇸",
-   "title": "BTS",
+   "title": "BTS — BTS Sweeps 6 Trophies At MMA 2026",
    "account": "amberbeat.official",
    "music": "BTS NORMAL",
    "audio_start": "0:27 Run away out of sight, don't know what I want (추정)",
@@ -310,13 +310,13 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1116_BTS_award-32939f7b5f9c03d5/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1116_BTS_award-32939f7b5f9c03d5/meta.json"
   },
-  "🇺🇸 BTS": {
-   "name": "🇺🇸 BTS",
+  "🇺🇸 BTS — BTS Sweeps 6 Trophies At MMA 2026": {
+   "name": "🇺🇸 BTS — BTS Sweeps 6 Trophies At MMA 2026",
    "key": "1116_BTS_award@en",
    "job": "1116_BTS_award",
    "lang": "en",
    "flag": "🇺🇸",
-   "title": "BTS",
+   "title": "BTS — BTS Sweeps 6 Trophies At MMA 2026",
    "account": "amberbeat.official",
    "music": "BTS NORMAL",
    "audio_start": "0:27 Run away out of sight, don't know what I want (추정)",
