@@ -1,25 +1,7 @@
 {
  "updated_at": "2026-11-18T17:59:56+09:00",
- "count": 7,
+ "count": 6,
  "items": [
-  {
-   "name": "🇪🇸 BLACKPINK — YG 측 “블랙핑크와 그룹 활동에 대해 논의 중” [공식입장]",
-   "key": "1116_YG_agency_statement@es",
-   "job": "1116_YG_agency_statement",
-   "lang": "es",
-   "flag": "🇪🇸",
-   "title": "BLACKPINK — YG 측 “블랙핑크와 그룹 활동에 대해 논의 중” [공식입장]",
-   "account": "amberbeat.spain",
-   "music": "BLACKPINK GO",
-   "audio_start": "0:29 (추정)",
-   "scheduled_at": "",
-   "caption": "YG Entertainment dijo el 16 de noviembre que está discutiendo actividades grupales con BLACKPINK mientras las integrantes continúan con sus promociones individuales.\n\nLa agencia dijo que seguirá trabajando para mostrar buenas actividades bajo el nombre de BLACKPINK.\n\nYG dijo que respeta el deseo de las integrantes de centrarse en sus actividades individuales por ahora.\n\nBLACKPINK debutó en 2016 y renovó su contrato con YG Entertainment en 2023.\n\n———\n\nSource: OSEN\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Noticias de K-pop cada día, siempre con la fuente.\nSíguenos en @amberbeat.spain\n\n#KPOP #BLACKPINK #NoticiasKpop #KpopEnEspañol #YGEntertainment",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1116_YG_agency_statement-b30fb67aa6e1adb1/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1116_YG_agency_statement-b30fb67aa6e1adb1/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1116_YG_agency_statement-b30fb67aa6e1adb1/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1116_YG_agency_statement-b30fb67aa6e1adb1/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1116_YG_agency_statement-b30fb67aa6e1adb1/meta.json"
-  },
   {
    "name": "🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지",
    "key": "1116_ILLIT_chart@en",
@@ -130,24 +112,6 @@
   }
  ],
  "by_name": {
-  "🇪🇸 BLACKPINK — YG 측 “블랙핑크와 그룹 활동에 대해 논의 중” [공식입장]": {
-   "name": "🇪🇸 BLACKPINK — YG 측 “블랙핑크와 그룹 활동에 대해 논의 중” [공식입장]",
-   "key": "1116_YG_agency_statement@es",
-   "job": "1116_YG_agency_statement",
-   "lang": "es",
-   "flag": "🇪🇸",
-   "title": "BLACKPINK — YG 측 “블랙핑크와 그룹 활동에 대해 논의 중” [공식입장]",
-   "account": "amberbeat.spain",
-   "music": "BLACKPINK GO",
-   "audio_start": "0:29 (추정)",
-   "scheduled_at": "",
-   "caption": "YG Entertainment dijo el 16 de noviembre que está discutiendo actividades grupales con BLACKPINK mientras las integrantes continúan con sus promociones individuales.\n\nLa agencia dijo que seguirá trabajando para mostrar buenas actividades bajo el nombre de BLACKPINK.\n\nYG dijo que respeta el deseo de las integrantes de centrarse en sus actividades individuales por ahora.\n\nBLACKPINK debutó en 2016 y renovó su contrato con YG Entertainment en 2023.\n\n———\n\nSource: OSEN\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Noticias de K-pop cada día, siempre con la fuente.\nSíguenos en @amberbeat.spain\n\n#KPOP #BLACKPINK #NoticiasKpop #KpopEnEspañol #YGEntertainment",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1116_YG_agency_statement-b30fb67aa6e1adb1/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1116_YG_agency_statement-b30fb67aa6e1adb1/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1116_YG_agency_statement-b30fb67aa6e1adb1/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1116_YG_agency_statement-b30fb67aa6e1adb1/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1116_YG_agency_statement-b30fb67aa6e1adb1/meta.json"
-  },
   "🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지": {
    "name": "🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지",
    "key": "1116_ILLIT_chart@en",
