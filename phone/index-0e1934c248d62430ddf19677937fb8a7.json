@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-18T10:44:33+09:00",
- "count": 12,
+ "updated_at": "2026-11-18T10:45:09+09:00",
+ "count": 13,
  "items": [
   {
    "name": "🇺🇸 BTS — BTS Sweeps 6 Trophies At MMA 2026",
@@ -217,6 +217,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1116_BTS_award_2026-_3-d812ede15cdba12b/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1116_BTS_award_2026-_3-d812ede15cdba12b/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1116_BTS_award_2026-_3-d812ede15cdba12b/meta.json"
+  },
+  {
+   "name": "🇹🇭 ATEEZ — ATEEZ SAN ‘Not Like Lovin' Me’",
+   "key": "1116_ATEEZ-SAN_release@th",
+   "job": "1116_ATEEZ-SAN_release",
+   "lang": "th",
+   "flag": "🇹🇭",
+   "title": "ATEEZ — ATEEZ SAN ‘Not Like Lovin' Me’",
+   "account": "amberbeat.thailand",
+   "music": "ATEEZ 불놀이야 (I'm The One)",
+   "audio_start": "0:17 What is going on right now? (추정)",
+   "scheduled_at": "",
+   "caption": "SAN ถ่ายทอดเสียงร้องที่เต็มไปด้วยอารมณ์ความรู้สึกในเพลงประกอบละครเรื่องใหม่นี้\nรายงานโดย MHN Sports\n\n———\n\nSource: MHN Sports\n\n#ATEEZ #SAN #KPOP #ข่าวเคป๊อป #ติ่งเกาหลี",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1116_ATEEZ-SAN_release-c9adb7206a7b5b4e/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1116_ATEEZ-SAN_release-c9adb7206a7b5b4e/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1116_ATEEZ-SAN_release-c9adb7206a7b5b4e/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1116_ATEEZ-SAN_release-c9adb7206a7b5b4e/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1116_ATEEZ-SAN_release-c9adb7206a7b5b4e/meta.json"
   }
  ],
  "by_name": {
@@ -435,6 +453,24 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1116_BTS_award_2026-_3-d812ede15cdba12b/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1116_BTS_award_2026-_3-d812ede15cdba12b/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1116_BTS_award_2026-_3-d812ede15cdba12b/meta.json"
+  },
+  "🇹🇭 ATEEZ — ATEEZ SAN ‘Not Like Lovin' Me’": {
+   "name": "🇹🇭 ATEEZ — ATEEZ SAN ‘Not Like Lovin' Me’",
+   "key": "1116_ATEEZ-SAN_release@th",
+   "job": "1116_ATEEZ-SAN_release",
+   "lang": "th",
+   "flag": "🇹🇭",
+   "title": "ATEEZ — ATEEZ SAN ‘Not Like Lovin' Me’",
+   "account": "amberbeat.thailand",
+   "music": "ATEEZ 불놀이야 (I'm The One)",
+   "audio_start": "0:17 What is going on right now? (추정)",
+   "scheduled_at": "",
+   "caption": "SAN ถ่ายทอดเสียงร้องที่เต็มไปด้วยอารมณ์ความรู้สึกในเพลงประกอบละครเรื่องใหม่นี้\nรายงานโดย MHN Sports\n\n———\n\nSource: MHN Sports\n\n#ATEEZ #SAN #KPOP #ข่าวเคป๊อป #ติ่งเกาหลี",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1116_ATEEZ-SAN_release-c9adb7206a7b5b4e/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1116_ATEEZ-SAN_release-c9adb7206a7b5b4e/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1116_ATEEZ-SAN_release-c9adb7206a7b5b4e/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1116_ATEEZ-SAN_release-c9adb7206a7b5b4e/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1116_ATEEZ-SAN_release-c9adb7206a7b5b4e/meta.json"
   }
  }
 }
