@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-18T17:42:57+09:00",
+ "updated_at": "2026-11-18T17:43:04+09:00",
  "count": 10,
  "items": [
   {
-   "name": "🇵🇹 BLACKPINK — YG 측 “블랙핑크와 그룹 활동에 대해 논의 중” [공식입장]",
+   "name": "🇵🇹 YG — Yg fala sobre planos de atividades em grupo",
    "key": "1116_YG_agency_statement@pt",
    "job": "1116_YG_agency_statement",
    "lang": "pt",
    "flag": "🇵🇹",
-   "title": "BLACKPINK — YG 측 “블랙핑크와 그룹 활동에 대해 논의 중” [공식입장]",
+   "title": "YG — Yg fala sobre planos de atividades em grupo",
    "account": "amberbeat.portugal",
    "music": "BLACKPINK GO",
    "audio_start": "0:29 (추정)",
@@ -21,12 +21,12 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1116_YG_agency_statement-3de8c271691952d7/meta.json"
   },
   {
-   "name": "🇮🇩 BLACKPINK — YG 측 “블랙핑크와 그룹 활동에 대해 논의 중” [공식입장]",
+   "name": "🇮🇩 YG — YG Bahas Rencana Aktivitas Grup",
    "key": "1116_YG_agency_statement@id",
    "job": "1116_YG_agency_statement",
    "lang": "id",
    "flag": "🇮🇩",
-   "title": "BLACKPINK — YG 측 “블랙핑크와 그룹 활동에 대해 논의 중” [공식입장]",
+   "title": "YG — YG Bahas Rencana Aktivitas Grup",
    "account": "amberbeat.indonesia",
    "music": "BLACKPINK GO",
    "audio_start": "0:29 (추정)",
@@ -39,12 +39,12 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1116_YG_agency_statement-74eb5aaca714444a/meta.json"
   },
   {
-   "name": "🇪🇸 BLACKPINK — YG 측 “블랙핑크와 그룹 활동에 대해 논의 중” [공식입장]",
+   "name": "🇪🇸 YG — Yg habla sobre los planes de actividades grupales",
    "key": "1116_YG_agency_statement@es",
    "job": "1116_YG_agency_statement",
    "lang": "es",
    "flag": "🇪🇸",
-   "title": "BLACKPINK — YG 측 “블랙핑크와 그룹 활동에 대해 논의 중” [공식입장]",
+   "title": "YG — Yg habla sobre los planes de actividades grupales",
    "account": "amberbeat.spain",
    "music": "BLACKPINK GO",
    "audio_start": "0:29 (추정)",
@@ -57,12 +57,12 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1116_YG_agency_statement-b30fb67aa6e1adb1/meta.json"
   },
   {
-   "name": "🇯🇵 BLACKPINK — YG 측 “블랙핑크와 그룹 활동에 대해 논의 중” [공식입장]",
+   "name": "🇯🇵 YG — YG、グループ活動計画について話す",
    "key": "1116_YG_agency_statement@ja",
    "job": "1116_YG_agency_statement",
    "lang": "ja",
    "flag": "🇯🇵",
-   "title": "BLACKPINK — YG 측 “블랙핑크와 그룹 활동에 대해 논의 중” [공식입장]",
+   "title": "YG — YG、グループ活動計画について話す",
    "account": "amberbeat.japan",
    "music": "BLACKPINK GO",
    "audio_start": "1:01 (추정)",
@@ -75,12 +75,12 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_YG_agency_statement-097f2108a6554fbe/meta.json"
   },
   {
-   "name": "🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지",
+   "name": "🇺🇸 ILLIT",
    "key": "1116_ILLIT_chart@en",
    "job": "1116_ILLIT_chart",
    "lang": "en",
    "flag": "🇺🇸",
-   "title": "ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지",
+   "title": "ILLIT",
    "account": "amberbeat.official",
    "music": "ILLIT 체포하겠어 (You’re Under Arrest)",
    "audio_start": "1:07 Matjana crime signs (추정)",
@@ -93,12 +93,12 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_ILLIT_chart-bdafb2fed8db4c51/meta.json"
   },
   {
-   "name": "🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1",
+   "name": "🇯🇵 BABYMONSTER — 「CHOOM」パフォーマンス映像 再生回数1億回突破",
    "key": "1116_BABYMONSTER_milestone_춤-CHOOM@ja",
    "job": "1116_BABYMONSTER_milestone_춤-CHOOM",
    "lang": "ja",
    "flag": "🇯🇵",
-   "title": "BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1",
+   "title": "BABYMONSTER — 「CHOOM」パフォーマンス映像 再生回数1億回突破",
    "account": "amberbeat.japan",
    "music": "BABYMONSTER 춤 (CHOOM)",
    "audio_start": "2:31 No time to waste (na-na-na), let's celebrate (na-na-na) (추정)",
@@ -111,12 +111,12 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BABYMONSTER_milestone_-CHOOM-d17e87edd02a5c19/meta.json"
   },
   {
-   "name": "🇮🇩 BTS — BTS Sweeps 6 Trophies At MMA 2026",
+   "name": "🇮🇩 BTS — BTS Raih 6 Trofi di MMA 2026",
    "key": "1116_BTS_award@id",
    "job": "1116_BTS_award",
    "lang": "id",
    "flag": "🇮🇩",
-   "title": "BTS — BTS Sweeps 6 Trophies At MMA 2026",
+   "title": "BTS — BTS Raih 6 Trofi di MMA 2026",
    "account": "amberbeat.indonesia",
    "music": "BTS Yet To Come",
    "audio_start": "0:20 그날을 향해, 숨이 벅차게 (추정)",
@@ -129,12 +129,12 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1116_BTS_award-32939f7b5f9c03d5/meta.json"
   },
   {
-   "name": "🇺🇸 BTS — BTS Sweeps 6 Trophies At MMA 2026",
+   "name": "🇺🇸 BTS",
    "key": "1116_BTS_award@en",
    "job": "1116_BTS_award",
    "lang": "en",
    "flag": "🇺🇸",
-   "title": "BTS — BTS Sweeps 6 Trophies At MMA 2026",
+   "title": "BTS",
    "account": "amberbeat.official",
    "music": "BTS NORMAL",
    "audio_start": "0:27 Run away out of sight, don't know what I want (추정)",
@@ -147,12 +147,12 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_BTS_award-d430966ed87e5447/meta.json"
   },
   {
-   "name": "🇯🇵 BTS — BTS Sweeps 6 Trophies At MMA 2026",
+   "name": "🇯🇵 BTS — BTSがMMA2026でトロフィー 6冠を達成",
    "key": "1116_BTS_award@ja",
    "job": "1116_BTS_award",
    "lang": "ja",
    "flag": "🇯🇵",
-   "title": "BTS — BTS Sweeps 6 Trophies At MMA 2026",
+   "title": "BTS — BTSがMMA2026でトロフィー 6冠を達成",
    "account": "amberbeat.japan",
    "music": "BTS NORMAL",
    "audio_start": "0:25 Run away out of sight, don't know what I want (추정)",
@@ -184,13 +184,13 @@
   }
  ],
  "by_name": {
-  "🇵🇹 BLACKPINK — YG 측 “블랙핑크와 그룹 활동에 대해 논의 중” [공식입장]": {
-   "name": "🇵🇹 BLACKPINK — YG 측 “블랙핑크와 그룹 활동에 대해 논의 중” [공식입장]",
+  "🇵🇹 YG — Yg fala sobre planos de atividades em grupo": {
+   "name": "🇵🇹 YG — Yg fala sobre planos de atividades em grupo",
    "key": "1116_YG_agency_statement@pt",
    "job": "1116_YG_agency_statement",
    "lang": "pt",
    "flag": "🇵🇹",
-   "title": "BLACKPINK — YG 측 “블랙핑크와 그룹 활동에 대해 논의 중” [공식입장]",
+   "title": "YG — Yg fala sobre planos de atividades em grupo",
    "account": "amberbeat.portugal",
    "music": "BLACKPINK GO",
    "audio_start": "0:29 (추정)",
@@ -202,13 +202,13 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1116_YG_agency_statement-3de8c271691952d7/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1116_YG_agency_statement-3de8c271691952d7/meta.json"
   },
-  "🇮🇩 BLACKPINK — YG 측 “블랙핑크와 그룹 활동에 대해 논의 중” [공식입장]": {
-   "name": "🇮🇩 BLACKPINK — YG 측 “블랙핑크와 그룹 활동에 대해 논의 중” [공식입장]",
+  "🇮🇩 YG — YG Bahas Rencana Aktivitas Grup": {
+   "name": "🇮🇩 YG — YG Bahas Rencana Aktivitas Grup",
    "key": "1116_YG_agency_statement@id",
    "job": "1116_YG_agency_statement",
    "lang": "id",
    "flag": "🇮🇩",
-   "title": "BLACKPINK — YG 측 “블랙핑크와 그룹 활동에 대해 논의 중” [공식입장]",
+   "title": "YG — YG Bahas Rencana Aktivitas Grup",
    "account": "amberbeat.indonesia",
    "music": "BLACKPINK GO",
    "audio_start": "0:29 (추정)",
@@ -220,13 +220,13 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1116_YG_agency_statement-74eb5aaca714444a/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1116_YG_agency_statement-74eb5aaca714444a/meta.json"
   },
-  "🇪🇸 BLACKPINK — YG 측 “블랙핑크와 그룹 활동에 대해 논의 중” [공식입장]": {
-   "name": "🇪🇸 BLACKPINK — YG 측 “블랙핑크와 그룹 활동에 대해 논의 중” [공식입장]",
+  "🇪🇸 YG — Yg habla sobre los planes de actividades grupales": {
+   "name": "🇪🇸 YG — Yg habla sobre los planes de actividades grupales",
    "key": "1116_YG_agency_statement@es",
    "job": "1116_YG_agency_statement",
    "lang": "es",
    "flag": "🇪🇸",
-   "title": "BLACKPINK — YG 측 “블랙핑크와 그룹 활동에 대해 논의 중” [공식입장]",
+   "title": "YG — Yg habla sobre los planes de actividades grupales",
    "account": "amberbeat.spain",
    "music": "BLACKPINK GO",
    "audio_start": "0:29 (추정)",
@@ -238,13 +238,13 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1116_YG_agency_statement-b30fb67aa6e1adb1/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1116_YG_agency_statement-b30fb67aa6e1adb1/meta.json"
   },
-  "🇯🇵 BLACKPINK — YG 측 “블랙핑크와 그룹 활동에 대해 논의 중” [공식입장]": {
-   "name": "🇯🇵 BLACKPINK — YG 측 “블랙핑크와 그룹 활동에 대해 논의 중” [공식입장]",
+  "🇯🇵 YG — YG、グループ活動計画について話す": {
+   "name": "🇯🇵 YG — YG、グループ活動計画について話す",
    "key": "1116_YG_agency_statement@ja",
    "job": "1116_YG_agency_statement",
    "lang": "ja",
    "flag": "🇯🇵",
-   "title": "BLACKPINK — YG 측 “블랙핑크와 그룹 활동에 대해 논의 중” [공식입장]",
+   "title": "YG — YG、グループ活動計画について話す",
    "account": "amberbeat.japan",
    "music": "BLACKPINK GO",
    "audio_start": "1:01 (추정)",
@@ -256,13 +256,13 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_YG_agency_statement-097f2108a6554fbe/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_YG_agency_statement-097f2108a6554fbe/meta.json"
   },
-  "🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지": {
-   "name": "🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지",
+  "🇺🇸 ILLIT": {
+   "name": "🇺🇸 ILLIT",
    "key": "1116_ILLIT_chart@en",
    "job": "1116_ILLIT_chart",
    "lang": "en",
    "flag": "🇺🇸",
-   "title": "ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지",
+   "title": "ILLIT",
    "account": "amberbeat.official",
    "music": "ILLIT 체포하겠어 (You’re Under Arrest)",
    "audio_start": "1:07 Matjana crime signs (추정)",
@@ -274,13 +274,13 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_ILLIT_chart-bdafb2fed8db4c51/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_ILLIT_chart-bdafb2fed8db4c51/meta.json"
   },
-  "🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1": {
-   "name": "🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1",
+  "🇯🇵 BABYMONSTER — 「CHOOM」パフォーマンス映像 再生回数1億回突破": {
+   "name": "🇯🇵 BABYMONSTER — 「CHOOM」パフォーマンス映像 再生回数1億回突破",
    "key": "1116_BABYMONSTER_milestone_춤-CHOOM@ja",
    "job": "1116_BABYMONSTER_milestone_춤-CHOOM",
    "lang": "ja",
    "flag": "🇯🇵",
-   "title": "BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1",
+   "title": "BABYMONSTER — 「CHOOM」パフォーマンス映像 再生回数1億回突破",
    "account": "amberbeat.japan",
    "music": "BABYMONSTER 춤 (CHOOM)",
    "audio_start": "2:31 No time to waste (na-na-na), let's celebrate (na-na-na) (추정)",
@@ -292,13 +292,13 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BABYMONSTER_milestone_-CHOOM-d17e87edd02a5c19/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BABYMONSTER_milestone_-CHOOM-d17e87edd02a5c19/meta.json"
   },
-  "🇮🇩 BTS — BTS Sweeps 6 Trophies At MMA 2026": {
-   "name": "🇮🇩 BTS — BTS Sweeps 6 Trophies At MMA 2026",
+  "🇮🇩 BTS — BTS Raih 6 Trofi di MMA 2026": {
+   "name": "🇮🇩 BTS — BTS Raih 6 Trofi di MMA 2026",
    "key": "1116_BTS_award@id",
    "job": "1116_BTS_award",
    "lang": "id",
    "flag": "🇮🇩",
-   "title": "BTS — BTS Sweeps 6 Trophies At MMA 2026",
+   "title": "BTS — BTS Raih 6 Trofi di MMA 2026",
    "account": "amberbeat.indonesia",
    "music": "BTS Yet To Come",
    "audio_start": "0:20 그날을 향해, 숨이 벅차게 (추정)",
@@ -310,13 +310,13 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1116_BTS_award-32939f7b5f9c03d5/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1116_BTS_award-32939f7b5f9c03d5/meta.json"
   },
-  "🇺🇸 BTS — BTS Sweeps 6 Trophies At MMA 2026": {
-   "name": "🇺🇸 BTS — BTS Sweeps 6 Trophies At MMA 2026",
+  "🇺🇸 BTS": {
+   "name": "🇺🇸 BTS",
    "key": "1116_BTS_award@en",
    "job": "1116_BTS_award",
    "lang": "en",
    "flag": "🇺🇸",
-   "title": "BTS — BTS Sweeps 6 Trophies At MMA 2026",
+   "title": "BTS",
    "account": "amberbeat.official",
    "music": "BTS NORMAL",
    "audio_start": "0:27 Run away out of sight, don't know what I want (추정)",
@@ -328,13 +328,13 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_BTS_award-d430966ed87e5447/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_BTS_award-d430966ed87e5447/meta.json"
   },
-  "🇯🇵 BTS — BTS Sweeps 6 Trophies At MMA 2026": {
-   "name": "🇯🇵 BTS — BTS Sweeps 6 Trophies At MMA 2026",
+  "🇯🇵 BTS — BTSがMMA2026でトロフィー 6冠を達成": {
+   "name": "🇯🇵 BTS — BTSがMMA2026でトロフィー 6冠を達成",
    "key": "1116_BTS_award@ja",
    "job": "1116_BTS_award",
    "lang": "ja",
    "flag": "🇯🇵",
-   "title": "BTS — BTS Sweeps 6 Trophies At MMA 2026",
+   "title": "BTS — BTSがMMA2026でトロフィー 6冠を達成",
    "account": "amberbeat.japan",
    "music": "BTS NORMAL",
    "audio_start": "0:25 Run away out of sight, don't know what I want (추정)",
