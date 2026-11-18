@@ -1,9 +1,27 @@
 {
- "updated_at": "2026-11-18T19:05:53+09:00",
- "count": 8,
+ "updated_at": "2026-11-18T19:06:22+09:00",
+ "count": 9,
  "items": [
   {
-   "name": "01 🇮🇩 밈",
+   "name": "01 🇹🇭 밈",
+   "key": "1109_밈_puppy-like-idols-f-th@th",
+   "job": "1109_밈_puppy-like-idols-f-th",
+   "lang": "th",
+   "flag": "🇹🇭",
+   "title": "밈",
+   "account": "amberbeat.thailand",
+   "music": "밈 5 Puppy-Like Idols (F) (TH)",
+   "audio_start": "- (음악 고르지 않기 · 영상 소리 그대로 올리기)",
+   "scheduled_at": "",
+   "caption": "ไอดอลหน้าน้องหมาคนไหนคือคนที่คุณเลือก? 🐶\n\n1. CHORONG (Apink)\n2. JIWON (fromis_9)\n3. EUNCHAE (LE SSERAFIM)\n4. WENDY (Red Velvet)\n5. YUJIN (IVE)\n\nแท็กเพื่อนที่ชอบไอดอลหน้าน้องหมามาด้วยเลย 👇\n\n———\n\nคลิป: เวทีรายการเพลงและ MV ทางการ\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · ข่าว K-pop ทุกวัน พร้อมแหล่งที่มาทุกครั้ง\nติดตามได้ที่ @amberbeat.thailand\n\n#KPOP #ไอดอลหน้าน้องหมา #CHORONG #JIWON #EUNCHAE",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1109_-_puppy-like-idols-f-th-8150100ec9e5cf60/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1109_-_puppy-like-idols-f-th-8150100ec9e5cf60/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1109_-_puppy-like-idols-f-th-8150100ec9e5cf60/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1109_-_puppy-like-idols-f-th-8150100ec9e5cf60/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1109_-_puppy-like-idols-f-th-8150100ec9e5cf60/meta.json"
+  },
+  {
+   "name": "02 🇮🇩 밈",
    "key": "1109_밈_bunny-like-idols-id@id",
    "job": "1109_밈_bunny-like-idols-id",
    "lang": "id",
@@ -21,7 +39,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1109_-_bunny-like-idols-id-e63f307d79189218/meta.json"
   },
   {
-   "name": "02 🇪🇸 밈",
+   "name": "03 🇪🇸 밈",
    "key": "1109_밈_fox-like-idols-f-es@es",
    "job": "1109_밈_fox-like-idols-f-es",
    "lang": "es",
@@ -39,7 +57,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1109_-_fox-like-idols-f-es-ee54f618b1aee280/meta.json"
   },
   {
-   "name": "03 🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지",
+   "name": "04 🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지",
    "key": "1116_ILLIT_chart@en",
    "job": "1116_ILLIT_chart",
    "lang": "en",
@@ -57,7 +75,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_ILLIT_chart-bdafb2fed8db4c51/meta.json"
   },
   {
-   "name": "04 🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1",
+   "name": "05 🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1",
    "key": "1116_BABYMONSTER_milestone_춤-CHOOM@ja",
    "job": "1116_BABYMONSTER_milestone_춤-CHOOM",
    "lang": "ja",
@@ -75,7 +93,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BABYMONSTER_milestone_-CHOOM-d17e87edd02a5c19/meta.json"
   },
   {
-   "name": "05 🇮🇩 BTS — BTS Sweeps 6 Trophies At MMA 2026",
+   "name": "06 🇮🇩 BTS — BTS Sweeps 6 Trophies At MMA 2026",
    "key": "1116_BTS_award@id",
    "job": "1116_BTS_award",
    "lang": "id",
@@ -93,7 +111,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1116_BTS_award-32939f7b5f9c03d5/meta.json"
   },
   {
-   "name": "06 🇺🇸 BTS — BTS Sweeps 6 Trophies At MMA 2026",
+   "name": "07 🇺🇸 BTS — BTS Sweeps 6 Trophies At MMA 2026",
    "key": "1116_BTS_award@en",
    "job": "1116_BTS_award",
    "lang": "en",
@@ -111,7 +129,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_BTS_award-d430966ed87e5447/meta.json"
   },
   {
-   "name": "07 🇯🇵 BTS — BTS Sweeps 6 Trophies At MMA 2026",
+   "name": "08 🇯🇵 BTS — BTS Sweeps 6 Trophies At MMA 2026",
    "key": "1116_BTS_award@ja",
    "job": "1116_BTS_award",
    "lang": "ja",
@@ -129,7 +147,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BTS_award-65ac19ef9e87caa8/meta.json"
   },
   {
-   "name": "08 🇵🇹 밈",
+   "name": "09 🇵🇹 밈",
    "key": "1113_밈_cat-like-idols-m-pt@pt",
    "job": "1113_밈_cat-like-idols-m-pt",
    "lang": "pt",
@@ -148,8 +166,26 @@
   }
  ],
  "by_name": {
-  "01 🇮🇩 밈": {
-   "name": "01 🇮🇩 밈",
+  "01 🇹🇭 밈": {
+   "name": "01 🇹🇭 밈",
+   "key": "1109_밈_puppy-like-idols-f-th@th",
+   "job": "1109_밈_puppy-like-idols-f-th",
+   "lang": "th",
+   "flag": "🇹🇭",
+   "title": "밈",
+   "account": "amberbeat.thailand",
+   "music": "밈 5 Puppy-Like Idols (F) (TH)",
+   "audio_start": "- (음악 고르지 않기 · 영상 소리 그대로 올리기)",
+   "scheduled_at": "",
+   "caption": "ไอดอลหน้าน้องหมาคนไหนคือคนที่คุณเลือก? 🐶\n\n1. CHORONG (Apink)\n2. JIWON (fromis_9)\n3. EUNCHAE (LE SSERAFIM)\n4. WENDY (Red Velvet)\n5. YUJIN (IVE)\n\nแท็กเพื่อนที่ชอบไอดอลหน้าน้องหมามาด้วยเลย 👇\n\n———\n\nคลิป: เวทีรายการเพลงและ MV ทางการ\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · ข่าว K-pop ทุกวัน พร้อมแหล่งที่มาทุกครั้ง\nติดตามได้ที่ @amberbeat.thailand\n\n#KPOP #ไอดอลหน้าน้องหมา #CHORONG #JIWON #EUNCHAE",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1109_-_puppy-like-idols-f-th-8150100ec9e5cf60/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1109_-_puppy-like-idols-f-th-8150100ec9e5cf60/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1109_-_puppy-like-idols-f-th-8150100ec9e5cf60/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1109_-_puppy-like-idols-f-th-8150100ec9e5cf60/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1109_-_puppy-like-idols-f-th-8150100ec9e5cf60/meta.json"
+  },
+  "02 🇮🇩 밈": {
+   "name": "02 🇮🇩 밈",
    "key": "1109_밈_bunny-like-idols-id@id",
    "job": "1109_밈_bunny-like-idols-id",
    "lang": "id",
@@ -166,8 +202,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1109_-_bunny-like-idols-id-e63f307d79189218/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1109_-_bunny-like-idols-id-e63f307d79189218/meta.json"
   },
-  "02 🇪🇸 밈": {
-   "name": "02 🇪🇸 밈",
+  "03 🇪🇸 밈": {
+   "name": "03 🇪🇸 밈",
    "key": "1109_밈_fox-like-idols-f-es@es",
    "job": "1109_밈_fox-like-idols-f-es",
    "lang": "es",
@@ -184,8 +220,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1109_-_fox-like-idols-f-es-ee54f618b1aee280/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1109_-_fox-like-idols-f-es-ee54f618b1aee280/meta.json"
   },
-  "03 🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지": {
-   "name": "03 🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지",
+  "04 🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지": {
+   "name": "04 🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지",
    "key": "1116_ILLIT_chart@en",
    "job": "1116_ILLIT_chart",
    "lang": "en",
@@ -202,8 +238,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_ILLIT_chart-bdafb2fed8db4c51/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_ILLIT_chart-bdafb2fed8db4c51/meta.json"
   },
-  "04 🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1": {
-   "name": "04 🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1",
+  "05 🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1": {
+   "name": "05 🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1",
    "key": "1116_BABYMONSTER_milestone_춤-CHOOM@ja",
    "job": "1116_BABYMONSTER_milestone_춤-CHOOM",
    "lang": "ja",
@@ -220,8 +256,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BABYMONSTER_milestone_-CHOOM-d17e87edd02a5c19/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BABYMONSTER_milestone_-CHOOM-d17e87edd02a5c19/meta.json"
   },
-  "05 🇮🇩 BTS — BTS Sweeps 6 Trophies At MMA 2026": {
-   "name": "05 🇮🇩 BTS — BTS Sweeps 6 Trophies At MMA 2026",
+  "06 🇮🇩 BTS — BTS Sweeps 6 Trophies At MMA 2026": {
+   "name": "06 🇮🇩 BTS — BTS Sweeps 6 Trophies At MMA 2026",
    "key": "1116_BTS_award@id",
    "job": "1116_BTS_award",
    "lang": "id",
@@ -238,8 +274,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1116_BTS_award-32939f7b5f9c03d5/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1116_BTS_award-32939f7b5f9c03d5/meta.json"
   },
-  "06 🇺🇸 BTS — BTS Sweeps 6 Trophies At MMA 2026": {
-   "name": "06 🇺🇸 BTS — BTS Sweeps 6 Trophies At MMA 2026",
+  "07 🇺🇸 BTS — BTS Sweeps 6 Trophies At MMA 2026": {
+   "name": "07 🇺🇸 BTS — BTS Sweeps 6 Trophies At MMA 2026",
    "key": "1116_BTS_award@en",
    "job": "1116_BTS_award",
    "lang": "en",
@@ -256,8 +292,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_BTS_award-d430966ed87e5447/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_BTS_award-d430966ed87e5447/meta.json"
   },
-  "07 🇯🇵 BTS — BTS Sweeps 6 Trophies At MMA 2026": {
-   "name": "07 🇯🇵 BTS — BTS Sweeps 6 Trophies At MMA 2026",
+  "08 🇯🇵 BTS — BTS Sweeps 6 Trophies At MMA 2026": {
+   "name": "08 🇯🇵 BTS — BTS Sweeps 6 Trophies At MMA 2026",
    "key": "1116_BTS_award@ja",
    "job": "1116_BTS_award",
    "lang": "ja",
@@ -274,8 +310,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BTS_award-65ac19ef9e87caa8/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BTS_award-65ac19ef9e87caa8/meta.json"
   },
-  "08 🇵🇹 밈": {
-   "name": "08 🇵🇹 밈",
+  "09 🇵🇹 밈": {
+   "name": "09 🇵🇹 밈",
    "key": "1113_밈_cat-like-idols-m-pt@pt",
    "job": "1113_밈_cat-like-idols-m-pt",
    "lang": "pt",
