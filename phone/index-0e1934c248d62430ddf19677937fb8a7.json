@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T17:42:31+09:00",
+ "updated_at": "2026-11-18T17:42:35+09:00",
  "count": 10,
  "items": [
   {
@@ -75,12 +75,12 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_YG_agency_statement-097f2108a6554fbe/meta.json"
   },
   {
-   "name": "🇺🇸 ILLIT — ILLIT Tops World Albums",
+   "name": "🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지",
    "key": "1116_ILLIT_chart@en",
    "job": "1116_ILLIT_chart",
    "lang": "en",
    "flag": "🇺🇸",
-   "title": "ILLIT — ILLIT Tops World Albums",
+   "title": "ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지",
    "account": "amberbeat.official",
    "music": "ILLIT 체포하겠어 (You’re Under Arrest)",
    "audio_start": "1:07 Matjana crime signs (추정)",
@@ -256,13 +256,13 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_YG_agency_statement-097f2108a6554fbe/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_YG_agency_statement-097f2108a6554fbe/meta.json"
   },
-  "🇺🇸 ILLIT — ILLIT Tops World Albums": {
-   "name": "🇺🇸 ILLIT — ILLIT Tops World Albums",
+  "🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지": {
+   "name": "🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지",
    "key": "1116_ILLIT_chart@en",
    "job": "1116_ILLIT_chart",
    "lang": "en",
    "flag": "🇺🇸",
-   "title": "ILLIT — ILLIT Tops World Albums",
+   "title": "ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지",
    "account": "amberbeat.official",
    "music": "ILLIT 체포하겠어 (You’re Under Arrest)",
    "audio_start": "1:07 Matjana crime signs (추정)",
