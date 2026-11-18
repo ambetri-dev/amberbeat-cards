@@ -1,9 +1,9 @@
 {
- "updated_at": "2026-11-18T17:59:56+09:00",
+ "updated_at": "2026-11-18T18:13:25+09:00",
  "count": 6,
  "items": [
   {
-   "name": "🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지",
+   "name": "01 🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지",
    "key": "1116_ILLIT_chart@en",
    "job": "1116_ILLIT_chart",
    "lang": "en",
@@ -21,7 +21,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_ILLIT_chart-bdafb2fed8db4c51/meta.json"
   },
   {
-   "name": "🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1",
+   "name": "02 🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1",
    "key": "1116_BABYMONSTER_milestone_춤-CHOOM@ja",
    "job": "1116_BABYMONSTER_milestone_춤-CHOOM",
    "lang": "ja",
@@ -39,7 +39,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BABYMONSTER_milestone_-CHOOM-d17e87edd02a5c19/meta.json"
   },
   {
-   "name": "🇮🇩 BTS — BTS Sweeps 6 Trophies At MMA 2026",
+   "name": "03 🇮🇩 BTS — BTS Sweeps 6 Trophies At MMA 2026",
    "key": "1116_BTS_award@id",
    "job": "1116_BTS_award",
    "lang": "id",
@@ -57,7 +57,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1116_BTS_award-32939f7b5f9c03d5/meta.json"
   },
   {
-   "name": "🇺🇸 BTS — BTS Sweeps 6 Trophies At MMA 2026",
+   "name": "04 🇺🇸 BTS — BTS Sweeps 6 Trophies At MMA 2026",
    "key": "1116_BTS_award@en",
    "job": "1116_BTS_award",
    "lang": "en",
@@ -75,7 +75,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_BTS_award-d430966ed87e5447/meta.json"
   },
   {
-   "name": "🇯🇵 BTS — BTS Sweeps 6 Trophies At MMA 2026",
+   "name": "05 🇯🇵 BTS — BTS Sweeps 6 Trophies At MMA 2026",
    "key": "1116_BTS_award@ja",
    "job": "1116_BTS_award",
    "lang": "ja",
@@ -93,7 +93,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BTS_award-65ac19ef9e87caa8/meta.json"
   },
   {
-   "name": "🇵🇹 밈",
+   "name": "06 🇵🇹 밈",
    "key": "1113_밈_cat-like-idols-m-pt@pt",
    "job": "1113_밈_cat-like-idols-m-pt",
    "lang": "pt",
@@ -112,8 +112,8 @@
   }
  ],
  "by_name": {
-  "🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지": {
-   "name": "🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지",
+  "01 🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지": {
+   "name": "01 🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지",
    "key": "1116_ILLIT_chart@en",
    "job": "1116_ILLIT_chart",
    "lang": "en",
@@ -130,8 +130,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_ILLIT_chart-bdafb2fed8db4c51/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_ILLIT_chart-bdafb2fed8db4c51/meta.json"
   },
-  "🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1": {
-   "name": "🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1",
+  "02 🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1": {
+   "name": "02 🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1",
    "key": "1116_BABYMONSTER_milestone_춤-CHOOM@ja",
    "job": "1116_BABYMONSTER_milestone_춤-CHOOM",
    "lang": "ja",
@@ -148,8 +148,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BABYMONSTER_milestone_-CHOOM-d17e87edd02a5c19/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BABYMONSTER_milestone_-CHOOM-d17e87edd02a5c19/meta.json"
   },
-  "🇮🇩 BTS — BTS Sweeps 6 Trophies At MMA 2026": {
-   "name": "🇮🇩 BTS — BTS Sweeps 6 Trophies At MMA 2026",
+  "03 🇮🇩 BTS — BTS Sweeps 6 Trophies At MMA 2026": {
+   "name": "03 🇮🇩 BTS — BTS Sweeps 6 Trophies At MMA 2026",
    "key": "1116_BTS_award@id",
    "job": "1116_BTS_award",
    "lang": "id",
@@ -166,8 +166,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1116_BTS_award-32939f7b5f9c03d5/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1116_BTS_award-32939f7b5f9c03d5/meta.json"
   },
-  "🇺🇸 BTS — BTS Sweeps 6 Trophies At MMA 2026": {
-   "name": "🇺🇸 BTS — BTS Sweeps 6 Trophies At MMA 2026",
+  "04 🇺🇸 BTS — BTS Sweeps 6 Trophies At MMA 2026": {
+   "name": "04 🇺🇸 BTS — BTS Sweeps 6 Trophies At MMA 2026",
    "key": "1116_BTS_award@en",
    "job": "1116_BTS_award",
    "lang": "en",
@@ -184,8 +184,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_BTS_award-d430966ed87e5447/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_BTS_award-d430966ed87e5447/meta.json"
   },
-  "🇯🇵 BTS — BTS Sweeps 6 Trophies At MMA 2026": {
-   "name": "🇯🇵 BTS — BTS Sweeps 6 Trophies At MMA 2026",
+  "05 🇯🇵 BTS — BTS Sweeps 6 Trophies At MMA 2026": {
+   "name": "05 🇯🇵 BTS — BTS Sweeps 6 Trophies At MMA 2026",
    "key": "1116_BTS_award@ja",
    "job": "1116_BTS_award",
    "lang": "ja",
@@ -202,8 +202,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BTS_award-65ac19ef9e87caa8/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BTS_award-65ac19ef9e87caa8/meta.json"
   },
-  "🇵🇹 밈": {
-   "name": "🇵🇹 밈",
+  "06 🇵🇹 밈": {
+   "name": "06 🇵🇹 밈",
    "key": "1113_밈_cat-like-idols-m-pt@pt",
    "job": "1113_밈_cat-like-idols-m-pt",
    "lang": "pt",
