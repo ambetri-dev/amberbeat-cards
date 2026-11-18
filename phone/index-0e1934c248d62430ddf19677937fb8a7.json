@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T17:42:21+09:00",
+ "updated_at": "2026-11-18T17:42:26+09:00",
  "count": 10,
  "items": [
   {
@@ -111,12 +111,12 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BABYMONSTER_milestone_-CHOOM-d17e87edd02a5c19/meta.json"
   },
   {
-   "name": "🇮🇩 BTS — BTS Raih 6 Trofi di MMA 2026",
+   "name": "🇮🇩 BTS — BTS Sweeps 6 Trophies At MMA 2026",
    "key": "1116_BTS_award@id",
    "job": "1116_BTS_award",
    "lang": "id",
    "flag": "🇮🇩",
-   "title": "BTS — BTS Raih 6 Trofi di MMA 2026",
+   "title": "BTS — BTS Sweeps 6 Trophies At MMA 2026",
    "account": "amberbeat.indonesia",
    "music": "BTS Yet To Come",
    "audio_start": "0:20 그날을 향해, 숨이 벅차게 (추정)",
@@ -292,13 +292,13 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BABYMONSTER_milestone_-CHOOM-d17e87edd02a5c19/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BABYMONSTER_milestone_-CHOOM-d17e87edd02a5c19/meta.json"
   },
-  "🇮🇩 BTS — BTS Raih 6 Trofi di MMA 2026": {
-   "name": "🇮🇩 BTS — BTS Raih 6 Trofi di MMA 2026",
+  "🇮🇩 BTS — BTS Sweeps 6 Trophies At MMA 2026": {
+   "name": "🇮🇩 BTS — BTS Sweeps 6 Trophies At MMA 2026",
    "key": "1116_BTS_award@id",
    "job": "1116_BTS_award",
    "lang": "id",
    "flag": "🇮🇩",
-   "title": "BTS — BTS Raih 6 Trofi di MMA 2026",
+   "title": "BTS — BTS Sweeps 6 Trophies At MMA 2026",
    "account": "amberbeat.indonesia",
    "music": "BTS Yet To Come",
    "audio_start": "0:20 그날을 향해, 숨이 벅차게 (추정)",
