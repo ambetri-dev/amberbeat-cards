@@ -1,6 +1,6 @@
 {
  "updated_at": "2026-11-19T10:30:52+09:00",
- "count": 7,
+ "count": 6,
  "items": [
   {
    "name": "01 🇪🇸 밈",
@@ -39,25 +39,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1109_-_bunny-like-idols-id-a723a30748542576/meta.json"
   },
   {
-   "name": "03 🇺🇸 밈",
-   "key": "1109_밈_ice-cold-handsome-m-en@en",
-   "job": "1109_밈_ice-cold-handsome-m-en",
-   "lang": "en",
-   "flag": "🇺🇸",
-   "title": "밈",
-   "account": "amberbeat.official",
-   "music": "밈 5 Idols With Ice-Cold Handsome Vibes",
-   "audio_start": "- (음악 고르지 않기 · 영상 소리 그대로 올리기)",
-   "scheduled_at": "",
-   "caption": "Who's your ice prince? 🧊\n\n1. SUNGHOON (ENHYPEN)\n2. KAI (EXO)\n3. MINHO (SHINee)\n4. TAEYONG (NCT)\n5. MINGYU (SEVENTEEN)\n\nTag a friend who loves ice-cold visuals 👇\n\n———\n\nClips: official music show fancams\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#IceColdVibes #ENHYPEN #EXO #SHINee #NCT",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_ice-cold-handsome-m-en-252cee074b6ebc64/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_ice-cold-handsome-m-en-252cee074b6ebc64/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_ice-cold-handsome-m-en-252cee074b6ebc64/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_ice-cold-handsome-m-en-252cee074b6ebc64/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_ice-cold-handsome-m-en-252cee074b6ebc64/meta.json"
-  },
-  {
-   "name": "04 🇵🇹 밈",
+   "name": "03 🇵🇹 밈",
    "key": "1113_밈_cat-like-idols-pt@pt",
    "job": "1113_밈_cat-like-idols-pt",
    "lang": "pt",
@@ -75,7 +57,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1113_-_cat-like-idols-pt-612d79cafb7a055e/meta.json"
   },
   {
-   "name": "05 🇹🇭 밈",
+   "name": "04 🇹🇭 밈",
    "key": "1109_밈_puppy-like-idols-f-th@th",
    "job": "1109_밈_puppy-like-idols-f-th",
    "lang": "th",
@@ -93,7 +75,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1109_-_puppy-like-idols-f-th-8150100ec9e5cf60/meta.json"
   },
   {
-   "name": "06 🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지",
+   "name": "05 🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지",
    "key": "1116_ILLIT_chart@en",
    "job": "1116_ILLIT_chart",
    "lang": "en",
@@ -111,7 +93,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_ILLIT_chart-bdafb2fed8db4c51/meta.json"
   },
   {
-   "name": "07 🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1",
+   "name": "06 🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1",
    "key": "1116_BABYMONSTER_milestone_춤-CHOOM@ja",
    "job": "1116_BABYMONSTER_milestone_춤-CHOOM",
    "lang": "ja",
@@ -166,26 +148,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1109_-_bunny-like-idols-id-a723a30748542576/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1109_-_bunny-like-idols-id-a723a30748542576/meta.json"
   },
-  "03 🇺🇸 밈": {
-   "name": "03 🇺🇸 밈",
-   "key": "1109_밈_ice-cold-handsome-m-en@en",
-   "job": "1109_밈_ice-cold-handsome-m-en",
-   "lang": "en",
-   "flag": "🇺🇸",
-   "title": "밈",
-   "account": "amberbeat.official",
-   "music": "밈 5 Idols With Ice-Cold Handsome Vibes",
-   "audio_start": "- (음악 고르지 않기 · 영상 소리 그대로 올리기)",
-   "scheduled_at": "",
-   "caption": "Who's your ice prince? 🧊\n\n1. SUNGHOON (ENHYPEN)\n2. KAI (EXO)\n3. MINHO (SHINee)\n4. TAEYONG (NCT)\n5. MINGYU (SEVENTEEN)\n\nTag a friend who loves ice-cold visuals 👇\n\n———\n\nClips: official music show fancams\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#IceColdVibes #ENHYPEN #EXO #SHINee #NCT",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_ice-cold-handsome-m-en-252cee074b6ebc64/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_ice-cold-handsome-m-en-252cee074b6ebc64/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_ice-cold-handsome-m-en-252cee074b6ebc64/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_ice-cold-handsome-m-en-252cee074b6ebc64/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_ice-cold-handsome-m-en-252cee074b6ebc64/meta.json"
-  },
-  "04 🇵🇹 밈": {
-   "name": "04 🇵🇹 밈",
+  "03 🇵🇹 밈": {
+   "name": "03 🇵🇹 밈",
    "key": "1113_밈_cat-like-idols-pt@pt",
    "job": "1113_밈_cat-like-idols-pt",
    "lang": "pt",
@@ -202,8 +166,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1113_-_cat-like-idols-pt-612d79cafb7a055e/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1113_-_cat-like-idols-pt-612d79cafb7a055e/meta.json"
   },
-  "05 🇹🇭 밈": {
-   "name": "05 🇹🇭 밈",
+  "04 🇹🇭 밈": {
+   "name": "04 🇹🇭 밈",
    "key": "1109_밈_puppy-like-idols-f-th@th",
    "job": "1109_밈_puppy-like-idols-f-th",
    "lang": "th",
@@ -220,8 +184,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1109_-_puppy-like-idols-f-th-8150100ec9e5cf60/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1109_-_puppy-like-idols-f-th-8150100ec9e5cf60/meta.json"
   },
-  "06 🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지": {
-   "name": "06 🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지",
+  "05 🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지": {
+   "name": "05 🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지",
    "key": "1116_ILLIT_chart@en",
    "job": "1116_ILLIT_chart",
    "lang": "en",
@@ -238,8 +202,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_ILLIT_chart-bdafb2fed8db4c51/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_ILLIT_chart-bdafb2fed8db4c51/meta.json"
   },
-  "07 🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1": {
-   "name": "07 🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1",
+  "06 🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1": {
+   "name": "06 🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1",
    "key": "1116_BABYMONSTER_milestone_춤-CHOOM@ja",
    "job": "1116_BABYMONSTER_milestone_춤-CHOOM",
    "lang": "ja",
