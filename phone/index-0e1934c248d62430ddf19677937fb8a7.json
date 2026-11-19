@@ -1,9 +1,27 @@
 {
- "updated_at": "2026-11-19T10:30:52+09:00",
- "count": 5,
+ "updated_at": "2026-11-19T10:34:49+09:00",
+ "count": 6,
  "items": [
   {
-   "name": "01 🇪🇸 밈",
+   "name": "01 🇪🇸 STRAY KIDS — 스트레이 키즈 아이엔 'NO RETURN', 유튜브 MV 차트 1위",
+   "key": "1118_STRAY-KIDS-I-N_chart_NO-RETURN@es",
+   "job": "1118_STRAY-KIDS-I-N_chart_NO-RETURN",
+   "lang": "es",
+   "flag": "🇪🇸",
+   "title": "STRAY KIDS — 스트레이 키즈 아이엔 'NO RETURN', 유튜브 MV 차트 1위",
+   "account": "amberbeat.spain",
+   "music": "STRAY KIDS GUILTY PLEASURE",
+   "audio_start": "2:43 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "I.N, de STRAY KIDS, es el tercer miembro en lanzar música dentro del proyecto SKZ-PLAYER, tras Han y Felix. I.N escribió la letra y compuso 'NO RETURN', con la colaboración de Bang Chan, de 3RACHA.\n\nEl sencillo digital 'NO RETURN' de I.N, de STRAY KIDS, alcanzó el número 1 en la lista YouTube Music Video Trending Worldwide.\nEl videoclip llegó al número 1 el 18 de noviembre, tras su estreno el 17 de noviembre.\n\nLa canción es un tema synth-pop sobre volver sin importar cuánto te empujen a alejarte.\n\n———\n\nSource: enter.etoday.co.kr\n\n#KPOP #StrayKids #IN #NoticiasKpop #KpopEnEspañol",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1118_STRAY-KIDS-I-N_chart_NO-RETURN-dc88f5a0cdcdbd75/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1118_STRAY-KIDS-I-N_chart_NO-RETURN-dc88f5a0cdcdbd75/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1118_STRAY-KIDS-I-N_chart_NO-RETURN-dc88f5a0cdcdbd75/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1118_STRAY-KIDS-I-N_chart_NO-RETURN-dc88f5a0cdcdbd75/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1118_STRAY-KIDS-I-N_chart_NO-RETURN-dc88f5a0cdcdbd75/meta.json"
+  },
+  {
+   "name": "02 🇪🇸 밈",
    "key": "1109_밈_fox-like-idols-f-es@es",
    "job": "1109_밈_fox-like-idols-f-es",
    "lang": "es",
@@ -21,7 +39,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1109_-_fox-like-idols-f-es-b142c69f24adbe53/meta.json"
   },
   {
-   "name": "02 🇮🇩 밈",
+   "name": "03 🇮🇩 밈",
    "key": "1109_밈_bunny-like-idols-id@id",
    "job": "1109_밈_bunny-like-idols-id",
    "lang": "id",
@@ -39,7 +57,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1109_-_bunny-like-idols-id-a723a30748542576/meta.json"
   },
   {
-   "name": "03 🇵🇹 밈",
+   "name": "04 🇵🇹 밈",
    "key": "1113_밈_cat-like-idols-pt@pt",
    "job": "1113_밈_cat-like-idols-pt",
    "lang": "pt",
@@ -57,7 +75,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1113_-_cat-like-idols-pt-612d79cafb7a055e/meta.json"
   },
   {
-   "name": "04 🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지",
+   "name": "05 🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지",
    "key": "1116_ILLIT_chart@en",
    "job": "1116_ILLIT_chart",
    "lang": "en",
@@ -75,7 +93,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_ILLIT_chart-bdafb2fed8db4c51/meta.json"
   },
   {
-   "name": "05 🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1",
+   "name": "06 🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1",
    "key": "1116_BABYMONSTER_milestone_춤-CHOOM@ja",
    "job": "1116_BABYMONSTER_milestone_춤-CHOOM",
    "lang": "ja",
@@ -94,8 +112,26 @@
   }
  ],
  "by_name": {
-  "01 🇪🇸 밈": {
-   "name": "01 🇪🇸 밈",
+  "01 🇪🇸 STRAY KIDS — 스트레이 키즈 아이엔 'NO RETURN', 유튜브 MV 차트 1위": {
+   "name": "01 🇪🇸 STRAY KIDS — 스트레이 키즈 아이엔 'NO RETURN', 유튜브 MV 차트 1위",
+   "key": "1118_STRAY-KIDS-I-N_chart_NO-RETURN@es",
+   "job": "1118_STRAY-KIDS-I-N_chart_NO-RETURN",
+   "lang": "es",
+   "flag": "🇪🇸",
+   "title": "STRAY KIDS — 스트레이 키즈 아이엔 'NO RETURN', 유튜브 MV 차트 1위",
+   "account": "amberbeat.spain",
+   "music": "STRAY KIDS GUILTY PLEASURE",
+   "audio_start": "2:43 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "I.N, de STRAY KIDS, es el tercer miembro en lanzar música dentro del proyecto SKZ-PLAYER, tras Han y Felix. I.N escribió la letra y compuso 'NO RETURN', con la colaboración de Bang Chan, de 3RACHA.\n\nEl sencillo digital 'NO RETURN' de I.N, de STRAY KIDS, alcanzó el número 1 en la lista YouTube Music Video Trending Worldwide.\nEl videoclip llegó al número 1 el 18 de noviembre, tras su estreno el 17 de noviembre.\n\nLa canción es un tema synth-pop sobre volver sin importar cuánto te empujen a alejarte.\n\n———\n\nSource: enter.etoday.co.kr\n\n#KPOP #StrayKids #IN #NoticiasKpop #KpopEnEspañol",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1118_STRAY-KIDS-I-N_chart_NO-RETURN-dc88f5a0cdcdbd75/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1118_STRAY-KIDS-I-N_chart_NO-RETURN-dc88f5a0cdcdbd75/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1118_STRAY-KIDS-I-N_chart_NO-RETURN-dc88f5a0cdcdbd75/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1118_STRAY-KIDS-I-N_chart_NO-RETURN-dc88f5a0cdcdbd75/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1118_STRAY-KIDS-I-N_chart_NO-RETURN-dc88f5a0cdcdbd75/meta.json"
+  },
+  "02 🇪🇸 밈": {
+   "name": "02 🇪🇸 밈",
    "key": "1109_밈_fox-like-idols-f-es@es",
    "job": "1109_밈_fox-like-idols-f-es",
    "lang": "es",
@@ -112,8 +148,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1109_-_fox-like-idols-f-es-b142c69f24adbe53/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1109_-_fox-like-idols-f-es-b142c69f24adbe53/meta.json"
   },
-  "02 🇮🇩 밈": {
-   "name": "02 🇮🇩 밈",
+  "03 🇮🇩 밈": {
+   "name": "03 🇮🇩 밈",
    "key": "1109_밈_bunny-like-idols-id@id",
    "job": "1109_밈_bunny-like-idols-id",
    "lang": "id",
@@ -130,8 +166,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1109_-_bunny-like-idols-id-a723a30748542576/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1109_-_bunny-like-idols-id-a723a30748542576/meta.json"
   },
-  "03 🇵🇹 밈": {
-   "name": "03 🇵🇹 밈",
+  "04 🇵🇹 밈": {
+   "name": "04 🇵🇹 밈",
    "key": "1113_밈_cat-like-idols-pt@pt",
    "job": "1113_밈_cat-like-idols-pt",
    "lang": "pt",
@@ -148,8 +184,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1113_-_cat-like-idols-pt-612d79cafb7a055e/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1113_-_cat-like-idols-pt-612d79cafb7a055e/meta.json"
   },
-  "04 🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지": {
-   "name": "04 🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지",
+  "05 🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지": {
+   "name": "05 🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지",
    "key": "1116_ILLIT_chart@en",
    "job": "1116_ILLIT_chart",
    "lang": "en",
@@ -166,8 +202,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_ILLIT_chart-bdafb2fed8db4c51/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_ILLIT_chart-bdafb2fed8db4c51/meta.json"
   },
-  "05 🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1": {
-   "name": "05 🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1",
+  "06 🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1": {
+   "name": "06 🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1",
    "key": "1116_BABYMONSTER_milestone_춤-CHOOM@ja",
    "job": "1116_BABYMONSTER_milestone_춤-CHOOM",
    "lang": "ja",
