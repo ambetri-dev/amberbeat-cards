@@ -1,9 +1,27 @@
 {
- "updated_at": "2026-11-19T20:40:58+09:00",
- "count": 5,
+ "updated_at": "2026-11-19T20:42:05+09:00",
+ "count": 6,
  "items": [
   {
-   "name": "01 🇮🇩 Hearts2Hearts 'Next Chapter'",
+   "name": "01 🇯🇵 Hearts2Hearts 'Next Chapter'",
+   "key": "1119_Hearts2Hearts_MV_Next-Chapter@ja",
+   "job": "1119_Hearts2Hearts_MV_Next-Chapter",
+   "lang": "ja",
+   "flag": "🇯🇵",
+   "title": "Hearts2Hearts 'Next Chapter'",
+   "account": "amberbeat.japan",
+   "music": "Hearts2Hearts Next Chapter",
+   "audio_start": "4:46 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "Hearts2Heartsが2026年11月19日、グループのチャンネルで'Next Chapter'のミュージックビデオを公開しました。公開から30分で再生回数は1.27万回に達しました。\n\n———\n\nSource: Hearts2Hearts official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · 毎日のK-POPニュースを出典つきでお届けします。\nフォローはこちら @amberbeat.japan\n\n#KPOP #KPOP好きな人と繋がりたい #Kポップ",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1119_Hearts2Hearts_MV_Next-Chapter-03f8ec6ac4c638c3/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1119_Hearts2Hearts_MV_Next-Chapter-03f8ec6ac4c638c3/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1119_Hearts2Hearts_MV_Next-Chapter-03f8ec6ac4c638c3/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1119_Hearts2Hearts_MV_Next-Chapter-03f8ec6ac4c638c3/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1119_Hearts2Hearts_MV_Next-Chapter-03f8ec6ac4c638c3/meta.json"
+  },
+  {
+   "name": "02 🇮🇩 Hearts2Hearts 'Next Chapter'",
    "key": "1119_Hearts2Hearts_MV_Next-Chapter@id",
    "job": "1119_Hearts2Hearts_MV_Next-Chapter",
    "lang": "id",
@@ -21,7 +39,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1119_Hearts2Hearts_MV_Next-Chapter-037ebdc0c82b4d30/meta.json"
   },
   {
-   "name": "02 🇺🇸 Hearts2Hearts 'Next Chapter'",
+   "name": "03 🇺🇸 Hearts2Hearts 'Next Chapter'",
    "key": "1119_Hearts2Hearts_MV_Next-Chapter",
    "job": "1119_Hearts2Hearts_MV_Next-Chapter",
    "lang": "",
@@ -39,7 +57,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1119_Hearts2Hearts_MV_Next-Chapter-6e7ebc3221562457/meta.json"
   },
   {
-   "name": "03 🇺🇸 STRAY KIDS — 스트레이 키즈 아이엔 'NO RETURN', 유튜브 MV 차트 1위",
+   "name": "04 🇺🇸 STRAY KIDS — 스트레이 키즈 아이엔 'NO RETURN', 유튜브 MV 차트 1위",
    "key": "1118_STRAY-KIDS-I-N_chart_NO-RETURN@en",
    "job": "1118_STRAY-KIDS-I-N_chart_NO-RETURN",
    "lang": "en",
@@ -57,7 +75,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1118_STRAY-KIDS-I-N_chart_NO-RETURN-973fe01608528776/meta.json"
   },
   {
-   "name": "04 🇪🇸 밈",
+   "name": "05 🇪🇸 밈",
    "key": "1109_밈_fox-like-idols-f-es@es",
    "job": "1109_밈_fox-like-idols-f-es",
    "lang": "es",
@@ -75,7 +93,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1109_-_fox-like-idols-f-es-b142c69f24adbe53/meta.json"
   },
   {
-   "name": "05 🇮🇩 밈",
+   "name": "06 🇮🇩 밈",
    "key": "1109_밈_bunny-like-idols-id@id",
    "job": "1109_밈_bunny-like-idols-id",
    "lang": "id",
@@ -94,8 +112,26 @@
   }
  ],
  "by_name": {
-  "01 🇮🇩 Hearts2Hearts 'Next Chapter'": {
-   "name": "01 🇮🇩 Hearts2Hearts 'Next Chapter'",
+  "01 🇯🇵 Hearts2Hearts 'Next Chapter'": {
+   "name": "01 🇯🇵 Hearts2Hearts 'Next Chapter'",
+   "key": "1119_Hearts2Hearts_MV_Next-Chapter@ja",
+   "job": "1119_Hearts2Hearts_MV_Next-Chapter",
+   "lang": "ja",
+   "flag": "🇯🇵",
+   "title": "Hearts2Hearts 'Next Chapter'",
+   "account": "amberbeat.japan",
+   "music": "Hearts2Hearts Next Chapter",
+   "audio_start": "4:46 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "Hearts2Heartsが2026年11月19日、グループのチャンネルで'Next Chapter'のミュージックビデオを公開しました。公開から30分で再生回数は1.27万回に達しました。\n\n———\n\nSource: Hearts2Hearts official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · 毎日のK-POPニュースを出典つきでお届けします。\nフォローはこちら @amberbeat.japan\n\n#KPOP #KPOP好きな人と繋がりたい #Kポップ",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1119_Hearts2Hearts_MV_Next-Chapter-03f8ec6ac4c638c3/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1119_Hearts2Hearts_MV_Next-Chapter-03f8ec6ac4c638c3/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1119_Hearts2Hearts_MV_Next-Chapter-03f8ec6ac4c638c3/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1119_Hearts2Hearts_MV_Next-Chapter-03f8ec6ac4c638c3/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1119_Hearts2Hearts_MV_Next-Chapter-03f8ec6ac4c638c3/meta.json"
+  },
+  "02 🇮🇩 Hearts2Hearts 'Next Chapter'": {
+   "name": "02 🇮🇩 Hearts2Hearts 'Next Chapter'",
    "key": "1119_Hearts2Hearts_MV_Next-Chapter@id",
    "job": "1119_Hearts2Hearts_MV_Next-Chapter",
    "lang": "id",
@@ -112,8 +148,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1119_Hearts2Hearts_MV_Next-Chapter-037ebdc0c82b4d30/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1119_Hearts2Hearts_MV_Next-Chapter-037ebdc0c82b4d30/meta.json"
   },
-  "02 🇺🇸 Hearts2Hearts 'Next Chapter'": {
-   "name": "02 🇺🇸 Hearts2Hearts 'Next Chapter'",
+  "03 🇺🇸 Hearts2Hearts 'Next Chapter'": {
+   "name": "03 🇺🇸 Hearts2Hearts 'Next Chapter'",
    "key": "1119_Hearts2Hearts_MV_Next-Chapter",
    "job": "1119_Hearts2Hearts_MV_Next-Chapter",
    "lang": "",
@@ -130,8 +166,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1119_Hearts2Hearts_MV_Next-Chapter-6e7ebc3221562457/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1119_Hearts2Hearts_MV_Next-Chapter-6e7ebc3221562457/meta.json"
   },
-  "03 🇺🇸 STRAY KIDS — 스트레이 키즈 아이엔 'NO RETURN', 유튜브 MV 차트 1위": {
-   "name": "03 🇺🇸 STRAY KIDS — 스트레이 키즈 아이엔 'NO RETURN', 유튜브 MV 차트 1위",
+  "04 🇺🇸 STRAY KIDS — 스트레이 키즈 아이엔 'NO RETURN', 유튜브 MV 차트 1위": {
+   "name": "04 🇺🇸 STRAY KIDS — 스트레이 키즈 아이엔 'NO RETURN', 유튜브 MV 차트 1위",
    "key": "1118_STRAY-KIDS-I-N_chart_NO-RETURN@en",
    "job": "1118_STRAY-KIDS-I-N_chart_NO-RETURN",
    "lang": "en",
@@ -148,8 +184,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1118_STRAY-KIDS-I-N_chart_NO-RETURN-973fe01608528776/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1118_STRAY-KIDS-I-N_chart_NO-RETURN-973fe01608528776/meta.json"
   },
-  "04 🇪🇸 밈": {
-   "name": "04 🇪🇸 밈",
+  "05 🇪🇸 밈": {
+   "name": "05 🇪🇸 밈",
    "key": "1109_밈_fox-like-idols-f-es@es",
    "job": "1109_밈_fox-like-idols-f-es",
    "lang": "es",
@@ -166,8 +202,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1109_-_fox-like-idols-f-es-b142c69f24adbe53/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1109_-_fox-like-idols-f-es-b142c69f24adbe53/meta.json"
   },
-  "05 🇮🇩 밈": {
-   "name": "05 🇮🇩 밈",
+  "06 🇮🇩 밈": {
+   "name": "06 🇮🇩 밈",
    "key": "1109_밈_bunny-like-idols-id@id",
    "job": "1109_밈_bunny-like-idols-id",
    "lang": "id",
