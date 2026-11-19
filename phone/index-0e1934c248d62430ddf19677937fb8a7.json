@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-19T10:07:11+09:00",
- "count": 12,
+ "updated_at": "2026-11-19T10:07:20+09:00",
+ "count": 11,
  "items": [
   {
    "name": "01 🇪🇸 밈",
@@ -93,25 +93,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_ice-cold-handsome-m-en-252cee074b6ebc64/meta.json"
   },
   {
-   "name": "06 🇵🇹 밈",
-   "key": "1113_밈_cat-like-idols-pt@pt",
-   "job": "1113_밈_cat-like-idols-pt",
-   "lang": "pt",
-   "flag": "🇵🇹",
-   "title": "밈",
-   "account": "amberbeat.portugal",
-   "music": "밈 5 Cat-Like Idols (F) (PT)",
-   "audio_start": "- (음악 고르지 않기 · 영상 소리 그대로 올리기)",
-   "scheduled_at": "",
-   "caption": "Qual é a tua idol com cara de gato preferida? 🐱\n\n1. RYUJIN (ITZY)\n2. IRENE (Red Velvet)\n3. CHAEWON (LE SSERAFIM)\n4. BAE (NMIXX)\n5. CARMEN (Hearts2Hearts)\n\nIdentifica alguém que adore idols com cara de gato 👇\n\n———\n\nClipes: atuações oficiais em programas de música e MV oficiais\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Notícias de K-pop todos os dias, sempre com a fonte.\nSegue-nos em @amberbeat.portugal\n\n#KPOP #CaraDeGato #RYUJIN #IRENE #CHAEWON",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1113_-_cat-like-idols-pt-d403c5d5d9595454/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1113_-_cat-like-idols-pt-d403c5d5d9595454/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1113_-_cat-like-idols-pt-d403c5d5d9595454/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1113_-_cat-like-idols-pt-d403c5d5d9595454/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1113_-_cat-like-idols-pt-d403c5d5d9595454/meta.json"
-  },
-  {
-   "name": "07 🇹🇭 밈",
+   "name": "06 🇹🇭 밈",
    "key": "1109_밈_puppy-like-idols-f-th@th",
    "job": "1109_밈_puppy-like-idols-f-th",
    "lang": "th",
@@ -129,7 +111,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1109_-_puppy-like-idols-f-th-8150100ec9e5cf60/meta.json"
   },
   {
-   "name": "08 🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지",
+   "name": "07 🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지",
    "key": "1116_ILLIT_chart@en",
    "job": "1116_ILLIT_chart",
    "lang": "en",
@@ -147,7 +129,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_ILLIT_chart-bdafb2fed8db4c51/meta.json"
   },
   {
-   "name": "09 🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1",
+   "name": "08 🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1",
    "key": "1116_BABYMONSTER_milestone_춤-CHOOM@ja",
    "job": "1116_BABYMONSTER_milestone_춤-CHOOM",
    "lang": "ja",
@@ -165,7 +147,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BABYMONSTER_milestone_-CHOOM-d17e87edd02a5c19/meta.json"
   },
   {
-   "name": "10 🇮🇩 BTS — BTS Sweeps 6 Trophies At MMA 2026",
+   "name": "09 🇮🇩 BTS — BTS Sweeps 6 Trophies At MMA 2026",
    "key": "1116_BTS_award@id",
    "job": "1116_BTS_award",
    "lang": "id",
@@ -183,7 +165,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1116_BTS_award-32939f7b5f9c03d5/meta.json"
   },
   {
-   "name": "11 🇺🇸 BTS — BTS Sweeps 6 Trophies At MMA 2026",
+   "name": "10 🇺🇸 BTS — BTS Sweeps 6 Trophies At MMA 2026",
    "key": "1116_BTS_award@en",
    "job": "1116_BTS_award",
    "lang": "en",
@@ -201,7 +183,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_BTS_award-d430966ed87e5447/meta.json"
   },
   {
-   "name": "12 🇯🇵 BTS — BTS Sweeps 6 Trophies At MMA 2026",
+   "name": "11 🇯🇵 BTS — BTS Sweeps 6 Trophies At MMA 2026",
    "key": "1116_BTS_award@ja",
    "job": "1116_BTS_award",
    "lang": "ja",
@@ -310,26 +292,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_ice-cold-handsome-m-en-252cee074b6ebc64/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_ice-cold-handsome-m-en-252cee074b6ebc64/meta.json"
   },
-  "06 🇵🇹 밈": {
-   "name": "06 🇵🇹 밈",
-   "key": "1113_밈_cat-like-idols-pt@pt",
-   "job": "1113_밈_cat-like-idols-pt",
-   "lang": "pt",
-   "flag": "🇵🇹",
-   "title": "밈",
-   "account": "amberbeat.portugal",
-   "music": "밈 5 Cat-Like Idols (F) (PT)",
-   "audio_start": "- (음악 고르지 않기 · 영상 소리 그대로 올리기)",
-   "scheduled_at": "",
-   "caption": "Qual é a tua idol com cara de gato preferida? 🐱\n\n1. RYUJIN (ITZY)\n2. IRENE (Red Velvet)\n3. CHAEWON (LE SSERAFIM)\n4. BAE (NMIXX)\n5. CARMEN (Hearts2Hearts)\n\nIdentifica alguém que adore idols com cara de gato 👇\n\n———\n\nClipes: atuações oficiais em programas de música e MV oficiais\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Notícias de K-pop todos os dias, sempre com a fonte.\nSegue-nos em @amberbeat.portugal\n\n#KPOP #CaraDeGato #RYUJIN #IRENE #CHAEWON",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1113_-_cat-like-idols-pt-d403c5d5d9595454/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1113_-_cat-like-idols-pt-d403c5d5d9595454/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1113_-_cat-like-idols-pt-d403c5d5d9595454/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1113_-_cat-like-idols-pt-d403c5d5d9595454/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1113_-_cat-like-idols-pt-d403c5d5d9595454/meta.json"
-  },
-  "07 🇹🇭 밈": {
-   "name": "07 🇹🇭 밈",
+  "06 🇹🇭 밈": {
+   "name": "06 🇹🇭 밈",
    "key": "1109_밈_puppy-like-idols-f-th@th",
    "job": "1109_밈_puppy-like-idols-f-th",
    "lang": "th",
@@ -346,8 +310,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1109_-_puppy-like-idols-f-th-8150100ec9e5cf60/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1109_-_puppy-like-idols-f-th-8150100ec9e5cf60/meta.json"
   },
-  "08 🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지": {
-   "name": "08 🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지",
+  "07 🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지": {
+   "name": "07 🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지",
    "key": "1116_ILLIT_chart@en",
    "job": "1116_ILLIT_chart",
    "lang": "en",
@@ -364,8 +328,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_ILLIT_chart-bdafb2fed8db4c51/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_ILLIT_chart-bdafb2fed8db4c51/meta.json"
   },
-  "09 🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1": {
-   "name": "09 🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1",
+  "08 🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1": {
+   "name": "08 🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1",
    "key": "1116_BABYMONSTER_milestone_춤-CHOOM@ja",
    "job": "1116_BABYMONSTER_milestone_춤-CHOOM",
    "lang": "ja",
@@ -382,8 +346,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BABYMONSTER_milestone_-CHOOM-d17e87edd02a5c19/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BABYMONSTER_milestone_-CHOOM-d17e87edd02a5c19/meta.json"
   },
-  "10 🇮🇩 BTS — BTS Sweeps 6 Trophies At MMA 2026": {
-   "name": "10 🇮🇩 BTS — BTS Sweeps 6 Trophies At MMA 2026",
+  "09 🇮🇩 BTS — BTS Sweeps 6 Trophies At MMA 2026": {
+   "name": "09 🇮🇩 BTS — BTS Sweeps 6 Trophies At MMA 2026",
    "key": "1116_BTS_award@id",
    "job": "1116_BTS_award",
    "lang": "id",
@@ -400,8 +364,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1116_BTS_award-32939f7b5f9c03d5/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1116_BTS_award-32939f7b5f9c03d5/meta.json"
   },
-  "11 🇺🇸 BTS — BTS Sweeps 6 Trophies At MMA 2026": {
-   "name": "11 🇺🇸 BTS — BTS Sweeps 6 Trophies At MMA 2026",
+  "10 🇺🇸 BTS — BTS Sweeps 6 Trophies At MMA 2026": {
+   "name": "10 🇺🇸 BTS — BTS Sweeps 6 Trophies At MMA 2026",
    "key": "1116_BTS_award@en",
    "job": "1116_BTS_award",
    "lang": "en",
@@ -418,8 +382,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_BTS_award-d430966ed87e5447/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_BTS_award-d430966ed87e5447/meta.json"
   },
-  "12 🇯🇵 BTS — BTS Sweeps 6 Trophies At MMA 2026": {
-   "name": "12 🇯🇵 BTS — BTS Sweeps 6 Trophies At MMA 2026",
+  "11 🇯🇵 BTS — BTS Sweeps 6 Trophies At MMA 2026": {
+   "name": "11 🇯🇵 BTS — BTS Sweeps 6 Trophies At MMA 2026",
    "key": "1116_BTS_award@ja",
    "job": "1116_BTS_award",
    "lang": "ja",
