@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-19T10:00:44+09:00",
- "count": 9,
+ "updated_at": "2026-11-19T10:02:37+09:00",
+ "count": 10,
  "items": [
   {
    "name": "01 🇺🇸 밈",
@@ -57,7 +57,25 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1109_-_puppy-like-idols-f-th-8150100ec9e5cf60/meta.json"
   },
   {
-   "name": "04 🇪🇸 밈",
+   "name": "04 🇮🇩 밈",
+   "key": "1109_밈_bunny-like-idols-id@id",
+   "job": "1109_밈_bunny-like-idols-id",
+   "lang": "id",
+   "flag": "🇮🇩",
+   "title": "밈",
+   "account": "amberbeat.indonesia",
+   "music": "밈 5 Bunny-Like Idols (ID)",
+   "audio_start": "- (음악 고르지 않기 · 영상 소리 그대로 올리기)",
+   "scheduled_at": "",
+   "caption": "Idol berwajah kelinci mana yang jadi pilihanmu? 🐰\n\n1. SUI (KiiiKiii)\n2. HANEUL (KISS OF LIFE)\n3. BAEK JIHEON (fromis_9)\n4. YUHA (Hearts2Hearts)\n5. BANG JEEMIN (izna)\n\nTag temanmu yang suka idol berwajah kelinci 👇\n\n———\n\nKlip: panggung acara musik resmi dan MV\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Berita K-pop setiap hari, selalu dengan sumbernya.\nIkuti @amberbeat.indonesia\n\n#KPOP #IdolWajahKelinci #SUI #HANEUL #BAEKJIHEON",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1109_-_bunny-like-idols-id-a723a30748542576/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1109_-_bunny-like-idols-id-a723a30748542576/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1109_-_bunny-like-idols-id-a723a30748542576/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1109_-_bunny-like-idols-id-a723a30748542576/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1109_-_bunny-like-idols-id-a723a30748542576/meta.json"
+  },
+  {
+   "name": "05 🇪🇸 밈",
    "key": "1109_밈_fox-like-idols-f-es@es",
    "job": "1109_밈_fox-like-idols-f-es",
    "lang": "es",
@@ -75,7 +93,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1109_-_fox-like-idols-f-es-b142c69f24adbe53/meta.json"
   },
   {
-   "name": "05 🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지",
+   "name": "06 🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지",
    "key": "1116_ILLIT_chart@en",
    "job": "1116_ILLIT_chart",
    "lang": "en",
@@ -93,7 +111,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_ILLIT_chart-bdafb2fed8db4c51/meta.json"
   },
   {
-   "name": "06 🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1",
+   "name": "07 🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1",
    "key": "1116_BABYMONSTER_milestone_춤-CHOOM@ja",
    "job": "1116_BABYMONSTER_milestone_춤-CHOOM",
    "lang": "ja",
@@ -111,7 +129,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BABYMONSTER_milestone_-CHOOM-d17e87edd02a5c19/meta.json"
   },
   {
-   "name": "07 🇮🇩 BTS — BTS Sweeps 6 Trophies At MMA 2026",
+   "name": "08 🇮🇩 BTS — BTS Sweeps 6 Trophies At MMA 2026",
    "key": "1116_BTS_award@id",
    "job": "1116_BTS_award",
    "lang": "id",
@@ -129,7 +147,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1116_BTS_award-32939f7b5f9c03d5/meta.json"
   },
   {
-   "name": "08 🇺🇸 BTS — BTS Sweeps 6 Trophies At MMA 2026",
+   "name": "09 🇺🇸 BTS — BTS Sweeps 6 Trophies At MMA 2026",
    "key": "1116_BTS_award@en",
    "job": "1116_BTS_award",
    "lang": "en",
@@ -147,7 +165,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_BTS_award-d430966ed87e5447/meta.json"
   },
   {
-   "name": "09 🇯🇵 BTS — BTS Sweeps 6 Trophies At MMA 2026",
+   "name": "10 🇯🇵 BTS — BTS Sweeps 6 Trophies At MMA 2026",
    "key": "1116_BTS_award@ja",
    "job": "1116_BTS_award",
    "lang": "ja",
@@ -220,8 +238,26 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1109_-_puppy-like-idols-f-th-8150100ec9e5cf60/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1109_-_puppy-like-idols-f-th-8150100ec9e5cf60/meta.json"
   },
-  "04 🇪🇸 밈": {
-   "name": "04 🇪🇸 밈",
+  "04 🇮🇩 밈": {
+   "name": "04 🇮🇩 밈",
+   "key": "1109_밈_bunny-like-idols-id@id",
+   "job": "1109_밈_bunny-like-idols-id",
+   "lang": "id",
+   "flag": "🇮🇩",
+   "title": "밈",
+   "account": "amberbeat.indonesia",
+   "music": "밈 5 Bunny-Like Idols (ID)",
+   "audio_start": "- (음악 고르지 않기 · 영상 소리 그대로 올리기)",
+   "scheduled_at": "",
+   "caption": "Idol berwajah kelinci mana yang jadi pilihanmu? 🐰\n\n1. SUI (KiiiKiii)\n2. HANEUL (KISS OF LIFE)\n3. BAEK JIHEON (fromis_9)\n4. YUHA (Hearts2Hearts)\n5. BANG JEEMIN (izna)\n\nTag temanmu yang suka idol berwajah kelinci 👇\n\n———\n\nKlip: panggung acara musik resmi dan MV\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Berita K-pop setiap hari, selalu dengan sumbernya.\nIkuti @amberbeat.indonesia\n\n#KPOP #IdolWajahKelinci #SUI #HANEUL #BAEKJIHEON",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1109_-_bunny-like-idols-id-a723a30748542576/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1109_-_bunny-like-idols-id-a723a30748542576/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1109_-_bunny-like-idols-id-a723a30748542576/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1109_-_bunny-like-idols-id-a723a30748542576/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1109_-_bunny-like-idols-id-a723a30748542576/meta.json"
+  },
+  "05 🇪🇸 밈": {
+   "name": "05 🇪🇸 밈",
    "key": "1109_밈_fox-like-idols-f-es@es",
    "job": "1109_밈_fox-like-idols-f-es",
    "lang": "es",
@@ -238,8 +274,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1109_-_fox-like-idols-f-es-b142c69f24adbe53/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1109_-_fox-like-idols-f-es-b142c69f24adbe53/meta.json"
   },
-  "05 🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지": {
-   "name": "05 🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지",
+  "06 🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지": {
+   "name": "06 🇺🇸 ILLIT — ILLIT, 빌보드 월드 앨범 1위, 방탄소년단과 스트레이 키즈, 계속해서 순위 유지",
    "key": "1116_ILLIT_chart@en",
    "job": "1116_ILLIT_chart",
    "lang": "en",
@@ -256,8 +292,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_ILLIT_chart-bdafb2fed8db4c51/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_ILLIT_chart-bdafb2fed8db4c51/meta.json"
   },
-  "06 🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1": {
-   "name": "06 🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1",
+  "07 🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1": {
+   "name": "07 🇯🇵 BABYMONSTER — BABYMONSTER – ‘춤 (CHOOM)’ PERFORMANCE VIDEO HITS 1",
    "key": "1116_BABYMONSTER_milestone_춤-CHOOM@ja",
    "job": "1116_BABYMONSTER_milestone_춤-CHOOM",
    "lang": "ja",
@@ -274,8 +310,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BABYMONSTER_milestone_-CHOOM-d17e87edd02a5c19/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1116_BABYMONSTER_milestone_-CHOOM-d17e87edd02a5c19/meta.json"
   },
-  "07 🇮🇩 BTS — BTS Sweeps 6 Trophies At MMA 2026": {
-   "name": "07 🇮🇩 BTS — BTS Sweeps 6 Trophies At MMA 2026",
+  "08 🇮🇩 BTS — BTS Sweeps 6 Trophies At MMA 2026": {
+   "name": "08 🇮🇩 BTS — BTS Sweeps 6 Trophies At MMA 2026",
    "key": "1116_BTS_award@id",
    "job": "1116_BTS_award",
    "lang": "id",
@@ -292,8 +328,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1116_BTS_award-32939f7b5f9c03d5/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1116_BTS_award-32939f7b5f9c03d5/meta.json"
   },
-  "08 🇺🇸 BTS — BTS Sweeps 6 Trophies At MMA 2026": {
-   "name": "08 🇺🇸 BTS — BTS Sweeps 6 Trophies At MMA 2026",
+  "09 🇺🇸 BTS — BTS Sweeps 6 Trophies At MMA 2026": {
+   "name": "09 🇺🇸 BTS — BTS Sweeps 6 Trophies At MMA 2026",
    "key": "1116_BTS_award@en",
    "job": "1116_BTS_award",
    "lang": "en",
@@ -310,8 +346,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_BTS_award-d430966ed87e5447/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1116_BTS_award-d430966ed87e5447/meta.json"
   },
-  "09 🇯🇵 BTS — BTS Sweeps 6 Trophies At MMA 2026": {
-   "name": "09 🇯🇵 BTS — BTS Sweeps 6 Trophies At MMA 2026",
+  "10 🇯🇵 BTS — BTS Sweeps 6 Trophies At MMA 2026": {
+   "name": "10 🇯🇵 BTS — BTS Sweeps 6 Trophies At MMA 2026",
    "key": "1116_BTS_award@ja",
    "job": "1116_BTS_award",
    "lang": "ja",
