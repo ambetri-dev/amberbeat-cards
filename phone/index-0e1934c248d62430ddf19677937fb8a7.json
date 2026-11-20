@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-20T16:27:57+09:00",
- "count": 12,
+ "updated_at": "2026-11-20T18:55:58+09:00",
+ "count": 11,
  "items": [
   {
    "name": "01 🇺🇸 TWICE 'BABY ANGEL'",
@@ -93,25 +93,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_TWICE_MV_BABY-ANGEL-aa71813bf6ff15d9/meta.json"
   },
   {
-   "name": "06 🇺🇸 BIGBANG 'BiiiG'",
-   "key": "1120_BIGBANG_MV_BiiiG",
-   "job": "1120_BIGBANG_MV_BiiiG",
-   "lang": "",
-   "flag": "🇺🇸",
-   "title": "BIGBANG 'BiiiG'",
-   "account": "amberbeat.official",
-   "music": "BIGBANG 기립 (GiiiRIP)",
-   "audio_start": "1:06 (기립 음원 후렴 · 영상에 이미 들어 있음)",
-   "scheduled_at": "",
-   "caption": "BIGBANG released the surprise digital single ‘GiiiRIP’ (기립) at 2 PM KST on Nov 20, 2026, three months after ‘BiiiG’.\n\nThe group will perform at the 2026 MAMA AWARDS at Kyocera Dome Osaka on Nov 21.\n\n———\n\nSource: Munhwa Ilbo, Chosunbiz\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#BIGBANG #GiiiRIP #KPOP #KpopNews #NewSingle",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1120_BIGBANG_MV_BiiiG-fd68cba233bfcab0/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1120_BIGBANG_MV_BiiiG-fd68cba233bfcab0/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1120_BIGBANG_MV_BiiiG-fd68cba233bfcab0/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1120_BIGBANG_MV_BiiiG-fd68cba233bfcab0/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1120_BIGBANG_MV_BiiiG-fd68cba233bfcab0/meta.json"
-  },
-  {
-   "name": "07 🇯🇵 Hearts2Hearts 'Next Chapter'",
+   "name": "06 🇯🇵 Hearts2Hearts 'Next Chapter'",
    "key": "1119_Hearts2Hearts_MV_Next-Chapter@ja",
    "job": "1119_Hearts2Hearts_MV_Next-Chapter",
    "lang": "ja",
@@ -129,7 +111,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1119_Hearts2Hearts_MV_Next-Chapter-03f8ec6ac4c638c3/meta.json"
   },
   {
-   "name": "08 🇮🇩 Hearts2Hearts 'Next Chapter'",
+   "name": "07 🇮🇩 Hearts2Hearts 'Next Chapter'",
    "key": "1119_Hearts2Hearts_MV_Next-Chapter@id",
    "job": "1119_Hearts2Hearts_MV_Next-Chapter",
    "lang": "id",
@@ -147,7 +129,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1119_Hearts2Hearts_MV_Next-Chapter-037ebdc0c82b4d30/meta.json"
   },
   {
-   "name": "09 🇺🇸 Hearts2Hearts 'Next Chapter'",
+   "name": "08 🇺🇸 Hearts2Hearts 'Next Chapter'",
    "key": "1119_Hearts2Hearts_MV_Next-Chapter",
    "job": "1119_Hearts2Hearts_MV_Next-Chapter",
    "lang": "",
@@ -165,7 +147,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1119_Hearts2Hearts_MV_Next-Chapter-6e7ebc3221562457/meta.json"
   },
   {
-   "name": "10 🇺🇸 STRAY KIDS — 스트레이 키즈 아이엔 'NO RETURN', 유튜브 MV 차트 1위",
+   "name": "09 🇺🇸 STRAY KIDS — 스트레이 키즈 아이엔 'NO RETURN', 유튜브 MV 차트 1위",
    "key": "1118_STRAY-KIDS-I-N_chart_NO-RETURN@en",
    "job": "1118_STRAY-KIDS-I-N_chart_NO-RETURN",
    "lang": "en",
@@ -183,7 +165,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1118_STRAY-KIDS-I-N_chart_NO-RETURN-973fe01608528776/meta.json"
   },
   {
-   "name": "11 🇪🇸 밈",
+   "name": "10 🇪🇸 밈",
    "key": "1109_밈_fox-like-idols-f-es@es",
    "job": "1109_밈_fox-like-idols-f-es",
    "lang": "es",
@@ -201,7 +183,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1109_-_fox-like-idols-f-es-b142c69f24adbe53/meta.json"
   },
   {
-   "name": "12 🇮🇩 밈",
+   "name": "11 🇮🇩 밈",
    "key": "1109_밈_bunny-like-idols-id@id",
    "job": "1109_밈_bunny-like-idols-id",
    "lang": "id",
@@ -310,26 +292,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_TWICE_MV_BABY-ANGEL-aa71813bf6ff15d9/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_TWICE_MV_BABY-ANGEL-aa71813bf6ff15d9/meta.json"
   },
-  "06 🇺🇸 BIGBANG 'BiiiG'": {
-   "name": "06 🇺🇸 BIGBANG 'BiiiG'",
-   "key": "1120_BIGBANG_MV_BiiiG",
-   "job": "1120_BIGBANG_MV_BiiiG",
-   "lang": "",
-   "flag": "🇺🇸",
-   "title": "BIGBANG 'BiiiG'",
-   "account": "amberbeat.official",
-   "music": "BIGBANG 기립 (GiiiRIP)",
-   "audio_start": "1:06 (기립 음원 후렴 · 영상에 이미 들어 있음)",
-   "scheduled_at": "",
-   "caption": "BIGBANG released the surprise digital single ‘GiiiRIP’ (기립) at 2 PM KST on Nov 20, 2026, three months after ‘BiiiG’.\n\nThe group will perform at the 2026 MAMA AWARDS at Kyocera Dome Osaka on Nov 21.\n\n———\n\nSource: Munhwa Ilbo, Chosunbiz\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#BIGBANG #GiiiRIP #KPOP #KpopNews #NewSingle",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1120_BIGBANG_MV_BiiiG-fd68cba233bfcab0/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1120_BIGBANG_MV_BiiiG-fd68cba233bfcab0/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1120_BIGBANG_MV_BiiiG-fd68cba233bfcab0/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1120_BIGBANG_MV_BiiiG-fd68cba233bfcab0/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1120_BIGBANG_MV_BiiiG-fd68cba233bfcab0/meta.json"
-  },
-  "07 🇯🇵 Hearts2Hearts 'Next Chapter'": {
-   "name": "07 🇯🇵 Hearts2Hearts 'Next Chapter'",
+  "06 🇯🇵 Hearts2Hearts 'Next Chapter'": {
+   "name": "06 🇯🇵 Hearts2Hearts 'Next Chapter'",
    "key": "1119_Hearts2Hearts_MV_Next-Chapter@ja",
    "job": "1119_Hearts2Hearts_MV_Next-Chapter",
    "lang": "ja",
@@ -346,8 +310,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1119_Hearts2Hearts_MV_Next-Chapter-03f8ec6ac4c638c3/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1119_Hearts2Hearts_MV_Next-Chapter-03f8ec6ac4c638c3/meta.json"
   },
-  "08 🇮🇩 Hearts2Hearts 'Next Chapter'": {
-   "name": "08 🇮🇩 Hearts2Hearts 'Next Chapter'",
+  "07 🇮🇩 Hearts2Hearts 'Next Chapter'": {
+   "name": "07 🇮🇩 Hearts2Hearts 'Next Chapter'",
    "key": "1119_Hearts2Hearts_MV_Next-Chapter@id",
    "job": "1119_Hearts2Hearts_MV_Next-Chapter",
    "lang": "id",
@@ -364,8 +328,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1119_Hearts2Hearts_MV_Next-Chapter-037ebdc0c82b4d30/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1119_Hearts2Hearts_MV_Next-Chapter-037ebdc0c82b4d30/meta.json"
   },
-  "09 🇺🇸 Hearts2Hearts 'Next Chapter'": {
-   "name": "09 🇺🇸 Hearts2Hearts 'Next Chapter'",
+  "08 🇺🇸 Hearts2Hearts 'Next Chapter'": {
+   "name": "08 🇺🇸 Hearts2Hearts 'Next Chapter'",
    "key": "1119_Hearts2Hearts_MV_Next-Chapter",
    "job": "1119_Hearts2Hearts_MV_Next-Chapter",
    "lang": "",
@@ -382,8 +346,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1119_Hearts2Hearts_MV_Next-Chapter-6e7ebc3221562457/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1119_Hearts2Hearts_MV_Next-Chapter-6e7ebc3221562457/meta.json"
   },
-  "10 🇺🇸 STRAY KIDS — 스트레이 키즈 아이엔 'NO RETURN', 유튜브 MV 차트 1위": {
-   "name": "10 🇺🇸 STRAY KIDS — 스트레이 키즈 아이엔 'NO RETURN', 유튜브 MV 차트 1위",
+  "09 🇺🇸 STRAY KIDS — 스트레이 키즈 아이엔 'NO RETURN', 유튜브 MV 차트 1위": {
+   "name": "09 🇺🇸 STRAY KIDS — 스트레이 키즈 아이엔 'NO RETURN', 유튜브 MV 차트 1위",
    "key": "1118_STRAY-KIDS-I-N_chart_NO-RETURN@en",
    "job": "1118_STRAY-KIDS-I-N_chart_NO-RETURN",
    "lang": "en",
@@ -400,8 +364,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1118_STRAY-KIDS-I-N_chart_NO-RETURN-973fe01608528776/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1118_STRAY-KIDS-I-N_chart_NO-RETURN-973fe01608528776/meta.json"
   },
-  "11 🇪🇸 밈": {
-   "name": "11 🇪🇸 밈",
+  "10 🇪🇸 밈": {
+   "name": "10 🇪🇸 밈",
    "key": "1109_밈_fox-like-idols-f-es@es",
    "job": "1109_밈_fox-like-idols-f-es",
    "lang": "es",
@@ -418,8 +382,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1109_-_fox-like-idols-f-es-b142c69f24adbe53/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1109_-_fox-like-idols-f-es-b142c69f24adbe53/meta.json"
   },
-  "12 🇮🇩 밈": {
-   "name": "12 🇮🇩 밈",
+  "11 🇮🇩 밈": {
+   "name": "11 🇮🇩 밈",
    "key": "1109_밈_bunny-like-idols-id@id",
    "job": "1109_밈_bunny-like-idols-id",
    "lang": "id",
