@@ -1,9 +1,27 @@
 {
- "updated_at": "2026-11-20T15:03:50+09:00",
- "count": 7,
+ "updated_at": "2026-11-20T15:16:31+09:00",
+ "count": 8,
  "items": [
   {
-   "name": "01 🇺🇸 BIGBANG 'BiiiG'",
+   "name": "01 🇪🇸 TWICE 'BABY ANGEL'",
+   "key": "1120_TWICE_MV_BABY-ANGEL@es",
+   "job": "1120_TWICE_MV_BABY-ANGEL",
+   "lang": "es",
+   "flag": "🇪🇸",
+   "title": "TWICE 'BABY ANGEL'",
+   "account": "amberbeat.spain",
+   "music": "TWICE BABY ANGEL",
+   "audio_start": "1:14 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "Nayeon, de TWICE, estrenó el videoclip de 'BABY ANGEL' en el canal de JYP Entertainment el 20 de noviembre de 2026. El video alcanzó 456 visualizaciones al minuto de publicarse.\n\n———\n\nSource: JYP Entertainment official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Noticias de K-pop cada día, siempre con la fuente.\nSíguenos en @amberbeat.spain\n\n#KPOP #NoticiasKpop #KpopEnEspañol #TWICE #Nayeon",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_TWICE_MV_BABY-ANGEL-aa71813bf6ff15d9/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_TWICE_MV_BABY-ANGEL-aa71813bf6ff15d9/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_TWICE_MV_BABY-ANGEL-aa71813bf6ff15d9/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_TWICE_MV_BABY-ANGEL-aa71813bf6ff15d9/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_TWICE_MV_BABY-ANGEL-aa71813bf6ff15d9/meta.json"
+  },
+  {
+   "name": "02 🇺🇸 BIGBANG 'BiiiG'",
    "key": "1120_BIGBANG_MV_BiiiG",
    "job": "1120_BIGBANG_MV_BiiiG",
    "lang": "",
@@ -21,7 +39,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1120_BIGBANG_MV_BiiiG-fd68cba233bfcab0/meta.json"
   },
   {
-   "name": "02 🇯🇵 Hearts2Hearts 'Next Chapter'",
+   "name": "03 🇯🇵 Hearts2Hearts 'Next Chapter'",
    "key": "1119_Hearts2Hearts_MV_Next-Chapter@ja",
    "job": "1119_Hearts2Hearts_MV_Next-Chapter",
    "lang": "ja",
@@ -39,7 +57,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1119_Hearts2Hearts_MV_Next-Chapter-03f8ec6ac4c638c3/meta.json"
   },
   {
-   "name": "03 🇮🇩 Hearts2Hearts 'Next Chapter'",
+   "name": "04 🇮🇩 Hearts2Hearts 'Next Chapter'",
    "key": "1119_Hearts2Hearts_MV_Next-Chapter@id",
    "job": "1119_Hearts2Hearts_MV_Next-Chapter",
    "lang": "id",
@@ -57,7 +75,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1119_Hearts2Hearts_MV_Next-Chapter-037ebdc0c82b4d30/meta.json"
   },
   {
-   "name": "04 🇺🇸 Hearts2Hearts 'Next Chapter'",
+   "name": "05 🇺🇸 Hearts2Hearts 'Next Chapter'",
    "key": "1119_Hearts2Hearts_MV_Next-Chapter",
    "job": "1119_Hearts2Hearts_MV_Next-Chapter",
    "lang": "",
@@ -75,7 +93,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1119_Hearts2Hearts_MV_Next-Chapter-6e7ebc3221562457/meta.json"
   },
   {
-   "name": "05 🇺🇸 STRAY KIDS — 스트레이 키즈 아이엔 'NO RETURN', 유튜브 MV 차트 1위",
+   "name": "06 🇺🇸 STRAY KIDS — 스트레이 키즈 아이엔 'NO RETURN', 유튜브 MV 차트 1위",
    "key": "1118_STRAY-KIDS-I-N_chart_NO-RETURN@en",
    "job": "1118_STRAY-KIDS-I-N_chart_NO-RETURN",
    "lang": "en",
@@ -93,7 +111,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1118_STRAY-KIDS-I-N_chart_NO-RETURN-973fe01608528776/meta.json"
   },
   {
-   "name": "06 🇪🇸 밈",
+   "name": "07 🇪🇸 밈",
    "key": "1109_밈_fox-like-idols-f-es@es",
    "job": "1109_밈_fox-like-idols-f-es",
    "lang": "es",
@@ -111,7 +129,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1109_-_fox-like-idols-f-es-b142c69f24adbe53/meta.json"
   },
   {
-   "name": "07 🇮🇩 밈",
+   "name": "08 🇮🇩 밈",
    "key": "1109_밈_bunny-like-idols-id@id",
    "job": "1109_밈_bunny-like-idols-id",
    "lang": "id",
@@ -130,8 +148,26 @@
   }
  ],
  "by_name": {
-  "01 🇺🇸 BIGBANG 'BiiiG'": {
-   "name": "01 🇺🇸 BIGBANG 'BiiiG'",
+  "01 🇪🇸 TWICE 'BABY ANGEL'": {
+   "name": "01 🇪🇸 TWICE 'BABY ANGEL'",
+   "key": "1120_TWICE_MV_BABY-ANGEL@es",
+   "job": "1120_TWICE_MV_BABY-ANGEL",
+   "lang": "es",
+   "flag": "🇪🇸",
+   "title": "TWICE 'BABY ANGEL'",
+   "account": "amberbeat.spain",
+   "music": "TWICE BABY ANGEL",
+   "audio_start": "1:14 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "Nayeon, de TWICE, estrenó el videoclip de 'BABY ANGEL' en el canal de JYP Entertainment el 20 de noviembre de 2026. El video alcanzó 456 visualizaciones al minuto de publicarse.\n\n———\n\nSource: JYP Entertainment official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Noticias de K-pop cada día, siempre con la fuente.\nSíguenos en @amberbeat.spain\n\n#KPOP #NoticiasKpop #KpopEnEspañol #TWICE #Nayeon",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_TWICE_MV_BABY-ANGEL-aa71813bf6ff15d9/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_TWICE_MV_BABY-ANGEL-aa71813bf6ff15d9/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_TWICE_MV_BABY-ANGEL-aa71813bf6ff15d9/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_TWICE_MV_BABY-ANGEL-aa71813bf6ff15d9/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_TWICE_MV_BABY-ANGEL-aa71813bf6ff15d9/meta.json"
+  },
+  "02 🇺🇸 BIGBANG 'BiiiG'": {
+   "name": "02 🇺🇸 BIGBANG 'BiiiG'",
    "key": "1120_BIGBANG_MV_BiiiG",
    "job": "1120_BIGBANG_MV_BiiiG",
    "lang": "",
@@ -148,8 +184,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1120_BIGBANG_MV_BiiiG-fd68cba233bfcab0/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1120_BIGBANG_MV_BiiiG-fd68cba233bfcab0/meta.json"
   },
-  "02 🇯🇵 Hearts2Hearts 'Next Chapter'": {
-   "name": "02 🇯🇵 Hearts2Hearts 'Next Chapter'",
+  "03 🇯🇵 Hearts2Hearts 'Next Chapter'": {
+   "name": "03 🇯🇵 Hearts2Hearts 'Next Chapter'",
    "key": "1119_Hearts2Hearts_MV_Next-Chapter@ja",
    "job": "1119_Hearts2Hearts_MV_Next-Chapter",
    "lang": "ja",
@@ -166,8 +202,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1119_Hearts2Hearts_MV_Next-Chapter-03f8ec6ac4c638c3/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1119_Hearts2Hearts_MV_Next-Chapter-03f8ec6ac4c638c3/meta.json"
   },
-  "03 🇮🇩 Hearts2Hearts 'Next Chapter'": {
-   "name": "03 🇮🇩 Hearts2Hearts 'Next Chapter'",
+  "04 🇮🇩 Hearts2Hearts 'Next Chapter'": {
+   "name": "04 🇮🇩 Hearts2Hearts 'Next Chapter'",
    "key": "1119_Hearts2Hearts_MV_Next-Chapter@id",
    "job": "1119_Hearts2Hearts_MV_Next-Chapter",
    "lang": "id",
@@ -184,8 +220,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1119_Hearts2Hearts_MV_Next-Chapter-037ebdc0c82b4d30/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1119_Hearts2Hearts_MV_Next-Chapter-037ebdc0c82b4d30/meta.json"
   },
-  "04 🇺🇸 Hearts2Hearts 'Next Chapter'": {
-   "name": "04 🇺🇸 Hearts2Hearts 'Next Chapter'",
+  "05 🇺🇸 Hearts2Hearts 'Next Chapter'": {
+   "name": "05 🇺🇸 Hearts2Hearts 'Next Chapter'",
    "key": "1119_Hearts2Hearts_MV_Next-Chapter",
    "job": "1119_Hearts2Hearts_MV_Next-Chapter",
    "lang": "",
@@ -202,8 +238,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1119_Hearts2Hearts_MV_Next-Chapter-6e7ebc3221562457/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1119_Hearts2Hearts_MV_Next-Chapter-6e7ebc3221562457/meta.json"
   },
-  "05 🇺🇸 STRAY KIDS — 스트레이 키즈 아이엔 'NO RETURN', 유튜브 MV 차트 1위": {
-   "name": "05 🇺🇸 STRAY KIDS — 스트레이 키즈 아이엔 'NO RETURN', 유튜브 MV 차트 1위",
+  "06 🇺🇸 STRAY KIDS — 스트레이 키즈 아이엔 'NO RETURN', 유튜브 MV 차트 1위": {
+   "name": "06 🇺🇸 STRAY KIDS — 스트레이 키즈 아이엔 'NO RETURN', 유튜브 MV 차트 1위",
    "key": "1118_STRAY-KIDS-I-N_chart_NO-RETURN@en",
    "job": "1118_STRAY-KIDS-I-N_chart_NO-RETURN",
    "lang": "en",
@@ -220,8 +256,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1118_STRAY-KIDS-I-N_chart_NO-RETURN-973fe01608528776/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1118_STRAY-KIDS-I-N_chart_NO-RETURN-973fe01608528776/meta.json"
   },
-  "06 🇪🇸 밈": {
-   "name": "06 🇪🇸 밈",
+  "07 🇪🇸 밈": {
+   "name": "07 🇪🇸 밈",
    "key": "1109_밈_fox-like-idols-f-es@es",
    "job": "1109_밈_fox-like-idols-f-es",
    "lang": "es",
@@ -238,8 +274,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1109_-_fox-like-idols-f-es-b142c69f24adbe53/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1109_-_fox-like-idols-f-es-b142c69f24adbe53/meta.json"
   },
-  "07 🇮🇩 밈": {
-   "name": "07 🇮🇩 밈",
+  "08 🇮🇩 밈": {
+   "name": "08 🇮🇩 밈",
    "key": "1109_밈_bunny-like-idols-id@id",
    "job": "1109_밈_bunny-like-idols-id",
    "lang": "id",
