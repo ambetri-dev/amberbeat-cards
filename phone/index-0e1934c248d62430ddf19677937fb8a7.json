@@ -1,9 +1,27 @@
 {
- "updated_at": "2026-11-20T15:25:32+09:00",
- "count": 10,
+ "updated_at": "2026-11-20T15:26:19+09:00",
+ "count": 11,
  "items": [
   {
-   "name": "01 🇪🇸 JISOO 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3'",
+   "name": "01 🇵🇹 JISOO 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3'",
+   "key": "1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3@pt",
+   "job": "1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3",
+   "lang": "pt",
+   "flag": "🇵🇹",
+   "title": "JISOO 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3'",
+   "account": "amberbeat.portugal",
+   "music": "JISOO SUN SHOWERS from THE ANGRY BIRDS MOVIE 3",
+   "audio_start": "1:29 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "A JISOO lançou o videoclipe oficial de 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3' no seu canal. O vídeo reuniu 52K visualizações em 30 minutos após a publicação.\n\n———\n\nSource: JISOO official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Notícias de K-pop todos os dias, sempre com a fonte.\nSegue-nos em @amberbeat.portugal\n\n#KPOP #NoticiasKpop #KpopPortugal",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3-af512387c7367cf6/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3-af512387c7367cf6/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3-af512387c7367cf6/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3-af512387c7367cf6/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3-af512387c7367cf6/meta.json"
+  },
+  {
+   "name": "02 🇪🇸 JISOO 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3'",
    "key": "1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3@es",
    "job": "1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3",
    "lang": "es",
@@ -21,7 +39,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3-353b40a35f174fce/meta.json"
   },
   {
-   "name": "02 🇺🇸 JISOO 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3'",
+   "name": "03 🇺🇸 JISOO 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3'",
    "key": "1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3",
    "job": "1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3",
    "lang": "",
@@ -39,7 +57,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3-96351331b03d8f16/meta.json"
   },
   {
-   "name": "03 🇪🇸 TWICE 'BABY ANGEL'",
+   "name": "04 🇪🇸 TWICE 'BABY ANGEL'",
    "key": "1120_TWICE_MV_BABY-ANGEL@es",
    "job": "1120_TWICE_MV_BABY-ANGEL",
    "lang": "es",
@@ -57,7 +75,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_TWICE_MV_BABY-ANGEL-aa71813bf6ff15d9/meta.json"
   },
   {
-   "name": "04 🇺🇸 BIGBANG 'BiiiG'",
+   "name": "05 🇺🇸 BIGBANG 'BiiiG'",
    "key": "1120_BIGBANG_MV_BiiiG",
    "job": "1120_BIGBANG_MV_BiiiG",
    "lang": "",
@@ -75,7 +93,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1120_BIGBANG_MV_BiiiG-fd68cba233bfcab0/meta.json"
   },
   {
-   "name": "05 🇯🇵 Hearts2Hearts 'Next Chapter'",
+   "name": "06 🇯🇵 Hearts2Hearts 'Next Chapter'",
    "key": "1119_Hearts2Hearts_MV_Next-Chapter@ja",
    "job": "1119_Hearts2Hearts_MV_Next-Chapter",
    "lang": "ja",
@@ -93,7 +111,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1119_Hearts2Hearts_MV_Next-Chapter-03f8ec6ac4c638c3/meta.json"
   },
   {
-   "name": "06 🇮🇩 Hearts2Hearts 'Next Chapter'",
+   "name": "07 🇮🇩 Hearts2Hearts 'Next Chapter'",
    "key": "1119_Hearts2Hearts_MV_Next-Chapter@id",
    "job": "1119_Hearts2Hearts_MV_Next-Chapter",
    "lang": "id",
@@ -111,7 +129,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1119_Hearts2Hearts_MV_Next-Chapter-037ebdc0c82b4d30/meta.json"
   },
   {
-   "name": "07 🇺🇸 Hearts2Hearts 'Next Chapter'",
+   "name": "08 🇺🇸 Hearts2Hearts 'Next Chapter'",
    "key": "1119_Hearts2Hearts_MV_Next-Chapter",
    "job": "1119_Hearts2Hearts_MV_Next-Chapter",
    "lang": "",
@@ -129,7 +147,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1119_Hearts2Hearts_MV_Next-Chapter-6e7ebc3221562457/meta.json"
   },
   {
-   "name": "08 🇺🇸 STRAY KIDS — 스트레이 키즈 아이엔 'NO RETURN', 유튜브 MV 차트 1위",
+   "name": "09 🇺🇸 STRAY KIDS — 스트레이 키즈 아이엔 'NO RETURN', 유튜브 MV 차트 1위",
    "key": "1118_STRAY-KIDS-I-N_chart_NO-RETURN@en",
    "job": "1118_STRAY-KIDS-I-N_chart_NO-RETURN",
    "lang": "en",
@@ -147,7 +165,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1118_STRAY-KIDS-I-N_chart_NO-RETURN-973fe01608528776/meta.json"
   },
   {
-   "name": "09 🇪🇸 밈",
+   "name": "10 🇪🇸 밈",
    "key": "1109_밈_fox-like-idols-f-es@es",
    "job": "1109_밈_fox-like-idols-f-es",
    "lang": "es",
@@ -165,7 +183,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1109_-_fox-like-idols-f-es-b142c69f24adbe53/meta.json"
   },
   {
-   "name": "10 🇮🇩 밈",
+   "name": "11 🇮🇩 밈",
    "key": "1109_밈_bunny-like-idols-id@id",
    "job": "1109_밈_bunny-like-idols-id",
    "lang": "id",
@@ -184,8 +202,26 @@
   }
  ],
  "by_name": {
-  "01 🇪🇸 JISOO 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3'": {
-   "name": "01 🇪🇸 JISOO 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3'",
+  "01 🇵🇹 JISOO 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3'": {
+   "name": "01 🇵🇹 JISOO 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3'",
+   "key": "1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3@pt",
+   "job": "1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3",
+   "lang": "pt",
+   "flag": "🇵🇹",
+   "title": "JISOO 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3'",
+   "account": "amberbeat.portugal",
+   "music": "JISOO SUN SHOWERS from THE ANGRY BIRDS MOVIE 3",
+   "audio_start": "1:29 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "A JISOO lançou o videoclipe oficial de 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3' no seu canal. O vídeo reuniu 52K visualizações em 30 minutos após a publicação.\n\n———\n\nSource: JISOO official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Notícias de K-pop todos os dias, sempre com a fonte.\nSegue-nos em @amberbeat.portugal\n\n#KPOP #NoticiasKpop #KpopPortugal",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3-af512387c7367cf6/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3-af512387c7367cf6/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3-af512387c7367cf6/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3-af512387c7367cf6/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3-af512387c7367cf6/meta.json"
+  },
+  "02 🇪🇸 JISOO 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3'": {
+   "name": "02 🇪🇸 JISOO 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3'",
    "key": "1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3@es",
    "job": "1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3",
    "lang": "es",
@@ -202,8 +238,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3-353b40a35f174fce/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3-353b40a35f174fce/meta.json"
   },
-  "02 🇺🇸 JISOO 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3'": {
-   "name": "02 🇺🇸 JISOO 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3'",
+  "03 🇺🇸 JISOO 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3'": {
+   "name": "03 🇺🇸 JISOO 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3'",
    "key": "1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3",
    "job": "1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3",
    "lang": "",
@@ -220,8 +256,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3-96351331b03d8f16/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3-96351331b03d8f16/meta.json"
   },
-  "03 🇪🇸 TWICE 'BABY ANGEL'": {
-   "name": "03 🇪🇸 TWICE 'BABY ANGEL'",
+  "04 🇪🇸 TWICE 'BABY ANGEL'": {
+   "name": "04 🇪🇸 TWICE 'BABY ANGEL'",
    "key": "1120_TWICE_MV_BABY-ANGEL@es",
    "job": "1120_TWICE_MV_BABY-ANGEL",
    "lang": "es",
@@ -238,8 +274,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_TWICE_MV_BABY-ANGEL-aa71813bf6ff15d9/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_TWICE_MV_BABY-ANGEL-aa71813bf6ff15d9/meta.json"
   },
-  "04 🇺🇸 BIGBANG 'BiiiG'": {
-   "name": "04 🇺🇸 BIGBANG 'BiiiG'",
+  "05 🇺🇸 BIGBANG 'BiiiG'": {
+   "name": "05 🇺🇸 BIGBANG 'BiiiG'",
    "key": "1120_BIGBANG_MV_BiiiG",
    "job": "1120_BIGBANG_MV_BiiiG",
    "lang": "",
@@ -256,8 +292,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1120_BIGBANG_MV_BiiiG-fd68cba233bfcab0/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1120_BIGBANG_MV_BiiiG-fd68cba233bfcab0/meta.json"
   },
-  "05 🇯🇵 Hearts2Hearts 'Next Chapter'": {
-   "name": "05 🇯🇵 Hearts2Hearts 'Next Chapter'",
+  "06 🇯🇵 Hearts2Hearts 'Next Chapter'": {
+   "name": "06 🇯🇵 Hearts2Hearts 'Next Chapter'",
    "key": "1119_Hearts2Hearts_MV_Next-Chapter@ja",
    "job": "1119_Hearts2Hearts_MV_Next-Chapter",
    "lang": "ja",
@@ -274,8 +310,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1119_Hearts2Hearts_MV_Next-Chapter-03f8ec6ac4c638c3/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1119_Hearts2Hearts_MV_Next-Chapter-03f8ec6ac4c638c3/meta.json"
   },
-  "06 🇮🇩 Hearts2Hearts 'Next Chapter'": {
-   "name": "06 🇮🇩 Hearts2Hearts 'Next Chapter'",
+  "07 🇮🇩 Hearts2Hearts 'Next Chapter'": {
+   "name": "07 🇮🇩 Hearts2Hearts 'Next Chapter'",
    "key": "1119_Hearts2Hearts_MV_Next-Chapter@id",
    "job": "1119_Hearts2Hearts_MV_Next-Chapter",
    "lang": "id",
@@ -292,8 +328,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1119_Hearts2Hearts_MV_Next-Chapter-037ebdc0c82b4d30/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1119_Hearts2Hearts_MV_Next-Chapter-037ebdc0c82b4d30/meta.json"
   },
-  "07 🇺🇸 Hearts2Hearts 'Next Chapter'": {
-   "name": "07 🇺🇸 Hearts2Hearts 'Next Chapter'",
+  "08 🇺🇸 Hearts2Hearts 'Next Chapter'": {
+   "name": "08 🇺🇸 Hearts2Hearts 'Next Chapter'",
    "key": "1119_Hearts2Hearts_MV_Next-Chapter",
    "job": "1119_Hearts2Hearts_MV_Next-Chapter",
    "lang": "",
@@ -310,8 +346,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1119_Hearts2Hearts_MV_Next-Chapter-6e7ebc3221562457/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1119_Hearts2Hearts_MV_Next-Chapter-6e7ebc3221562457/meta.json"
   },
-  "08 🇺🇸 STRAY KIDS — 스트레이 키즈 아이엔 'NO RETURN', 유튜브 MV 차트 1위": {
-   "name": "08 🇺🇸 STRAY KIDS — 스트레이 키즈 아이엔 'NO RETURN', 유튜브 MV 차트 1위",
+  "09 🇺🇸 STRAY KIDS — 스트레이 키즈 아이엔 'NO RETURN', 유튜브 MV 차트 1위": {
+   "name": "09 🇺🇸 STRAY KIDS — 스트레이 키즈 아이엔 'NO RETURN', 유튜브 MV 차트 1위",
    "key": "1118_STRAY-KIDS-I-N_chart_NO-RETURN@en",
    "job": "1118_STRAY-KIDS-I-N_chart_NO-RETURN",
    "lang": "en",
@@ -328,8 +364,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1118_STRAY-KIDS-I-N_chart_NO-RETURN-973fe01608528776/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1118_STRAY-KIDS-I-N_chart_NO-RETURN-973fe01608528776/meta.json"
   },
-  "09 🇪🇸 밈": {
-   "name": "09 🇪🇸 밈",
+  "10 🇪🇸 밈": {
+   "name": "10 🇪🇸 밈",
    "key": "1109_밈_fox-like-idols-f-es@es",
    "job": "1109_밈_fox-like-idols-f-es",
    "lang": "es",
@@ -346,8 +382,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1109_-_fox-like-idols-f-es-b142c69f24adbe53/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1109_-_fox-like-idols-f-es-b142c69f24adbe53/meta.json"
   },
-  "10 🇮🇩 밈": {
-   "name": "10 🇮🇩 밈",
+  "11 🇮🇩 밈": {
+   "name": "11 🇮🇩 밈",
    "key": "1109_밈_bunny-like-idols-id@id",
    "job": "1109_밈_bunny-like-idols-id",
    "lang": "id",
