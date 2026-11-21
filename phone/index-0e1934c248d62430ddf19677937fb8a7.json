@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-21T20:41:00+09:00",
- "count": 14,
+ "updated_at": "2026-11-21T20:42:08+09:00",
+ "count": 13,
  "items": [
   {
    "name": "01 🇮🇩 밈",
@@ -235,24 +235,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_TWICE_MV_BABY-ANGEL-aa71813bf6ff15d9/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_TWICE_MV_BABY-ANGEL-aa71813bf6ff15d9/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_TWICE_MV_BABY-ANGEL-aa71813bf6ff15d9/meta.json"
-  },
-  {
-   "name": "14 🇯🇵 Hearts2Hearts 'Next Chapter'",
-   "key": "1119_Hearts2Hearts_MV_Next-Chapter@ja",
-   "job": "1119_Hearts2Hearts_MV_Next-Chapter",
-   "lang": "ja",
-   "flag": "🇯🇵",
-   "title": "Hearts2Hearts 'Next Chapter'",
-   "account": "amberbeat.japan",
-   "music": "Hearts2Hearts Next Chapter",
-   "audio_start": "4:46 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "",
-   "caption": "Hearts2Heartsが2026年11月19日、グループのチャンネルで'Next Chapter'のミュージックビデオを公開しました。公開から30分で再生回数は1.27万回に達しました。\n\n———\n\nSource: Hearts2Hearts official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · 毎日のK-POPニュースを出典つきでお届けします。\nフォローはこちら @amberbeat.japan\n\n#KPOP #KPOP好きな人と繋がりたい #Kポップ",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1119_Hearts2Hearts_MV_Next-Chapter-03f8ec6ac4c638c3/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1119_Hearts2Hearts_MV_Next-Chapter-03f8ec6ac4c638c3/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1119_Hearts2Hearts_MV_Next-Chapter-03f8ec6ac4c638c3/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1119_Hearts2Hearts_MV_Next-Chapter-03f8ec6ac4c638c3/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1119_Hearts2Hearts_MV_Next-Chapter-03f8ec6ac4c638c3/meta.json"
   }
  ],
  "by_name": {
@@ -489,24 +471,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_TWICE_MV_BABY-ANGEL-aa71813bf6ff15d9/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_TWICE_MV_BABY-ANGEL-aa71813bf6ff15d9/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_TWICE_MV_BABY-ANGEL-aa71813bf6ff15d9/meta.json"
-  },
-  "14 🇯🇵 Hearts2Hearts 'Next Chapter'": {
-   "name": "14 🇯🇵 Hearts2Hearts 'Next Chapter'",
-   "key": "1119_Hearts2Hearts_MV_Next-Chapter@ja",
-   "job": "1119_Hearts2Hearts_MV_Next-Chapter",
-   "lang": "ja",
-   "flag": "🇯🇵",
-   "title": "Hearts2Hearts 'Next Chapter'",
-   "account": "amberbeat.japan",
-   "music": "Hearts2Hearts Next Chapter",
-   "audio_start": "4:46 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "",
-   "caption": "Hearts2Heartsが2026年11月19日、グループのチャンネルで'Next Chapter'のミュージックビデオを公開しました。公開から30分で再生回数は1.27万回に達しました。\n\n———\n\nSource: Hearts2Hearts official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · 毎日のK-POPニュースを出典つきでお届けします。\nフォローはこちら @amberbeat.japan\n\n#KPOP #KPOP好きな人と繋がりたい #Kポップ",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1119_Hearts2Hearts_MV_Next-Chapter-03f8ec6ac4c638c3/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1119_Hearts2Hearts_MV_Next-Chapter-03f8ec6ac4c638c3/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1119_Hearts2Hearts_MV_Next-Chapter-03f8ec6ac4c638c3/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1119_Hearts2Hearts_MV_Next-Chapter-03f8ec6ac4c638c3/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1119_Hearts2Hearts_MV_Next-Chapter-03f8ec6ac4c638c3/meta.json"
   }
  }
 }
