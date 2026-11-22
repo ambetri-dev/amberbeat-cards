@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-22T15:26:28+09:00",
- "count": 12,
+ "updated_at": "2026-11-22T16:27:52+09:00",
+ "count": 11,
  "items": [
   {
    "name": "01 🇪🇸 밈",
@@ -199,24 +199,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1120_JENNIE_release_Power-Trip-930bfd4af06e84a7/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1120_JENNIE_release_Power-Trip-930bfd4af06e84a7/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1120_JENNIE_release_Power-Trip-930bfd4af06e84a7/meta.json"
-  },
-  {
-   "name": "12 🇺🇸 TWICE 'BABY ANGEL'",
-   "key": "1120_TWICE_MV_BABY-ANGEL",
-   "job": "1120_TWICE_MV_BABY-ANGEL",
-   "lang": "",
-   "flag": "🇺🇸",
-   "title": "TWICE 'BABY ANGEL'",
-   "account": "amberbeat.official",
-   "music": "TWICE BABY ANGEL",
-   "audio_start": "1:56 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "",
-   "caption": "TWICE's Nayeon released the music video for \"BABY ANGEL\" on JYP Entertainment's channel on Nov 20, 2026. The video had 456 views one minute after publishing.\n\n———\n\nSource: JYP Entertainment official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#TWICE #NAYEON #BABYANGEL #KPOP #KpopNews",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1120_TWICE_MV_BABY-ANGEL-def2415e569fe62d/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1120_TWICE_MV_BABY-ANGEL-def2415e569fe62d/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1120_TWICE_MV_BABY-ANGEL-def2415e569fe62d/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1120_TWICE_MV_BABY-ANGEL-def2415e569fe62d/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1120_TWICE_MV_BABY-ANGEL-def2415e569fe62d/meta.json"
   }
  ],
  "by_name": {
@@ -417,24 +399,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1120_JENNIE_release_Power-Trip-930bfd4af06e84a7/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1120_JENNIE_release_Power-Trip-930bfd4af06e84a7/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1120_JENNIE_release_Power-Trip-930bfd4af06e84a7/meta.json"
-  },
-  "12 🇺🇸 TWICE 'BABY ANGEL'": {
-   "name": "12 🇺🇸 TWICE 'BABY ANGEL'",
-   "key": "1120_TWICE_MV_BABY-ANGEL",
-   "job": "1120_TWICE_MV_BABY-ANGEL",
-   "lang": "",
-   "flag": "🇺🇸",
-   "title": "TWICE 'BABY ANGEL'",
-   "account": "amberbeat.official",
-   "music": "TWICE BABY ANGEL",
-   "audio_start": "1:56 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "",
-   "caption": "TWICE's Nayeon released the music video for \"BABY ANGEL\" on JYP Entertainment's channel on Nov 20, 2026. The video had 456 views one minute after publishing.\n\n———\n\nSource: JYP Entertainment official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#TWICE #NAYEON #BABYANGEL #KPOP #KpopNews",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1120_TWICE_MV_BABY-ANGEL-def2415e569fe62d/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1120_TWICE_MV_BABY-ANGEL-def2415e569fe62d/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1120_TWICE_MV_BABY-ANGEL-def2415e569fe62d/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1120_TWICE_MV_BABY-ANGEL-def2415e569fe62d/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1120_TWICE_MV_BABY-ANGEL-def2415e569fe62d/meta.json"
   }
  }
 }
