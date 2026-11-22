@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-22T10:01:38+09:00",
- "count": 15,
+ "updated_at": "2026-11-22T10:11:39+09:00",
+ "count": 16,
  "items": [
   {
    "name": "01 🇪🇸 밈",
@@ -21,7 +21,25 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1113_-_cat-like-idols-es-6d762a3a044da3b1/meta.json"
   },
   {
-   "name": "02 🇺🇸 밈",
+   "name": "02 🇮🇩 밈",
+   "key": "1113_밈_cat-like-idols-m-id@id",
+   "job": "1113_밈_cat-like-idols-m-id",
+   "lang": "id",
+   "flag": "🇮🇩",
+   "title": "밈",
+   "account": "amberbeat.indonesia",
+   "music": "밈 5 Cat-Like Idols (M) (ID)",
+   "audio_start": "- (음악 고르지 않기 · 영상 소리 그대로 올리기)",
+   "scheduled_at": "",
+   "caption": "Idol berwajah kucing mana yang jadi pilihanmu? 🐱\n\n1. HENDERY (WayV)\n2. RICKY (ZEROBASEONE)\n3. ASAHI (TREASURE)\n4. KAI (EXO)\n5. HAN (Stray Kids)\n\nTag temanmu yang suka idol berwajah kucing 👇\n\n———\n\nKlip: panggung acara musik resmi dan MV\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Berita K-pop setiap hari, selalu dengan sumbernya.\nIkuti @amberbeat.indonesia\n\n#KPOP #IdolWajahKucing #HENDERY #RICKY #ASAHI",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1113_-_cat-like-idols-m-id-a9a92b0acef707d5/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1113_-_cat-like-idols-m-id-a9a92b0acef707d5/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1113_-_cat-like-idols-m-id-a9a92b0acef707d5/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1113_-_cat-like-idols-m-id-a9a92b0acef707d5/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1113_-_cat-like-idols-m-id-a9a92b0acef707d5/meta.json"
+  },
+  {
+   "name": "03 🇺🇸 밈",
    "key": "1109_밈_cat-like-idols-m-en@en",
    "job": "1109_밈_cat-like-idols-m-en",
    "lang": "en",
@@ -39,7 +57,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_cat-like-idols-m-en-30d5429b5e9c949d/meta.json"
   },
   {
-   "name": "03 🇮🇩 밈",
+   "name": "04 🇮🇩 밈",
    "key": "1109_밈_fox-like-idols-f-id@id",
    "job": "1109_밈_fox-like-idols-f-id",
    "lang": "id",
@@ -57,7 +75,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1109_-_fox-like-idols-f-id-d51a776c2545fd32/meta.json"
   },
   {
-   "name": "04 🇪🇸 SANTOS BRAVOS 'ORIGAMI'",
+   "name": "05 🇪🇸 SANTOS BRAVOS 'ORIGAMI'",
    "key": "1120_SANTOS-BRAVOS_MV_ORIGAMI@es",
    "job": "1120_SANTOS-BRAVOS_MV_ORIGAMI",
    "lang": "es",
@@ -75,7 +93,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_SANTOS-BRAVOS_MV_ORIGAMI-cbb9771070b00a33/meta.json"
   },
   {
-   "name": "05 🇵🇹 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri",
+   "name": "06 🇵🇹 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri",
    "key": "1120_JENNIE_release_Power-Trip@pt",
    "job": "1120_JENNIE_release_Power-Trip",
    "lang": "pt",
@@ -93,7 +111,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1120_JENNIE_release_Power-Trip-68cd0c727f82c54d/meta.json"
   },
   {
-   "name": "06 🇮🇩 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri",
+   "name": "07 🇮🇩 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri",
    "key": "1120_JENNIE_release_Power-Trip@id",
    "job": "1120_JENNIE_release_Power-Trip",
    "lang": "id",
@@ -111,7 +129,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1120_JENNIE_release_Power-Trip-3be6381fda23c162/meta.json"
   },
   {
-   "name": "07 🇪🇸 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri",
+   "name": "08 🇪🇸 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri",
    "key": "1120_JENNIE_release_Power-Trip@es",
    "job": "1120_JENNIE_release_Power-Trip",
    "lang": "es",
@@ -129,7 +147,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_JENNIE_release_Power-Trip-0fcb06fbc866a703/meta.json"
   },
   {
-   "name": "08 🇹🇭 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri",
+   "name": "09 🇹🇭 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri",
    "key": "1120_JENNIE_release_Power-Trip@th",
    "job": "1120_JENNIE_release_Power-Trip",
    "lang": "th",
@@ -147,7 +165,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1120_JENNIE_release_Power-Trip-2f8118f4e09fa9d0/meta.json"
   },
   {
-   "name": "09 🇯🇵 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri",
+   "name": "10 🇯🇵 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri",
    "key": "1120_JENNIE_release_Power-Trip@ja",
    "job": "1120_JENNIE_release_Power-Trip",
    "lang": "ja",
@@ -165,7 +183,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1120_JENNIE_release_Power-Trip-7f67110cdf69b944/meta.json"
   },
   {
-   "name": "10 🇺🇸 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri",
+   "name": "11 🇺🇸 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri",
    "key": "1120_JENNIE_release_Power-Trip@en",
    "job": "1120_JENNIE_release_Power-Trip",
    "lang": "en",
@@ -183,7 +201,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1120_JENNIE_release_Power-Trip-930bfd4af06e84a7/meta.json"
   },
   {
-   "name": "11 🇺🇸 TWICE 'BABY ANGEL'",
+   "name": "12 🇺🇸 TWICE 'BABY ANGEL'",
    "key": "1120_TWICE_MV_BABY-ANGEL",
    "job": "1120_TWICE_MV_BABY-ANGEL",
    "lang": "",
@@ -201,7 +219,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1120_TWICE_MV_BABY-ANGEL-def2415e569fe62d/meta.json"
   },
   {
-   "name": "12 🇵🇹 JISOO 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3'",
+   "name": "13 🇵🇹 JISOO 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3'",
    "key": "1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3@pt",
    "job": "1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3",
    "lang": "pt",
@@ -219,7 +237,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3-fd5e1015447d7f12/meta.json"
   },
   {
-   "name": "13 🇪🇸 JISOO 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3'",
+   "name": "14 🇪🇸 JISOO 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3'",
    "key": "1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3@es",
    "job": "1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3",
    "lang": "es",
@@ -237,7 +255,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3-353b40a35f174fce/meta.json"
   },
   {
-   "name": "14 🇺🇸 JISOO 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3'",
+   "name": "15 🇺🇸 JISOO 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3'",
    "key": "1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3",
    "job": "1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3",
    "lang": "",
@@ -255,7 +273,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3-96351331b03d8f16/meta.json"
   },
   {
-   "name": "15 🇪🇸 TWICE 'BABY ANGEL'",
+   "name": "16 🇪🇸 TWICE 'BABY ANGEL'",
    "key": "1120_TWICE_MV_BABY-ANGEL@es",
    "job": "1120_TWICE_MV_BABY-ANGEL",
    "lang": "es",
@@ -292,8 +310,26 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1113_-_cat-like-idols-es-6d762a3a044da3b1/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1113_-_cat-like-idols-es-6d762a3a044da3b1/meta.json"
   },
-  "02 🇺🇸 밈": {
-   "name": "02 🇺🇸 밈",
+  "02 🇮🇩 밈": {
+   "name": "02 🇮🇩 밈",
+   "key": "1113_밈_cat-like-idols-m-id@id",
+   "job": "1113_밈_cat-like-idols-m-id",
+   "lang": "id",
+   "flag": "🇮🇩",
+   "title": "밈",
+   "account": "amberbeat.indonesia",
+   "music": "밈 5 Cat-Like Idols (M) (ID)",
+   "audio_start": "- (음악 고르지 않기 · 영상 소리 그대로 올리기)",
+   "scheduled_at": "",
+   "caption": "Idol berwajah kucing mana yang jadi pilihanmu? 🐱\n\n1. HENDERY (WayV)\n2. RICKY (ZEROBASEONE)\n3. ASAHI (TREASURE)\n4. KAI (EXO)\n5. HAN (Stray Kids)\n\nTag temanmu yang suka idol berwajah kucing 👇\n\n———\n\nKlip: panggung acara musik resmi dan MV\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Berita K-pop setiap hari, selalu dengan sumbernya.\nIkuti @amberbeat.indonesia\n\n#KPOP #IdolWajahKucing #HENDERY #RICKY #ASAHI",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1113_-_cat-like-idols-m-id-a9a92b0acef707d5/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1113_-_cat-like-idols-m-id-a9a92b0acef707d5/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1113_-_cat-like-idols-m-id-a9a92b0acef707d5/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1113_-_cat-like-idols-m-id-a9a92b0acef707d5/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1113_-_cat-like-idols-m-id-a9a92b0acef707d5/meta.json"
+  },
+  "03 🇺🇸 밈": {
+   "name": "03 🇺🇸 밈",
    "key": "1109_밈_cat-like-idols-m-en@en",
    "job": "1109_밈_cat-like-idols-m-en",
    "lang": "en",
@@ -310,8 +346,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_cat-like-idols-m-en-30d5429b5e9c949d/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_cat-like-idols-m-en-30d5429b5e9c949d/meta.json"
   },
-  "03 🇮🇩 밈": {
-   "name": "03 🇮🇩 밈",
+  "04 🇮🇩 밈": {
+   "name": "04 🇮🇩 밈",
    "key": "1109_밈_fox-like-idols-f-id@id",
    "job": "1109_밈_fox-like-idols-f-id",
    "lang": "id",
@@ -328,8 +364,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1109_-_fox-like-idols-f-id-d51a776c2545fd32/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1109_-_fox-like-idols-f-id-d51a776c2545fd32/meta.json"
   },
-  "04 🇪🇸 SANTOS BRAVOS 'ORIGAMI'": {
-   "name": "04 🇪🇸 SANTOS BRAVOS 'ORIGAMI'",
+  "05 🇪🇸 SANTOS BRAVOS 'ORIGAMI'": {
+   "name": "05 🇪🇸 SANTOS BRAVOS 'ORIGAMI'",
    "key": "1120_SANTOS-BRAVOS_MV_ORIGAMI@es",
    "job": "1120_SANTOS-BRAVOS_MV_ORIGAMI",
    "lang": "es",
@@ -346,8 +382,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_SANTOS-BRAVOS_MV_ORIGAMI-cbb9771070b00a33/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_SANTOS-BRAVOS_MV_ORIGAMI-cbb9771070b00a33/meta.json"
   },
-  "05 🇵🇹 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri": {
-   "name": "05 🇵🇹 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri",
+  "06 🇵🇹 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri": {
+   "name": "06 🇵🇹 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri",
    "key": "1120_JENNIE_release_Power-Trip@pt",
    "job": "1120_JENNIE_release_Power-Trip",
    "lang": "pt",
@@ -364,8 +400,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1120_JENNIE_release_Power-Trip-68cd0c727f82c54d/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1120_JENNIE_release_Power-Trip-68cd0c727f82c54d/meta.json"
   },
-  "06 🇮🇩 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri": {
-   "name": "06 🇮🇩 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri",
+  "07 🇮🇩 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri": {
+   "name": "07 🇮🇩 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri",
    "key": "1120_JENNIE_release_Power-Trip@id",
    "job": "1120_JENNIE_release_Power-Trip",
    "lang": "id",
@@ -382,8 +418,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1120_JENNIE_release_Power-Trip-3be6381fda23c162/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1120_JENNIE_release_Power-Trip-3be6381fda23c162/meta.json"
   },
-  "07 🇪🇸 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri": {
-   "name": "07 🇪🇸 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri",
+  "08 🇪🇸 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri": {
+   "name": "08 🇪🇸 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri",
    "key": "1120_JENNIE_release_Power-Trip@es",
    "job": "1120_JENNIE_release_Power-Trip",
    "lang": "es",
@@ -400,8 +436,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_JENNIE_release_Power-Trip-0fcb06fbc866a703/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_JENNIE_release_Power-Trip-0fcb06fbc866a703/meta.json"
   },
-  "08 🇹🇭 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri": {
-   "name": "08 🇹🇭 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri",
+  "09 🇹🇭 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri": {
+   "name": "09 🇹🇭 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri",
    "key": "1120_JENNIE_release_Power-Trip@th",
    "job": "1120_JENNIE_release_Power-Trip",
    "lang": "th",
@@ -418,8 +454,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1120_JENNIE_release_Power-Trip-2f8118f4e09fa9d0/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1120_JENNIE_release_Power-Trip-2f8118f4e09fa9d0/meta.json"
   },
-  "09 🇯🇵 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri": {
-   "name": "09 🇯🇵 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri",
+  "10 🇯🇵 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri": {
+   "name": "10 🇯🇵 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri",
    "key": "1120_JENNIE_release_Power-Trip@ja",
    "job": "1120_JENNIE_release_Power-Trip",
    "lang": "ja",
@@ -436,8 +472,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1120_JENNIE_release_Power-Trip-7f67110cdf69b944/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1120_JENNIE_release_Power-Trip-7f67110cdf69b944/meta.json"
   },
-  "10 🇺🇸 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri": {
-   "name": "10 🇺🇸 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri",
+  "11 🇺🇸 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri": {
+   "name": "11 🇺🇸 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri",
    "key": "1120_JENNIE_release_Power-Trip@en",
    "job": "1120_JENNIE_release_Power-Trip",
    "lang": "en",
@@ -454,8 +490,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1120_JENNIE_release_Power-Trip-930bfd4af06e84a7/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1120_JENNIE_release_Power-Trip-930bfd4af06e84a7/meta.json"
   },
-  "11 🇺🇸 TWICE 'BABY ANGEL'": {
-   "name": "11 🇺🇸 TWICE 'BABY ANGEL'",
+  "12 🇺🇸 TWICE 'BABY ANGEL'": {
+   "name": "12 🇺🇸 TWICE 'BABY ANGEL'",
    "key": "1120_TWICE_MV_BABY-ANGEL",
    "job": "1120_TWICE_MV_BABY-ANGEL",
    "lang": "",
@@ -472,8 +508,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1120_TWICE_MV_BABY-ANGEL-def2415e569fe62d/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1120_TWICE_MV_BABY-ANGEL-def2415e569fe62d/meta.json"
   },
-  "12 🇵🇹 JISOO 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3'": {
-   "name": "12 🇵🇹 JISOO 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3'",
+  "13 🇵🇹 JISOO 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3'": {
+   "name": "13 🇵🇹 JISOO 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3'",
    "key": "1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3@pt",
    "job": "1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3",
    "lang": "pt",
@@ -490,8 +526,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3-fd5e1015447d7f12/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3-fd5e1015447d7f12/meta.json"
   },
-  "13 🇪🇸 JISOO 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3'": {
-   "name": "13 🇪🇸 JISOO 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3'",
+  "14 🇪🇸 JISOO 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3'": {
+   "name": "14 🇪🇸 JISOO 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3'",
    "key": "1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3@es",
    "job": "1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3",
    "lang": "es",
@@ -508,8 +544,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3-353b40a35f174fce/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3-353b40a35f174fce/meta.json"
   },
-  "14 🇺🇸 JISOO 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3'": {
-   "name": "14 🇺🇸 JISOO 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3'",
+  "15 🇺🇸 JISOO 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3'": {
+   "name": "15 🇺🇸 JISOO 'SUN SHOWERS from THE ANGRY BIRDS MOVIE 3'",
    "key": "1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3",
    "job": "1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3",
    "lang": "",
@@ -526,8 +562,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3-96351331b03d8f16/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/base/1120_JISOO_MV_SUN-SHOWERS-from-THE-ANGRY-BIRDS-MOVIE-3-96351331b03d8f16/meta.json"
   },
-  "15 🇪🇸 TWICE 'BABY ANGEL'": {
-   "name": "15 🇪🇸 TWICE 'BABY ANGEL'",
+  "16 🇪🇸 TWICE 'BABY ANGEL'": {
+   "name": "16 🇪🇸 TWICE 'BABY ANGEL'",
    "key": "1120_TWICE_MV_BABY-ANGEL@es",
    "job": "1120_TWICE_MV_BABY-ANGEL",
    "lang": "es",
