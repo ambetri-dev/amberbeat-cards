@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-22T16:27:52+09:00",
- "count": 11,
+ "updated_at": "2026-11-22T19:13:19+09:00",
+ "count": 10,
  "items": [
   {
    "name": "01 🇪🇸 밈",
@@ -181,24 +181,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1120_JENNIE_release_Power-Trip-7f67110cdf69b944/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1120_JENNIE_release_Power-Trip-7f67110cdf69b944/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1120_JENNIE_release_Power-Trip-7f67110cdf69b944/meta.json"
-  },
-  {
-   "name": "11 🇺🇸 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri",
-   "key": "1120_JENNIE_release_Power-Trip@en",
-   "job": "1120_JENNIE_release_Power-Trip",
-   "lang": "en",
-   "flag": "🇺🇸",
-   "title": "JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트...신곡 ‘Power Tri",
-   "account": "amberbeat.official",
-   "music": "JENNIE FALLEN ANGEL",
-   "audio_start": "5:01 Wherever we land is where we turn into a home (추정)",
-   "scheduled_at": "",
-   "caption": "JENNIE's new track 'Power Trip' is featured on 'Grand Theft Auto VI: The Album.' The album was made by Rockstar Games and Atlantic Records.\n\nJENNIE is the only Korean artist among the 34 tracks on the album. The track was released the same week as JENNIE's first Grammy nomination.\n\nJENNIE debuted as a solo artist in Nov 2018.\n\n———\n\nSource: Martin Cid Magazine\n\n#KPOP #JENNIE #PowerTrip #KpopNews #NowPlaying",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1120_JENNIE_release_Power-Trip-930bfd4af06e84a7/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1120_JENNIE_release_Power-Trip-930bfd4af06e84a7/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1120_JENNIE_release_Power-Trip-930bfd4af06e84a7/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1120_JENNIE_release_Power-Trip-930bfd4af06e84a7/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1120_JENNIE_release_Power-Trip-930bfd4af06e84a7/meta.json"
   }
  ],
  "by_name": {
@@ -381,24 +363,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1120_JENNIE_release_Power-Trip-7f67110cdf69b944/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1120_JENNIE_release_Power-Trip-7f67110cdf69b944/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1120_JENNIE_release_Power-Trip-7f67110cdf69b944/meta.json"
-  },
-  "11 🇺🇸 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri": {
-   "name": "11 🇺🇸 JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트․․․신곡 ‘Power Tri",
-   "key": "1120_JENNIE_release_Power-Trip@en",
-   "job": "1120_JENNIE_release_Power-Trip",
-   "lang": "en",
-   "flag": "🇺🇸",
-   "title": "JENNIE — 블랙핑크 제니, GTA6 앨범 34곡 중 유일한 한국 아티스트...신곡 ‘Power Tri",
-   "account": "amberbeat.official",
-   "music": "JENNIE FALLEN ANGEL",
-   "audio_start": "5:01 Wherever we land is where we turn into a home (추정)",
-   "scheduled_at": "",
-   "caption": "JENNIE's new track 'Power Trip' is featured on 'Grand Theft Auto VI: The Album.' The album was made by Rockstar Games and Atlantic Records.\n\nJENNIE is the only Korean artist among the 34 tracks on the album. The track was released the same week as JENNIE's first Grammy nomination.\n\nJENNIE debuted as a solo artist in Nov 2018.\n\n———\n\nSource: Martin Cid Magazine\n\n#KPOP #JENNIE #PowerTrip #KpopNews #NowPlaying",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1120_JENNIE_release_Power-Trip-930bfd4af06e84a7/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1120_JENNIE_release_Power-Trip-930bfd4af06e84a7/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1120_JENNIE_release_Power-Trip-930bfd4af06e84a7/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1120_JENNIE_release_Power-Trip-930bfd4af06e84a7/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1120_JENNIE_release_Power-Trip-930bfd4af06e84a7/meta.json"
   }
  }
 }
