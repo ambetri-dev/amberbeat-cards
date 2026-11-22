@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-22T20:42:07+09:00",
- "count": 5,
+ "updated_at": "2026-11-22T23:51:23+09:00",
+ "count": 4,
  "items": [
   {
    "name": "01 🇪🇸 밈",
@@ -73,24 +73,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1109_-_fox-like-idols-f-id-d51a776c2545fd32/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1109_-_fox-like-idols-f-id-d51a776c2545fd32/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1109_-_fox-like-idols-f-id-d51a776c2545fd32/meta.json"
-  },
-  {
-   "name": "05 🇪🇸 SANTOS BRAVOS 'ORIGAMI'",
-   "key": "1120_SANTOS-BRAVOS_MV_ORIGAMI@es",
-   "job": "1120_SANTOS-BRAVOS_MV_ORIGAMI",
-   "lang": "es",
-   "flag": "🇪🇸",
-   "title": "SANTOS BRAVOS 'ORIGAMI'",
-   "account": "amberbeat.spain",
-   "music": "SANTOS BRAVOS ORIGAMI",
-   "audio_start": "2:09 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "",
-   "caption": "SANTOS BRAVOS ha compartido el videoclip oficial de 'ORIGAMI' en YouTube el 20 de noviembre de 2026.\n\n———\n\nSource: HYBE LABELS official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Noticias de K-pop cada día, siempre con la fuente.\nSíguenos en @amberbeat.spain\n\n#KPOP #NoticiasKpop #KpopEnEspañol",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_SANTOS-BRAVOS_MV_ORIGAMI-cbb9771070b00a33/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_SANTOS-BRAVOS_MV_ORIGAMI-cbb9771070b00a33/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_SANTOS-BRAVOS_MV_ORIGAMI-cbb9771070b00a33/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_SANTOS-BRAVOS_MV_ORIGAMI-cbb9771070b00a33/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_SANTOS-BRAVOS_MV_ORIGAMI-cbb9771070b00a33/meta.json"
   }
  ],
  "by_name": {
@@ -165,24 +147,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1109_-_fox-like-idols-f-id-d51a776c2545fd32/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1109_-_fox-like-idols-f-id-d51a776c2545fd32/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1109_-_fox-like-idols-f-id-d51a776c2545fd32/meta.json"
-  },
-  "05 🇪🇸 SANTOS BRAVOS 'ORIGAMI'": {
-   "name": "05 🇪🇸 SANTOS BRAVOS 'ORIGAMI'",
-   "key": "1120_SANTOS-BRAVOS_MV_ORIGAMI@es",
-   "job": "1120_SANTOS-BRAVOS_MV_ORIGAMI",
-   "lang": "es",
-   "flag": "🇪🇸",
-   "title": "SANTOS BRAVOS 'ORIGAMI'",
-   "account": "amberbeat.spain",
-   "music": "SANTOS BRAVOS ORIGAMI",
-   "audio_start": "2:09 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "",
-   "caption": "SANTOS BRAVOS ha compartido el videoclip oficial de 'ORIGAMI' en YouTube el 20 de noviembre de 2026.\n\n———\n\nSource: HYBE LABELS official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Noticias de K-pop cada día, siempre con la fuente.\nSíguenos en @amberbeat.spain\n\n#KPOP #NoticiasKpop #KpopEnEspañol",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_SANTOS-BRAVOS_MV_ORIGAMI-cbb9771070b00a33/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_SANTOS-BRAVOS_MV_ORIGAMI-cbb9771070b00a33/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_SANTOS-BRAVOS_MV_ORIGAMI-cbb9771070b00a33/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_SANTOS-BRAVOS_MV_ORIGAMI-cbb9771070b00a33/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1120_SANTOS-BRAVOS_MV_ORIGAMI-cbb9771070b00a33/meta.json"
   }
  }
 }
