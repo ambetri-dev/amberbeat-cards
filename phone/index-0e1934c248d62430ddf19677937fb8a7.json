@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23T15:24:54+09:00",
+ "updated_at": "2026-11-23T15:24:58+09:00",
  "count": 10,
  "items": [
   {
@@ -21,12 +21,12 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1123_CORTIS_OTHER_REDRED-TNT-Mnet-261121-ae71d91c19a0cfe7/meta.json"
   },
   {
-   "name": "02 🇹🇭 CORTIS 'REDRED' MAMA Stage",
+   "name": "02 🇹🇭 CORTIS 'REDRED + TNT | Mnet 261121 방송'",
    "key": "1123_CORTIS_OTHER_REDRED-TNT-Mnet-261121-방송@th",
    "job": "1123_CORTIS_OTHER_REDRED-TNT-Mnet-261121-방송",
    "lang": "th",
    "flag": "🇹🇭",
-   "title": "CORTIS 'REDRED' MAMA Stage",
+   "title": "CORTIS 'REDRED + TNT | Mnet 261121 방송'",
    "account": "amberbeat.thailand",
    "music": "CORTIS REDRED + TNT | Mnet 261121 방송",
    "audio_start": "3:50 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
@@ -202,13 +202,13 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1123_CORTIS_OTHER_REDRED-TNT-Mnet-261121-ae71d91c19a0cfe7/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1123_CORTIS_OTHER_REDRED-TNT-Mnet-261121-ae71d91c19a0cfe7/meta.json"
   },
-  "02 🇹🇭 CORTIS 'REDRED' MAMA Stage": {
-   "name": "02 🇹🇭 CORTIS 'REDRED' MAMA Stage",
+  "02 🇹🇭 CORTIS 'REDRED + TNT | Mnet 261121 방송'": {
+   "name": "02 🇹🇭 CORTIS 'REDRED + TNT | Mnet 261121 방송'",
    "key": "1123_CORTIS_OTHER_REDRED-TNT-Mnet-261121-방송@th",
    "job": "1123_CORTIS_OTHER_REDRED-TNT-Mnet-261121-방송",
    "lang": "th",
    "flag": "🇹🇭",
-   "title": "CORTIS 'REDRED' MAMA Stage",
+   "title": "CORTIS 'REDRED + TNT | Mnet 261121 방송'",
    "account": "amberbeat.thailand",
    "music": "CORTIS REDRED + TNT | Mnet 261121 방송",
    "audio_start": "3:50 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
