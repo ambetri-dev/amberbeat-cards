@@ -1,9 +1,27 @@
 {
- "updated_at": "2026-11-23T10:07:17+09:00",
- "count": 7,
+ "updated_at": "2026-11-23T10:09:29+09:00",
+ "count": 8,
  "items": [
   {
-   "name": "01 🇮🇩 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
+   "name": "01 🇵🇹 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
+   "key": "1122_BTS_award_26-MAMA@pt",
+   "job": "1122_BTS_award_26-MAMA",
+   "lang": "pt",
+   "flag": "🇵🇹",
+   "title": "BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕...통산 대상 24개",
+   "account": "amberbeat.portugal",
+   "music": "BTS Yet To Come",
+   "audio_start": "0:20 그날을 향해, 숨이 벅차게 (추정)",
+   "scheduled_at": "",
+   "caption": "A faixa de j-hope em colaboração com as LE SSERAFIM, 'SPAGHETTI (feat. j-hope of BTS)', venceu nas categorias Best Collaboration e Best Song Top 10.\n\nOs BTS conquistaram cinco troféus nos 2026 MAMA AWARDS, incluindo o de Artista do Ano e o de Álbum do Ano. O grupo venceu ainda nas categorias Best Song Top 10, Best Male Group e Fans' Choice.\nEsta vitória elevou para 24 o total de Daesang (Grande Prémio) dos BTS na MAMA. Os BTS não puderam estar presentes na cerimónia devido ao calendário da sua digressão mundial e enviaram uma mensagem em vídeo.\n\n———\n\nSource: Slist\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Notícias de K-pop todos os dias, sempre com a fonte.\nSegue-nos em @amberbeat.portugal\n\n#KPOP #BTS #MAMAAWARDS #NoticiasKpop #KpopPortugal",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1122_BTS_award_26-MAMA-3c04d3ae01e577bb/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1122_BTS_award_26-MAMA-3c04d3ae01e577bb/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1122_BTS_award_26-MAMA-3c04d3ae01e577bb/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1122_BTS_award_26-MAMA-3c04d3ae01e577bb/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1122_BTS_award_26-MAMA-3c04d3ae01e577bb/meta.json"
+  },
+  {
+   "name": "02 🇮🇩 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
    "key": "1122_BTS_award_26-MAMA@id",
    "job": "1122_BTS_award_26-MAMA",
    "lang": "id",
@@ -21,7 +39,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1122_BTS_award_26-MAMA-06a8f7465f860570/meta.json"
   },
   {
-   "name": "02 🇹🇭 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
+   "name": "03 🇹🇭 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
    "key": "1122_BTS_award_26-MAMA@th",
    "job": "1122_BTS_award_26-MAMA",
    "lang": "th",
@@ -39,7 +57,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1122_BTS_award_26-MAMA-95c7b528a9b60ac4/meta.json"
   },
   {
-   "name": "03 🇺🇸 밈",
+   "name": "04 🇺🇸 밈",
    "key": "1109_밈_black-hair-idols-m-en@en",
    "job": "1109_밈_black-hair-idols-m-en",
    "lang": "en",
@@ -57,7 +75,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_black-hair-idols-m-en-4b8a097493af31cd/meta.json"
   },
   {
-   "name": "04 🇺🇸 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
+   "name": "05 🇺🇸 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
    "key": "1122_BTS_award_26-MAMA@en",
    "job": "1122_BTS_award_26-MAMA",
    "lang": "en",
@@ -75,7 +93,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1122_BTS_award_26-MAMA-6f8bfeed469344dc/meta.json"
   },
   {
-   "name": "05 🇪🇸 밈",
+   "name": "06 🇪🇸 밈",
    "key": "1113_밈_cat-like-idols-es@es",
    "job": "1113_밈_cat-like-idols-es",
    "lang": "es",
@@ -93,7 +111,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1113_-_cat-like-idols-es-6d762a3a044da3b1/meta.json"
   },
   {
-   "name": "06 🇮🇩 밈",
+   "name": "07 🇮🇩 밈",
    "key": "1113_밈_cat-like-idols-m-id@id",
    "job": "1113_밈_cat-like-idols-m-id",
    "lang": "id",
@@ -111,7 +129,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1113_-_cat-like-idols-m-id-a9a92b0acef707d5/meta.json"
   },
   {
-   "name": "07 🇺🇸 밈",
+   "name": "08 🇺🇸 밈",
    "key": "1109_밈_cat-like-idols-m-en@en",
    "job": "1109_밈_cat-like-idols-m-en",
    "lang": "en",
@@ -130,8 +148,26 @@
   }
  ],
  "by_name": {
-  "01 🇮🇩 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개": {
-   "name": "01 🇮🇩 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
+  "01 🇵🇹 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개": {
+   "name": "01 🇵🇹 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
+   "key": "1122_BTS_award_26-MAMA@pt",
+   "job": "1122_BTS_award_26-MAMA",
+   "lang": "pt",
+   "flag": "🇵🇹",
+   "title": "BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕...통산 대상 24개",
+   "account": "amberbeat.portugal",
+   "music": "BTS Yet To Come",
+   "audio_start": "0:20 그날을 향해, 숨이 벅차게 (추정)",
+   "scheduled_at": "",
+   "caption": "A faixa de j-hope em colaboração com as LE SSERAFIM, 'SPAGHETTI (feat. j-hope of BTS)', venceu nas categorias Best Collaboration e Best Song Top 10.\n\nOs BTS conquistaram cinco troféus nos 2026 MAMA AWARDS, incluindo o de Artista do Ano e o de Álbum do Ano. O grupo venceu ainda nas categorias Best Song Top 10, Best Male Group e Fans' Choice.\nEsta vitória elevou para 24 o total de Daesang (Grande Prémio) dos BTS na MAMA. Os BTS não puderam estar presentes na cerimónia devido ao calendário da sua digressão mundial e enviaram uma mensagem em vídeo.\n\n———\n\nSource: Slist\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Notícias de K-pop todos os dias, sempre com a fonte.\nSegue-nos em @amberbeat.portugal\n\n#KPOP #BTS #MAMAAWARDS #NoticiasKpop #KpopPortugal",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1122_BTS_award_26-MAMA-3c04d3ae01e577bb/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1122_BTS_award_26-MAMA-3c04d3ae01e577bb/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1122_BTS_award_26-MAMA-3c04d3ae01e577bb/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1122_BTS_award_26-MAMA-3c04d3ae01e577bb/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1122_BTS_award_26-MAMA-3c04d3ae01e577bb/meta.json"
+  },
+  "02 🇮🇩 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개": {
+   "name": "02 🇮🇩 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
    "key": "1122_BTS_award_26-MAMA@id",
    "job": "1122_BTS_award_26-MAMA",
    "lang": "id",
@@ -148,8 +184,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1122_BTS_award_26-MAMA-06a8f7465f860570/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1122_BTS_award_26-MAMA-06a8f7465f860570/meta.json"
   },
-  "02 🇹🇭 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개": {
-   "name": "02 🇹🇭 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
+  "03 🇹🇭 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개": {
+   "name": "03 🇹🇭 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
    "key": "1122_BTS_award_26-MAMA@th",
    "job": "1122_BTS_award_26-MAMA",
    "lang": "th",
@@ -166,8 +202,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1122_BTS_award_26-MAMA-95c7b528a9b60ac4/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1122_BTS_award_26-MAMA-95c7b528a9b60ac4/meta.json"
   },
-  "03 🇺🇸 밈": {
-   "name": "03 🇺🇸 밈",
+  "04 🇺🇸 밈": {
+   "name": "04 🇺🇸 밈",
    "key": "1109_밈_black-hair-idols-m-en@en",
    "job": "1109_밈_black-hair-idols-m-en",
    "lang": "en",
@@ -184,8 +220,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_black-hair-idols-m-en-4b8a097493af31cd/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_black-hair-idols-m-en-4b8a097493af31cd/meta.json"
   },
-  "04 🇺🇸 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개": {
-   "name": "04 🇺🇸 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
+  "05 🇺🇸 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개": {
+   "name": "05 🇺🇸 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
    "key": "1122_BTS_award_26-MAMA@en",
    "job": "1122_BTS_award_26-MAMA",
    "lang": "en",
@@ -202,8 +238,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1122_BTS_award_26-MAMA-6f8bfeed469344dc/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1122_BTS_award_26-MAMA-6f8bfeed469344dc/meta.json"
   },
-  "05 🇪🇸 밈": {
-   "name": "05 🇪🇸 밈",
+  "06 🇪🇸 밈": {
+   "name": "06 🇪🇸 밈",
    "key": "1113_밈_cat-like-idols-es@es",
    "job": "1113_밈_cat-like-idols-es",
    "lang": "es",
@@ -220,8 +256,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1113_-_cat-like-idols-es-6d762a3a044da3b1/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1113_-_cat-like-idols-es-6d762a3a044da3b1/meta.json"
   },
-  "06 🇮🇩 밈": {
-   "name": "06 🇮🇩 밈",
+  "07 🇮🇩 밈": {
+   "name": "07 🇮🇩 밈",
    "key": "1113_밈_cat-like-idols-m-id@id",
    "job": "1113_밈_cat-like-idols-m-id",
    "lang": "id",
@@ -238,8 +274,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1113_-_cat-like-idols-m-id-a9a92b0acef707d5/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1113_-_cat-like-idols-m-id-a9a92b0acef707d5/meta.json"
   },
-  "07 🇺🇸 밈": {
-   "name": "07 🇺🇸 밈",
+  "08 🇺🇸 밈": {
+   "name": "08 🇺🇸 밈",
    "key": "1109_밈_cat-like-idols-m-en@en",
    "job": "1109_밈_cat-like-idols-m-en",
    "lang": "en",
