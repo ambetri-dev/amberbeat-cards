@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23T15:25:03+09:00",
+ "updated_at": "2026-11-23T15:25:08+09:00",
  "count": 10,
  "items": [
   {
@@ -39,12 +39,12 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1123_CORTIS_OTHER_REDRED-TNT-Mnet-261121-162d7b4451829ab1/meta.json"
   },
   {
-   "name": "03 🇯🇵 ILLIT 'It's Me' MAMA Stage",
+   "name": "03 🇯🇵 ILLIT 'It′s Me (MAMA Ver․) + D․B : SECRET AGENT + 체포하겠어 | Mnet 261120 방송'",
    "key": "1123_ILLIT_OTHER_It-s-Me-MAMA-Ver-D-B-SECRET-AGENT-체포하겠어@ja",
    "job": "1123_ILLIT_OTHER_It-s-Me-MAMA-Ver-D-B-SECRET-AGENT-체포하겠어",
    "lang": "ja",
    "flag": "🇯🇵",
-   "title": "ILLIT 'It's Me' MAMA Stage",
+   "title": "ILLIT 'It′s Me (MAMA Ver.) + D.B : SECRET AGENT + 체포하겠어 | Mnet 261120 방송'",
    "account": "amberbeat.japan",
    "music": "ILLIT It′s Me (MAMA Ver.) + D.B : SECRET AGENT + 체포하겠어 | Mnet 261120 방송",
    "audio_start": "0:57 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
@@ -220,13 +220,13 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1123_CORTIS_OTHER_REDRED-TNT-Mnet-261121-162d7b4451829ab1/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1123_CORTIS_OTHER_REDRED-TNT-Mnet-261121-162d7b4451829ab1/meta.json"
   },
-  "03 🇯🇵 ILLIT 'It's Me' MAMA Stage": {
-   "name": "03 🇯🇵 ILLIT 'It's Me' MAMA Stage",
+  "03 🇯🇵 ILLIT 'It′s Me (MAMA Ver․) + D․B : SECRET AGENT + 체포하겠어 | Mnet 261120 방송'": {
+   "name": "03 🇯🇵 ILLIT 'It′s Me (MAMA Ver․) + D․B : SECRET AGENT + 체포하겠어 | Mnet 261120 방송'",
    "key": "1123_ILLIT_OTHER_It-s-Me-MAMA-Ver-D-B-SECRET-AGENT-체포하겠어@ja",
    "job": "1123_ILLIT_OTHER_It-s-Me-MAMA-Ver-D-B-SECRET-AGENT-체포하겠어",
    "lang": "ja",
    "flag": "🇯🇵",
-   "title": "ILLIT 'It's Me' MAMA Stage",
+   "title": "ILLIT 'It′s Me (MAMA Ver.) + D.B : SECRET AGENT + 체포하겠어 | Mnet 261120 방송'",
    "account": "amberbeat.japan",
    "music": "ILLIT It′s Me (MAMA Ver.) + D.B : SECRET AGENT + 체포하겠어 | Mnet 261120 방송",
    "audio_start": "0:57 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
