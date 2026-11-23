@@ -1,9 +1,27 @@
 {
- "updated_at": "2026-11-22T23:51:23+09:00",
- "count": 4,
+ "updated_at": "2026-11-23T09:55:34+09:00",
+ "count": 5,
  "items": [
   {
-   "name": "01 🇪🇸 밈",
+   "name": "01 🇺🇸 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
+   "key": "1122_BTS_award_26-MAMA@en",
+   "job": "1122_BTS_award_26-MAMA",
+   "lang": "en",
+   "flag": "🇺🇸",
+   "title": "BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕...통산 대상 24개",
+   "account": "amberbeat.official",
+   "music": "BTS NORMAL",
+   "audio_start": "0:27 Run away out of sight, don't know what I want (추정)",
+   "scheduled_at": "",
+   "caption": "Their Artist of the Year win marked their 8th trophy in that category.\n\nBTS could not attend the ceremony due to their world tour schedule and sent a video message instead. j-hope's featured track with LE SSERAFIM, 'SPAGHETTI (feat. j-hope of BTS)', won Best Collaboration and Best Song Top 10. BTS won five trophies at the 2026 MAMA AWARDS, including Artist of the Year and Album of the Year.\n\nThe group also took Best Song Top 10, Best Male Group, and Fans' Choice. The win brought BTS's total Daesang (Grand Prize) count at MAMA to 24.\n\n———\n\nSource: Slist\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#BTS #MAMAAWARDS #KPOP #KpopNews",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1122_BTS_award_26-MAMA-6f8bfeed469344dc/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1122_BTS_award_26-MAMA-6f8bfeed469344dc/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1122_BTS_award_26-MAMA-6f8bfeed469344dc/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1122_BTS_award_26-MAMA-6f8bfeed469344dc/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1122_BTS_award_26-MAMA-6f8bfeed469344dc/meta.json"
+  },
+  {
+   "name": "02 🇪🇸 밈",
    "key": "1113_밈_cat-like-idols-es@es",
    "job": "1113_밈_cat-like-idols-es",
    "lang": "es",
@@ -21,7 +39,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1113_-_cat-like-idols-es-6d762a3a044da3b1/meta.json"
   },
   {
-   "name": "02 🇮🇩 밈",
+   "name": "03 🇮🇩 밈",
    "key": "1113_밈_cat-like-idols-m-id@id",
    "job": "1113_밈_cat-like-idols-m-id",
    "lang": "id",
@@ -39,7 +57,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1113_-_cat-like-idols-m-id-a9a92b0acef707d5/meta.json"
   },
   {
-   "name": "03 🇺🇸 밈",
+   "name": "04 🇺🇸 밈",
    "key": "1109_밈_cat-like-idols-m-en@en",
    "job": "1109_밈_cat-like-idols-m-en",
    "lang": "en",
@@ -57,7 +75,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_cat-like-idols-m-en-30d5429b5e9c949d/meta.json"
   },
   {
-   "name": "04 🇮🇩 밈",
+   "name": "05 🇮🇩 밈",
    "key": "1109_밈_fox-like-idols-f-id@id",
    "job": "1109_밈_fox-like-idols-f-id",
    "lang": "id",
@@ -76,8 +94,26 @@
   }
  ],
  "by_name": {
-  "01 🇪🇸 밈": {
-   "name": "01 🇪🇸 밈",
+  "01 🇺🇸 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개": {
+   "name": "01 🇺🇸 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
+   "key": "1122_BTS_award_26-MAMA@en",
+   "job": "1122_BTS_award_26-MAMA",
+   "lang": "en",
+   "flag": "🇺🇸",
+   "title": "BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕...통산 대상 24개",
+   "account": "amberbeat.official",
+   "music": "BTS NORMAL",
+   "audio_start": "0:27 Run away out of sight, don't know what I want (추정)",
+   "scheduled_at": "",
+   "caption": "Their Artist of the Year win marked their 8th trophy in that category.\n\nBTS could not attend the ceremony due to their world tour schedule and sent a video message instead. j-hope's featured track with LE SSERAFIM, 'SPAGHETTI (feat. j-hope of BTS)', won Best Collaboration and Best Song Top 10. BTS won five trophies at the 2026 MAMA AWARDS, including Artist of the Year and Album of the Year.\n\nThe group also took Best Song Top 10, Best Male Group, and Fans' Choice. The win brought BTS's total Daesang (Grand Prize) count at MAMA to 24.\n\n———\n\nSource: Slist\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#BTS #MAMAAWARDS #KPOP #KpopNews",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1122_BTS_award_26-MAMA-6f8bfeed469344dc/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1122_BTS_award_26-MAMA-6f8bfeed469344dc/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1122_BTS_award_26-MAMA-6f8bfeed469344dc/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1122_BTS_award_26-MAMA-6f8bfeed469344dc/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1122_BTS_award_26-MAMA-6f8bfeed469344dc/meta.json"
+  },
+  "02 🇪🇸 밈": {
+   "name": "02 🇪🇸 밈",
    "key": "1113_밈_cat-like-idols-es@es",
    "job": "1113_밈_cat-like-idols-es",
    "lang": "es",
@@ -94,8 +130,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1113_-_cat-like-idols-es-6d762a3a044da3b1/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1113_-_cat-like-idols-es-6d762a3a044da3b1/meta.json"
   },
-  "02 🇮🇩 밈": {
-   "name": "02 🇮🇩 밈",
+  "03 🇮🇩 밈": {
+   "name": "03 🇮🇩 밈",
    "key": "1113_밈_cat-like-idols-m-id@id",
    "job": "1113_밈_cat-like-idols-m-id",
    "lang": "id",
@@ -112,8 +148,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1113_-_cat-like-idols-m-id-a9a92b0acef707d5/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1113_-_cat-like-idols-m-id-a9a92b0acef707d5/meta.json"
   },
-  "03 🇺🇸 밈": {
-   "name": "03 🇺🇸 밈",
+  "04 🇺🇸 밈": {
+   "name": "04 🇺🇸 밈",
    "key": "1109_밈_cat-like-idols-m-en@en",
    "job": "1109_밈_cat-like-idols-m-en",
    "lang": "en",
@@ -130,8 +166,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_cat-like-idols-m-en-30d5429b5e9c949d/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_cat-like-idols-m-en-30d5429b5e9c949d/meta.json"
   },
-  "04 🇮🇩 밈": {
-   "name": "04 🇮🇩 밈",
+  "05 🇮🇩 밈": {
+   "name": "05 🇮🇩 밈",
    "key": "1109_밈_fox-like-idols-f-id@id",
    "job": "1109_밈_fox-like-idols-f-id",
    "lang": "id",
