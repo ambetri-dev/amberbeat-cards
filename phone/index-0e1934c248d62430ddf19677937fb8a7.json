@@ -1,9 +1,27 @@
 {
- "updated_at": "2026-11-23T10:01:02+09:00",
- "count": 4,
+ "updated_at": "2026-11-23T10:01:06+09:00",
+ "count": 5,
  "items": [
   {
-   "name": "01 🇺🇸 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
+   "name": "01 🇺🇸 밈",
+   "key": "1109_밈_black-hair-idols-m-en@en",
+   "job": "1109_밈_black-hair-idols-m-en",
+   "lang": "en",
+   "flag": "🇺🇸",
+   "title": "밈",
+   "account": "amberbeat.official",
+   "music": "밈 5 Idols Who Look Best With Black Hair",
+   "audio_start": "- (음악 고르지 않기 · 영상 소리 그대로 올리기)",
+   "scheduled_at": "",
+   "caption": "Who wears black hair best? 🖤\n\n1. D.O. (EXO)\n2. HWANG MINHYUN\n3. JUYEON (THE BOYZ)\n4. JONGHO (ATEEZ)\n5. SUNGHOON (ENHYPEN)\n\nTag a friend who loves black-haired idols 👇\n\n———\n\nClips: official music show fancams\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#BlackHair #EXO #THEBOYZ #ATEEZ #ENHYPEN",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_black-hair-idols-m-en-4b8a097493af31cd/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_black-hair-idols-m-en-4b8a097493af31cd/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_black-hair-idols-m-en-4b8a097493af31cd/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_black-hair-idols-m-en-4b8a097493af31cd/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_black-hair-idols-m-en-4b8a097493af31cd/meta.json"
+  },
+  {
+   "name": "02 🇺🇸 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
    "key": "1122_BTS_award_26-MAMA@en",
    "job": "1122_BTS_award_26-MAMA",
    "lang": "en",
@@ -21,7 +39,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1122_BTS_award_26-MAMA-6f8bfeed469344dc/meta.json"
   },
   {
-   "name": "02 🇪🇸 밈",
+   "name": "03 🇪🇸 밈",
    "key": "1113_밈_cat-like-idols-es@es",
    "job": "1113_밈_cat-like-idols-es",
    "lang": "es",
@@ -39,7 +57,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1113_-_cat-like-idols-es-6d762a3a044da3b1/meta.json"
   },
   {
-   "name": "03 🇮🇩 밈",
+   "name": "04 🇮🇩 밈",
    "key": "1113_밈_cat-like-idols-m-id@id",
    "job": "1113_밈_cat-like-idols-m-id",
    "lang": "id",
@@ -57,7 +75,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1113_-_cat-like-idols-m-id-a9a92b0acef707d5/meta.json"
   },
   {
-   "name": "04 🇺🇸 밈",
+   "name": "05 🇺🇸 밈",
    "key": "1109_밈_cat-like-idols-m-en@en",
    "job": "1109_밈_cat-like-idols-m-en",
    "lang": "en",
@@ -76,8 +94,26 @@
   }
  ],
  "by_name": {
-  "01 🇺🇸 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개": {
-   "name": "01 🇺🇸 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
+  "01 🇺🇸 밈": {
+   "name": "01 🇺🇸 밈",
+   "key": "1109_밈_black-hair-idols-m-en@en",
+   "job": "1109_밈_black-hair-idols-m-en",
+   "lang": "en",
+   "flag": "🇺🇸",
+   "title": "밈",
+   "account": "amberbeat.official",
+   "music": "밈 5 Idols Who Look Best With Black Hair",
+   "audio_start": "- (음악 고르지 않기 · 영상 소리 그대로 올리기)",
+   "scheduled_at": "",
+   "caption": "Who wears black hair best? 🖤\n\n1. D.O. (EXO)\n2. HWANG MINHYUN\n3. JUYEON (THE BOYZ)\n4. JONGHO (ATEEZ)\n5. SUNGHOON (ENHYPEN)\n\nTag a friend who loves black-haired idols 👇\n\n———\n\nClips: official music show fancams\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#BlackHair #EXO #THEBOYZ #ATEEZ #ENHYPEN",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_black-hair-idols-m-en-4b8a097493af31cd/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_black-hair-idols-m-en-4b8a097493af31cd/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_black-hair-idols-m-en-4b8a097493af31cd/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_black-hair-idols-m-en-4b8a097493af31cd/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_black-hair-idols-m-en-4b8a097493af31cd/meta.json"
+  },
+  "02 🇺🇸 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개": {
+   "name": "02 🇺🇸 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
    "key": "1122_BTS_award_26-MAMA@en",
    "job": "1122_BTS_award_26-MAMA",
    "lang": "en",
@@ -94,8 +130,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1122_BTS_award_26-MAMA-6f8bfeed469344dc/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1122_BTS_award_26-MAMA-6f8bfeed469344dc/meta.json"
   },
-  "02 🇪🇸 밈": {
-   "name": "02 🇪🇸 밈",
+  "03 🇪🇸 밈": {
+   "name": "03 🇪🇸 밈",
    "key": "1113_밈_cat-like-idols-es@es",
    "job": "1113_밈_cat-like-idols-es",
    "lang": "es",
@@ -112,8 +148,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1113_-_cat-like-idols-es-6d762a3a044da3b1/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1113_-_cat-like-idols-es-6d762a3a044da3b1/meta.json"
   },
-  "03 🇮🇩 밈": {
-   "name": "03 🇮🇩 밈",
+  "04 🇮🇩 밈": {
+   "name": "04 🇮🇩 밈",
    "key": "1113_밈_cat-like-idols-m-id@id",
    "job": "1113_밈_cat-like-idols-m-id",
    "lang": "id",
@@ -130,8 +166,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1113_-_cat-like-idols-m-id-a9a92b0acef707d5/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1113_-_cat-like-idols-m-id-a9a92b0acef707d5/meta.json"
   },
-  "04 🇺🇸 밈": {
-   "name": "04 🇺🇸 밈",
+  "05 🇺🇸 밈": {
+   "name": "05 🇺🇸 밈",
    "key": "1109_밈_cat-like-idols-m-en@en",
    "job": "1109_밈_cat-like-idols-m-en",
    "lang": "en",
