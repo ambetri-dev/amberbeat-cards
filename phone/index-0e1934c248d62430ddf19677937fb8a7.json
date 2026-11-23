@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23T15:24:50+09:00",
+ "updated_at": "2026-11-23T15:24:54+09:00",
  "count": 10,
  "items": [
   {
@@ -57,12 +57,12 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1123_ILLIT_OTHER_It-s-Me-MAMA-Ver-D-B-SECRET-AGENT-2dd5b88a4b870b11/meta.json"
   },
   {
-   "name": "04 🇪🇸 ENHYPEN 'I Want You' MAMA Stage",
+   "name": "04 🇪🇸 ENHYPEN 'I Want You | Mnet 261120 방송'",
    "key": "1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-방송@es",
    "job": "1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-방송",
    "lang": "es",
    "flag": "🇪🇸",
-   "title": "ENHYPEN 'I Want You' MAMA Stage",
+   "title": "ENHYPEN 'I Want You | Mnet 261120 방송'",
    "account": "amberbeat.spain",
    "music": "ENHYPEN I Want You | Mnet 261120 방송",
    "audio_start": "3:10 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
@@ -238,13 +238,13 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1123_ILLIT_OTHER_It-s-Me-MAMA-Ver-D-B-SECRET-AGENT-2dd5b88a4b870b11/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1123_ILLIT_OTHER_It-s-Me-MAMA-Ver-D-B-SECRET-AGENT-2dd5b88a4b870b11/meta.json"
   },
-  "04 🇪🇸 ENHYPEN 'I Want You' MAMA Stage": {
-   "name": "04 🇪🇸 ENHYPEN 'I Want You' MAMA Stage",
+  "04 🇪🇸 ENHYPEN 'I Want You | Mnet 261120 방송'": {
+   "name": "04 🇪🇸 ENHYPEN 'I Want You | Mnet 261120 방송'",
    "key": "1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-방송@es",
    "job": "1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-방송",
    "lang": "es",
    "flag": "🇪🇸",
-   "title": "ENHYPEN 'I Want You' MAMA Stage",
+   "title": "ENHYPEN 'I Want You | Mnet 261120 방송'",
    "account": "amberbeat.spain",
    "music": "ENHYPEN I Want You | Mnet 261120 방송",
    "audio_start": "3:10 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
