@@ -1,27 +1,9 @@
 {
- "updated_at": "2026-11-23T15:26:13+09:00",
- "count": 10,
+ "updated_at": "2026-11-23T15:33:12+09:00",
+ "count": 9,
  "items": [
   {
-   "name": "01 🇮🇩 CORTIS 'REDRED'",
-   "key": "1123_CORTIS_OTHER_REDRED-TNT-Mnet-261121-방송@id",
-   "job": "1123_CORTIS_OTHER_REDRED-TNT-Mnet-261121-방송",
-   "lang": "id",
-   "flag": "🇮🇩",
-   "title": "CORTIS 'REDRED'",
-   "account": "amberbeat.indonesia",
-   "music": "CORTIS REDRED + TNT | Mnet 261121 방송",
-   "audio_start": "3:50 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "",
-   "caption": "CORTIS membawakan ‘REDRED’ dan ‘TNT’ di panggung 2026 MAMA AWARDS yang ditayangkan Mnet pada 21 November. Di acara yang sama, mereka juga meraih penghargaan Fans' Choice.\n\n———\n\nSource: Mnet K-POP official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Berita K-pop setiap hari, selalu dengan sumbernya.\nIkuti @amberbeat.indonesia\n\n#KPOP #CORTIS #MAMA2026",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1123_CORTIS_OTHER_REDRED-TNT-Mnet-261121-ae71d91c19a0cfe7/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1123_CORTIS_OTHER_REDRED-TNT-Mnet-261121-ae71d91c19a0cfe7/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1123_CORTIS_OTHER_REDRED-TNT-Mnet-261121-ae71d91c19a0cfe7/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1123_CORTIS_OTHER_REDRED-TNT-Mnet-261121-ae71d91c19a0cfe7/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1123_CORTIS_OTHER_REDRED-TNT-Mnet-261121-ae71d91c19a0cfe7/meta.json"
-  },
-  {
-   "name": "02 🇹🇭 CORTIS 'REDRED'",
+   "name": "01 🇹🇭 CORTIS 'REDRED'",
    "key": "1123_CORTIS_OTHER_REDRED-TNT-Mnet-261121-방송@th",
    "job": "1123_CORTIS_OTHER_REDRED-TNT-Mnet-261121-방송",
    "lang": "th",
@@ -39,7 +21,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1123_CORTIS_OTHER_REDRED-TNT-Mnet-261121-162d7b4451829ab1/meta.json"
   },
   {
-   "name": "03 🇯🇵 ILLIT 'It's Me'",
+   "name": "02 🇯🇵 ILLIT 'It's Me'",
    "key": "1123_ILLIT_OTHER_It-s-Me-MAMA-Ver-D-B-SECRET-AGENT-체포하겠어@ja",
    "job": "1123_ILLIT_OTHER_It-s-Me-MAMA-Ver-D-B-SECRET-AGENT-체포하겠어",
    "lang": "ja",
@@ -57,7 +39,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1123_ILLIT_OTHER_It-s-Me-MAMA-Ver-D-B-SECRET-AGENT-2dd5b88a4b870b11/meta.json"
   },
   {
-   "name": "04 🇪🇸 ENHYPEN 'I Want You'",
+   "name": "03 🇪🇸 ENHYPEN 'I Want You'",
    "key": "1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-방송@es",
    "job": "1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-방송",
    "lang": "es",
@@ -75,7 +57,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-47b63f34e26bc2fd/meta.json"
   },
   {
-   "name": "05 🇵🇹 ENHYPEN 'I Want You'",
+   "name": "04 🇵🇹 ENHYPEN 'I Want You'",
    "key": "1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-방송@pt",
    "job": "1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-방송",
    "lang": "pt",
@@ -93,7 +75,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-9995a6a16c4e7163/meta.json"
   },
   {
-   "name": "06 🇮🇩 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
+   "name": "05 🇮🇩 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
    "key": "1122_BTS_award_26-MAMA@id",
    "job": "1122_BTS_award_26-MAMA",
    "lang": "id",
@@ -111,7 +93,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1122_BTS_award_26-MAMA-06a8f7465f860570/meta.json"
   },
   {
-   "name": "07 🇹🇭 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
+   "name": "06 🇹🇭 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
    "key": "1122_BTS_award_26-MAMA@th",
    "job": "1122_BTS_award_26-MAMA",
    "lang": "th",
@@ -129,7 +111,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1122_BTS_award_26-MAMA-b21ec00b5a00d859/meta.json"
   },
   {
-   "name": "08 🇺🇸 밈",
+   "name": "07 🇺🇸 밈",
    "key": "1109_밈_black-hair-idols-m-en@en",
    "job": "1109_밈_black-hair-idols-m-en",
    "lang": "en",
@@ -147,7 +129,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_black-hair-idols-m-en-4b8a097493af31cd/meta.json"
   },
   {
-   "name": "09 🇺🇸 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
+   "name": "08 🇺🇸 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
    "key": "1122_BTS_award_26-MAMA@en",
    "job": "1122_BTS_award_26-MAMA",
    "lang": "en",
@@ -165,7 +147,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1122_BTS_award_26-MAMA-70fe303e710145de/meta.json"
   },
   {
-   "name": "10 🇮🇩 밈",
+   "name": "09 🇮🇩 밈",
    "key": "1113_밈_cat-like-idols-m-id@id",
    "job": "1113_밈_cat-like-idols-m-id",
    "lang": "id",
@@ -184,26 +166,8 @@
   }
  ],
  "by_name": {
-  "01 🇮🇩 CORTIS 'REDRED'": {
-   "name": "01 🇮🇩 CORTIS 'REDRED'",
-   "key": "1123_CORTIS_OTHER_REDRED-TNT-Mnet-261121-방송@id",
-   "job": "1123_CORTIS_OTHER_REDRED-TNT-Mnet-261121-방송",
-   "lang": "id",
-   "flag": "🇮🇩",
-   "title": "CORTIS 'REDRED'",
-   "account": "amberbeat.indonesia",
-   "music": "CORTIS REDRED + TNT | Mnet 261121 방송",
-   "audio_start": "3:50 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "",
-   "caption": "CORTIS membawakan ‘REDRED’ dan ‘TNT’ di panggung 2026 MAMA AWARDS yang ditayangkan Mnet pada 21 November. Di acara yang sama, mereka juga meraih penghargaan Fans' Choice.\n\n———\n\nSource: Mnet K-POP official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Berita K-pop setiap hari, selalu dengan sumbernya.\nIkuti @amberbeat.indonesia\n\n#KPOP #CORTIS #MAMA2026",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1123_CORTIS_OTHER_REDRED-TNT-Mnet-261121-ae71d91c19a0cfe7/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1123_CORTIS_OTHER_REDRED-TNT-Mnet-261121-ae71d91c19a0cfe7/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1123_CORTIS_OTHER_REDRED-TNT-Mnet-261121-ae71d91c19a0cfe7/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1123_CORTIS_OTHER_REDRED-TNT-Mnet-261121-ae71d91c19a0cfe7/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1123_CORTIS_OTHER_REDRED-TNT-Mnet-261121-ae71d91c19a0cfe7/meta.json"
-  },
-  "02 🇹🇭 CORTIS 'REDRED'": {
-   "name": "02 🇹🇭 CORTIS 'REDRED'",
+  "01 🇹🇭 CORTIS 'REDRED'": {
+   "name": "01 🇹🇭 CORTIS 'REDRED'",
    "key": "1123_CORTIS_OTHER_REDRED-TNT-Mnet-261121-방송@th",
    "job": "1123_CORTIS_OTHER_REDRED-TNT-Mnet-261121-방송",
    "lang": "th",
@@ -220,8 +184,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1123_CORTIS_OTHER_REDRED-TNT-Mnet-261121-162d7b4451829ab1/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1123_CORTIS_OTHER_REDRED-TNT-Mnet-261121-162d7b4451829ab1/meta.json"
   },
-  "03 🇯🇵 ILLIT 'It's Me'": {
-   "name": "03 🇯🇵 ILLIT 'It's Me'",
+  "02 🇯🇵 ILLIT 'It's Me'": {
+   "name": "02 🇯🇵 ILLIT 'It's Me'",
    "key": "1123_ILLIT_OTHER_It-s-Me-MAMA-Ver-D-B-SECRET-AGENT-체포하겠어@ja",
    "job": "1123_ILLIT_OTHER_It-s-Me-MAMA-Ver-D-B-SECRET-AGENT-체포하겠어",
    "lang": "ja",
@@ -238,8 +202,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1123_ILLIT_OTHER_It-s-Me-MAMA-Ver-D-B-SECRET-AGENT-2dd5b88a4b870b11/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1123_ILLIT_OTHER_It-s-Me-MAMA-Ver-D-B-SECRET-AGENT-2dd5b88a4b870b11/meta.json"
   },
-  "04 🇪🇸 ENHYPEN 'I Want You'": {
-   "name": "04 🇪🇸 ENHYPEN 'I Want You'",
+  "03 🇪🇸 ENHYPEN 'I Want You'": {
+   "name": "03 🇪🇸 ENHYPEN 'I Want You'",
    "key": "1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-방송@es",
    "job": "1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-방송",
    "lang": "es",
@@ -256,8 +220,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-47b63f34e26bc2fd/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-47b63f34e26bc2fd/meta.json"
   },
-  "05 🇵🇹 ENHYPEN 'I Want You'": {
-   "name": "05 🇵🇹 ENHYPEN 'I Want You'",
+  "04 🇵🇹 ENHYPEN 'I Want You'": {
+   "name": "04 🇵🇹 ENHYPEN 'I Want You'",
    "key": "1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-방송@pt",
    "job": "1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-방송",
    "lang": "pt",
@@ -274,8 +238,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-9995a6a16c4e7163/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-9995a6a16c4e7163/meta.json"
   },
-  "06 🇮🇩 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개": {
-   "name": "06 🇮🇩 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
+  "05 🇮🇩 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개": {
+   "name": "05 🇮🇩 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
    "key": "1122_BTS_award_26-MAMA@id",
    "job": "1122_BTS_award_26-MAMA",
    "lang": "id",
@@ -292,8 +256,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1122_BTS_award_26-MAMA-06a8f7465f860570/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1122_BTS_award_26-MAMA-06a8f7465f860570/meta.json"
   },
-  "07 🇹🇭 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개": {
-   "name": "07 🇹🇭 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
+  "06 🇹🇭 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개": {
+   "name": "06 🇹🇭 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
    "key": "1122_BTS_award_26-MAMA@th",
    "job": "1122_BTS_award_26-MAMA",
    "lang": "th",
@@ -310,8 +274,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1122_BTS_award_26-MAMA-b21ec00b5a00d859/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1122_BTS_award_26-MAMA-b21ec00b5a00d859/meta.json"
   },
-  "08 🇺🇸 밈": {
-   "name": "08 🇺🇸 밈",
+  "07 🇺🇸 밈": {
+   "name": "07 🇺🇸 밈",
    "key": "1109_밈_black-hair-idols-m-en@en",
    "job": "1109_밈_black-hair-idols-m-en",
    "lang": "en",
@@ -328,8 +292,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_black-hair-idols-m-en-4b8a097493af31cd/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_black-hair-idols-m-en-4b8a097493af31cd/meta.json"
   },
-  "09 🇺🇸 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개": {
-   "name": "09 🇺🇸 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
+  "08 🇺🇸 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개": {
+   "name": "08 🇺🇸 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
    "key": "1122_BTS_award_26-MAMA@en",
    "job": "1122_BTS_award_26-MAMA",
    "lang": "en",
@@ -346,8 +310,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1122_BTS_award_26-MAMA-70fe303e710145de/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1122_BTS_award_26-MAMA-70fe303e710145de/meta.json"
   },
-  "10 🇮🇩 밈": {
-   "name": "10 🇮🇩 밈",
+  "09 🇮🇩 밈": {
+   "name": "09 🇮🇩 밈",
    "key": "1113_밈_cat-like-idols-m-id@id",
    "job": "1113_밈_cat-like-idols-m-id",
    "lang": "id",
