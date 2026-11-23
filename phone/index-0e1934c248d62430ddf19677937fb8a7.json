@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-11-23T15:24:58+09:00",
+ "updated_at": "2026-11-23T15:25:03+09:00",
  "count": 10,
  "items": [
   {
-   "name": "01 🇮🇩 CORTIS 'REDRED' MAMA Stage",
+   "name": "01 🇮🇩 CORTIS 'REDRED + TNT | Mnet 261121 방송'",
    "key": "1123_CORTIS_OTHER_REDRED-TNT-Mnet-261121-방송@id",
    "job": "1123_CORTIS_OTHER_REDRED-TNT-Mnet-261121-방송",
    "lang": "id",
    "flag": "🇮🇩",
-   "title": "CORTIS 'REDRED' MAMA Stage",
+   "title": "CORTIS 'REDRED + TNT | Mnet 261121 방송'",
    "account": "amberbeat.indonesia",
    "music": "CORTIS REDRED + TNT | Mnet 261121 방송",
    "audio_start": "3:50 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
@@ -184,13 +184,13 @@
   }
  ],
  "by_name": {
-  "01 🇮🇩 CORTIS 'REDRED' MAMA Stage": {
-   "name": "01 🇮🇩 CORTIS 'REDRED' MAMA Stage",
+  "01 🇮🇩 CORTIS 'REDRED + TNT | Mnet 261121 방송'": {
+   "name": "01 🇮🇩 CORTIS 'REDRED + TNT | Mnet 261121 방송'",
    "key": "1123_CORTIS_OTHER_REDRED-TNT-Mnet-261121-방송@id",
    "job": "1123_CORTIS_OTHER_REDRED-TNT-Mnet-261121-방송",
    "lang": "id",
    "flag": "🇮🇩",
-   "title": "CORTIS 'REDRED' MAMA Stage",
+   "title": "CORTIS 'REDRED + TNT | Mnet 261121 방송'",
    "account": "amberbeat.indonesia",
    "music": "CORTIS REDRED + TNT | Mnet 261121 방송",
    "audio_start": "3:50 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
