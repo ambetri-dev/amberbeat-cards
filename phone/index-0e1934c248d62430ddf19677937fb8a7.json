@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23T15:24:19+09:00",
+ "updated_at": "2026-11-23T15:24:50+09:00",
  "count": 10,
  "items": [
   {
@@ -75,12 +75,12 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-47b63f34e26bc2fd/meta.json"
   },
   {
-   "name": "05 🇵🇹 ENHYPEN 'I Want You' MAMA Stage",
+   "name": "05 🇵🇹 ENHYPEN 'I Want You | Mnet 261120 방송'",
    "key": "1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-방송@pt",
    "job": "1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-방송",
    "lang": "pt",
    "flag": "🇵🇹",
-   "title": "ENHYPEN 'I Want You' MAMA Stage",
+   "title": "ENHYPEN 'I Want You | Mnet 261120 방송'",
    "account": "amberbeat.portugal",
    "music": "ENHYPEN I Want You | Mnet 261120 방송",
    "audio_start": "3:26 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
@@ -256,13 +256,13 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-47b63f34e26bc2fd/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-47b63f34e26bc2fd/meta.json"
   },
-  "05 🇵🇹 ENHYPEN 'I Want You' MAMA Stage": {
-   "name": "05 🇵🇹 ENHYPEN 'I Want You' MAMA Stage",
+  "05 🇵🇹 ENHYPEN 'I Want You | Mnet 261120 방송'": {
+   "name": "05 🇵🇹 ENHYPEN 'I Want You | Mnet 261120 방송'",
    "key": "1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-방송@pt",
    "job": "1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-방송",
    "lang": "pt",
    "flag": "🇵🇹",
-   "title": "ENHYPEN 'I Want You' MAMA Stage",
+   "title": "ENHYPEN 'I Want You | Mnet 261120 방송'",
    "account": "amberbeat.portugal",
    "music": "ENHYPEN I Want You | Mnet 261120 방송",
    "audio_start": "3:26 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
