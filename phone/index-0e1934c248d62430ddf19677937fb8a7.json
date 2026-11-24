@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-24T18:09:24+09:00",
- "count": 16,
+ "updated_at": "2026-11-24T18:09:46+09:00",
+ "count": 15,
  "items": [
   {
    "name": "01 🇵🇹 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
@@ -21,25 +21,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1123_ATEEZ_chart_-9dfc73622dff7b26/meta.json"
   },
   {
-   "name": "02 🇯🇵 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
-   "key": "1123_ATEEZ_chart_구매@ja",
-   "job": "1123_ATEEZ_chart_구매",
-   "lang": "ja",
-   "flag": "🇯🇵",
-   "title": "ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
-   "account": "amberbeat.japan",
-   "music": "ATEEZ Drip",
-   "audio_start": "0:12 Gatji dareun meot, gachineun hella pricey (추정)",
-   "scheduled_at": "",
-   "caption": "ATEEZの「구매 (購買)」がビルボード200で4回目の1位を獲得しました。\n\nATEEZは2022年以降、10作連続でビルボード200のトップ10入りを果たしており、これは2020年代のグループの中で最多です。\n今作の初週ユニットのうち、アルバム販売が約97.9%を占めました。\n\n収録曲のストリーミングは公式オンデマンド再生数で約404万回に相当しました。\nアルバムはサイン盤を含むCD・バイナル32種でリリースされました。\n\nフォトカードやポスターがフィジカル盤に付く収集要素となりました。\nこれは2020年代のグループの中で最多の記録です。\n\n———\n\nSource: standingout.kr\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · 毎日のK-POPニュースを出典つきでお届けします。\nフォローはこちら @amberbeat.japan\n\n#KPOP #ATEEZ #에이티즈 #Billboard200 #Kポップ",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1123_ATEEZ_chart_-e9f5513ab7e0117d/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1123_ATEEZ_chart_-e9f5513ab7e0117d/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1123_ATEEZ_chart_-e9f5513ab7e0117d/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1123_ATEEZ_chart_-e9f5513ab7e0117d/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1123_ATEEZ_chart_-e9f5513ab7e0117d/meta.json"
-  },
-  {
-   "name": "03 🇹🇭 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
+   "name": "02 🇹🇭 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
    "key": "1123_ATEEZ_chart_구매@th",
    "job": "1123_ATEEZ_chart_구매",
    "lang": "th",
@@ -57,7 +39,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1123_ATEEZ_chart_-a18ed4af4681dd69/meta.json"
   },
   {
-   "name": "04 🇮🇩 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
+   "name": "03 🇮🇩 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
    "key": "1123_ATEEZ_chart_구매@id",
    "job": "1123_ATEEZ_chart_구매",
    "lang": "id",
@@ -75,7 +57,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1123_ATEEZ_chart_-a5d96804846b5925/meta.json"
   },
   {
-   "name": "05 🇪🇸 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
+   "name": "04 🇪🇸 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
    "key": "1123_ATEEZ_chart_구매@es",
    "job": "1123_ATEEZ_chart_구매",
    "lang": "es",
@@ -93,7 +75,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1123_ATEEZ_chart_-3e04b0773718b3c6/meta.json"
   },
   {
-   "name": "06 🇺🇸 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
+   "name": "05 🇺🇸 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
    "key": "1123_ATEEZ_chart_구매@en",
    "job": "1123_ATEEZ_chart_구매",
    "lang": "en",
@@ -111,7 +93,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1123_ATEEZ_chart_-a45eeb7e75d8f055/meta.json"
   },
   {
-   "name": "07 🇹🇭 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
+   "name": "06 🇹🇭 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
    "key": "1122_ILLIT_award_2026-MAMA_r1@th",
    "job": "1122_ILLIT_award_2026-MAMA_r1",
    "lang": "th",
@@ -129,7 +111,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1122_ILLIT_award_2026-MAMA_r1-8b8fadb6bf1eab01/meta.json"
   },
   {
-   "name": "08 🇯🇵 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
+   "name": "07 🇯🇵 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
    "key": "1122_ILLIT_award_2026-MAMA_r1@ja",
    "job": "1122_ILLIT_award_2026-MAMA_r1",
    "lang": "ja",
@@ -147,7 +129,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1122_ILLIT_award_2026-MAMA_r1-9145351dc794b372/meta.json"
   },
   {
-   "name": "09 🇮🇩 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
+   "name": "08 🇮🇩 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
    "key": "1122_ILLIT_award_2026-MAMA_r1@id",
    "job": "1122_ILLIT_award_2026-MAMA_r1",
    "lang": "id",
@@ -165,7 +147,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1122_ILLIT_award_2026-MAMA_r1-9912d2e29e3b219e/meta.json"
   },
   {
-   "name": "10 🇯🇵 ILLIT 'It's Me'",
+   "name": "09 🇯🇵 ILLIT 'It's Me'",
    "key": "1123_ILLIT_OTHER_It-s-Me-MAMA-Ver-D-B-SECRET-AGENT-체포하겠어@ja",
    "job": "1123_ILLIT_OTHER_It-s-Me-MAMA-Ver-D-B-SECRET-AGENT-체포하겠어",
    "lang": "ja",
@@ -183,7 +165,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1123_ILLIT_OTHER_It-s-Me-MAMA-Ver-D-B-SECRET-AGENT-2dd5b88a4b870b11/meta.json"
   },
   {
-   "name": "11 🇪🇸 ENHYPEN 'I Want You'",
+   "name": "10 🇪🇸 ENHYPEN 'I Want You'",
    "key": "1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-방송@es",
    "job": "1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-방송",
    "lang": "es",
@@ -201,7 +183,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-47b63f34e26bc2fd/meta.json"
   },
   {
-   "name": "12 🇵🇹 ENHYPEN 'I Want You'",
+   "name": "11 🇵🇹 ENHYPEN 'I Want You'",
    "key": "1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-방송@pt",
    "job": "1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-방송",
    "lang": "pt",
@@ -219,7 +201,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-9995a6a16c4e7163/meta.json"
   },
   {
-   "name": "13 🇮🇩 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
+   "name": "12 🇮🇩 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
    "key": "1122_BTS_award_26-MAMA@id",
    "job": "1122_BTS_award_26-MAMA",
    "lang": "id",
@@ -237,7 +219,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1122_BTS_award_26-MAMA-06a8f7465f860570/meta.json"
   },
   {
-   "name": "14 🇹🇭 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
+   "name": "13 🇹🇭 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
    "key": "1122_BTS_award_26-MAMA@th",
    "job": "1122_BTS_award_26-MAMA",
    "lang": "th",
@@ -255,7 +237,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1122_BTS_award_26-MAMA-b21ec00b5a00d859/meta.json"
   },
   {
-   "name": "15 🇺🇸 밈",
+   "name": "14 🇺🇸 밈",
    "key": "1109_밈_black-hair-idols-m-en@en",
    "job": "1109_밈_black-hair-idols-m-en",
    "lang": "en",
@@ -273,7 +255,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_black-hair-idols-m-en-4b8a097493af31cd/meta.json"
   },
   {
-   "name": "16 🇺🇸 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
+   "name": "15 🇺🇸 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
    "key": "1122_BTS_award_26-MAMA@en",
    "job": "1122_BTS_award_26-MAMA",
    "lang": "en",
@@ -310,26 +292,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1123_ATEEZ_chart_-9dfc73622dff7b26/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1123_ATEEZ_chart_-9dfc73622dff7b26/meta.json"
   },
-  "02 🇯🇵 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다": {
-   "name": "02 🇯🇵 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
-   "key": "1123_ATEEZ_chart_구매@ja",
-   "job": "1123_ATEEZ_chart_구매",
-   "lang": "ja",
-   "flag": "🇯🇵",
-   "title": "ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
-   "account": "amberbeat.japan",
-   "music": "ATEEZ Drip",
-   "audio_start": "0:12 Gatji dareun meot, gachineun hella pricey (추정)",
-   "scheduled_at": "",
-   "caption": "ATEEZの「구매 (購買)」がビルボード200で4回目の1位を獲得しました。\n\nATEEZは2022年以降、10作連続でビルボード200のトップ10入りを果たしており、これは2020年代のグループの中で最多です。\n今作の初週ユニットのうち、アルバム販売が約97.9%を占めました。\n\n収録曲のストリーミングは公式オンデマンド再生数で約404万回に相当しました。\nアルバムはサイン盤を含むCD・バイナル32種でリリースされました。\n\nフォトカードやポスターがフィジカル盤に付く収集要素となりました。\nこれは2020年代のグループの中で最多の記録です。\n\n———\n\nSource: standingout.kr\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · 毎日のK-POPニュースを出典つきでお届けします。\nフォローはこちら @amberbeat.japan\n\n#KPOP #ATEEZ #에이티즈 #Billboard200 #Kポップ",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1123_ATEEZ_chart_-e9f5513ab7e0117d/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1123_ATEEZ_chart_-e9f5513ab7e0117d/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1123_ATEEZ_chart_-e9f5513ab7e0117d/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1123_ATEEZ_chart_-e9f5513ab7e0117d/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1123_ATEEZ_chart_-e9f5513ab7e0117d/meta.json"
-  },
-  "03 🇹🇭 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다": {
-   "name": "03 🇹🇭 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
+  "02 🇹🇭 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다": {
+   "name": "02 🇹🇭 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
    "key": "1123_ATEEZ_chart_구매@th",
    "job": "1123_ATEEZ_chart_구매",
    "lang": "th",
@@ -346,8 +310,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1123_ATEEZ_chart_-a18ed4af4681dd69/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1123_ATEEZ_chart_-a18ed4af4681dd69/meta.json"
   },
-  "04 🇮🇩 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다": {
-   "name": "04 🇮🇩 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
+  "03 🇮🇩 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다": {
+   "name": "03 🇮🇩 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
    "key": "1123_ATEEZ_chart_구매@id",
    "job": "1123_ATEEZ_chart_구매",
    "lang": "id",
@@ -364,8 +328,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1123_ATEEZ_chart_-a5d96804846b5925/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1123_ATEEZ_chart_-a5d96804846b5925/meta.json"
   },
-  "05 🇪🇸 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다": {
-   "name": "05 🇪🇸 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
+  "04 🇪🇸 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다": {
+   "name": "04 🇪🇸 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
    "key": "1123_ATEEZ_chart_구매@es",
    "job": "1123_ATEEZ_chart_구매",
    "lang": "es",
@@ -382,8 +346,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1123_ATEEZ_chart_-3e04b0773718b3c6/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1123_ATEEZ_chart_-3e04b0773718b3c6/meta.json"
   },
-  "06 🇺🇸 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다": {
-   "name": "06 🇺🇸 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
+  "05 🇺🇸 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다": {
+   "name": "05 🇺🇸 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
    "key": "1123_ATEEZ_chart_구매@en",
    "job": "1123_ATEEZ_chart_구매",
    "lang": "en",
@@ -400,8 +364,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1123_ATEEZ_chart_-a45eeb7e75d8f055/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1123_ATEEZ_chart_-a45eeb7e75d8f055/meta.json"
   },
-  "07 🇹🇭 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약": {
-   "name": "07 🇹🇭 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
+  "06 🇹🇭 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약": {
+   "name": "06 🇹🇭 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
    "key": "1122_ILLIT_award_2026-MAMA_r1@th",
    "job": "1122_ILLIT_award_2026-MAMA_r1",
    "lang": "th",
@@ -418,8 +382,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1122_ILLIT_award_2026-MAMA_r1-8b8fadb6bf1eab01/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1122_ILLIT_award_2026-MAMA_r1-8b8fadb6bf1eab01/meta.json"
   },
-  "08 🇯🇵 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약": {
-   "name": "08 🇯🇵 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
+  "07 🇯🇵 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약": {
+   "name": "07 🇯🇵 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
    "key": "1122_ILLIT_award_2026-MAMA_r1@ja",
    "job": "1122_ILLIT_award_2026-MAMA_r1",
    "lang": "ja",
@@ -436,8 +400,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1122_ILLIT_award_2026-MAMA_r1-9145351dc794b372/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1122_ILLIT_award_2026-MAMA_r1-9145351dc794b372/meta.json"
   },
-  "09 🇮🇩 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약": {
-   "name": "09 🇮🇩 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
+  "08 🇮🇩 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약": {
+   "name": "08 🇮🇩 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
    "key": "1122_ILLIT_award_2026-MAMA_r1@id",
    "job": "1122_ILLIT_award_2026-MAMA_r1",
    "lang": "id",
@@ -454,8 +418,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1122_ILLIT_award_2026-MAMA_r1-9912d2e29e3b219e/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1122_ILLIT_award_2026-MAMA_r1-9912d2e29e3b219e/meta.json"
   },
-  "10 🇯🇵 ILLIT 'It's Me'": {
-   "name": "10 🇯🇵 ILLIT 'It's Me'",
+  "09 🇯🇵 ILLIT 'It's Me'": {
+   "name": "09 🇯🇵 ILLIT 'It's Me'",
    "key": "1123_ILLIT_OTHER_It-s-Me-MAMA-Ver-D-B-SECRET-AGENT-체포하겠어@ja",
    "job": "1123_ILLIT_OTHER_It-s-Me-MAMA-Ver-D-B-SECRET-AGENT-체포하겠어",
    "lang": "ja",
@@ -472,8 +436,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1123_ILLIT_OTHER_It-s-Me-MAMA-Ver-D-B-SECRET-AGENT-2dd5b88a4b870b11/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1123_ILLIT_OTHER_It-s-Me-MAMA-Ver-D-B-SECRET-AGENT-2dd5b88a4b870b11/meta.json"
   },
-  "11 🇪🇸 ENHYPEN 'I Want You'": {
-   "name": "11 🇪🇸 ENHYPEN 'I Want You'",
+  "10 🇪🇸 ENHYPEN 'I Want You'": {
+   "name": "10 🇪🇸 ENHYPEN 'I Want You'",
    "key": "1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-방송@es",
    "job": "1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-방송",
    "lang": "es",
@@ -490,8 +454,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-47b63f34e26bc2fd/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-47b63f34e26bc2fd/meta.json"
   },
-  "12 🇵🇹 ENHYPEN 'I Want You'": {
-   "name": "12 🇵🇹 ENHYPEN 'I Want You'",
+  "11 🇵🇹 ENHYPEN 'I Want You'": {
+   "name": "11 🇵🇹 ENHYPEN 'I Want You'",
    "key": "1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-방송@pt",
    "job": "1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-방송",
    "lang": "pt",
@@ -508,8 +472,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-9995a6a16c4e7163/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-9995a6a16c4e7163/meta.json"
   },
-  "13 🇮🇩 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개": {
-   "name": "13 🇮🇩 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
+  "12 🇮🇩 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개": {
+   "name": "12 🇮🇩 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
    "key": "1122_BTS_award_26-MAMA@id",
    "job": "1122_BTS_award_26-MAMA",
    "lang": "id",
@@ -526,8 +490,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1122_BTS_award_26-MAMA-06a8f7465f860570/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1122_BTS_award_26-MAMA-06a8f7465f860570/meta.json"
   },
-  "14 🇹🇭 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개": {
-   "name": "14 🇹🇭 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
+  "13 🇹🇭 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개": {
+   "name": "13 🇹🇭 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
    "key": "1122_BTS_award_26-MAMA@th",
    "job": "1122_BTS_award_26-MAMA",
    "lang": "th",
@@ -544,8 +508,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1122_BTS_award_26-MAMA-b21ec00b5a00d859/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1122_BTS_award_26-MAMA-b21ec00b5a00d859/meta.json"
   },
-  "15 🇺🇸 밈": {
-   "name": "15 🇺🇸 밈",
+  "14 🇺🇸 밈": {
+   "name": "14 🇺🇸 밈",
    "key": "1109_밈_black-hair-idols-m-en@en",
    "job": "1109_밈_black-hair-idols-m-en",
    "lang": "en",
@@ -562,8 +526,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_black-hair-idols-m-en-4b8a097493af31cd/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_black-hair-idols-m-en-4b8a097493af31cd/meta.json"
   },
-  "16 🇺🇸 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개": {
-   "name": "16 🇺🇸 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
+  "15 🇺🇸 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개": {
+   "name": "15 🇺🇸 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
    "key": "1122_BTS_award_26-MAMA@en",
    "job": "1122_BTS_award_26-MAMA",
    "lang": "en",
