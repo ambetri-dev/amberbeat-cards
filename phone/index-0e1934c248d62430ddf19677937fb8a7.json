@@ -1,9 +1,27 @@
 {
- "updated_at": "2026-11-24T10:10:57+09:00",
- "count": 8,
+ "updated_at": "2026-11-24T10:12:08+09:00",
+ "count": 9,
  "items": [
   {
-   "name": "01 🇺🇸 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
+   "name": "01 🇮🇩 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
+   "key": "1122_ILLIT_award_2026-MAMA@id",
+   "job": "1122_ILLIT_award_2026-MAMA",
+   "lang": "id",
+   "flag": "🇮🇩",
+   "title": "ILLIT — 아일릿, ‘2026 MAMA’ 3관왕...눈부신 활약",
+   "account": "amberbeat.indonesia",
+   "music": "ILLIT 체포하겠어 (You’re Under Arrest)",
+   "audio_start": "0:17 Jwotjana crime signs (추정)",
+   "scheduled_at": "",
+   "caption": "Lagu mereka sebelumnya, ' (You're Under Arrest)', sudah ditonton 41.284.006 kali per 24 November 2026.\n\nILLIT berhasil membawa pulang tiga trofi di 2026 MAMA AWARDS. Mereka menang di kategori Fans' Choice Female Top10 dan Best Dance Performance Female Group. Lagu utama mini album ke-4 mereka, 'It's Me', juga meraih Best Song Top10.\nAcara ini digelar pada 20-21 November di Kyocera Dome Osaka. Minju, Iroha, Wonhee, dan Yunah tampil di atas panggung dalam acara tersebut. ILLIT debut pada Maret 2024.\n\n———\n\nSource: Sports Seoul\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Berita K-pop setiap hari, selalu dengan sumbernya.\nIkuti @amberbeat.indonesia\n\n#KPOP #BeritaKpop #KpopIndonesia #ILLIT #MAMAAWARDS",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1122_ILLIT_award_2026-MAMA-80db4483e18816a2/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1122_ILLIT_award_2026-MAMA-80db4483e18816a2/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1122_ILLIT_award_2026-MAMA-80db4483e18816a2/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1122_ILLIT_award_2026-MAMA-80db4483e18816a2/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1122_ILLIT_award_2026-MAMA-80db4483e18816a2/meta.json"
+  },
+  {
+   "name": "02 🇺🇸 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
    "key": "1122_ILLIT_award_2026-MAMA@en",
    "job": "1122_ILLIT_award_2026-MAMA",
    "lang": "en",
@@ -21,7 +39,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1122_ILLIT_award_2026-MAMA-647919d0afd2fb5d/meta.json"
   },
   {
-   "name": "02 🇯🇵 ILLIT 'It's Me'",
+   "name": "03 🇯🇵 ILLIT 'It's Me'",
    "key": "1123_ILLIT_OTHER_It-s-Me-MAMA-Ver-D-B-SECRET-AGENT-체포하겠어@ja",
    "job": "1123_ILLIT_OTHER_It-s-Me-MAMA-Ver-D-B-SECRET-AGENT-체포하겠어",
    "lang": "ja",
@@ -39,7 +57,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1123_ILLIT_OTHER_It-s-Me-MAMA-Ver-D-B-SECRET-AGENT-2dd5b88a4b870b11/meta.json"
   },
   {
-   "name": "03 🇪🇸 ENHYPEN 'I Want You'",
+   "name": "04 🇪🇸 ENHYPEN 'I Want You'",
    "key": "1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-방송@es",
    "job": "1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-방송",
    "lang": "es",
@@ -57,7 +75,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-47b63f34e26bc2fd/meta.json"
   },
   {
-   "name": "04 🇵🇹 ENHYPEN 'I Want You'",
+   "name": "05 🇵🇹 ENHYPEN 'I Want You'",
    "key": "1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-방송@pt",
    "job": "1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-방송",
    "lang": "pt",
@@ -75,7 +93,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-9995a6a16c4e7163/meta.json"
   },
   {
-   "name": "05 🇮🇩 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
+   "name": "06 🇮🇩 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
    "key": "1122_BTS_award_26-MAMA@id",
    "job": "1122_BTS_award_26-MAMA",
    "lang": "id",
@@ -93,7 +111,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1122_BTS_award_26-MAMA-06a8f7465f860570/meta.json"
   },
   {
-   "name": "06 🇹🇭 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
+   "name": "07 🇹🇭 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
    "key": "1122_BTS_award_26-MAMA@th",
    "job": "1122_BTS_award_26-MAMA",
    "lang": "th",
@@ -111,7 +129,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1122_BTS_award_26-MAMA-b21ec00b5a00d859/meta.json"
   },
   {
-   "name": "07 🇺🇸 밈",
+   "name": "08 🇺🇸 밈",
    "key": "1109_밈_black-hair-idols-m-en@en",
    "job": "1109_밈_black-hair-idols-m-en",
    "lang": "en",
@@ -129,7 +147,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_black-hair-idols-m-en-4b8a097493af31cd/meta.json"
   },
   {
-   "name": "08 🇺🇸 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
+   "name": "09 🇺🇸 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
    "key": "1122_BTS_award_26-MAMA@en",
    "job": "1122_BTS_award_26-MAMA",
    "lang": "en",
@@ -148,8 +166,26 @@
   }
  ],
  "by_name": {
-  "01 🇺🇸 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약": {
-   "name": "01 🇺🇸 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
+  "01 🇮🇩 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약": {
+   "name": "01 🇮🇩 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
+   "key": "1122_ILLIT_award_2026-MAMA@id",
+   "job": "1122_ILLIT_award_2026-MAMA",
+   "lang": "id",
+   "flag": "🇮🇩",
+   "title": "ILLIT — 아일릿, ‘2026 MAMA’ 3관왕...눈부신 활약",
+   "account": "amberbeat.indonesia",
+   "music": "ILLIT 체포하겠어 (You’re Under Arrest)",
+   "audio_start": "0:17 Jwotjana crime signs (추정)",
+   "scheduled_at": "",
+   "caption": "Lagu mereka sebelumnya, ' (You're Under Arrest)', sudah ditonton 41.284.006 kali per 24 November 2026.\n\nILLIT berhasil membawa pulang tiga trofi di 2026 MAMA AWARDS. Mereka menang di kategori Fans' Choice Female Top10 dan Best Dance Performance Female Group. Lagu utama mini album ke-4 mereka, 'It's Me', juga meraih Best Song Top10.\nAcara ini digelar pada 20-21 November di Kyocera Dome Osaka. Minju, Iroha, Wonhee, dan Yunah tampil di atas panggung dalam acara tersebut. ILLIT debut pada Maret 2024.\n\n———\n\nSource: Sports Seoul\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Berita K-pop setiap hari, selalu dengan sumbernya.\nIkuti @amberbeat.indonesia\n\n#KPOP #BeritaKpop #KpopIndonesia #ILLIT #MAMAAWARDS",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1122_ILLIT_award_2026-MAMA-80db4483e18816a2/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1122_ILLIT_award_2026-MAMA-80db4483e18816a2/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1122_ILLIT_award_2026-MAMA-80db4483e18816a2/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1122_ILLIT_award_2026-MAMA-80db4483e18816a2/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1122_ILLIT_award_2026-MAMA-80db4483e18816a2/meta.json"
+  },
+  "02 🇺🇸 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약": {
+   "name": "02 🇺🇸 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
    "key": "1122_ILLIT_award_2026-MAMA@en",
    "job": "1122_ILLIT_award_2026-MAMA",
    "lang": "en",
@@ -166,8 +202,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1122_ILLIT_award_2026-MAMA-647919d0afd2fb5d/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1122_ILLIT_award_2026-MAMA-647919d0afd2fb5d/meta.json"
   },
-  "02 🇯🇵 ILLIT 'It's Me'": {
-   "name": "02 🇯🇵 ILLIT 'It's Me'",
+  "03 🇯🇵 ILLIT 'It's Me'": {
+   "name": "03 🇯🇵 ILLIT 'It's Me'",
    "key": "1123_ILLIT_OTHER_It-s-Me-MAMA-Ver-D-B-SECRET-AGENT-체포하겠어@ja",
    "job": "1123_ILLIT_OTHER_It-s-Me-MAMA-Ver-D-B-SECRET-AGENT-체포하겠어",
    "lang": "ja",
@@ -184,8 +220,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1123_ILLIT_OTHER_It-s-Me-MAMA-Ver-D-B-SECRET-AGENT-2dd5b88a4b870b11/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1123_ILLIT_OTHER_It-s-Me-MAMA-Ver-D-B-SECRET-AGENT-2dd5b88a4b870b11/meta.json"
   },
-  "03 🇪🇸 ENHYPEN 'I Want You'": {
-   "name": "03 🇪🇸 ENHYPEN 'I Want You'",
+  "04 🇪🇸 ENHYPEN 'I Want You'": {
+   "name": "04 🇪🇸 ENHYPEN 'I Want You'",
    "key": "1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-방송@es",
    "job": "1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-방송",
    "lang": "es",
@@ -202,8 +238,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-47b63f34e26bc2fd/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-47b63f34e26bc2fd/meta.json"
   },
-  "04 🇵🇹 ENHYPEN 'I Want You'": {
-   "name": "04 🇵🇹 ENHYPEN 'I Want You'",
+  "05 🇵🇹 ENHYPEN 'I Want You'": {
+   "name": "05 🇵🇹 ENHYPEN 'I Want You'",
    "key": "1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-방송@pt",
    "job": "1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-방송",
    "lang": "pt",
@@ -220,8 +256,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-9995a6a16c4e7163/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1123_ENHYPEN_OTHER_I-Want-You-Mnet-261120-9995a6a16c4e7163/meta.json"
   },
-  "05 🇮🇩 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개": {
-   "name": "05 🇮🇩 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
+  "06 🇮🇩 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개": {
+   "name": "06 🇮🇩 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
    "key": "1122_BTS_award_26-MAMA@id",
    "job": "1122_BTS_award_26-MAMA",
    "lang": "id",
@@ -238,8 +274,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1122_BTS_award_26-MAMA-06a8f7465f860570/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1122_BTS_award_26-MAMA-06a8f7465f860570/meta.json"
   },
-  "06 🇹🇭 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개": {
-   "name": "06 🇹🇭 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
+  "07 🇹🇭 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개": {
+   "name": "07 🇹🇭 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
    "key": "1122_BTS_award_26-MAMA@th",
    "job": "1122_BTS_award_26-MAMA",
    "lang": "th",
@@ -256,8 +292,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1122_BTS_award_26-MAMA-b21ec00b5a00d859/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1122_BTS_award_26-MAMA-b21ec00b5a00d859/meta.json"
   },
-  "07 🇺🇸 밈": {
-   "name": "07 🇺🇸 밈",
+  "08 🇺🇸 밈": {
+   "name": "08 🇺🇸 밈",
    "key": "1109_밈_black-hair-idols-m-en@en",
    "job": "1109_밈_black-hair-idols-m-en",
    "lang": "en",
@@ -274,8 +310,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_black-hair-idols-m-en-4b8a097493af31cd/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_black-hair-idols-m-en-4b8a097493af31cd/meta.json"
   },
-  "08 🇺🇸 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개": {
-   "name": "08 🇺🇸 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
+  "09 🇺🇸 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개": {
+   "name": "09 🇺🇸 BTS — 방탄소년단, ‘26 MAMA’ 대상 2개 포함 5관왕․․․통산 대상 24개",
    "key": "1122_BTS_award_26-MAMA@en",
    "job": "1122_BTS_award_26-MAMA",
    "lang": "en",
