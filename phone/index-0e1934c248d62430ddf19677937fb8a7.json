@@ -1,9 +1,27 @@
 {
- "updated_at": "2026-11-25T18:20:54+09:00",
- "count": 16,
+ "updated_at": "2026-11-25T18:27:18+09:00",
+ "count": 17,
  "items": [
   {
-   "name": "01 🇪🇸 SEVENTEEN — 세븐틴 정한, 日 야마다 료스케와 협업․․․12월 14일 ‘Afterglow’ 발매",
+   "name": "01 🇹🇭 KISS OF LIFE 'Greedy'",
+   "key": "1125_KISS-OF-LIFE_MV_Greedy@th",
+   "job": "1125_KISS-OF-LIFE_MV_Greedy",
+   "lang": "th",
+   "flag": "🇹🇭",
+   "title": "KISS OF LIFE 'Greedy'",
+   "account": "amberbeat.thailand",
+   "music": "KISS OF LIFE Greedy",
+   "audio_start": "0:38 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "KISS OF LIFE ปล่อย MV อย่างเป็นทางการสำหรับเพลง 'Greedy' เมื่อวันที่ 25 พ.ย. 2026\n\n———\n\nSource: KISS OF LIFE official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · ข่าว K-pop ทุกวัน พร้อมแหล่งที่มาทุกครั้ง\nติดตามได้ที่ @amberbeat.thailand\n\n#KPOP #KISSOFLIFE #ข่าวเคป๊อป #ติ่งเกาหลี",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1125_KISS-OF-LIFE_MV_Greedy-4fab541d6e9381fd/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1125_KISS-OF-LIFE_MV_Greedy-4fab541d6e9381fd/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1125_KISS-OF-LIFE_MV_Greedy-4fab541d6e9381fd/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1125_KISS-OF-LIFE_MV_Greedy-4fab541d6e9381fd/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1125_KISS-OF-LIFE_MV_Greedy-4fab541d6e9381fd/meta.json"
+  },
+  {
+   "name": "02 🇪🇸 SEVENTEEN — 세븐틴 정한, 日 야마다 료스케와 협업․․․12월 14일 ‘Afterglow’ 발매",
    "key": "1124_SEVENTEEN-JEONGHAN_comeback_4@es",
    "job": "1124_SEVENTEEN-JEONGHAN_comeback_4",
    "lang": "es",
@@ -21,7 +39,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1124_SEVENTEEN-JEONGHAN_comeback_4-3019d1a09003a2e6/meta.json"
   },
   {
-   "name": "02 🇺🇸 SEVENTEEN — 세븐틴 정한, 日 야마다 료스케와 협업․․․12월 14일 ‘Afterglow’ 발매",
+   "name": "03 🇺🇸 SEVENTEEN — 세븐틴 정한, 日 야마다 료스케와 협업․․․12월 14일 ‘Afterglow’ 발매",
    "key": "1124_SEVENTEEN-JEONGHAN_comeback_4@en",
    "job": "1124_SEVENTEEN-JEONGHAN_comeback_4",
    "lang": "en",
@@ -39,7 +57,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1124_SEVENTEEN-JEONGHAN_comeback_4-5e3e8ac7e0d958b6/meta.json"
   },
   {
-   "name": "03 🇯🇵 JENNIE — '그래미 2개 후보' 제니 '드라큘라', 빌보드 '핫 100' 3위 유지․․․26주째 톱1",
+   "name": "04 🇯🇵 JENNIE — '그래미 2개 후보' 제니 '드라큘라', 빌보드 '핫 100' 3위 유지․․․26주째 톱1",
    "key": "1124_JENNIE_chart_드라큘라@ja",
    "job": "1124_JENNIE_chart_드라큘라",
    "lang": "ja",
@@ -57,7 +75,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1124_JENNIE_chart_-26b4f6dc1363ab70/meta.json"
   },
   {
-   "name": "04 🇺🇸 JENNIE — '그래미 2개 후보' 제니 '드라큘라', 빌보드 '핫 100' 3위 유지․․․26주째 톱1",
+   "name": "05 🇺🇸 JENNIE — '그래미 2개 후보' 제니 '드라큘라', 빌보드 '핫 100' 3위 유지․․․26주째 톱1",
    "key": "1124_JENNIE_chart_드라큘라@en",
    "job": "1124_JENNIE_chart_드라큘라",
    "lang": "en",
@@ -75,7 +93,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1124_JENNIE_chart_-2b137e78d623b283/meta.json"
   },
   {
-   "name": "05 🇪🇸 STRAY KIDS — 군백기 앞둔 스트레이 키즈, 새해 고척돔 입성(공식)",
+   "name": "06 🇪🇸 STRAY KIDS — 군백기 앞둔 스트레이 키즈, 새해 고척돔 입성(공식)",
    "key": "1125_STRAY-KIDS_tour@es",
    "job": "1125_STRAY-KIDS_tour",
    "lang": "es",
@@ -93,7 +111,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1125_STRAY-KIDS_tour-7f6180aea9609e55/meta.json"
   },
   {
-   "name": "06 🇹🇭 STRAY KIDS — 군백기 앞둔 스트레이 키즈, 새해 고척돔 입성(공식)",
+   "name": "07 🇹🇭 STRAY KIDS — 군백기 앞둔 스트레이 키즈, 새해 고척돔 입성(공식)",
    "key": "1125_STRAY-KIDS_tour@th",
    "job": "1125_STRAY-KIDS_tour",
    "lang": "th",
@@ -111,7 +129,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1125_STRAY-KIDS_tour-b489822b208e1466/meta.json"
   },
   {
-   "name": "07 🇮🇩 STRAY KIDS — 군백기 앞둔 스트레이 키즈, 새해 고척돔 입성(공식)",
+   "name": "08 🇮🇩 STRAY KIDS — 군백기 앞둔 스트레이 키즈, 새해 고척돔 입성(공식)",
    "key": "1125_STRAY-KIDS_tour@id",
    "job": "1125_STRAY-KIDS_tour",
    "lang": "id",
@@ -129,7 +147,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1125_STRAY-KIDS_tour-070f3319e9049ebe/meta.json"
   },
   {
-   "name": "08 🇯🇵 STRAY KIDS — 군백기 앞둔 스트레이 키즈, 새해 고척돔 입성(공식)",
+   "name": "09 🇯🇵 STRAY KIDS — 군백기 앞둔 스트레이 키즈, 새해 고척돔 입성(공식)",
    "key": "1125_STRAY-KIDS_tour@ja",
    "job": "1125_STRAY-KIDS_tour",
    "lang": "ja",
@@ -147,7 +165,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1125_STRAY-KIDS_tour-4e20b6da50b879be/meta.json"
   },
   {
-   "name": "09 🇯🇵 ROSÉ — 젠슨 황 AI 영상 확산․․․로제 ‘아파트’ 뮤직비디오에 합성",
+   "name": "10 🇯🇵 ROSÉ — 젠슨 황 AI 영상 확산․․․로제 ‘아파트’ 뮤직비디오에 합성",
    "key": "1125_ROSE_release_아파트@ja",
    "job": "1125_ROSE_release_아파트",
    "lang": "ja",
@@ -165,7 +183,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1125_ROSE_release_-c4f7ad2ebf2546c4/meta.json"
   },
   {
-   "name": "10 🇺🇸 TWICE — 트와이스 정연, 군병원 간호장교 된다․․․연기 도전 \"150% 만족\"",
+   "name": "11 🇺🇸 TWICE — 트와이스 정연, 군병원 간호장교 된다․․․연기 도전 \"150% 만족\"",
    "key": "1124_TWICE-JEONGYEON_acting@en",
    "job": "1124_TWICE-JEONGYEON_acting",
    "lang": "en",
@@ -183,7 +201,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1124_TWICE-JEONGYEON_acting-04cb01d7453de5fe/meta.json"
   },
   {
-   "name": "11 🇮🇩 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
+   "name": "12 🇮🇩 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
    "key": "1123_ATEEZ_chart_구매@id",
    "job": "1123_ATEEZ_chart_구매",
    "lang": "id",
@@ -201,7 +219,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1123_ATEEZ_chart_-a5d96804846b5925/meta.json"
   },
   {
-   "name": "12 🇪🇸 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
+   "name": "13 🇪🇸 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
    "key": "1123_ATEEZ_chart_구매@es",
    "job": "1123_ATEEZ_chart_구매",
    "lang": "es",
@@ -219,7 +237,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1123_ATEEZ_chart_-3e04b0773718b3c6/meta.json"
   },
   {
-   "name": "13 🇺🇸 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
+   "name": "14 🇺🇸 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
    "key": "1123_ATEEZ_chart_구매@en",
    "job": "1123_ATEEZ_chart_구매",
    "lang": "en",
@@ -237,7 +255,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1123_ATEEZ_chart_-a45eeb7e75d8f055/meta.json"
   },
   {
-   "name": "14 🇹🇭 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
+   "name": "15 🇹🇭 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
    "key": "1122_ILLIT_award_2026-MAMA_r1@th",
    "job": "1122_ILLIT_award_2026-MAMA_r1",
    "lang": "th",
@@ -255,7 +273,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1122_ILLIT_award_2026-MAMA_r1-8b8fadb6bf1eab01/meta.json"
   },
   {
-   "name": "15 🇯🇵 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
+   "name": "16 🇯🇵 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
    "key": "1122_ILLIT_award_2026-MAMA_r1@ja",
    "job": "1122_ILLIT_award_2026-MAMA_r1",
    "lang": "ja",
@@ -273,7 +291,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1122_ILLIT_award_2026-MAMA_r1-9145351dc794b372/meta.json"
   },
   {
-   "name": "16 🇮🇩 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
+   "name": "17 🇮🇩 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
    "key": "1122_ILLIT_award_2026-MAMA_r1@id",
    "job": "1122_ILLIT_award_2026-MAMA_r1",
    "lang": "id",
@@ -292,8 +310,26 @@
   }
  ],
  "by_name": {
-  "01 🇪🇸 SEVENTEEN — 세븐틴 정한, 日 야마다 료스케와 협업․․․12월 14일 ‘Afterglow’ 발매": {
-   "name": "01 🇪🇸 SEVENTEEN — 세븐틴 정한, 日 야마다 료스케와 협업․․․12월 14일 ‘Afterglow’ 발매",
+  "01 🇹🇭 KISS OF LIFE 'Greedy'": {
+   "name": "01 🇹🇭 KISS OF LIFE 'Greedy'",
+   "key": "1125_KISS-OF-LIFE_MV_Greedy@th",
+   "job": "1125_KISS-OF-LIFE_MV_Greedy",
+   "lang": "th",
+   "flag": "🇹🇭",
+   "title": "KISS OF LIFE 'Greedy'",
+   "account": "amberbeat.thailand",
+   "music": "KISS OF LIFE Greedy",
+   "audio_start": "0:38 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
+   "scheduled_at": "",
+   "caption": "KISS OF LIFE ปล่อย MV อย่างเป็นทางการสำหรับเพลง 'Greedy' เมื่อวันที่ 25 พ.ย. 2026\n\n———\n\nSource: KISS OF LIFE official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · ข่าว K-pop ทุกวัน พร้อมแหล่งที่มาทุกครั้ง\nติดตามได้ที่ @amberbeat.thailand\n\n#KPOP #KISSOFLIFE #ข่าวเคป๊อป #ติ่งเกาหลี",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1125_KISS-OF-LIFE_MV_Greedy-4fab541d6e9381fd/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1125_KISS-OF-LIFE_MV_Greedy-4fab541d6e9381fd/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1125_KISS-OF-LIFE_MV_Greedy-4fab541d6e9381fd/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1125_KISS-OF-LIFE_MV_Greedy-4fab541d6e9381fd/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1125_KISS-OF-LIFE_MV_Greedy-4fab541d6e9381fd/meta.json"
+  },
+  "02 🇪🇸 SEVENTEEN — 세븐틴 정한, 日 야마다 료스케와 협업․․․12월 14일 ‘Afterglow’ 발매": {
+   "name": "02 🇪🇸 SEVENTEEN — 세븐틴 정한, 日 야마다 료스케와 협업․․․12월 14일 ‘Afterglow’ 발매",
    "key": "1124_SEVENTEEN-JEONGHAN_comeback_4@es",
    "job": "1124_SEVENTEEN-JEONGHAN_comeback_4",
    "lang": "es",
@@ -310,8 +346,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1124_SEVENTEEN-JEONGHAN_comeback_4-3019d1a09003a2e6/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1124_SEVENTEEN-JEONGHAN_comeback_4-3019d1a09003a2e6/meta.json"
   },
-  "02 🇺🇸 SEVENTEEN — 세븐틴 정한, 日 야마다 료스케와 협업․․․12월 14일 ‘Afterglow’ 발매": {
-   "name": "02 🇺🇸 SEVENTEEN — 세븐틴 정한, 日 야마다 료스케와 협업․․․12월 14일 ‘Afterglow’ 발매",
+  "03 🇺🇸 SEVENTEEN — 세븐틴 정한, 日 야마다 료스케와 협업․․․12월 14일 ‘Afterglow’ 발매": {
+   "name": "03 🇺🇸 SEVENTEEN — 세븐틴 정한, 日 야마다 료스케와 협업․․․12월 14일 ‘Afterglow’ 발매",
    "key": "1124_SEVENTEEN-JEONGHAN_comeback_4@en",
    "job": "1124_SEVENTEEN-JEONGHAN_comeback_4",
    "lang": "en",
@@ -328,8 +364,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1124_SEVENTEEN-JEONGHAN_comeback_4-5e3e8ac7e0d958b6/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1124_SEVENTEEN-JEONGHAN_comeback_4-5e3e8ac7e0d958b6/meta.json"
   },
-  "03 🇯🇵 JENNIE — '그래미 2개 후보' 제니 '드라큘라', 빌보드 '핫 100' 3위 유지․․․26주째 톱1": {
-   "name": "03 🇯🇵 JENNIE — '그래미 2개 후보' 제니 '드라큘라', 빌보드 '핫 100' 3위 유지․․․26주째 톱1",
+  "04 🇯🇵 JENNIE — '그래미 2개 후보' 제니 '드라큘라', 빌보드 '핫 100' 3위 유지․․․26주째 톱1": {
+   "name": "04 🇯🇵 JENNIE — '그래미 2개 후보' 제니 '드라큘라', 빌보드 '핫 100' 3위 유지․․․26주째 톱1",
    "key": "1124_JENNIE_chart_드라큘라@ja",
    "job": "1124_JENNIE_chart_드라큘라",
    "lang": "ja",
@@ -346,8 +382,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1124_JENNIE_chart_-26b4f6dc1363ab70/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1124_JENNIE_chart_-26b4f6dc1363ab70/meta.json"
   },
-  "04 🇺🇸 JENNIE — '그래미 2개 후보' 제니 '드라큘라', 빌보드 '핫 100' 3위 유지․․․26주째 톱1": {
-   "name": "04 🇺🇸 JENNIE — '그래미 2개 후보' 제니 '드라큘라', 빌보드 '핫 100' 3위 유지․․․26주째 톱1",
+  "05 🇺🇸 JENNIE — '그래미 2개 후보' 제니 '드라큘라', 빌보드 '핫 100' 3위 유지․․․26주째 톱1": {
+   "name": "05 🇺🇸 JENNIE — '그래미 2개 후보' 제니 '드라큘라', 빌보드 '핫 100' 3위 유지․․․26주째 톱1",
    "key": "1124_JENNIE_chart_드라큘라@en",
    "job": "1124_JENNIE_chart_드라큘라",
    "lang": "en",
@@ -364,8 +400,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1124_JENNIE_chart_-2b137e78d623b283/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1124_JENNIE_chart_-2b137e78d623b283/meta.json"
   },
-  "05 🇪🇸 STRAY KIDS — 군백기 앞둔 스트레이 키즈, 새해 고척돔 입성(공식)": {
-   "name": "05 🇪🇸 STRAY KIDS — 군백기 앞둔 스트레이 키즈, 새해 고척돔 입성(공식)",
+  "06 🇪🇸 STRAY KIDS — 군백기 앞둔 스트레이 키즈, 새해 고척돔 입성(공식)": {
+   "name": "06 🇪🇸 STRAY KIDS — 군백기 앞둔 스트레이 키즈, 새해 고척돔 입성(공식)",
    "key": "1125_STRAY-KIDS_tour@es",
    "job": "1125_STRAY-KIDS_tour",
    "lang": "es",
@@ -382,8 +418,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1125_STRAY-KIDS_tour-7f6180aea9609e55/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1125_STRAY-KIDS_tour-7f6180aea9609e55/meta.json"
   },
-  "06 🇹🇭 STRAY KIDS — 군백기 앞둔 스트레이 키즈, 새해 고척돔 입성(공식)": {
-   "name": "06 🇹🇭 STRAY KIDS — 군백기 앞둔 스트레이 키즈, 새해 고척돔 입성(공식)",
+  "07 🇹🇭 STRAY KIDS — 군백기 앞둔 스트레이 키즈, 새해 고척돔 입성(공식)": {
+   "name": "07 🇹🇭 STRAY KIDS — 군백기 앞둔 스트레이 키즈, 새해 고척돔 입성(공식)",
    "key": "1125_STRAY-KIDS_tour@th",
    "job": "1125_STRAY-KIDS_tour",
    "lang": "th",
@@ -400,8 +436,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1125_STRAY-KIDS_tour-b489822b208e1466/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1125_STRAY-KIDS_tour-b489822b208e1466/meta.json"
   },
-  "07 🇮🇩 STRAY KIDS — 군백기 앞둔 스트레이 키즈, 새해 고척돔 입성(공식)": {
-   "name": "07 🇮🇩 STRAY KIDS — 군백기 앞둔 스트레이 키즈, 새해 고척돔 입성(공식)",
+  "08 🇮🇩 STRAY KIDS — 군백기 앞둔 스트레이 키즈, 새해 고척돔 입성(공식)": {
+   "name": "08 🇮🇩 STRAY KIDS — 군백기 앞둔 스트레이 키즈, 새해 고척돔 입성(공식)",
    "key": "1125_STRAY-KIDS_tour@id",
    "job": "1125_STRAY-KIDS_tour",
    "lang": "id",
@@ -418,8 +454,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1125_STRAY-KIDS_tour-070f3319e9049ebe/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1125_STRAY-KIDS_tour-070f3319e9049ebe/meta.json"
   },
-  "08 🇯🇵 STRAY KIDS — 군백기 앞둔 스트레이 키즈, 새해 고척돔 입성(공식)": {
-   "name": "08 🇯🇵 STRAY KIDS — 군백기 앞둔 스트레이 키즈, 새해 고척돔 입성(공식)",
+  "09 🇯🇵 STRAY KIDS — 군백기 앞둔 스트레이 키즈, 새해 고척돔 입성(공식)": {
+   "name": "09 🇯🇵 STRAY KIDS — 군백기 앞둔 스트레이 키즈, 새해 고척돔 입성(공식)",
    "key": "1125_STRAY-KIDS_tour@ja",
    "job": "1125_STRAY-KIDS_tour",
    "lang": "ja",
@@ -436,8 +472,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1125_STRAY-KIDS_tour-4e20b6da50b879be/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1125_STRAY-KIDS_tour-4e20b6da50b879be/meta.json"
   },
-  "09 🇯🇵 ROSÉ — 젠슨 황 AI 영상 확산․․․로제 ‘아파트’ 뮤직비디오에 합성": {
-   "name": "09 🇯🇵 ROSÉ — 젠슨 황 AI 영상 확산․․․로제 ‘아파트’ 뮤직비디오에 합성",
+  "10 🇯🇵 ROSÉ — 젠슨 황 AI 영상 확산․․․로제 ‘아파트’ 뮤직비디오에 합성": {
+   "name": "10 🇯🇵 ROSÉ — 젠슨 황 AI 영상 확산․․․로제 ‘아파트’ 뮤직비디오에 합성",
    "key": "1125_ROSE_release_아파트@ja",
    "job": "1125_ROSE_release_아파트",
    "lang": "ja",
@@ -454,8 +490,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1125_ROSE_release_-c4f7ad2ebf2546c4/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1125_ROSE_release_-c4f7ad2ebf2546c4/meta.json"
   },
-  "10 🇺🇸 TWICE — 트와이스 정연, 군병원 간호장교 된다․․․연기 도전 \"150% 만족\"": {
-   "name": "10 🇺🇸 TWICE — 트와이스 정연, 군병원 간호장교 된다․․․연기 도전 \"150% 만족\"",
+  "11 🇺🇸 TWICE — 트와이스 정연, 군병원 간호장교 된다․․․연기 도전 \"150% 만족\"": {
+   "name": "11 🇺🇸 TWICE — 트와이스 정연, 군병원 간호장교 된다․․․연기 도전 \"150% 만족\"",
    "key": "1124_TWICE-JEONGYEON_acting@en",
    "job": "1124_TWICE-JEONGYEON_acting",
    "lang": "en",
@@ -472,8 +508,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1124_TWICE-JEONGYEON_acting-04cb01d7453de5fe/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1124_TWICE-JEONGYEON_acting-04cb01d7453de5fe/meta.json"
   },
-  "11 🇮🇩 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다": {
-   "name": "11 🇮🇩 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
+  "12 🇮🇩 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다": {
+   "name": "12 🇮🇩 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
    "key": "1123_ATEEZ_chart_구매@id",
    "job": "1123_ATEEZ_chart_구매",
    "lang": "id",
@@ -490,8 +526,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1123_ATEEZ_chart_-a5d96804846b5925/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1123_ATEEZ_chart_-a5d96804846b5925/meta.json"
   },
-  "12 🇪🇸 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다": {
-   "name": "12 🇪🇸 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
+  "13 🇪🇸 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다": {
+   "name": "13 🇪🇸 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
    "key": "1123_ATEEZ_chart_구매@es",
    "job": "1123_ATEEZ_chart_구매",
    "lang": "es",
@@ -508,8 +544,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1123_ATEEZ_chart_-3e04b0773718b3c6/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1123_ATEEZ_chart_-3e04b0773718b3c6/meta.json"
   },
-  "13 🇺🇸 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다": {
-   "name": "13 🇺🇸 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
+  "14 🇺🇸 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다": {
+   "name": "14 🇺🇸 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
    "key": "1123_ATEEZ_chart_구매@en",
    "job": "1123_ATEEZ_chart_구매",
    "lang": "en",
@@ -526,8 +562,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1123_ATEEZ_chart_-a45eeb7e75d8f055/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1123_ATEEZ_chart_-a45eeb7e75d8f055/meta.json"
   },
-  "14 🇹🇭 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약": {
-   "name": "14 🇹🇭 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
+  "15 🇹🇭 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약": {
+   "name": "15 🇹🇭 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
    "key": "1122_ILLIT_award_2026-MAMA_r1@th",
    "job": "1122_ILLIT_award_2026-MAMA_r1",
    "lang": "th",
@@ -544,8 +580,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1122_ILLIT_award_2026-MAMA_r1-8b8fadb6bf1eab01/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1122_ILLIT_award_2026-MAMA_r1-8b8fadb6bf1eab01/meta.json"
   },
-  "15 🇯🇵 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약": {
-   "name": "15 🇯🇵 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
+  "16 🇯🇵 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약": {
+   "name": "16 🇯🇵 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
    "key": "1122_ILLIT_award_2026-MAMA_r1@ja",
    "job": "1122_ILLIT_award_2026-MAMA_r1",
    "lang": "ja",
@@ -562,8 +598,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1122_ILLIT_award_2026-MAMA_r1-9145351dc794b372/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1122_ILLIT_award_2026-MAMA_r1-9145351dc794b372/meta.json"
   },
-  "16 🇮🇩 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약": {
-   "name": "16 🇮🇩 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
+  "17 🇮🇩 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약": {
+   "name": "17 🇮🇩 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
    "key": "1122_ILLIT_award_2026-MAMA_r1@id",
    "job": "1122_ILLIT_award_2026-MAMA_r1",
    "lang": "id",
