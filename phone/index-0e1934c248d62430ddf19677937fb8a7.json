@@ -1,27 +1,9 @@
 {
  "updated_at": "2026-11-25T17:34:41+09:00",
- "count": 9,
+ "count": 8,
  "items": [
   {
-   "name": "01 🇯🇵 STRAY KIDS — ‘빌보드 9연속 1위’ 스트레이 키즈, 새해 첫 일정은 고척돔",
-   "key": "1125_STRAY-KIDS_chart@ja",
-   "job": "1125_STRAY-KIDS_chart",
-   "lang": "ja",
-   "flag": "🇯🇵",
-   "title": "STRAY KIDS — ‘빌보드 9연속 1위’ 스트레이 키즈, 새해 첫 일정은 고척돔",
-   "account": "amberbeat.japan",
-   "music": "STRAY KIDS GUILTY PLEASURE",
-   "audio_start": "2:43 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "",
-   "caption": "STRAY KIDSはアルバム「디스 앤드 댓 (This and That)」で、ビルボード200に9作連続で1位に初登場しました。\n\nこのアルバムは8月にリリースされました。STRAY KIDSは2026年1月1日から2日まで、ゴチョクスカイドームでワールドツアー『Run It Seoul Special』の幕を開けます。\n\nSTRAY KIDSはこれに先立ち、7月から8月にかけてソウルのKSPOドームで同ワールドツアーの公演を5回行い、全公演がソールドアウトとなりました。今回のゴチョクスカイドーム公演は、ソウル公演をより大きな会場へと拡大するものです。\n\nSTRAY KIDSは9月、中南米3地域で音楽フェスティバル「Stray City」のヘッドライナーを務めました。\n\n———\n\nSource: Sports Donga\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · 毎日のK-POPニュースを出典つきでお届けします。\nフォローはこちら @amberbeat.japan\n\n#KPOP #STRAYKIDS #スキズ #Kポップ #ビルボード",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1125_STRAY-KIDS_chart-4451c5b9fa5150e4/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1125_STRAY-KIDS_chart-4451c5b9fa5150e4/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1125_STRAY-KIDS_chart-4451c5b9fa5150e4/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1125_STRAY-KIDS_chart-4451c5b9fa5150e4/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1125_STRAY-KIDS_chart-4451c5b9fa5150e4/meta.json"
-  },
-  {
-   "name": "02 🇯🇵 ROSÉ — 젠슨 황 AI 영상 확산․․․로제 ‘아파트’ 뮤직비디오에 합성",
+   "name": "01 🇯🇵 ROSÉ — 젠슨 황 AI 영상 확산․․․로제 ‘아파트’ 뮤직비디오에 합성",
    "key": "1125_ROSE_release_아파트@ja",
    "job": "1125_ROSE_release_아파트",
    "lang": "ja",
@@ -39,7 +21,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1125_ROSE_release_-c4f7ad2ebf2546c4/meta.json"
   },
   {
-   "name": "03 🇺🇸 TWICE — 트와이스 정연, 군병원 간호장교 된다․․․연기 도전 \"150% 만족\"",
+   "name": "02 🇺🇸 TWICE — 트와이스 정연, 군병원 간호장교 된다․․․연기 도전 \"150% 만족\"",
    "key": "1124_TWICE-JEONGYEON_acting@en",
    "job": "1124_TWICE-JEONGYEON_acting",
    "lang": "en",
@@ -57,7 +39,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1124_TWICE-JEONGYEON_acting-04cb01d7453de5fe/meta.json"
   },
   {
-   "name": "04 🇮🇩 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
+   "name": "03 🇮🇩 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
    "key": "1123_ATEEZ_chart_구매@id",
    "job": "1123_ATEEZ_chart_구매",
    "lang": "id",
@@ -75,7 +57,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1123_ATEEZ_chart_-a5d96804846b5925/meta.json"
   },
   {
-   "name": "05 🇪🇸 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
+   "name": "04 🇪🇸 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
    "key": "1123_ATEEZ_chart_구매@es",
    "job": "1123_ATEEZ_chart_구매",
    "lang": "es",
@@ -93,7 +75,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1123_ATEEZ_chart_-3e04b0773718b3c6/meta.json"
   },
   {
-   "name": "06 🇺🇸 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
+   "name": "05 🇺🇸 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
    "key": "1123_ATEEZ_chart_구매@en",
    "job": "1123_ATEEZ_chart_구매",
    "lang": "en",
@@ -111,7 +93,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1123_ATEEZ_chart_-a45eeb7e75d8f055/meta.json"
   },
   {
-   "name": "07 🇹🇭 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
+   "name": "06 🇹🇭 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
    "key": "1122_ILLIT_award_2026-MAMA_r1@th",
    "job": "1122_ILLIT_award_2026-MAMA_r1",
    "lang": "th",
@@ -129,7 +111,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1122_ILLIT_award_2026-MAMA_r1-8b8fadb6bf1eab01/meta.json"
   },
   {
-   "name": "08 🇯🇵 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
+   "name": "07 🇯🇵 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
    "key": "1122_ILLIT_award_2026-MAMA_r1@ja",
    "job": "1122_ILLIT_award_2026-MAMA_r1",
    "lang": "ja",
@@ -147,7 +129,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1122_ILLIT_award_2026-MAMA_r1-9145351dc794b372/meta.json"
   },
   {
-   "name": "09 🇮🇩 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
+   "name": "08 🇮🇩 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
    "key": "1122_ILLIT_award_2026-MAMA_r1@id",
    "job": "1122_ILLIT_award_2026-MAMA_r1",
    "lang": "id",
@@ -166,26 +148,8 @@
   }
  ],
  "by_name": {
-  "01 🇯🇵 STRAY KIDS — ‘빌보드 9연속 1위’ 스트레이 키즈, 새해 첫 일정은 고척돔": {
-   "name": "01 🇯🇵 STRAY KIDS — ‘빌보드 9연속 1위’ 스트레이 키즈, 새해 첫 일정은 고척돔",
-   "key": "1125_STRAY-KIDS_chart@ja",
-   "job": "1125_STRAY-KIDS_chart",
-   "lang": "ja",
-   "flag": "🇯🇵",
-   "title": "STRAY KIDS — ‘빌보드 9연속 1위’ 스트레이 키즈, 새해 첫 일정은 고척돔",
-   "account": "amberbeat.japan",
-   "music": "STRAY KIDS GUILTY PLEASURE",
-   "audio_start": "2:43 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "",
-   "caption": "STRAY KIDSはアルバム「디스 앤드 댓 (This and That)」で、ビルボード200に9作連続で1位に初登場しました。\n\nこのアルバムは8月にリリースされました。STRAY KIDSは2026年1月1日から2日まで、ゴチョクスカイドームでワールドツアー『Run It Seoul Special』の幕を開けます。\n\nSTRAY KIDSはこれに先立ち、7月から8月にかけてソウルのKSPOドームで同ワールドツアーの公演を5回行い、全公演がソールドアウトとなりました。今回のゴチョクスカイドーム公演は、ソウル公演をより大きな会場へと拡大するものです。\n\nSTRAY KIDSは9月、中南米3地域で音楽フェスティバル「Stray City」のヘッドライナーを務めました。\n\n———\n\nSource: Sports Donga\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · 毎日のK-POPニュースを出典つきでお届けします。\nフォローはこちら @amberbeat.japan\n\n#KPOP #STRAYKIDS #スキズ #Kポップ #ビルボード",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1125_STRAY-KIDS_chart-4451c5b9fa5150e4/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1125_STRAY-KIDS_chart-4451c5b9fa5150e4/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1125_STRAY-KIDS_chart-4451c5b9fa5150e4/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1125_STRAY-KIDS_chart-4451c5b9fa5150e4/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1125_STRAY-KIDS_chart-4451c5b9fa5150e4/meta.json"
-  },
-  "02 🇯🇵 ROSÉ — 젠슨 황 AI 영상 확산․․․로제 ‘아파트’ 뮤직비디오에 합성": {
-   "name": "02 🇯🇵 ROSÉ — 젠슨 황 AI 영상 확산․․․로제 ‘아파트’ 뮤직비디오에 합성",
+  "01 🇯🇵 ROSÉ — 젠슨 황 AI 영상 확산․․․로제 ‘아파트’ 뮤직비디오에 합성": {
+   "name": "01 🇯🇵 ROSÉ — 젠슨 황 AI 영상 확산․․․로제 ‘아파트’ 뮤직비디오에 합성",
    "key": "1125_ROSE_release_아파트@ja",
    "job": "1125_ROSE_release_아파트",
    "lang": "ja",
@@ -202,8 +166,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1125_ROSE_release_-c4f7ad2ebf2546c4/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1125_ROSE_release_-c4f7ad2ebf2546c4/meta.json"
   },
-  "03 🇺🇸 TWICE — 트와이스 정연, 군병원 간호장교 된다․․․연기 도전 \"150% 만족\"": {
-   "name": "03 🇺🇸 TWICE — 트와이스 정연, 군병원 간호장교 된다․․․연기 도전 \"150% 만족\"",
+  "02 🇺🇸 TWICE — 트와이스 정연, 군병원 간호장교 된다․․․연기 도전 \"150% 만족\"": {
+   "name": "02 🇺🇸 TWICE — 트와이스 정연, 군병원 간호장교 된다․․․연기 도전 \"150% 만족\"",
    "key": "1124_TWICE-JEONGYEON_acting@en",
    "job": "1124_TWICE-JEONGYEON_acting",
    "lang": "en",
@@ -220,8 +184,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1124_TWICE-JEONGYEON_acting-04cb01d7453de5fe/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1124_TWICE-JEONGYEON_acting-04cb01d7453de5fe/meta.json"
   },
-  "04 🇮🇩 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다": {
-   "name": "04 🇮🇩 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
+  "03 🇮🇩 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다": {
+   "name": "03 🇮🇩 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
    "key": "1123_ATEEZ_chart_구매@id",
    "job": "1123_ATEEZ_chart_구매",
    "lang": "id",
@@ -238,8 +202,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1123_ATEEZ_chart_-a5d96804846b5925/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1123_ATEEZ_chart_-a5d96804846b5925/meta.json"
   },
-  "05 🇪🇸 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다": {
-   "name": "05 🇪🇸 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
+  "04 🇪🇸 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다": {
+   "name": "04 🇪🇸 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
    "key": "1123_ATEEZ_chart_구매@es",
    "job": "1123_ATEEZ_chart_구매",
    "lang": "es",
@@ -256,8 +220,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1123_ATEEZ_chart_-3e04b0773718b3c6/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1123_ATEEZ_chart_-3e04b0773718b3c6/meta.json"
   },
-  "06 🇺🇸 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다": {
-   "name": "06 🇺🇸 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
+  "05 🇺🇸 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다": {
+   "name": "05 🇺🇸 ATEEZ — [초점] 에이티즈 빌보드 1위, 성적의 98%는 ‘구매’에서 나왔다",
    "key": "1123_ATEEZ_chart_구매@en",
    "job": "1123_ATEEZ_chart_구매",
    "lang": "en",
@@ -274,8 +238,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1123_ATEEZ_chart_-a45eeb7e75d8f055/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1123_ATEEZ_chart_-a45eeb7e75d8f055/meta.json"
   },
-  "07 🇹🇭 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약": {
-   "name": "07 🇹🇭 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
+  "06 🇹🇭 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약": {
+   "name": "06 🇹🇭 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
    "key": "1122_ILLIT_award_2026-MAMA_r1@th",
    "job": "1122_ILLIT_award_2026-MAMA_r1",
    "lang": "th",
@@ -292,8 +256,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1122_ILLIT_award_2026-MAMA_r1-8b8fadb6bf1eab01/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1122_ILLIT_award_2026-MAMA_r1-8b8fadb6bf1eab01/meta.json"
   },
-  "08 🇯🇵 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약": {
-   "name": "08 🇯🇵 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
+  "07 🇯🇵 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약": {
+   "name": "07 🇯🇵 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
    "key": "1122_ILLIT_award_2026-MAMA_r1@ja",
    "job": "1122_ILLIT_award_2026-MAMA_r1",
    "lang": "ja",
@@ -310,8 +274,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1122_ILLIT_award_2026-MAMA_r1-9145351dc794b372/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1122_ILLIT_award_2026-MAMA_r1-9145351dc794b372/meta.json"
   },
-  "09 🇮🇩 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약": {
-   "name": "09 🇮🇩 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
+  "08 🇮🇩 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약": {
+   "name": "08 🇮🇩 ILLIT — 아일릿, ‘2026 MAMA’ 3관왕․․․눈부신 활약",
    "key": "1122_ILLIT_award_2026-MAMA_r1@id",
    "job": "1122_ILLIT_award_2026-MAMA_r1",
    "lang": "id",
