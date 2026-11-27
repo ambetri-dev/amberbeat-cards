@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-27T18:27:05+09:00",
- "count": 19,
+ "updated_at": "2026-11-27T18:32:56+09:00",
+ "count": 18,
  "items": [
   {
    "name": "01 🇺🇸 밈",
@@ -325,24 +325,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1124_SEVENTEEN-JEONGHAN_comeback_4-2b8ba64a075b4c49/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1124_SEVENTEEN-JEONGHAN_comeback_4-2b8ba64a075b4c49/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1124_SEVENTEEN-JEONGHAN_comeback_4-2b8ba64a075b4c49/meta.json"
-  },
-  {
-   "name": "19 🇵🇹 KISS OF LIFE 'Greedy'",
-   "key": "1125_KISS-OF-LIFE_MV_Greedy@pt",
-   "job": "1125_KISS-OF-LIFE_MV_Greedy",
-   "lang": "pt",
-   "flag": "🇵🇹",
-   "title": "KISS OF LIFE 'Greedy'",
-   "account": "amberbeat.portugal",
-   "music": "KISS OF LIFE Greedy",
-   "audio_start": "0:56 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "",
-   "caption": "O videoclipe oficial de 'Greedy', dos KISS OF LIFE, foi lançado a 25 de novembro de 2026.\n\n———\n\nSource: KISS OF LIFE official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Notícias de K-pop todos os dias, sempre com a fonte.\nSegue-nos em @amberbeat.portugal\n\n#KPOP #NoticiasKpop #KpopPortugal #KissOfLife",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1125_KISS-OF-LIFE_MV_Greedy-9a70202cf389f88f/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1125_KISS-OF-LIFE_MV_Greedy-9a70202cf389f88f/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1125_KISS-OF-LIFE_MV_Greedy-9a70202cf389f88f/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1125_KISS-OF-LIFE_MV_Greedy-9a70202cf389f88f/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1125_KISS-OF-LIFE_MV_Greedy-9a70202cf389f88f/meta.json"
   }
  ],
  "by_name": {
@@ -669,24 +651,6 @@
    "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1124_SEVENTEEN-JEONGHAN_comeback_4-2b8ba64a075b4c49/caption.txt",
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1124_SEVENTEEN-JEONGHAN_comeback_4-2b8ba64a075b4c49/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1124_SEVENTEEN-JEONGHAN_comeback_4-2b8ba64a075b4c49/meta.json"
-  },
-  "19 🇵🇹 KISS OF LIFE 'Greedy'": {
-   "name": "19 🇵🇹 KISS OF LIFE 'Greedy'",
-   "key": "1125_KISS-OF-LIFE_MV_Greedy@pt",
-   "job": "1125_KISS-OF-LIFE_MV_Greedy",
-   "lang": "pt",
-   "flag": "🇵🇹",
-   "title": "KISS OF LIFE 'Greedy'",
-   "account": "amberbeat.portugal",
-   "music": "KISS OF LIFE Greedy",
-   "audio_start": "0:56 부근 (MV 시각 · 음원 인트로가 다르면 앞뒤로 맞추기)",
-   "scheduled_at": "",
-   "caption": "O videoclipe oficial de 'Greedy', dos KISS OF LIFE, foi lançado a 25 de novembro de 2026.\n\n———\n\nSource: KISS OF LIFE official YouTube\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · Notícias de K-pop todos os dias, sempre com a fonte.\nSegue-nos em @amberbeat.portugal\n\n#KPOP #NoticiasKpop #KpopPortugal #KissOfLife",
-   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1125_KISS-OF-LIFE_MV_Greedy-9a70202cf389f88f/reel.mp4",
-   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1125_KISS-OF-LIFE_MV_Greedy-9a70202cf389f88f/cover.jpg",
-   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1125_KISS-OF-LIFE_MV_Greedy-9a70202cf389f88f/caption.txt",
-   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1125_KISS-OF-LIFE_MV_Greedy-9a70202cf389f88f/comment.txt",
-   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1125_KISS-OF-LIFE_MV_Greedy-9a70202cf389f88f/meta.json"
   }
  }
 }
