@@ -1,9 +1,27 @@
 {
- "updated_at": "2026-11-28T15:12:26+09:00",
- "count": 7,
+ "updated_at": "2026-11-28T19:05:22+09:00",
+ "count": 8,
  "items": [
   {
-   "name": "01 🇹🇭 ILLIT — [공식] ‘활동 중단’ 아일릿 모카, 드디어 돌아온다․․․“멤버들과 함께할 것”",
+   "name": "01 🇺🇸 밈",
+   "key": "1109_밈_youth-drama-leads-m-en@en",
+   "job": "1109_밈_youth-drama-leads-m-en",
+   "lang": "en",
+   "flag": "🇺🇸",
+   "title": "밈",
+   "account": "amberbeat.official",
+   "music": "밈 5 Idols Who Look Like Youth Drama Leads",
+   "audio_start": "- (음악 고르지 않기 · 영상 소리 그대로 올리기)",
+   "scheduled_at": "",
+   "caption": "Who's your drama lead? 🎬\n\n1. ROWOON (SF9)\n2. SUNGCHAN (RIIZE)\n3. TAEHYUN (TXT)\n4. SHINYU (TWS)\n5. CHA EUNWOO (ASTRO)\n\nTag a friend who would watch this drama 👇\n\n———\n\nClips: official music show fancams\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#YouthDrama #SF9 #RIIZE #TXT #TWS",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_youth-drama-leads-m-en-04ff7b7079348426/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_youth-drama-leads-m-en-04ff7b7079348426/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_youth-drama-leads-m-en-04ff7b7079348426/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_youth-drama-leads-m-en-04ff7b7079348426/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_youth-drama-leads-m-en-04ff7b7079348426/meta.json"
+  },
+  {
+   "name": "02 🇹🇭 ILLIT — [공식] ‘활동 중단’ 아일릿 모카, 드디어 돌아온다․․․“멤버들과 함께할 것”",
    "key": "1127_ILLIT-Moka_comeback@th",
    "job": "1127_ILLIT-Moka_comeback",
    "lang": "th",
@@ -21,7 +39,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1127_ILLIT-Moka_comeback-f4ce087361ce47ef/meta.json"
   },
   {
-   "name": "02 🇵🇹 ILLIT — [공식] ‘활동 중단’ 아일릿 모카, 드디어 돌아온다․․․“멤버들과 함께할 것”",
+   "name": "03 🇵🇹 ILLIT — [공식] ‘활동 중단’ 아일릿 모카, 드디어 돌아온다․․․“멤버들과 함께할 것”",
    "key": "1127_ILLIT-Moka_comeback@pt",
    "job": "1127_ILLIT-Moka_comeback",
    "lang": "pt",
@@ -39,7 +57,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1127_ILLIT-Moka_comeback-3eea1780c34a747f/meta.json"
   },
   {
-   "name": "03 🇮🇩 ILLIT — [공식] ‘활동 중단’ 아일릿 모카, 드디어 돌아온다․․․“멤버들과 함께할 것”",
+   "name": "04 🇮🇩 ILLIT — [공식] ‘활동 중단’ 아일릿 모카, 드디어 돌아온다․․․“멤버들과 함께할 것”",
    "key": "1127_ILLIT-Moka_comeback@id",
    "job": "1127_ILLIT-Moka_comeback",
    "lang": "id",
@@ -57,7 +75,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1127_ILLIT-Moka_comeback-1c06948c2147fae0/meta.json"
   },
   {
-   "name": "04 🇪🇸 ILLIT — [공식] ‘활동 중단’ 아일릿 모카, 드디어 돌아온다․․․“멤버들과 함께할 것”",
+   "name": "05 🇪🇸 ILLIT — [공식] ‘활동 중단’ 아일릿 모카, 드디어 돌아온다․․․“멤버들과 함께할 것”",
    "key": "1127_ILLIT-Moka_comeback@es",
    "job": "1127_ILLIT-Moka_comeback",
    "lang": "es",
@@ -75,7 +93,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1127_ILLIT-Moka_comeback-41afe5b1741624ed/meta.json"
   },
   {
-   "name": "05 🇯🇵 ILLIT — [공식] ‘활동 중단’ 아일릿 모카, 드디어 돌아온다․․․“멤버들과 함께할 것”",
+   "name": "06 🇯🇵 ILLIT — [공식] ‘활동 중단’ 아일릿 모카, 드디어 돌아온다․․․“멤버들과 함께할 것”",
    "key": "1127_ILLIT-Moka_comeback@ja",
    "job": "1127_ILLIT-Moka_comeback",
    "lang": "ja",
@@ -93,7 +111,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1127_ILLIT-Moka_comeback-3163406182736c66/meta.json"
   },
   {
-   "name": "06 🇺🇸 ILLIT — [공식] ‘활동 중단’ 아일릿 모카, 드디어 돌아온다․․․“멤버들과 함께할 것”",
+   "name": "07 🇺🇸 ILLIT — [공식] ‘활동 중단’ 아일릿 모카, 드디어 돌아온다․․․“멤버들과 함께할 것”",
    "key": "1127_ILLIT-Moka_comeback@en",
    "job": "1127_ILLIT-Moka_comeback",
    "lang": "en",
@@ -111,7 +129,7 @@
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1127_ILLIT-Moka_comeback-a77616ed976dc9d3/meta.json"
   },
   {
-   "name": "07 🇺🇸 밈",
+   "name": "08 🇺🇸 밈",
    "key": "1109_밈_glasses-looks-f-en@en",
    "job": "1109_밈_glasses-looks-f-en",
    "lang": "en",
@@ -130,8 +148,26 @@
   }
  ],
  "by_name": {
-  "01 🇹🇭 ILLIT — [공식] ‘활동 중단’ 아일릿 모카, 드디어 돌아온다․․․“멤버들과 함께할 것”": {
-   "name": "01 🇹🇭 ILLIT — [공식] ‘활동 중단’ 아일릿 모카, 드디어 돌아온다․․․“멤버들과 함께할 것”",
+  "01 🇺🇸 밈": {
+   "name": "01 🇺🇸 밈",
+   "key": "1109_밈_youth-drama-leads-m-en@en",
+   "job": "1109_밈_youth-drama-leads-m-en",
+   "lang": "en",
+   "flag": "🇺🇸",
+   "title": "밈",
+   "account": "amberbeat.official",
+   "music": "밈 5 Idols Who Look Like Youth Drama Leads",
+   "audio_start": "- (음악 고르지 않기 · 영상 소리 그대로 올리기)",
+   "scheduled_at": "",
+   "caption": "Who's your drama lead? 🎬\n\n1. ROWOON (SF9)\n2. SUNGCHAN (RIIZE)\n3. TAEHYUN (TXT)\n4. SHINYU (TWS)\n5. CHA EUNWOO (ASTRO)\n\nTag a friend who would watch this drama 👇\n\n———\n\nClips: official music show fancams\n\n———\n\n𝗔𝗺𝗯𝗲𝗿𝗕𝗲𝗮𝘁 · K-pop news every day, always with the source.\nFollow @amberbeat.official\n\n#YouthDrama #SF9 #RIIZE #TXT #TWS",
+   "reel_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_youth-drama-leads-m-en-04ff7b7079348426/reel.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_youth-drama-leads-m-en-04ff7b7079348426/cover.jpg",
+   "caption_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_youth-drama-leads-m-en-04ff7b7079348426/caption.txt",
+   "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_youth-drama-leads-m-en-04ff7b7079348426/comment.txt",
+   "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1109_-_youth-drama-leads-m-en-04ff7b7079348426/meta.json"
+  },
+  "02 🇹🇭 ILLIT — [공식] ‘활동 중단’ 아일릿 모카, 드디어 돌아온다․․․“멤버들과 함께할 것”": {
+   "name": "02 🇹🇭 ILLIT — [공식] ‘활동 중단’ 아일릿 모카, 드디어 돌아온다․․․“멤버들과 함께할 것”",
    "key": "1127_ILLIT-Moka_comeback@th",
    "job": "1127_ILLIT-Moka_comeback",
    "lang": "th",
@@ -148,8 +184,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1127_ILLIT-Moka_comeback-f4ce087361ce47ef/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/th/1127_ILLIT-Moka_comeback-f4ce087361ce47ef/meta.json"
   },
-  "02 🇵🇹 ILLIT — [공식] ‘활동 중단’ 아일릿 모카, 드디어 돌아온다․․․“멤버들과 함께할 것”": {
-   "name": "02 🇵🇹 ILLIT — [공식] ‘활동 중단’ 아일릿 모카, 드디어 돌아온다․․․“멤버들과 함께할 것”",
+  "03 🇵🇹 ILLIT — [공식] ‘활동 중단’ 아일릿 모카, 드디어 돌아온다․․․“멤버들과 함께할 것”": {
+   "name": "03 🇵🇹 ILLIT — [공식] ‘활동 중단’ 아일릿 모카, 드디어 돌아온다․․․“멤버들과 함께할 것”",
    "key": "1127_ILLIT-Moka_comeback@pt",
    "job": "1127_ILLIT-Moka_comeback",
    "lang": "pt",
@@ -166,8 +202,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1127_ILLIT-Moka_comeback-3eea1780c34a747f/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/pt/1127_ILLIT-Moka_comeback-3eea1780c34a747f/meta.json"
   },
-  "03 🇮🇩 ILLIT — [공식] ‘활동 중단’ 아일릿 모카, 드디어 돌아온다․․․“멤버들과 함께할 것”": {
-   "name": "03 🇮🇩 ILLIT — [공식] ‘활동 중단’ 아일릿 모카, 드디어 돌아온다․․․“멤버들과 함께할 것”",
+  "04 🇮🇩 ILLIT — [공식] ‘활동 중단’ 아일릿 모카, 드디어 돌아온다․․․“멤버들과 함께할 것”": {
+   "name": "04 🇮🇩 ILLIT — [공식] ‘활동 중단’ 아일릿 모카, 드디어 돌아온다․․․“멤버들과 함께할 것”",
    "key": "1127_ILLIT-Moka_comeback@id",
    "job": "1127_ILLIT-Moka_comeback",
    "lang": "id",
@@ -184,8 +220,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1127_ILLIT-Moka_comeback-1c06948c2147fae0/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/id/1127_ILLIT-Moka_comeback-1c06948c2147fae0/meta.json"
   },
-  "04 🇪🇸 ILLIT — [공식] ‘활동 중단’ 아일릿 모카, 드디어 돌아온다․․․“멤버들과 함께할 것”": {
-   "name": "04 🇪🇸 ILLIT — [공식] ‘활동 중단’ 아일릿 모카, 드디어 돌아온다․․․“멤버들과 함께할 것”",
+  "05 🇪🇸 ILLIT — [공식] ‘활동 중단’ 아일릿 모카, 드디어 돌아온다․․․“멤버들과 함께할 것”": {
+   "name": "05 🇪🇸 ILLIT — [공식] ‘활동 중단’ 아일릿 모카, 드디어 돌아온다․․․“멤버들과 함께할 것”",
    "key": "1127_ILLIT-Moka_comeback@es",
    "job": "1127_ILLIT-Moka_comeback",
    "lang": "es",
@@ -202,8 +238,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1127_ILLIT-Moka_comeback-41afe5b1741624ed/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/es/1127_ILLIT-Moka_comeback-41afe5b1741624ed/meta.json"
   },
-  "05 🇯🇵 ILLIT — [공식] ‘활동 중단’ 아일릿 모카, 드디어 돌아온다․․․“멤버들과 함께할 것”": {
-   "name": "05 🇯🇵 ILLIT — [공식] ‘활동 중단’ 아일릿 모카, 드디어 돌아온다․․․“멤버들과 함께할 것”",
+  "06 🇯🇵 ILLIT — [공식] ‘활동 중단’ 아일릿 모카, 드디어 돌아온다․․․“멤버들과 함께할 것”": {
+   "name": "06 🇯🇵 ILLIT — [공식] ‘활동 중단’ 아일릿 모카, 드디어 돌아온다․․․“멤버들과 함께할 것”",
    "key": "1127_ILLIT-Moka_comeback@ja",
    "job": "1127_ILLIT-Moka_comeback",
    "lang": "ja",
@@ -220,8 +256,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1127_ILLIT-Moka_comeback-3163406182736c66/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/ja/1127_ILLIT-Moka_comeback-3163406182736c66/meta.json"
   },
-  "06 🇺🇸 ILLIT — [공식] ‘활동 중단’ 아일릿 모카, 드디어 돌아온다․․․“멤버들과 함께할 것”": {
-   "name": "06 🇺🇸 ILLIT — [공식] ‘활동 중단’ 아일릿 모카, 드디어 돌아온다․․․“멤버들과 함께할 것”",
+  "07 🇺🇸 ILLIT — [공식] ‘활동 중단’ 아일릿 모카, 드디어 돌아온다․․․“멤버들과 함께할 것”": {
+   "name": "07 🇺🇸 ILLIT — [공식] ‘활동 중단’ 아일릿 모카, 드디어 돌아온다․․․“멤버들과 함께할 것”",
    "key": "1127_ILLIT-Moka_comeback@en",
    "job": "1127_ILLIT-Moka_comeback",
    "lang": "en",
@@ -238,8 +274,8 @@
    "comment_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1127_ILLIT-Moka_comeback-a77616ed976dc9d3/comment.txt",
    "meta_url": "https://raw.githubusercontent.com/ambetri-dev/amberbeat-cards/main/phone/en/1127_ILLIT-Moka_comeback-a77616ed976dc9d3/meta.json"
   },
-  "07 🇺🇸 밈": {
-   "name": "07 🇺🇸 밈",
+  "08 🇺🇸 밈": {
+   "name": "08 🇺🇸 밈",
    "key": "1109_밈_glasses-looks-f-en@en",
    "job": "1109_밈_glasses-looks-f-en",
    "lang": "en",
